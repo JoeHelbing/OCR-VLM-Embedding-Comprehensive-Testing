@@ -1,0 +1,111 @@
+﻿;Texte;Catégorie;Sections
+0;Melvil;Contenu;Informations Personnelles
+1;Delahaye;Contenu;Informations Personnelles
+2;10 Route de Calais,;Contenu;Informations Personnelles
+3;Saint Martin Boulogne 62280;Contenu;Informations Personnelles
+4;;Contenu;Informations Personnelles
+5;a;Contenu;Informations Personnelles
+6;Q  07.62.60.48.76;Section;Informations Personnelles
+7;;Contenu;Informations Personnelles
+8;melvildelahaye@gmail.com;Contenu;Informations Personnelles
+9;;Contenu;Informations Personnelles
+10;=) Permis B + vehicule;Contenu;Informations Personnelles
+11;;Contenu;Informations Personnelles
+12;Langues;Section;Langues
+13;;Contenu;Langues
+14;. Anglais avance;Contenu;Langues
+15;niveau C1,;Contenu;Langues
+16;preparation a l''lIELTS;Contenu;Langues
+17;;Contenu;Langues
+18;<< Allemand avance;Contenu;Langues
+19;niveau C1, preparation a la;Contenu;Langues
+20;certification du Goethe-Institut;Contenu;Langues
+21;;Contenu;Langues
+22;Frangais (langue maternelle);Contenu;Langues
+23;;Contenu;Langues
+24;Informatique;Section;Informatique
+25;;Contenu;Informatique
+26;Bureautique : Latex;Contenu;Informatique
+27;<< Logiciels : SolidWorks, MATLAB;Contenu;Informatique
+28;;Contenu;Informatique
+29;* Programmation : Python, R,;Contenu;Informatique
+30;bases en SQL;Contenu;Informatique
+31;;Contenu;Informatique
+32;Centres d'interets;Section;Centres d'interets
+33;;Contenu;Centres d'interets
+34;Tennis : classe 15/1 (2019);Contenu;Centres d'interets
+35;;Contenu;Centres d'interets
+36;Course a pied : pratique;Contenu;Centres d'interets
+37;;Contenu;Centres d'interets
+38;reguliere, club des Mines;Contenu;Centres d'interets
+39;;Contenu;Centres d'interets
+40;Echecs : 1600 elo;Contenu;Centres d'interets
+41;;Contenu;Centres d'interets
+44;Etudiant - Ingenieur civil des Mines;Contenu;Informations Personnelles
+45;;Contenu;Informations Personnelles
+46;'Je suis d la recherche d'un stage de 3 mois en tant qu'assistant;Contenu;Informations Personnelles
+47;"ingenieur specialise dans |'energie d partir du 10 juin 2024.""";Contenu;Informations Personnelles
+48;;Contenu;Informations Personnelles
+49;Formation;Section;Formation
+50;;Contenu;Formation
+51;2022- : Formation d'Ingenieur Civil des Mines de Nancy;Contenu;Formation
+52;Departement Energie : mecanique des fluides, genie;Contenu;Formation
+53;electrique, turbomachines hydrauliques et eoliennes;Contenu;Formation
+54;2020-2022 : Classe Preparatoire aux Grandes Ecoles;Contenu;Formation
+55;Lycee du Parc (Lyon, Rhene), filigres PCS! & PSI.;Contenu;Formation
+56;Developpement personnel, importance de I'entraide;Contenu;Formation
+57;;Contenu;Formation
+58;2017-2020 : Baccalaureat Scientifique;Contenu;Formation
+59;Lycee Nazareth-Haffreingue (Boulogne sur mer, Pas-de-Calais);Contenu;Formation
+60;;Contenu;Formation
+61;Experiences;Section;Experiences
+62;;Contenu;Experiences
+63;Fevrier 2023 : Stagiaire en Production de Gaz Industriels;Contenu;Experiences
+64;;Contenu;Experiences
+65;Air Liquide Krefeld-Gellep, Allemagne;Contenu;Experiences
+66;;Contenu;Experiences
+67;Remplissage, transport et production de bouteilles de gaz;Contenu;Experiences
+68;Reflexion sur le rdle d'un operateur dans une FTN;Contenu;Experiences
+69;;Contenu;Experiences
+70;2022 - 2023 : Speaker de I'association TedXMinesNancy;Contenu;Experiences
+71;Ecole des Mines de Nancy, Nancy (54);Contenu;Experiences
+72;;Contenu;Experiences
+73;Organisation de la conference du TedXMinesNancy;Contenu;Experiences
+74;Responsable du recrutement des conferenciers;Contenu;Experiences
+75;;Contenu;Experiences
+76;2017 - 2020: Entraineur de tennis;Contenu;Experiences
+77;;Contenu;Experiences
+78;Tennis Club de Boulogne sur mer, Pas de Calais (62);Contenu;Experiences
+79;;Contenu;Experiences
+80;Gestion de groupes de joueurs ages de 4 a 14 ans;Contenu;Experiences
+81;;Contenu;Experiences
+82;Competences : pedagogie, patience, organisation et evaluation;Contenu;Experiences
+83;2009 - 2019 : Sejours reguliers a I'etranger;Contenu;Experiences
+84;;Contenu;Experiences
+85;Essen, Rhenanie du Nord, Allemagne;Contenu;Experiences
+86;;Contenu;Experiences
+87;Gestion de la communication interculturelle, bilinguisme,;Contenu;Experiences
+88;adaptabilite et comprehension des cultures etrangeres;Contenu;Experiences
+89;;Contenu;Experiences
+90;Juin 2018 : Stage en finance;Contenu;Experiences
+91;BlueCrest Capital Management, Geneve, Suisse;Contenu;Experiences
+92;;Contenu;Experiences
+93;Decouverte d'un fonds d'investissements de renommee mondiale;Contenu;Experiences
+94;Collaboration multiculturelle et culture d'entreprise internationale;Contenu;Experiences
+95;;Contenu;Experiences
+96;Projets;Section;Projets
+97;;Contenu;Projets
+98;2023-2024: Projet industrie;Contenu;Projets
+99;;Contenu;Projets
+100;Fives Cryo, Golbey (88);Contenu;Projets
+101;;Contenu;Projets
+102;Travail de recherche et developpement sur le processus de;Contenu;Projets
+103;brasage isotherme sous vide d'alliages d'aluminium pour la;Contenu;Projets
+104;realisation d'echangeurs thermiques (12h/semaine);Contenu;Projets
+105;;Contenu;Projets
+106;2022-2023: Developpement d'une application mobile;Contenu;Projets
+107;Ecole des Mines de Nancy, Nancy (54);Contenu;Projets
+108;;Contenu;Projets
+109;Programmation sur le framework React Nativ;Contenu;Projets
+110;;Contenu;Projets
+111;Travail en equipe d'entreprenariat, mise en valeur du projet;Contenu;Projets

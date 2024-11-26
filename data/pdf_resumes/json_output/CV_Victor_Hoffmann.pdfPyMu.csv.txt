@@ -1,0 +1,93 @@
+Victor Hoffmann
+ +33 6 35 78 90 00
+Master's degree in Data Science
+# victor.hoffmann@polytechnique.edu
+Institut Polytechnique de Paris
+SS VictorHoffmann1 (GitHub)
+Ecole des Mines de Nancy
+i victor-hoffmann-ai (LinkedIn)
+Seeking for a PhD in Computer Vision
+Experience
+* Computer Vision Research Intern
+April 2024 - present
+SONY EUROPE
+Schlieren, Switzerland
+Basic algorithm research with event-based vision sensor technology.
+Development and implementation of computer vision and sensor fusion algorithms on real-time platforms.
+Implementation of proof-of-concept demonstrators with novel cameras and devices from robotics area.
+Support establishment of a R&D infrastructure which facilitates teamwork for research & development
+* Deep Learning Research Intern
+June 2023 - August 2023
+LORIA (Computer Science Research Laboratory)
+Nancy, France
+Led the first AI-based extraction of mechanical curves from fiber composites using only microstructure images,
+making the extraction 500 times faster while maintaining a 1% relative error.
+Created a multi-task computer vision model, combining Equivariant CNNs & LSTMs.
+Collaborated with research teams at LEMTA (Physics Research Laboratory).
+* Machine Learning Research Intern
+October 2022 - June 2023
+INRIA (Computer Science & Mathematics Research Laboratory)
+Nancy, France
+Addressed fragmentation challenges. Lowered the prediction error by 63% and improved robustness by 70%.
+Gathered and preprocessed data (Outlier Management, Gaussian Transformation, Feature Selection, etc.) then
+stacked fine-tuned regressors (MLP, XGBoost, SVR, ElasticNet). Estimated uncertainty of Neural Network pre-
+dictions using Bayesian methods (Monte Carlo Dropout).
+Publications
+* Deep Learning Approaches for DMA of Viscoelastic Fiber Composites, ArXiV PrePrint
+October 2023
+* Machine Learning Techniques for Fragmentation Problems, HAL PrePrint (French)
+June 2023
+Education
+* Master Year 2 Data Science
+2023-present
+Institut Polytechnique de Paris (Ecole Polytechnique, Telecom Paris, ENSAE & ENSTA)
+Palaiseau, France
+Relevant Coursework: Computer Vision (CNNs, ViT, Transfer Learning, Self-Supervised Learning), NLP (Trans-
+formers, Pre-Training & Fine-Tuning LLMs), Generative AI (VAEs, GANs, Diffusion Models, Disentanglement),
+Reinforcement Learning (Q-Learning, DQN, Rainbow), Graphs, Online Learning, Optimization, Causal Inference.
+* MEng / Diplome d'Ingenieur
+2021-present
+Ecole des Mines de Nancy, Universite de Lorraine
+Nancy, France
+Relevant Coursework: Statistics, Machine Learning, Algorithms & Data Structures, Image Processing & Analysis,
+Monte Carlo Methods, Time Series, Markov Chains, Finite Element Methods, PDEs.
+* Classes Preparatoires aux Grandes Ecoles (CPGE)
+2019-2021
+Lycee Kleber, Universite de Strasbourg
+Strasbourg, France
+Undergraduated studies to prepare for competitive nationwide entry exams to french engineering schools.
+Relevant Coursework: Linear Algebra, Calculus, Probabilities, Functional Analysis, Signal Processing.
+Technical Skills
+* Programming Languages: Python, C/C+
++, SQL, R, MATLAB, VBA
+* Python Libraries: PyTorch, TensorFlow, NumPy, Scikit-Learn, OpenCV, Pandas, SciPy, Matplotlib, River
+Languages
+French: Mother Tongue | English: C1 (IELTS 8/9) | German: C1 (Goethe Zertifikat 16/20)
+Projects / Challenges
+* Personal Projects
+Real-Time Depth Estimation with Monocular Camera. Applied MiDaS to the depth estimation of a room.
+Vehicle Recognition for Smart Cities. Employed YOLOv8 and ByteTrack models to enhance traffic management.
+Real-Time Segmentation for Biomedical Imaging. Applied FastSAM model to Real-Time MRI Brain Scans.
+* Data Challenges & AI Hackathons
+Hi!ckathon 4th edition, Hi! Paris: Won Capgemini's Best Scientific Approach Award.
+Real Estate Price Prediction (Multi-Modal: Images + Tables), ENS Data Challenge, 2022, Rank: 9th/172.
+Return Forecasting of Cryptocurrency Clusters, ENS Data Challenge, 2022, Rank: 11th/51.
+Positions of Responsibility
+* President, Music Club, Ecole des Mines de Nancy
+2022-2023
+Created a music room on school site.
+Supervized over 80 students, coordinated and facilitated the identification of playing partners, rehearsal schedules.
+Organized 10 concerts among different locations.
+* Treasurer, Enactus: Carton Solid'air Project
+2021-2022
+Improved the project's profitability by 16% by reducing costs and production time.
+Entrepreneurial project focused on the collection, design, and sale of cardboard items with a strong commitment
+to sustainability and solidarity.
+Hobbies and Interests
+* Music: Leading a jazz quartet. Advanced piano improvisation. Played 19 concerts across France.
+* Sports: 5 years of bodybuilding, 7 years of running, 5 years of golf (green card).
+Additional Certifications
+* Online Course in Project Management, Ecole Centrale de Lille, France.
+2021
+* Introductory Aeronautics Certificate, Lycee Kleber, Strasbourg.
+2017

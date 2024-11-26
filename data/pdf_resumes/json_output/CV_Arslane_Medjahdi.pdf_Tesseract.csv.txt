@@ -1,0 +1,98 @@
+PROFIL PERSONNEL
+Jeune data scientist de 23 ans
+decouvrant le monde. Je suis curieux,
+autonome et desireux de me rendre
+utile.
+nan
+CONTACTEZ-MOI
+nan
+9 31000, Toulouse
+nan
+Ga arslane.medjahdi@gmail.com
+fin) @arslane medjahdi
+nan
+& 0652537192
+nan
+LANGUES
+e Anglais B2
+e Allemand A2
+e Espagnol A2
+nan
+COMPETENCES
+nan
+SOFT SKILLS:
+Travail d'equipe
+Prise de decision
+Proactivite
+Ecoute active
+Esprit critique
+nan
+HARD SKILLS :
+nan
+Machine Learning
+nan
+Deep Learning
+nan
+Python (Jupyter Notebook), R
+SQL (MySQL)
+nan
+LateX, Powerpoint, QGIS
+nan
+CENTRE D'INTERET ET LOISIR
+Volley Ball
+nan
+Lecture
+Wwoofing
+nan
+ARSLANE MEDJAHDI
+FORMATION
+Master en Mathematique et Ingenierie pour la Science des
+nan
+Donnees
+nan
+Faculte des Sciences et Technologies | 2021 - 2023 | Nancy
+nan
+Master en partenariat avec l'Ecole des Mines et Telecom Nancy
+Fouille de donnees et Extraction de connaissance, Visualisation
+de donnees, Intelligence Artificielle, Apprentissage supervise.
+nan
+L3 Mathematiques et Applications
+Faculte des Sciences et Technologies | 2020 - 2021 | Nancy
+Algebre lineaire appliquee, Statistiques et Probabilites, Analyse.
+nan
+CPU Mathematiques Physique et Informatique
+nan
+Faculte des Sciences et Technologies | 2018 - 2020 | Nancy
+nan
+Licence de mathematique renforcee, complement en physique et
+en informatique.
+EXPERIENCE PROFESSIONNELLE ET STAGE
+Avril 2023 a Septembre 2023
+Stage | CLS Toulouse
+nan
+e Recherche et Developpement d'un CNN hierarchique pour la
+segmentation semantique des sols
+nan
+C/ Implementation de Vision Transformers a l'aide de la librairie
+HuggingFace
+nan
+mars-21
+nan
+Stage | Laboratoire GREEN
+nan
+e Analyse de donnees experimentales lors d'etudes de
+materiaux ferromagnetiques et presentation des resultats
+PROJETS D'ETUDE
+Projet de M2: La fouille de donnees au service du
+Developpement Durable
+e Etude d'une base de donnee regroupant les arbres de
+Grenoble
+e Prediction de la presence de defaut de chaque arbre, ainsi
+que sa localisation
+C/ Visualisation de l'etat general du parc vegetal de Grenoble
+EXPERIENCE ANNEXE
+Benevolat Linkee (Janvier 2023)
+e Preparation et distribution de paniers repas pour les
+etudiants en situation de precarite alimentaire
+nan
+https://arslane18.github.io/arslanemedjahdi.github.io/

@@ -1,0 +1,104 @@
+﻿;Texte;Catégorie;Sections
+0;HOUDA LAHRACHE;Section;Informations Personnelles
+1;A la recheche d'un stage PFE Debut Fevrier;Contenu;Informations Personnelles
+2;[ houudalahrch20@gmail.com;Contenu;Informations Personnelles
+3;[ houda.lahrache@ump.ac.ma;Contenu;Informations Personnelles
+4;O +212 6 00 58 79 29;Contenu;Informations Personnelles
+5; 1/2  Maroc, Oujda;Contenu;Informations Personnelles
+6;- linkedin.com/in/houda-lahrache-9a6550246;Contenu;Informations Personnelles
+7; github.com/Houdalahrache;Contenu;Informations Personnelles
+8;REALISATIONS;Section;REALISATIONS
+9;3;Contenu;REALISATIONS
+10;Top Speaker | Club Altruisme ENSAO;Contenu;REALISATIONS
+11;"2eme place a la competition ""Top";Contenu;REALISATIONS
+12;"Speaker""";Contenu;REALISATIONS
+13;Public Speaking;Contenu;REALISATIONS
+14;g;Contenu;REALISATIONS
+15;Vice Presidente du Club Reporters;Contenu;REALISATIONS
+16;Leadership;Contenu;REALISATIONS
+17;Esprit d'equipe;Contenu;REALISATIONS
+18;;Contenu;REALISATIONS
+19;Animatrice de plusieurs activites;Contenu;REALISATIONS
+20;* Ateliers lors de la 9eme et 10eme edi-;Contenu;REALISATIONS
+21;tion du Festival des Sciences;Contenu;REALISATIONS
+22;* Journee Data Science and Cloud Com-;Contenu;REALISATIONS
+23;puting, 1ere Edition;Contenu;REALISATIONS
+24;COMPETENCES;Section;COMPETENCES
+25;Software engineering;Contenu;COMPETENCES
+26;* Python, Java, JEE, Web Scraping, R;Contenu;COMPETENCES
+27;Intelligence Artificielle;Contenu;COMPETENCES
+28;* Modeles : ARIMA , RNN , LSTM , BERT , KNN,;Contenu;COMPETENCES
+29;Decision Tree, Naive Bayes;Contenu;COMPETENCES
+30;* Outils : Pandas , Seaborn , Tensorflow;Contenu;COMPETENCES
+31;* Formats de Donnees : Excel , CSV , SQL;Contenu;COMPETENCES
+32;Dev Ops;Contenu;COMPETENCES
+33;* Git and Github;Contenu;COMPETENCES
+34;* Docker;Contenu;COMPETENCES
+35;* Kubernetes;Contenu;COMPETENCES
+36;Business Intelligence;Contenu;COMPETENCES
+37;* ETL : Talend Open Studio;Contenu;COMPETENCES
+38;* Restitution de donnees : Power BI;Contenu;COMPETENCES
+39;* Data Streaming : Apache Kafka;Contenu;COMPETENCES
+40;Base de donnees;Contenu;COMPETENCES
+41;* SQL, PL/SQL, MySQL, Oracle;Contenu;COMPETENCES
+42;LANGUE;Section;LANGUE
+43;Francais;Contenu;LANGUE
+44;Courant;Contenu;LANGUE
+45;Anglais;Contenu;LANGUE
+46;Niveau Intermediaire;Contenu;LANGUE
+47;Arabe;Contenu;LANGUE
+48;Langue maternelle;Contenu;LANGUE
+49;EDUCATION;Section;EDUCATION
+50;Ingenierie Data Science and Cloud Computing;Contenu;EDUCATION
+51;ENSA Oujda | Universite Mohammed Premier;Contenu;EDUCATION
+52; Sept 2021 - Aujourd'hui;Contenu;EDUCATION
+53; 1/2  Oujda, Oriental;Contenu;EDUCATION
+54;Cycle Preparatoire Integree;Contenu;EDUCATION
+55;ENSA Oujda | Universite Mohammed Premier;Contenu;EDUCATION
+56; Sept 2019 - Juin 2021;Contenu;EDUCATION
+57; 1/2  Oujda, Oriental;Contenu;EDUCATION
+58;EXPERIENCE;Section;EXPERIENCE
+59;Stage d'Application en NLP pour l'analyse des articles sci-;Contenu;EXPERIENCE
+60;entifiques en IA et Extraction en Chatbot;Contenu;EXPERIENCE
+61;3D Smart Factory;Contenu;EXPERIENCE
+62; Juillet 2023-Septembre 2023;Contenu;EXPERIENCE
+63; 1/2  Maroc , Mohammadia;Contenu;EXPERIENCE
+64;1. Collecter les donnees depuis un API Arxiv.;Contenu;EXPERIENCE
+65;2. Preparation des donnees ( Extraction , Nettoyage, Tokenisation...);Contenu;EXPERIENCE
+66;3. Entrainement d'un modele BERT pour l'extraction d'informations.;Contenu;EXPERIENCE
+67;Tensorflow;Contenu;EXPERIENCE
+68;transformers;Contenu;EXPERIENCE
+69;Python;Contenu;EXPERIENCE
+70;Arxiv;Contenu;EXPERIENCE
+71;PROJET PERSONNEL;Section;PROJET PERSONNEL
+72;Projet data science;Contenu;PROJET PERSONNEL
+73;* Collecte des donnees a partir de Kaggle, suivi de la preparation des donnees.;Contenu;PROJET PERSONNEL
+74;* Realisation d'une analyse exploratoire approfondie des donnees.;Contenu;PROJET PERSONNEL
+75;* Developpement du modele;Contenu;PROJET PERSONNEL
+76;* Deploiement du modele pour une utilisation effective.;Contenu;PROJET PERSONNEL
+77;scikit-learn;Contenu;PROJET PERSONNEL
+78;seaborn;Contenu;PROJET PERSONNEL
+79;numpy;Contenu;PROJET PERSONNEL
+80;Matplotlib;Contenu;PROJET PERSONNEL
+81;Pandas;Contenu;PROJET PERSONNEL
+82;Projet d'Analyse des Reservations d'Hotels avec Python;Contenu;PROJET PERSONNEL
+83;* Collecte des donnees de reservation;Contenu;PROJET PERSONNEL
+84;* Pretraitement et Analyse des donnees pour la qualite;Contenu;PROJET PERSONNEL
+85;* Modelisation et prevision des tendances;Contenu;PROJET PERSONNEL
+86;Pandas;Contenu;PROJET PERSONNEL
+87;Seaborn;Contenu;PROJET PERSONNEL
+88;Matplotlib;Contenu;PROJET PERSONNEL
+89;Python;Contenu;PROJET PERSONNEL
+90;Time series forecasting;Contenu;PROJET PERSONNEL
+91;* L'analyse d'une serie temporelle pour la prediction du nombre de vols a main;Contenu;PROJET PERSONNEL
+92;armee mensuels a Boston .;Contenu;PROJET PERSONNEL
+93;ARIMA;Contenu;PROJET PERSONNEL
+94;LSTM;Contenu;PROJET PERSONNEL
+95;RNN;Contenu;PROJET PERSONNEL
+96;Data Engineering;Contenu;PROJET PERSONNEL
+97;* Etablissement d'un pipeline de streaming avec kafka et visualisation en Temps;Contenu;PROJET PERSONNEL
+98;Reel .;Contenu;PROJET PERSONNEL
+99;Docker;Contenu;PROJET PERSONNEL
+100;kafka;Contenu;PROJET PERSONNEL
+101;InfluxDB;Contenu;PROJET PERSONNEL
+102;grafana;Contenu;PROJET PERSONNEL

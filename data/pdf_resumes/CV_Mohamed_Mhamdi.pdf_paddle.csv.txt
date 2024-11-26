@@ -1,0 +1,50 @@
+Mohamed MHAMDI
+J +33 07 68 38 93 84 in Mohamed MHAMDI  mohamed.mhamdi5@etu.univ-lorraine.fr
+EDUCATION
+Ecole Nationale Superieure des Mines de Nancy
+2021 - Present
+Parcours Grandes ecoles - Departement Ingenierie Mathematique
+Cours du departement: Probabilites et processus stochastiques, Methodes Monte-Carlo, Equations aux
+derivees partielles, Statistiques, Apprentissage automatique, Deep learning, Analyse financiere
+Projets realises: Developpement d'une application mobile liee a des objects connectes, Controle
+optimal/optimisation en dimension infinie appliques a la micro natation.
+Faculte de Droit, Sciences Economiques et Gestion de Nancy
+2022 - Present
+M1 - M2 en economie de l'entreprise et des marches
+Cours de la formation: Microeconomie, Macroeconomie, Economie industrielle et strategies concurentielles,
+Theorie et gestion financieres, Econometrie, Analyse du risque
+FORMATIONS ET CERTIFICATIONS
+- MOOC Gestion de projets de l'Ecole Centrale de Lille
+ MOOC Marches financiers de l'Universite de Yale
+EXPERIENCE
+Mines Services  Freelance
+Mars 2024 - Present
+: Assister une Auto-Entrepreneuse a la creation de son entreprise et a realiser un business plan en definissant un plan
+d'actions commerciales ainsi qu'un plan de financement.
+Union bancaire pour le commerce et l'industrie  stage d'ete
+Aout 2023
+: Travailler au sein du service gestion des risques sur le traitement de dossiers de demande de prets bancaires
+personnels et professionnels.
+Institut Elie Cartan de Lorraine  Stage de recherche
+Fevrier 2023
+: Etudier les algorithmes existants de generation d'entiers pseudo-aleatoires.
+. Analyser et implementer les differentes methodes de simulations de variables aleatoires.
+Completude  Job etudiant
+Septembre 2022 - Septembre 2023
+. Donner des cours particuliers en mathematiques et en physique pour des eleves du lycee ainsi que des etudiants.
+COMPETENCES
+Python: Visualisation de donnees, algorithmique et connaissances des bibliotheques pour la recherche operationelle et
+I'apprentissage automatique et profond (Pyomo, Tensorflow, Keras et Scikit-learn).
+Matlab, R, SQL et VBA: Analyse numerique (resolution d'EDP, algebre lineaire et simulations) et l'analyse de
+donnees.
+ACTIVITES EXTRA-SCOLAIRES
+Erasmus Student Network Benevole
+Accueil des etudiants internationaux et organisation d'activites, voyages et evenements pour eux.
+Le pere Noel est un Rockeur  Membre et musicien
+Organiser un concert Rock de bienfaisance dont le but est d'offrir des jouets a des enfants defavorises pendant les fetes de
+Noel.
+LANGUES
+* Francais: Bilingue.
+* Anglais: C1 certifie par l'examen IELTS
+* Arabe: Langue maternelle.
+* Allemand: B1 certifie par l'examen Goethe.

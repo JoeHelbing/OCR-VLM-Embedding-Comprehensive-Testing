@@ -1,0 +1,121 @@
+SUMMARY
+Student-engineer currently in a gap year before my final year of studies, looking for an internship abroad in a
+professional context to deepen my knowledge of Data Analytics. Driven by curiosity and the will to learn about state-
+of-the-art technologies, has a strong attention to detail and the ability to work collaboratively in team settings.
+nan
+EDUCATION
+nan
+Ecole des Mines de Nancy, France
+nan
+Master of Engineering Degree in Applied Mathematics
+September 2021 - September 2025.
+nan
+Relevant Coursework : Optimization, Data Analysis, Databases
+Modelization and Times Series, Machine Learning, Deep Learning
+Operational Research, Industrial Engineering
+nan
+Universite de Lorraine, France
+nan
+Bachelor of Sciences - Mathematics :
+nan
+September 2019 - June 2021
+nan
+Relevant Coursework : Linear & Bilinear Algebra, Calculus,
+nan
+Real & Complex Analysis,Probabilitiy, Statistics, Computer Science
+nan
+SKILLS AND LANGUAGES
+nan
+Technical Skills : Python, C, R, CamL, VBA, Latex, SQL, Pandas,
+Tensorflow, Keras,Pytorch, Scikit-Learn, PowerBI, SAP, Jupyter
+nan
+Hard-Skills : Data science research methods, data modelling,
+Regression analysis, Pattern and trend identification. Logistics
+nan
+Soft-Skills : Communication and public speaking, Teamwork &
+collaboration, Decision-Making, Time Management.
+Languages: - French, Native.
+nan
+- English, Cl Cambridge Advanced Certification.
+- Spanish, Casual Conversation.
+nan
+- Japanese, Notions.
+nan
+- Arabic, Moroccan Dialect.
+nan
+ACTIVITIES AND INTERESTS
+nan
+Basketball : 12 years in club at a regional level (2006-2018) :
+Captain of Mines Nancy's Team (2021-2023) :
+Played at a regional scale in Tours' Senior Team.
+nan
+Literature / Reading: Essays of Philosophy ;
+Sociology, keen on French Theory.
+nan
+Cinema : Member of the Bureau of the School's Association.
+Attended to various movies' festivals (Villerupt, IRTS).
+nan
+Scientific lectures : Attendance, human and technical assistance
+to the "Sciences et Societe" conferences cycle.
+nan
+PROFESSIONAL EXPERIENCE
+nan
+Warehouse Engineer, Givenchy
+September 2023 - February 2024
+nan
+(Montbazon, France)
+nan
+e Intern in charge of all outbound parcels leaving the warehouse
+and the various environnementals projects surrounding it.
+nan
+e Establishment of various KPI built on PowerBI from data
+extraction from the WMS used in the warehouse.
+nan
+e Economic and environnemental studies (vacuum rate, wedging...)
+of packaging to reduce the impact on the climate.
+nan
+C/ Optimizastion of the warehouse's WMS database to improve the
+nan
+workflow of operations in tune with Givenchy's own ERP system.
+nan
+Logistics Operator, Louis Vuitton
+January 2022 - February 2022
+nan
+(Cergy, France)
+nan
+e Operator in charge of reception of new products at the central
+warehouse of Louis Vuitton in France.
+nan
+e Handled the stocking of new products and the delivery for
+order preparation.
+nan
+e Worked as an order preparator for E-Shopping and Retail
+stores, in charge of the personalized orders.
+nan
+e Took part in all the outbound logistics of goods and ordrers,
+as well as forklift operation.
+nan
+ACADEMICS PROJECTS
+nan
+Research Project, Sophomore Year (Nancy, France)
+Institut Elie Cartan de Lorraine, September 2022 - June 2023
+nan
+e Study on a particular field of algebra, representations theory
+with a focus on a specific group, the Pauli group, used in
+quantum computing.
+nan
+e Redaction of a scientific paper, thesis defense and realization of
+a vulgarisation film on the subject.
+nan
+"Main a la pate", Freshman Year (Nancy, France)
+nan
+September 2021 - June 2022
+nan
+e Intervention in elementa
+institution, created by Ge
+Prize).
+nan
+class within the "Main a la Pate"
+rges Charpak (French Physics Nobel
+nan
+e Presentations and experiments for 4th Grades to introduce science.

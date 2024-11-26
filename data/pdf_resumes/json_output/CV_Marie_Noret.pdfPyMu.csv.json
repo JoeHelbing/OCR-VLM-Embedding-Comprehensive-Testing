@@ -1,0 +1,476 @@
+{
+    "Informations Personnelles": [
+        {
+            "category": "Contenu",
+            "text": "Marie NORET"
+        },
+        {
+            "category": "Contenu",
+            "text": "Etudiante en maitrise Gestion de Projets"
+        },
+        {
+            "category": "Contenu",
+            "text": "d'Ingenierie"
+        },
+        {
+            "category": "Contenu",
+            "text": "marienoret15@gmail.com"
+        },
+        {
+            "category": "Contenu",
+            "text": "Montreal"
+        },
+        {
+            "category": "Contenu",
+            "text": "www.linkedin.com/in/marie-noret-2053171a3"
+        }
+    ],
+    "Comp\u00e9tences": [
+        {
+            "category": "Section",
+            "text": "Comp\u00e9tences"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gestion de projets"
+        },
+        {
+            "category": "Contenu",
+            "text": "Formation a l'ETS et appliquee en stage a UPM Raflatac et au"
+        },
+        {
+            "category": "Contenu",
+            "text": "Groupe Rocher"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gestion de portefeuilles de projet, Gestion creativite et innovation,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gestion et supervision d'equipes, Analyse de faisabilite, Methodologie"
+        },
+        {
+            "category": "Contenu",
+            "text": "d'ingenierie creative : TRIZ, ASIT, C-K, Design Thinking"
+        },
+        {
+            "category": "Contenu",
+            "text": "Genie Industriel"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gestion de la production, HSE, methodes et resolution de problemes"
+        },
+        {
+            "category": "Contenu",
+            "text": "en groupe, gestion industrielle, automatisme, mecanique, chimie,"
+        },
+        {
+            "category": "Contenu",
+            "text": "instrumentation, electronique"
+        },
+        {
+            "category": "Contenu",
+            "text": "Materiaux"
+        },
+        {
+            "category": "Contenu",
+            "text": "Alliages ferreux, alliages non ferreux, polymeres, materiaux"
+        },
+        {
+            "category": "Contenu",
+            "text": "composites, mise en forme des procedes, elasticite et plasticite des"
+        },
+        {
+            "category": "Contenu",
+            "text": "materiaux, fonderie, methodes d'analyses, resistance des materiaux"
+        }
+    ],
+    "Experiences professionnelles": [
+        {
+            "category": "Section",
+            "text": "Experiences professionnelles"
+        },
+        {
+            "category": "Contenu",
+            "text": "Stage Ingenieur Methodes Industrialisation"
+        },
+        {
+            "category": "Contenu",
+            "text": "De mars 2023 a aout 2023 Yves Rocher La Gacilly"
+        },
+        {
+            "category": "Contenu",
+            "text": "-Pilotage du projet d'adaptation des lignes de production pour"
+        },
+        {
+            "category": "Contenu",
+            "text": "integrer les produits Premium (AMDEC, 5M)"
+        },
+        {
+            "category": "Contenu",
+            "text": "-Cartographie des capacites des lignes de conditionnement -"
+        },
+        {
+            "category": "Contenu",
+            "text": "Etablir les cahiers de contraintes associees a la cartographie des"
+        },
+        {
+            "category": "Contenu",
+            "text": "lignes (donnees d'entree pour l'industrialisation et pour le"
+        },
+        {
+            "category": "Contenu",
+            "text": "packaging)"
+        },
+        {
+            "category": "Contenu",
+            "text": "-Mise en place d'une solution de tracabilite des etuis de"
+        },
+        {
+            "category": "Contenu",
+            "text": "protection de vente a distance (kick off du projet jusqu'a sa mise"
+        },
+        {
+            "category": "Contenu",
+            "text": "en place)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gestion electronique documentaire du service conditionnement"
+        },
+        {
+            "category": "Contenu",
+            "text": "en utilisant la methode ECRS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Stage Assistante Ingenieure Maintenance et Securite"
+        },
+        {
+            "category": "Contenu",
+            "text": "De mars 2022 a juillet 2022 UPM Raflatac Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gestion de divers projets au sein du service Maintenance et"
+        },
+        {
+            "category": "Contenu",
+            "text": "Securite"
+        },
+        {
+            "category": "Contenu",
+            "text": "Caracterisation des installations"
+        },
+        {
+            "category": "Contenu",
+            "text": "-Gestion d'un budget de 90KEUR (installation d'un systeme a"
+        },
+        {
+            "category": "Contenu",
+            "text": "osmose inverse pour le traitement de l'eau de l'usine)"
+        },
+        {
+            "category": "Section",
+            "text": "Experiences professionnelles"
+        },
+        {
+            "category": "Contenu",
+            "text": "Stage Technicienne Mesures Physiques"
+        },
+        {
+            "category": "Contenu",
+            "text": "De septembre 2020 a aout 2021 IFREMER Brest"
+        },
+        {
+            "category": "Contenu",
+            "text": "-Amelioration d'un protocole d'une machine de Fluorescence X"
+        },
+        {
+            "category": "Contenu",
+            "text": "destinee a analyser des echantillons marins"
+        },
+        {
+            "category": "Contenu",
+            "text": "-Realisation et redactions de rapport d'essais de qualification"
+        },
+        {
+            "category": "Contenu",
+            "text": "-Mise en place de procedures pour differents cas d'usage"
+        },
+        {
+            "category": "Contenu",
+            "text": "Soutient au travail en laboratoire"
+        }
+    ],
+    "Langues": [
+        {
+            "category": "Section",
+            "text": "Langues"
+        },
+        {
+            "category": "Contenu",
+            "text": "Anglais"
+        },
+        {
+            "category": "Contenu",
+            "text": "Bilingue"
+        },
+        {
+            "category": "Section",
+            "text": "> IELTS : 7/9"
+        }
+    ],
+    "Informatique": [
+        {
+            "category": "Contenu",
+            "text": "Informatique"
+        },
+        {
+            "category": "Contenu",
+            "text": "Excel"
+        },
+        {
+            "category": "Contenu",
+            "text": "VBA, Excel avance"
+        },
+        {
+            "category": "Contenu",
+            "text": "Access"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gestion de bases de"
+        },
+        {
+            "category": "Contenu",
+            "text": "donnees, niveau avance"
+        },
+        {
+            "category": "Contenu",
+            "text": "CAO"
+        },
+        {
+            "category": "Contenu",
+            "text": "Solidworks, Autocad,"
+        },
+        {
+            "category": "Contenu",
+            "text": "niveau moyen"
+        },
+        {
+            "category": "Contenu",
+            "text": "Pack office"
+        },
+        {
+            "category": "Contenu",
+            "text": "Word, Powerpoint, MS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Project"
+        },
+        {
+            "category": "Contenu",
+            "text": "Labview"
+        },
+        {
+            "category": "Contenu",
+            "text": "Sharepoint"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python, Langage C,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Matlab"
+        },
+        {
+            "category": "Contenu",
+            "text": "Niveau debutant"
+        }
+    ],
+    "Atouts": [
+        {
+            "category": "Section",
+            "text": "Atouts"
+        },
+        {
+            "category": "Contenu",
+            "text": "Rigueur"
+        },
+        {
+            "category": "Contenu",
+            "text": "En tant que militaire,"
+        },
+        {
+            "category": "Contenu",
+            "text": "etudiante et sportive"
+        },
+        {
+            "category": "Contenu",
+            "text": "Esprit d'equipe"
+        },
+        {
+            "category": "Contenu",
+            "text": "Au travers de mes"
+        },
+        {
+            "category": "Contenu",
+            "text": "differents sports,"
+        },
+        {
+            "category": "Contenu",
+            "text": "associations et stages"
+        },
+        {
+            "category": "Contenu",
+            "text": "Creativite"
+        },
+        {
+            "category": "Contenu",
+            "text": "Au travers de ma"
+        },
+        {
+            "category": "Contenu",
+            "text": "formation a l'ETS, et de"
+        },
+        {
+            "category": "Contenu",
+            "text": "mes activites culturelles"
+        },
+        {
+            "category": "Contenu",
+            "text": "(theatre, video)"
+        }
+    ],
+    "Diplomes et Formations": [
+        {
+            "category": "Section",
+            "text": "Diplomes et Formations"
+        },
+        {
+            "category": "Contenu",
+            "text": "Maitrise Gestion de Projets d'Ingenierie (co-diplomation)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Depuis septembre 2023 ETS Montreal"
+        },
+        {
+            "category": "Contenu",
+            "text": "Master en Materiaux et Genie Industriel (co-diplomation)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Depuis septembre 2021 Mines de Nancy Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Diplome Universitaire de Technologie Mesures Physiques"
+        },
+        {
+            "category": "Contenu",
+            "text": "De septembre 2019 a aout 2021 IUT Lannion Lannion"
+        },
+        {
+            "category": "Contenu",
+            "text": "Niveau technicien"
+        }
+    ],
+    "Experiences Associatives": [
+        {
+            "category": "Section",
+            "text": "Experiences associatives"
+        },
+        {
+            "category": "Contenu",
+            "text": "Capitaine du club de technologie brassicole de l'ETS"
+        },
+        {
+            "category": "Contenu",
+            "text": "De novembre 2023 a mars 2024 GeniALE Montreal"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gestion administrative du club, preparation logistique"
+        },
+        {
+            "category": "Contenu",
+            "text": "d'evenements, vente de biere, gestion d'equipe"
+        },
+        {
+            "category": "Contenu",
+            "text": "Preparation Militaire Superieure"
+        },
+        {
+            "category": "Contenu",
+            "text": "De septembre 2022 a aout 2023 Marine Nationale Houilles"
+        },
+        {
+            "category": "Contenu",
+            "text": "Formation d'Officier de la Marine Nationale, developpement de"
+        },
+        {
+            "category": "Contenu",
+            "text": "competences en leadership et en coordination d'equipe"
+        },
+        {
+            "category": "Contenu",
+            "text": "Co-capitaine d'une association aidant un refuge pour animaux"
+        },
+        {
+            "category": "Contenu",
+            "text": "De septembre 2021 a juin 2022 30 Millions d'Amines Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gestion de l'administratif du club et de la cohesion d'une equipe"
+        },
+        {
+            "category": "Contenu",
+            "text": "de 10 personnes"
+        }
+    ],
+    "Centres d'interet": [
+        {
+            "category": "Section",
+            "text": "Centres d'interet"
+        },
+        {
+            "category": "Contenu",
+            "text": "Soccer"
+        },
+        {
+            "category": "Contenu",
+            "text": "Capitaine d'une equipe de"
+        },
+        {
+            "category": "Contenu",
+            "text": "soccer et arbitre entre"
+        },
+        {
+            "category": "Contenu",
+            "text": "septembre 2022 et mars"
+        },
+        {
+            "category": "Contenu",
+            "text": "2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "Badminton"
+        },
+        {
+            "category": "Contenu",
+            "text": "Niveau regional francais"
+        },
+        {
+            "category": "Contenu",
+            "text": "Theatre"
+        }
+    ]
+}

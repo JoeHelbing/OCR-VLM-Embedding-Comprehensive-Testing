@@ -1,0 +1,61 @@
+﻿;Texte;Catégorie;Sections
+0;LAKSHAY GUPTA;Contenu;PERSONAL INFORMATIONS
+1;Ghaziabad, Uttar Pradesh;Contenu;PERSONAL INFORMATIONS
+2;917 318 919 774;Contenu;PERSONAL INFORMATIONS
+3; iamlakshay04@gmail.com;Contenu;PERSONAL INFORMATIONS
+4; in LinkedIn Profile;Contenu;PERSONAL INFORMATIONS
+5;Education;Section;Education
+6;Ajay Kumar Garg Engineering College;Contenu;Education
+7;Ghaziabad, Uttar Pradesh;Contenu;Education
+8;Bachelor in Computer Science and Engineering (Data Science) - 8.5/10;Contenu;Education
+9;2022-Present;Contenu;Education
+10;K.C.M School - CBSE;Contenu;Education
+11;Moradabad, Uttar Pradesh;Contenu;Education
+12;Intermediate - 94.5;Contenu;Education
+13;2019 - 2022;Contenu;Education
+14;Experience;Section;Experience
+15;Software Incubator - Software Development Center.;Contenu;Experience
+16;Nov 2023 - Present;Contenu;Experience
+17;Developer;Contenu;Experience
+18;India;Contenu;Experience
+19;: Working as a Backend Developer with 45 other members for Technical activities and maintaining projects..;Contenu;Experience
+20;: Collaborated with cross-functional teams, including frontend developers and designers, to implement new features..;Contenu;Experience
+21;Programming Club;Contenu;Experience
+22;Oct 2023-Present;Contenu;Experience
+23;Member;Contenu;Experience
+24;India;Contenu;Experience
+25;: Promote Programming Culture in the College by conducting workshops on competitive programming..;Contenu;Experience
+26;: Engage in group problem-solving sessions, enhancing teamwork and communication skills while tackling;Contenu;Experience
+27;complex coding problems.;Contenu;Experience
+28;Projects;Section;Projects
+29;Justice Link | Flutter, NodeJS, MongoDB, ExpressJS |OGithub;Contenu;Projects
+30;December 2023;Contenu;Projects
+31;Made the award winning project for SIH - 2023.;Contenu;Projects
+32;: Worked with team of 6 individuals to develop technology-driven solution addressing the challenges faced by undertrial;Contenu;Projects
+33;prisoners in India;Contenu;Projects
+34;: A comprehensive Business plan outlining feasibility, sustainability, and scalability along with Financial projections,.;Contenu;Projects
+35;marketing strategies, and user acquisition plans.;Contenu;Projects
+36;Soundly | Django, React Js, Figma | OGithub;Contenu;Projects
+37;November 2023;Contenu;Projects
+38;: Made the REST APIs and complete backend from scratch of music listening Application using Django Rest Framework..;Contenu;Projects
+39;: OTP based authentication system.;Contenu;Projects
+40;: Advanced search based on music title, artist, language, mood, and genre..;Contenu;Projects
+41;CF Scrapper | Django, Jinga, Bootstrap | OGithub;Contenu;Projects
+42;December 2023;Contenu;Projects
+43;: Build a web application with Flask that allows users to get all Codeforces submissions of two users and see the question.;Contenu;Projects
+44;not done by other users.;Contenu;Projects
+45;: Shows Codeforces submissions for each user and displays them in a sorted manner based on the contest ID and problem.;Contenu;Projects
+46;code.;Contenu;Projects
+47;Skills;Section;Skills
+48;Languages: C/C++, Python;Contenu;Skills
+49;Technologies/Frameworks/Libraries: Django, DRF, Flutter.;Contenu;Skills
+50;Databases: SQLite3, PostgreSQL;Contenu;Skills
+51;Others: GIT, AWS, Nginx,Docker;Contenu;Skills
+52;Profile Links;Section;Profile Links
+53;: Codeforces - Pupil : Max Rating 1200+  Profile;Contenu;Profile Links
+54;. Codechef - 3 : Max Rating 1600+ - Profile;Contenu;Profile Links
+55;: Leetcode - Solved over 200 Questions - Profile;Contenu;Profile Links
+56;Achievements;Section;Achievements
+57;: Winner Smart India Hackathon 2023, organised by Government of India..;Contenu;Achievements
+58;Highest rating of 1225 at Codeforces,and 1622 at Codechef.;Contenu;Achievements
+59;: Secured the 1st position out of 500+ participants in coding contest CIN>PC at AKGEC, Ghaziabad.;Contenu;Achievements

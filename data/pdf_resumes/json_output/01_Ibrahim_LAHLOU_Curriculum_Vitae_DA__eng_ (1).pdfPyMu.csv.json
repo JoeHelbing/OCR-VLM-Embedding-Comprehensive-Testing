@@ -1,0 +1,434 @@
+{
+    "Personal Informations": [
+        {
+            "category": "Section",
+            "text": "IBRAHIM LAHLOU"
+        },
+        {
+            "category": "Contenu",
+            "text": "End of Studies internship | Starting February"
+        },
+        {
+            "category": "Contenu",
+            "text": "[ ibrahimlahlou021@gmail.com"
+        },
+        {
+            "category": "Contenu",
+            "text": "O +212 07 77 61 51 31"
+        },
+        {
+            "category": "Contenu",
+            "text": " 1/2  Morocco, Casablanca"
+        },
+        {
+            "category": "Contenu",
+            "text": "in/ibrahim-lahlou-ab09861ba"
+        },
+        {
+            "category": "Contenu",
+            "text": " github.com/IbLahlou"
+        }
+    ],
+    "ACHIEVEMENTS": [
+        {
+            "category": "Section",
+            "text": "ACHIEVEMENTS"
+        },
+        {
+            "category": "Contenu",
+            "text": "3"
+        },
+        {
+            "category": "Contenu",
+            "text": "Participation in MNPC 22"
+        },
+        {
+            "category": "Contenu",
+            "text": "National Moroccan Programming"
+        },
+        {
+            "category": "Contenu",
+            "text": "Competition held at 1337 Khouribga."
+        },
+        {
+            "category": "Contenu",
+            "text": "Problem Solving"
+        },
+        {
+            "category": "Contenu",
+            "text": "Code Optimization"
+        },
+        {
+            "category": "Contenu",
+            "text": "Participation in several activities"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Basmat al aid (ENSAO solidarity)"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Science Festival (MDSO)"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Grand Debate of Oujda (ENCGO)"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Git and GitHub Course Session"
+        },
+        {
+            "category": "Contenu",
+            "text": "* NASA Space App Challenge"
+        }
+    ],
+    "SKILLS": [
+        {
+            "category": "Section",
+            "text": "SKILLS"
+        },
+        {
+            "category": "Contenu",
+            "text": "DevOps"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Git, GitHub Actions, Pytest"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Cloud Services: GCP, AWS"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Docker and Kubernetes"
+        },
+        {
+            "category": "Contenu",
+            "text": "Machine Learning"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Models: LSTM , CNN"
+        },
+        {
+            "category": "Contenu",
+            "text": "* ML Tools: Tensorflow ,PyTorch, MLflow"
+        },
+        {
+            "category": "Contenu",
+            "text": "Data Engineering and Analysis"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Relational Databases: MySQL, SQL Server"
+        },
+        {
+            "category": "Contenu",
+            "text": "* NoSQL Databases: Redis, BigQuery"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Big Data Tools: Airflow, Dataproc"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Data Visualization: Power BI, Looker"
+        },
+        {
+            "category": "Contenu",
+            "text": "Application Development"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Frontend: HTML, CSS, JS, Vite + React.js"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Backend: Python (Flask, Django), Java, PHP"
+        }
+    ],
+    "CERTIFICATIONS": [
+        {
+            "category": "Section",
+            "text": "CERTIFICATIONS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Intro to Agile Development and Scrum"
+        },
+        {
+            "category": "Contenu",
+            "text": "Neural Networks and Deep Learning"
+        },
+        {
+            "category": "Contenu",
+            "text": "GCP Baseline Infrastructure"
+        }
+    ],
+    "LANGUAGES": [
+        {
+            "category": "Section",
+            "text": "LANGUAGES"
+        },
+        {
+            "category": "Contenu",
+            "text": "English"
+        },
+        {
+            "category": "Contenu",
+            "text": "Fluent"
+        },
+        {
+            "category": "Contenu",
+            "text": "French"
+        },
+        {
+            "category": "Contenu",
+            "text": "Fluent"
+        },
+        {
+            "category": "Contenu",
+            "text": "Arabic"
+        },
+        {
+            "category": "Contenu",
+            "text": "Native"
+        }
+    ],
+    "EDUCATION": [
+        {
+            "category": "Section",
+            "text": "EDUCATION"
+        },
+        {
+            "category": "Contenu",
+            "text": "Data Science and Cloud Computing Engineering"
+        },
+        {
+            "category": "Contenu",
+            "text": "ENSA Oujda | Mohammed First University"
+        },
+        {
+            "category": "Contenu",
+            "text": "\u0011 September 2021 - Present"
+        },
+        {
+            "category": "Contenu",
+            "text": " 1/2  Oujda, Oriental"
+        },
+        {
+            "category": "Contenu",
+            "text": "Preparatory Cycle (Science and Engineering)"
+        },
+        {
+            "category": "Contenu",
+            "text": "ENSA Oujda | Mohammed First University"
+        },
+        {
+            "category": "Contenu",
+            "text": "\u0011 September 2019 - June 2021"
+        },
+        {
+            "category": "Contenu",
+            "text": " 1/2  Oujda, Oriental"
+        }
+    ],
+    "EXPERIENCE": [
+        {
+            "category": "Section",
+            "text": "EXPERIENCE"
+        },
+        {
+            "category": "Contenu",
+            "text": "MLOps Application Internship using NLP"
+        },
+        {
+            "category": "Contenu",
+            "text": "3D Smart Factory"
+        },
+        {
+            "category": "Contenu",
+            "text": "\u0011 July 2023-September 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": " 1/2  Morocco, Mohammadia"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Analysis of data verification and spelling models."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Design of a pipeline for an NLP model with metrics."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Development and deployment of a web interface with Flask."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Github URL: IbLahlou/SpellX"
+        },
+        {
+            "category": "Contenu",
+            "text": "Docker"
+        },
+        {
+            "category": "Contenu",
+            "text": "Scrum"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python"
+        },
+        {
+            "category": "Contenu",
+            "text": "Flask"
+        },
+        {
+            "category": "Contenu",
+            "text": "AWS"
+        },
+        {
+            "category": "Contenu",
+            "text": "DVC"
+        }
+    ],
+    "PERSONAL PROJECTS": [
+        {
+            "category": "Section",
+            "text": "PERSONAL PROJECTS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Analysis of Web Application Log Data"
+        },
+        {
+            "category": "Contenu",
+            "text": "Big Data Project"
+        },
+        {
+            "category": "Contenu",
+            "text": "(ongoing)"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Installation and configuration of Hadoop master-slave architecture."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Configuration of Flume for log data ingestion into HBase."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Github URL: IbLahlou/Data-Log-analysis"
+        },
+        {
+            "category": "Contenu",
+            "text": "Docker"
+        },
+        {
+            "category": "Contenu",
+            "text": "Hadoop"
+        },
+        {
+            "category": "Contenu",
+            "text": "Flume"
+        },
+        {
+            "category": "Contenu",
+            "text": "HBase"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python"
+        },
+        {
+            "category": "Contenu",
+            "text": "InfluxDB"
+        },
+        {
+            "category": "Contenu",
+            "text": "Grafana"
+        },
+        {
+            "category": "Contenu",
+            "text": "MLOps Pipeline for ElasticNet Regression"
+        },
+        {
+            "category": "Contenu",
+            "text": "Data Mining and MLOps Project"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Incremental data ingestion to Google Cloud Storage."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Continuous integration, deployment,& training of the model & application."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Github URL: IbLahlou/ElasticNet-model-e2e"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python"
+        },
+        {
+            "category": "Contenu",
+            "text": "GCP"
+        },
+        {
+            "category": "Contenu",
+            "text": "Airflow"
+        },
+        {
+            "category": "Contenu",
+            "text": "Docker"
+        },
+        {
+            "category": "Contenu",
+            "text": "Flask"
+        },
+        {
+            "category": "Contenu",
+            "text": "Scikit-learn"
+        },
+        {
+            "category": "Contenu",
+            "text": "MLflow"
+        },
+        {
+            "category": "Contenu",
+            "text": "Other Projects:"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Statistical Project | Stochastic Modeling for Regression | Link"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Geospatial Analysis Project using Spatial Autoregressive Model | Link"
+        },
+        {
+            "category": "Contenu",
+            "text": "* IoT Project | Food Preservation Service | Link"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Prototype of Backends for Frontends with GraphQL | Link"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Web Project | Development of an E-Commerce application with PHP and"
+        },
+        {
+            "category": "Contenu",
+            "text": "Wordpress"
+        }
+    ]
+}

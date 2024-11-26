@@ -1,0 +1,238 @@
+{
+    "PERSONAL INFORMATIONS": [
+        {
+            "category": "Section",
+            "text": "ELISE SUSPENE"
+        },
+        {
+            "category": "Contenu",
+            "text": "SECOND YEAR POSTGRADUATE STUDENT ENGINEER AT THE"
+        },
+        {
+            "category": "Contenu",
+            "text": "MINES NANCY GRANDE ECOLE, SPECIALIZATION IN"
+        },
+        {
+            "category": "Contenu",
+            "text": "COMPUTER SCIENCE"
+        },
+        {
+            "category": "Contenu",
+            "text": "LOOKING FOR A 6-MONTH-LONG GAP YEAR INTERNSHIP"
+        },
+        {
+            "category": "Contenu",
+            "text": "Age: 21 years old"
+        },
+        {
+            "category": "Contenu",
+            "text": "Nationalities : French, Swiss"
+        },
+        {
+            "category": "Contenu",
+            "text": "First aid PSC1 certification"
+        },
+        {
+            "category": "Contenu",
+            "text": "Driver's license"
+        },
+        {
+            "category": "Contenu",
+            "text": "Programming languages :"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python; C ; Java; html; Matlab;"
+        },
+        {
+            "category": "Contenu",
+            "text": "R;Go; Rust"
+        }
+    ],
+    "LANGUAGES": [
+        {
+            "category": "Section",
+            "text": "LANGUAGES"
+        },
+        {
+            "category": "Contenu",
+            "text": "e French (mother tongue)"
+        },
+        {
+            "category": "Contenu",
+            "text": "e English (C2 Cambridge"
+        },
+        {
+            "category": "Contenu",
+            "text": "certification)"
+        },
+        {
+            "category": "Contenu",
+            "text": "eC/ German (B2)"
+        }
+    ],
+    "ADDITIONAL TRAINING": [
+        {
+            "category": "Section",
+            "text": "ADDITIONAL TRAINING"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Project management MOOC"
+        },
+        {
+            "category": "Contenu",
+            "text": "<< Serious Game on Health and"
+        },
+        {
+            "category": "Contenu",
+            "text": "Safety in the Workplace"
+        }
+    ],
+    "PERSONAL AND EXTRA-CURRICULAR ACTIVITIES": [
+        {
+            "category": "Section",
+            "text": "PERSONAL AND EXTRA-CURRICULAR ACTIVITES"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Incharge of publicity for the"
+        },
+        {
+            "category": "Contenu",
+            "text": "Perno charity student"
+        },
+        {
+            "category": "Contenu",
+            "text": "organization"
+        },
+        {
+            "category": "Contenu",
+            "text": "e High-level practice of classical"
+        },
+        {
+            "category": "Contenu",
+            "text": "music, both solo and within an"
+        },
+        {
+            "category": "Contenu",
+            "text": "orchestra"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Travels to Switzerland,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Germany, Ireland, England,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Italy"
+        }
+    ],
+    "EDUCATIONAL BACKGROUND AND DIPLOMAS": [
+        {
+            "category": "Section",
+            "text": "EDUCATIONAL BACKGROUND AND DIPLOMAS"
+        },
+        {
+            "category": "Contenu",
+            "text": "ENGINEERING TRAINING"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mines Nancy Grande Ecole"
+        },
+        {
+            "category": "Contenu",
+            "text": "(top French engineering school)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Specialization in Computer Science"
+        },
+        {
+            "category": "Contenu",
+            "text": "Syllabus : https://wikidocs.univ-"
+        },
+        {
+            "category": "Contenu",
+            "text": "lorraine.fr/display/minesnancyficm"
+        },
+        {
+            "category": "Contenu",
+            "text": "since September 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Web development (experience with Bootstrap)"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Data bases (SQL, MongoDB)"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/<< Software Engineering"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Artificial intelligence and object detection"
+        },
+        {
+            "category": "Contenu",
+            "text": "e UX/Ul design"
+        }
+    ],
+    "PROFESSIONAL EXPERIENCE": [
+        {
+            "category": "Section",
+            "text": "PROFESSIONAL EXPERIENCE"
+        },
+        {
+            "category": "Contenu",
+            "text": "VOLUNTEER ENGINEERING STUDENT"
+        },
+        {
+            "category": "Contenu",
+            "text": "Analytics.nc, artificial intelligence consulting firm"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Video optimization"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Code deployment on Jetson nano cards using SSH File"
+        },
+        {
+            "category": "Contenu",
+            "text": "Transfer Protocol"
+        },
+        {
+            "category": "Contenu",
+            "text": "INTERN"
+        },
+        {
+            "category": "Contenu",
+            "text": "Saint-Laurent-des-Eaux nuclear power plant,"
+        },
+        {
+            "category": "Contenu",
+            "text": "February 2023 (1 month)"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Assisting the heads of the Assays-Chemistry-"
+        },
+        {
+            "category": "Contenu",
+            "text": "Environment service of the power plant in"
+        },
+        {
+            "category": "Contenu",
+            "text": "implementing new management methods"
+        }
+    ]
+}

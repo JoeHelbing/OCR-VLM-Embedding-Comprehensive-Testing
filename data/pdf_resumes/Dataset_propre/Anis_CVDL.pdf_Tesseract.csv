@@ -1,0 +1,160 @@
+﻿;Texte;Catégorie;Sections
+0;Anis-Samy LAAMRI;Contenu;Informations Personnels
+1;ELEVE-INGENIEUR EN;Contenu;Informations Personnels
+2;2EME ANNEE;Contenu;Informations Personnels
+3;;Contenu;Informations Personnels
+4;PROFIL PERSONNEL;Section;PROFIL PERSONNEL
+5;;Contenu;PROFIL PERSONNEL
+6;Je suis un eleve-ingenieur en data;Contenu;PROFIL PERSONNEL
+7;science et analyse de donnees a la;Contenu;PROFIL PERSONNEL
+8;recherche d'un stage de cesure pour;Contenu;PROFIL PERSONNEL
+9;;Contenu;PROFIL PERSONNEL
+10;mettre en application mes;Contenu;PROFIL PERSONNEL
+11;connaissances et developper mes;Contenu;PROFIL PERSONNEL
+12;competences.;Contenu;PROFIL PERSONNEL
+13;;Contenu;PROFIL PERSONNEL
+14;COMPETENCES TECHNIQUES;Section;COMPETENCES TECHNIQUES
+15;;Contenu;COMPETENCES TECHNIQUES
+16;e Excel & VBA;Contenu;COMPETENCES TECHNIQUES
+17;;Contenu;COMPETENCES TECHNIQUES
+18;e CamL;Contenu;COMPETENCES TECHNIQUES
+19;;Contenu;COMPETENCES TECHNIQUES
+20;e R;Contenu;COMPETENCES TECHNIQUES
+21;;Contenu;COMPETENCES TECHNIQUES
+22;e Python &C;Contenu;COMPETENCES TECHNIQUES
+23;;Contenu;COMPETENCES TECHNIQUES
+24;e LateX & Matlab;Contenu;COMPETENCES TECHNIQUES
+25;;Contenu;COMPETENCES TECHNIQUES
+26;e SQL & Pandas;Contenu;COMPETENCES TECHNIQUES
+27;;Contenu;COMPETENCES TECHNIQUES
+28;e TensorFlow, Keras;Contenu;COMPETENCES TECHNIQUES
+29;;Contenu;COMPETENCES TECHNIQUES
+30;LANGUES;Section;LANGUES
+31;;Contenu;LANGUES
+32;e Frangais : Langue Maternelle;Contenu;LANGUES
+33;;Contenu;LANGUES
+34;e Anglais : Cl Cambridge Advanced;Contenu;LANGUES
+35;e Espagnol : Niveau B1;Contenu;LANGUES
+36;;Contenu;LANGUES
+37;e Japonais : Niveau A2;Contenu;LANGUES
+38;;Contenu;LANGUES
+39;e Arabe : Niveau Al;Contenu;LANGUES
+40;;Contenu;LANGUES
+41;COORDONNEES DE CONTACT;Section;COORDONNEES DE CONTACT
+42;Adresse : 7 rue Gustave Charpentier, 54500,;Contenu;COORDONNEES DE CONTACT
+43;Vandoeuvre-Les-Nancy;Contenu;COORDONNEES DE CONTACT
+44;;Contenu;COORDONNEES DE CONTACT
+45;E-mail : a.laamri@outlook.fr;Contenu;COORDONNEES DE CONTACT
+46;Telephone : 06.09.86.21.03;Contenu;COORDONNEES DE CONTACT
+47;;Contenu;COORDONNEES DE CONTACT
+48;ACTIVITES EXTRASCOLAIRES;Section;ACTIVITES EXTRASCOLAIRES
+49;;Contenu;ACTIVITES EXTRASCOLAIRES
+50;Junior Entreprise Mines Services;Contenu;ACTIVITES EXTRASCOLAIRES
+51;Octobre 2021 - En cours;Contenu;ACTIVITES EXTRASCOLAIRES
+52;;Contenu;ACTIVITES EXTRASCOLAIRES
+53;Charge d'affaires a la JE de I'Ecole des Mines de;Contenu;ACTIVITES EXTRASCOLAIRES
+54;;Contenu;ACTIVITES EXTRASCOLAIRES
+55;Nancy.;Contenu;ACTIVITES EXTRASCOLAIRES
+56;;Contenu;ACTIVITES EXTRASCOLAIRES
+57;Prospection et accompagnement de clients sur;Contenu;ACTIVITES EXTRASCOLAIRES
+58;des missions realisees par les eleves des Mines.;Contenu;ACTIVITES EXTRASCOLAIRES
+59;;Contenu;ACTIVITES EXTRASCOLAIRES
+60;Basket-Ball;Contenu;ACTIVITES EXTRASCOLAIRES
+61;;Contenu;ACTIVITES EXTRASCOLAIRES
+62;e Pratique au niveau departemental de 2006;Contenu;ACTIVITES EXTRASCOLAIRES
+63;;Contenu;ACTIVITES EXTRASCOLAIRES
+64;a 2018;Contenu;ACTIVITES EXTRASCOLAIRES
+65;e Champion Universitaire 2022;Contenu;ACTIVITES EXTRASCOLAIRES
+66;;Contenu;ACTIVITES EXTRASCOLAIRES
+67;e Entraineur et capitaine de Il'equipe de;Contenu;ACTIVITES EXTRASCOLAIRES
+68;;Contenu;ACTIVITES EXTRASCOLAIRES
+69;basket de I'Ecole des Mines de Nancy.;Contenu;ACTIVITES EXTRASCOLAIRES
+70;;Contenu;ACTIVITES EXTRASCOLAIRES
+71;Membre du Bureau de Cinemines;Contenu;ACTIVITES EXTRASCOLAIRES
+72;Juin 2022 - En cours;Contenu;ACTIVITES EXTRASCOLAIRES
+73;;Contenu;ACTIVITES EXTRASCOLAIRES
+74;Membre du bureau du club de cinema de;Contenu;ACTIVITES EXTRASCOLAIRES
+75;;Contenu;ACTIVITES EXTRASCOLAIRES
+76;I'Ecole des Mines de Nancy.;Contenu;ACTIVITES EXTRASCOLAIRES
+77;;Contenu;ACTIVITES EXTRASCOLAIRES
+78;Choix du film, projection et discussion post-;Contenu;ACTIVITES EXTRASCOLAIRES
+79;;Contenu;ACTIVITES EXTRASCOLAIRES
+80;seance.;Contenu;ACTIVITES EXTRASCOLAIRES
+81;;Contenu;ACTIVITES EXTRASCOLAIRES
+82;FORMATION ET DIPLOMES;Section;FORMATION ET DIPLOMES
+83;;Contenu;FORMATION ET DIPLOMES
+84;Ecole des Mines de Nancy - Ingenieur Civil;Contenu;FORMATION ET DIPLOMES
+85;;Contenu;FORMATION ET DIPLOMES
+86;Deuxieeme annee : Septembre 2022 - En;Contenu;FORMATION ET DIPLOMES
+87;cours;Contenu;FORMATION ET DIPLOMES
+88;;Contenu;FORMATION ET DIPLOMES
+89;Specialisation en ingenierie des systemes de;Contenu;FORMATION ET DIPLOMES
+90;production et de decision : Analyse de donnees,;Contenu;FORMATION ET DIPLOMES
+91;Apprentissage Automatique, Genie industriel;Contenu;FORMATION ET DIPLOMES
+92;Optimisation. Deep learning, Foundation of;Contenu;FORMATION ET DIPLOMES
+93;Databases.;Contenu;FORMATION ET DIPLOMES
+94;;Contenu;FORMATION ET DIPLOMES
+95;-Enseignements Manageriaux : Contrdele de Gestion,;Contenu;FORMATION ET DIPLOMES
+96;Comptabilite, Macroeconomie, Theorie des Jeux;Contenu;FORMATION ET DIPLOMES
+97;Premiere annee : Septembre 2021 - Juin;Contenu;FORMATION ET DIPLOMES
+98;2022;Contenu;FORMATION ET DIPLOMES
+99;;Contenu;FORMATION ET DIPLOMES
+100;Etude des disciplines constituant le socle de base;Contenu;FORMATION ET DIPLOMES
+101;d'un ingenieur generaliste.;Contenu;FORMATION ET DIPLOMES
+102;;Contenu;FORMATION ET DIPLOMES
+103;Mathematiques : Analyse Numerique, Probabilites,;Contenu;FORMATION ET DIPLOMES
+104;Statistiques.;Contenu;FORMATION ET DIPLOMES
+105;;Contenu;FORMATION ET DIPLOMES
+106;Physique : Mecanique, Physique Quantique et;Contenu;FORMATION ET DIPLOMES
+107;Statistique, Thermodynamique.;Contenu;FORMATION ET DIPLOMES
+108;;Contenu;FORMATION ET DIPLOMES
+109;Informatique;Contenu;FORMATION ET DIPLOMES
+110;;Contenu;FORMATION ET DIPLOMES
+111;-Disciplines Transversales : Gestion de_ projet,;Contenu;FORMATION ET DIPLOMES
+112;Economie generale, Langues;Contenu;FORMATION ET DIPLOMES
+113;;Contenu;FORMATION ET DIPLOMES
+114;Faculte des Sciences - Licence Mathematique;Contenu;FORMATION ET DIPLOMES
+115;2019-2021, Nancy;Contenu;FORMATION ET DIPLOMES
+116;;Contenu;FORMATION ET DIPLOMES
+117;Classe Preparatoire Universitaire : Ll et L2 de;Contenu;FORMATION ET DIPLOMES
+118;mathematiques, physique, informatique et anglais;Contenu;FORMATION ET DIPLOMES
+119;;Contenu;FORMATION ET DIPLOMES
+120;EXPERIENCES PROFESSIONNELLES;Section;EXPERIENCES PROFESSIONNELLES
+121;;Contenu;EXPERIENCES PROFESSIONNELLES
+122;Preparateur de commande chez Louis Vuitton;Contenu;EXPERIENCES PROFESSIONNELLES
+123;;Contenu;EXPERIENCES PROFESSIONNELLES
+124;Janvier 2022 - Fevrier 2022 , Cergy-Pontoise;Contenu;EXPERIENCES PROFESSIONNELLES
+125;Stage operateur dans l'un des entrepdts Louis;Contenu;EXPERIENCES PROFESSIONNELLES
+126;Vuitton de Cergy. Polyvalence des rdles du;Contenu;EXPERIENCES PROFESSIONNELLES
+127;magasinier entre les postes de  preparateur,;Contenu;EXPERIENCES PROFESSIONNELLES
+128;receptionniste et conditionneur des marchandises;Contenu;EXPERIENCES PROFESSIONNELLES
+129;;Contenu;EXPERIENCES PROFESSIONNELLES
+130;"Aide a l'organisation du cycle ""Sciences et";Contenu;EXPERIENCES PROFESSIONNELLES
+131;"Societe""";Contenu;EXPERIENCES PROFESSIONNELLES
+132;;Contenu;EXPERIENCES PROFESSIONNELLES
+133;Septembre 2020 - Juin 2021, Nancy;Contenu;EXPERIENCES PROFESSIONNELLES
+134;;Contenu;EXPERIENCES PROFESSIONNELLES
+135;e Participation a la logistique du cycle de;Contenu;EXPERIENCES PROFESSIONNELLES
+136;conferences: _https://conferences-sciences-et-;Contenu;EXPERIENCES PROFESSIONNELLES
+137;societe.univ-lorraine.fr/;Contenu;EXPERIENCES PROFESSIONNELLES
+138;;Contenu;EXPERIENCES PROFESSIONNELLES
+139;e Assistance technique et humaine lors du;Contenu;EXPERIENCES PROFESSIONNELLES
+140;deroulement des conferences;Contenu;EXPERIENCES PROFESSIONNELLES
+141;;Contenu;EXPERIENCES PROFESSIONNELLES
+142;PROJETS UNIVERSITAIRES;Section;PROJETS UNIVERSITAIRES
+143;;Contenu;PROJETS UNIVERSITAIRES
+144;Projet Recherche 2A - Institut Elie Cartan;Contenu;PROJETS UNIVERSITAIRES
+145;;Contenu;PROJETS UNIVERSITAIRES
+146;Septembre 2022 - En cours;Contenu;PROJETS UNIVERSITAIRES
+147;;Contenu;PROJETS UNIVERSITAIRES
+148;Etude du groupe des matrices de Pauli : Caracteres,;Contenu;PROJETS UNIVERSITAIRES
+149;representations et applications en informatique;Contenu;PROJETS UNIVERSITAIRES
+150;quantique.;Contenu;PROJETS UNIVERSITAIRES
+151;;Contenu;PROJETS UNIVERSITAIRES
+152;"Projet 1A - Fondation ""Main a la pate""";Contenu;PROJETS UNIVERSITAIRES
+153;;Contenu;PROJETS UNIVERSITAIRES
+154;Septembre 2021 - Mai 2022;Contenu;PROJETS UNIVERSITAIRES
+155;;Contenu;PROJETS UNIVERSITAIRES
+156;"Intervention dans le cadre du dispositif ""Main a la";Contenu;PROJETS UNIVERSITAIRES
+157;"pate"" : Presentations et experiences scientifiques en";Contenu;PROJETS UNIVERSITAIRES
+158;ecole primaire;Contenu;PROJETS UNIVERSITAIRES

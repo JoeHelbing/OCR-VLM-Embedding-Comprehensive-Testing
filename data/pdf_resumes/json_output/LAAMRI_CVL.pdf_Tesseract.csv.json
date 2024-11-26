@@ -1,0 +1,408 @@
+{
+    "Informations personnelles": [
+        {
+            "category": "Contenu",
+            "text": "Anis-Samy LAAMRI"
+        },
+        {
+            "category": "Contenu",
+            "text": "ELEVE-INGENIEUR EN"
+        },
+        {
+            "category": "Contenu",
+            "text": "2EME ANNEE"
+        }
+    ],
+    "PROFIL PERSONNEL": [
+        {
+            "category": "Section",
+            "text": "PROFIL PERSONNEL"
+        },
+        {
+            "category": "Contenu",
+            "text": "Je suis un eleve-ingenieur en gestion de"
+        },
+        {
+            "category": "Contenu",
+            "text": "production, supply chain et analyse de"
+        },
+        {
+            "category": "Contenu",
+            "text": "donnees a la recherche d'un stage de"
+        },
+        {
+            "category": "Contenu",
+            "text": "cesure dans ces domaines. a partir de"
+        },
+        {
+            "category": "Contenu",
+            "text": "Septembre 2023."
+        }
+    ],
+    "COMPETENCES TECHNIQUES": [
+        {
+            "category": "Section",
+            "text": "COMPETENCES TECHNIQUES"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Excel & VBA"
+        },
+        {
+            "category": "Contenu",
+            "text": "e CamL"
+        },
+        {
+            "category": "Contenu",
+            "text": "e R"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Python &C"
+        },
+        {
+            "category": "Contenu",
+            "text": "e LateX & Matlab"
+        },
+        {
+            "category": "Contenu",
+            "text": "e SQL & Pandas"
+        }
+    ],
+    "LANGUES": [
+        {
+            "category": "Section",
+            "text": "LANGUES"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Frangais : Langue Maternelle"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Anglais : Cl Cambridge Advanced"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Espagnol : Niveau B1"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Japonais : Niveau A2"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Arabe : Niveau Al"
+        }
+    ],
+    "COORDONNEES DE CONTACT": [
+        {
+            "category": "Section",
+            "text": "COORDONNEES DE CONTACT"
+        },
+        {
+            "category": "Contenu",
+            "text": "Adresse : 7 rue Gustave Charpentier, 54500,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Vandoeuvre-Les-Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "E-mail : a.laamri@outlook.fr"
+        },
+        {
+            "category": "Contenu",
+            "text": "Telephone : 06.09.86.21.03"
+        }
+    ],
+    "ACTIVITES EXTRASCOLAIRES": [
+        {
+            "category": "Section",
+            "text": "ACTIVITES EXTRASCOLAIRES"
+        },
+        {
+            "category": "Contenu",
+            "text": "Junior Entreprise Mines Services"
+        },
+        {
+            "category": "Contenu",
+            "text": "Octobre 2021 - En cours"
+        },
+        {
+            "category": "Contenu",
+            "text": "Charge d'affaires a la JE de I'Ecole des Mines de"
+        },
+        {
+            "category": "Contenu",
+            "text": "Nancy."
+        },
+        {
+            "category": "Contenu",
+            "text": "Prospection et accompagnement de clients sur"
+        },
+        {
+            "category": "Contenu",
+            "text": "des missions realisees par les eleves des Mines."
+        },
+        {
+            "category": "Contenu",
+            "text": "Basket-Ball"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Pratique au niveau departemental de 2006"
+        },
+        {
+            "category": "Contenu",
+            "text": "a 2018"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Champion Universitaire 2022."
+        },
+        {
+            "category": "Contenu",
+            "text": "e Entraineur et capitaine de Il'equipe de"
+        },
+        {
+            "category": "Contenu",
+            "text": "basket de I'Ecole des Mines de Nancy."
+        },
+        {
+            "category": "Contenu",
+            "text": "Membre du Bureau de Cinemines"
+        },
+        {
+            "category": "Contenu",
+            "text": "Juin 2022 - En cours"
+        },
+        {
+            "category": "Contenu",
+            "text": "Membre du bureau du club de cinema de"
+        },
+        {
+            "category": "Contenu",
+            "text": "I'Ecole des Mines de Nancy."
+        },
+        {
+            "category": "Contenu",
+            "text": "Choix du film, projection et discussion post-"
+        },
+        {
+            "category": "Contenu",
+            "text": "seance."
+        }
+    ],
+    "FORMATION ET DIPLOMES": [
+        {
+            "category": "Section",
+            "text": "FORMATION ET DIPLOMES"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ecole des Mines de Nancy - Ingenieur Civil"
+        },
+        {
+            "category": "Contenu",
+            "text": "Deuxieeme annee : Septembre 2022 - En"
+        },
+        {
+            "category": "Contenu",
+            "text": "cours"
+        },
+        {
+            "category": "Contenu",
+            "text": "Specialisation en ingenierie des systemes de"
+        },
+        {
+            "category": "Contenu",
+            "text": "production et de decision : Analyse de donnees,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Apprentissage Automatique, Optimisation,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Methodes Stochastiques pour la gestion de stock."
+        },
+        {
+            "category": "Contenu",
+            "text": "-Enseignements Manageriaux : Contrdele de Gestion,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Comptabilite, Calcul economique, Theorie des Jeux"
+        },
+        {
+            "category": "Contenu",
+            "text": "Premiere annee : Septembre 2021 - Juin"
+        },
+        {
+            "category": "Contenu",
+            "text": "2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "Etude des disciplines constituant le socle de base"
+        },
+        {
+            "category": "Contenu",
+            "text": "d'un ingenieur generaliste."
+        },
+        {
+            "category": "Contenu",
+            "text": "Mathematiques : Analyse Numerique, Probabilites,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Statistiques."
+        },
+        {
+            "category": "Contenu",
+            "text": "Physique : Mecanique, Physique Quantique et"
+        },
+        {
+            "category": "Contenu",
+            "text": "Statistique, Thermodynamique."
+        },
+        {
+            "category": "Contenu",
+            "text": "Informatique"
+        },
+        {
+            "category": "Contenu",
+            "text": "-Disciplines Transversales : Gestion de_ projet,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Economie generale, Langues, Macroeconomie"
+        },
+        {
+            "category": "Contenu",
+            "text": "Faculte des Sciences - Licence Mathematique"
+        },
+        {
+            "category": "Contenu",
+            "text": "2019-2021, Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Classe Preparatoire Universitaire : Ll et L2 de"
+        },
+        {
+            "category": "Contenu",
+            "text": "mathematiques, physique, informatique et anglais"
+        }
+    ],
+    "EXPERIENCES PROFESSIONNELLES": [
+        {
+            "category": "Section",
+            "text": "EXPERIENCES PROFESSIONNELLES"
+        },
+        {
+            "category": "Contenu",
+            "text": "Preparateur de commande chez Louis Vuitton"
+        },
+        {
+            "category": "Contenu",
+            "text": "Janvier 2022 - Fevrier 2022 , Cergy-Pontoise"
+        },
+        {
+            "category": "Contenu",
+            "text": "Stage operateur dans l'un des entrepdts Louis"
+        },
+        {
+            "category": "Contenu",
+            "text": "Vuitton de Cergy. Polyvalence des rdles du"
+        },
+        {
+            "category": "Contenu",
+            "text": "magasinier entre les postes de  preparateur,"
+        },
+        {
+            "category": "Contenu",
+            "text": "receptionniste et conditionneur des marchandises"
+        },
+        {
+            "category": "Contenu",
+            "text": "Aide a l'organisation du cycle \"Sciences et"
+        },
+        {
+            "category": "Contenu",
+            "text": "Societe\""
+        },
+        {
+            "category": "Contenu",
+            "text": "Septembre 2020 - Juin 2021, Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Participation a la logistique du cycle de"
+        },
+        {
+            "category": "Contenu",
+            "text": "conferences: _https://conferences-sciences-et-"
+        },
+        {
+            "category": "Contenu",
+            "text": "societe.univ-lorraine.fr/"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Assistance technique et humaine lors du"
+        },
+        {
+            "category": "Contenu",
+            "text": "deroulement des conferences"
+        }
+    ],
+    "PROJETS UNIVERSITAIRES": [
+        {
+            "category": "Section",
+            "text": "PROJETS UNIVERSITAIRES"
+        },
+        {
+            "category": "Contenu",
+            "text": "Projet Recherche 2A - Institut Elie Cartan"
+        },
+        {
+            "category": "Contenu",
+            "text": "Septembre 2022 - En cours"
+        },
+        {
+            "category": "Contenu",
+            "text": "Etude du groupe des matrices de Pauli : Caracteres,"
+        },
+        {
+            "category": "Contenu",
+            "text": "representations et applications en informatique"
+        },
+        {
+            "category": "Contenu",
+            "text": "quantique."
+        },
+        {
+            "category": "Contenu",
+            "text": "Projet 1A - Fondation \"Main a la pate\""
+        },
+        {
+            "category": "Contenu",
+            "text": "Septembre 2021 - Mai 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "Intervention dans le cadre du dispositif \"Main a la"
+        },
+        {
+            "category": "Contenu",
+            "text": "pate\" : Presentations et experiences scientifiques en"
+        },
+        {
+            "category": "Contenu",
+            "text": "ecole primaire"
+        }
+    ]
+}

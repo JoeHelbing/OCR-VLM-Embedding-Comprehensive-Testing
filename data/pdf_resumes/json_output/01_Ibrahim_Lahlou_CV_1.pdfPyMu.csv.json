@@ -1,0 +1,488 @@
+{
+    "Informations Personelles": [
+        {
+            "category": "Contenu",
+            "text": "Ibrahim LAHLOU"
+        },
+        {
+            "category": "Contenu",
+            "text": "Data Analyst , Big Data & Cloud"
+        },
+        {
+            "category": "Contenu",
+            "text": "O linkedin.com/in/ibrahim-lahlou-ild01"
+        },
+        {
+            "category": "Contenu",
+            "text": " github.com/IbLahlou"
+        },
+        {
+            "category": "Contenu",
+            "text": "u +212 07 77 61 51 31"
+        },
+        {
+            "category": "Contenu",
+            "text": "u ibrahimlahlou021@gmail.com"
+        },
+        {
+            "category": "Contenu",
+            "text": "H 2 Rue Chatillon , Belvedere , 20300 , Casablanca, Maroc"
+        },
+        {
+            "category": "Contenu",
+            "text": "E 23 ans , Ne a Oujda"
+        },
+        {
+            "category": "Contenu",
+            "text": "Future Ingenieur specialise en Data Science et Cloud Computing"
+        }
+    ],
+    "COMPETANCE": [
+        {
+            "category": "Section",
+            "text": "COMPETANCE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Frameworks"
+        },
+        {
+            "category": "Contenu",
+            "text": "Fast-api , Flask ,Django ,Java/JEE(mobile,web),Spring, React.js"
+        },
+        {
+            "category": "Contenu",
+            "text": "Databases"
+        },
+        {
+            "category": "Contenu",
+            "text": "MySQL,Google Bigquery, Sqlite, Microsoft SQL Server, redis"
+        },
+        {
+            "category": "Contenu",
+            "text": "Data Analysis & BI"
+        },
+        {
+            "category": "Contenu",
+            "text": "Talend,Airflow, SSAS , Power BI"
+        },
+        {
+            "category": "Contenu",
+            "text": "Data Science & AI"
+        },
+        {
+            "category": "Contenu",
+            "text": "Tensorflow,Pytorch,pandas,mlflow,statsmodel,DVC"
+        },
+        {
+            "category": "Contenu",
+            "text": "Outils DevOps"
+        },
+        {
+            "category": "Contenu",
+            "text": "JIRA Scrum,Git , Github Action , Docker , Terraform , Pytest , Grafana"
+        },
+        {
+            "category": "Contenu",
+            "text": "Industry Knowledge"
+        },
+        {
+            "category": "Contenu",
+            "text": "Webscraping,Time Series ,Geospatial Data ,Data mining ,Model Serving"
+        }
+    ],
+    "EXPERIENCES": [
+        {
+            "category": "Section",
+            "text": "a EXPERIENCES"
+        },
+        {
+            "category": "Contenu",
+            "text": "juil-23"
+        },
+        {
+            "category": "Contenu",
+            "text": "Model de Correction Orthographique| MLOps Jr Intern, 3D SMART FACTORY, Mohammadia"
+        },
+        {
+            "category": "Contenu",
+            "text": "Aout 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": " IbLahlou/SpellX"
+        },
+        {
+            "category": "Contenu",
+            "text": "Documentation et analyse des modeles de verification de donnees et d'orthographe."
+        },
+        {
+            "category": "Contenu",
+            "text": "Conception d'un pipeline pour un modele de NLP avec des metriques comme BLEU-N."
+        },
+        {
+            "category": "Contenu",
+            "text": "Conteneurisation et Deploiement de l'application Web Flask vers AWS avec Github Action"
+        },
+        {
+            "category": "Contenu",
+            "text": "JIRA"
+        },
+        {
+            "category": "Contenu",
+            "text": "Scrum"
+        },
+        {
+            "category": "Contenu",
+            "text": "Conda"
+        },
+        {
+            "category": "Contenu",
+            "text": "Pip"
+        },
+        {
+            "category": "Contenu",
+            "text": "Spello"
+        },
+        {
+            "category": "Contenu",
+            "text": "Transformers"
+        },
+        {
+            "category": "Contenu",
+            "text": "Flask"
+        },
+        {
+            "category": "Contenu",
+            "text": "Docker"
+        },
+        {
+            "category": "Contenu",
+            "text": "Github actions"
+        },
+        {
+            "category": "Contenu",
+            "text": "AWS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python logging"
+        },
+        {
+            "category": "Contenu",
+            "text": "Aout 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "Application Web Fullstack| Web Dev Junior Intern, WIKREAT, Casablanca"
+        },
+        {
+            "category": "Contenu",
+            "text": "sept-22"
+        },
+        {
+            "category": "Contenu",
+            "text": " IbLahlou/Lareact-backend"
+        },
+        {
+            "category": "Contenu",
+            "text": " IbLahlou/Lareact"
+        },
+        {
+            "category": "Contenu",
+            "text": "Developpement d'une api avec Laravel PHP avec l'architecture REST"
+        },
+        {
+            "category": "Contenu",
+            "text": "Developpement des Composants Frontends avec React.js et tester l'api avec postman"
+        },
+        {
+            "category": "Contenu",
+            "text": "Conception d'un tableau interactive avec data.table et jquery"
+        },
+        {
+            "category": "Contenu",
+            "text": "composer"
+        },
+        {
+            "category": "Contenu",
+            "text": "Laravel 7"
+        },
+        {
+            "category": "Contenu",
+            "text": "npm"
+        },
+        {
+            "category": "Contenu",
+            "text": "React.js"
+        },
+        {
+            "category": "Contenu",
+            "text": "Postman"
+        },
+        {
+            "category": "Contenu",
+            "text": "Data.table"
+        },
+        {
+            "category": "Contenu",
+            "text": "Jquery"
+        },
+        {
+            "category": "Contenu",
+            "text": "PHP"
+        },
+        {
+            "category": "Contenu",
+            "text": "Javascript"
+        },
+        {
+            "category": "Contenu",
+            "text": "Figma"
+        }
+    ],
+    "FORMATION": [
+        {
+            "category": "Section",
+            "text": "b FORMATION"
+        },
+        {
+            "category": "Contenu",
+            "text": "2024-2019"
+        },
+        {
+            "category": "Contenu",
+            "text": "Cycle d'ingenieur , Ingenieurie Data Science and Cloud Computing a l'ENSA Oujda"
+        },
+        {
+            "category": "Contenu",
+            "text": "2019"
+        },
+        {
+            "category": "Contenu",
+            "text": "Baccalaureat Scientifique option Science de la Chimie et de la Physique , Mention Tres Bien"
+        }
+    ],
+    "PROJETS": [
+        {
+            "category": "Section",
+            "text": "o PROJETS"
+        },
+        {
+            "category": "Contenu",
+            "text": "PIPELINE MLOPS POUR LA REGRESSION ELASTICNET"
+        },
+        {
+            "category": "Contenu",
+            "text": "2023"
+        },
+        {
+            "category": "Contenu",
+            "text": " IbLahlou/ElasticNet-model-e2e"
+        },
+        {
+            "category": "Contenu",
+            "text": "Le projet vise a optimiser un modele de regression Elastic-Net, en utilisant des principes de MLOps pour resoudre les"
+        },
+        {
+            "category": "Contenu",
+            "text": "problemes de Data Drift, et ce en automatisant l'ingestion de donnees, model serving et l'artifact tracking."
+        },
+        {
+            "category": "Contenu",
+            "text": "Conda"
+        },
+        {
+            "category": "Contenu",
+            "text": "Pip"
+        },
+        {
+            "category": "Contenu",
+            "text": "Git"
+        },
+        {
+            "category": "Contenu",
+            "text": "DVC"
+        },
+        {
+            "category": "Contenu",
+            "text": "Apache Airflow"
+        },
+        {
+            "category": "Contenu",
+            "text": "Sckitlearn"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gridsearch"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mlflow"
+        },
+        {
+            "category": "Contenu",
+            "text": "Terraform"
+        },
+        {
+            "category": "Contenu",
+            "text": "GCS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Flask"
+        },
+        {
+            "category": "Contenu",
+            "text": "ANALYSE DES ANOMALIES DANS LES DONNEES DE LOGS"
+        },
+        {
+            "category": "Contenu",
+            "text": "2023"
+        },
+        {
+            "category": "Contenu",
+            "text": " IbLahlou/Data-Log-analysis"
+        },
+        {
+            "category": "Contenu",
+            "text": "Le projet a pour objectif de detecter les anomalies dans les logs d'une application Web en utilisant une architecture"
+        },
+        {
+            "category": "Contenu",
+            "text": "maitre-esclave Hadoop, avec HBase et Flume, pour l'ingestion et l'analyse des donnees"
+        },
+        {
+            "category": "Contenu",
+            "text": "Bash"
+        },
+        {
+            "category": "Contenu",
+            "text": "Linux"
+        },
+        {
+            "category": "Contenu",
+            "text": "Git"
+        },
+        {
+            "category": "Contenu",
+            "text": "Flask"
+        },
+        {
+            "category": "Contenu",
+            "text": "Docker"
+        },
+        {
+            "category": "Contenu",
+            "text": "Hadoop"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python"
+        },
+        {
+            "category": "Contenu",
+            "text": "Java"
+        },
+        {
+            "category": "Contenu",
+            "text": "Flume"
+        },
+        {
+            "category": "Contenu",
+            "text": "Hbase"
+        },
+        {
+            "category": "Contenu",
+            "text": "Phoenix SQL"
+        },
+        {
+            "category": "Contenu",
+            "text": "Grafana"
+        },
+        {
+            "category": "Contenu",
+            "text": "ANALYSE DES DONNEES D'UN CAPTEUR DHT11"
+        },
+        {
+            "category": "Contenu",
+            "text": "2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ce pipeline automatise le flux de donnees de GCS a Looker, en incluant transfert et nettoyage via BigQuery, pour une"
+        },
+        {
+            "category": "Contenu",
+            "text": "utilisation strategique des donnees."
+        },
+        {
+            "category": "Contenu",
+            "text": "Bash"
+        },
+        {
+            "category": "Contenu",
+            "text": "Linux"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python"
+        },
+        {
+            "category": "Contenu",
+            "text": "IAM"
+        },
+        {
+            "category": "Contenu",
+            "text": "GCS"
+        },
+        {
+            "category": "Contenu",
+            "text": "GCF"
+        },
+        {
+            "category": "Contenu",
+            "text": "IAM"
+        },
+        {
+            "category": "Contenu",
+            "text": "Bigquery"
+        },
+        {
+            "category": "Contenu",
+            "text": "SQL"
+        },
+        {
+            "category": "Contenu",
+            "text": "Looker"
+        }
+    ],
+    " LANGUES": [
+        {
+            "category": "Section",
+            "text": " LANGUES"
+        },
+        {
+            "category": "Contenu",
+            "text": "Francais : Courant"
+        },
+        {
+            "category": "Contenu",
+            "text": "Anglais : Courant"
+        }
+    ],
+    "ACTIVITE PARASCOLAIRE": [
+        {
+            "category": "Section",
+            "text": "ACTIVITE PARASCOLAIRE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Data Science & IT Content Creator @ildodata"
+        },
+        {
+            "category": "Contenu",
+            "text": "Formateur Git et Github a GDSC d'ensa oujda"
+        }
+    ]
+}

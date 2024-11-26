@@ -1,0 +1,216 @@
+{
+    "Personal Informations": [
+        {
+            "category": "Contenu",
+            "text": "Mohamed MHAMDI"
+        },
+        {
+            "category": "Contenu",
+            "text": "J +33 07 68 38 93 84 in Mohamed MHAMDI  mohamed.mhamdi5@etu.univ-lorraine.fr"
+        }
+    ],
+    "EDUCATION": [
+        {
+            "category": "Section",
+            "text": "EDUCATION"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ecole Nationale Superieure des Mines de Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "2021 - Present"
+        },
+        {
+            "category": "Contenu",
+            "text": "Parcours Grandes ecoles - Departement Ingenierie Mathematique"
+        },
+        {
+            "category": "Contenu",
+            "text": "Cours du departement: Probabilites et processus stochastiques, Methodes Monte-Carlo, Equations aux"
+        },
+        {
+            "category": "Contenu",
+            "text": "derivees partielles, Statistiques, Apprentissage automatique, Deep learning, Analyse financiere"
+        },
+        {
+            "category": "Contenu",
+            "text": "Projets realises: Developpement d'une application mobile liee a des objects connectes, Controle"
+        },
+        {
+            "category": "Contenu",
+            "text": "optimal/optimisation en dimension infinie appliques a la micro natation."
+        },
+        {
+            "category": "Contenu",
+            "text": "Faculte de Droit, Sciences Economiques et Gestion de Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "2022 - Present"
+        },
+        {
+            "category": "Contenu",
+            "text": "M1 - M2 en economie de l'entreprise et des marches"
+        },
+        {
+            "category": "Contenu",
+            "text": "Cours de la formation: Microeconomie, Macroeconomie, Economie industrielle et strategies concurentielles,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Theorie et gestion financieres, Econometrie, Analyse du risque"
+        }
+    ],
+    "FORMATIONS ET CERTIFICATIONS": [
+        {
+            "category": "Section",
+            "text": "FORMATIONS ET CERTIFICATIONS"
+        },
+        {
+            "category": "Contenu",
+            "text": "- MOOC Gestion de projets de l'Ecole Centrale de Lille"
+        },
+        {
+            "category": "Contenu",
+            "text": " MOOC Marches financiers de l'Universite de Yale"
+        }
+    ],
+    "EXPERIENCE": [
+        {
+            "category": "Section",
+            "text": "EXPERIENCE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mines Services  Freelance"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mars 2024 - Present"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Assister une Auto-Entrepreneuse a la creation de son entreprise et a realiser un business plan en definissant un plan"
+        },
+        {
+            "category": "Contenu",
+            "text": "d'actions commerciales ainsi qu'un plan de financement."
+        },
+        {
+            "category": "Contenu",
+            "text": "Union bancaire pour le commerce et l'industrie  stage d'ete"
+        },
+        {
+            "category": "Contenu",
+            "text": "Aout 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Travailler au sein du service gestion des risques sur le traitement de dossiers de demande de prets bancaires"
+        },
+        {
+            "category": "Contenu",
+            "text": "personnels et professionnels."
+        },
+        {
+            "category": "Contenu",
+            "text": "Institut Elie Cartan de Lorraine  Stage de recherche"
+        },
+        {
+            "category": "Contenu",
+            "text": "Fevrier 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Etudier les algorithmes existants de generation d'entiers pseudo-aleatoires."
+        },
+        {
+            "category": "Contenu",
+            "text": ". Analyser et implementer les differentes methodes de simulations de variables aleatoires."
+        },
+        {
+            "category": "Contenu",
+            "text": "Completude  Job etudiant"
+        },
+        {
+            "category": "Contenu",
+            "text": "Septembre 2022 - Septembre 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": ". Donner des cours particuliers en mathematiques et en physique pour des eleves du lycee ainsi que des etudiants."
+        }
+    ],
+    "COMPETENCES": [
+        {
+            "category": "Section",
+            "text": "COMPETENCES"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python: Visualisation de donnees, algorithmique et connaissances des bibliotheques pour la recherche operationelle et"
+        },
+        {
+            "category": "Contenu",
+            "text": "I'apprentissage automatique et profond (Pyomo, Tensorflow, Keras et Scikit-learn)."
+        },
+        {
+            "category": "Contenu",
+            "text": "Matlab, R, SQL et VBA: Analyse numerique (resolution d'EDP, algebre lineaire et simulations) et l'analyse de"
+        },
+        {
+            "category": "Contenu",
+            "text": "donnees."
+        }
+    ],
+    "ACTIVITES EXTRA-SCOLAIRES": [
+        {
+            "category": "Section",
+            "text": "ACTIVITES EXTRA-SCOLAIRES"
+        },
+        {
+            "category": "Contenu",
+            "text": "Erasmus Student Network Benevole"
+        },
+        {
+            "category": "Contenu",
+            "text": "Accueil des etudiants internationaux et organisation d'activites, voyages et evenements pour eux."
+        },
+        {
+            "category": "Contenu",
+            "text": "Le pere Noel est un Rockeur  Membre et musicien"
+        },
+        {
+            "category": "Contenu",
+            "text": "Organiser un concert Rock de bienfaisance dont le but est d'offrir des jouets a des enfants defavorises pendant les fetes de"
+        },
+        {
+            "category": "Contenu",
+            "text": "Noel."
+        }
+    ],
+    "LANGUES": [
+        {
+            "category": "Section",
+            "text": "LANGUES"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Francais: Bilingue."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Anglais: C1 certifie par l'examen IELTS"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Arabe: Langue maternelle."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Allemand: B1 certifie par l'examen Goethe."
+        }
+    ]
+}

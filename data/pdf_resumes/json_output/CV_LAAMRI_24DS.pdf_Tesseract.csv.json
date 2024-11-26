@@ -1,0 +1,322 @@
+{
+    "SUMMARY": [
+        {
+            "category": "Section",
+            "text": "SUMMARY"
+        },
+        {
+            "category": "Contenu",
+            "text": "Student-engineer currently in a gap year before my final year of studies, looking for an internship abroad in a"
+        },
+        {
+            "category": "Contenu",
+            "text": "professional context to deepen my knowledge of Data Science. Driven by curiosity and the will to learn about state-"
+        },
+        {
+            "category": "Contenu",
+            "text": "of-the-art technologies, has a strong attention to detail and the ability to work collaboratively in team settings."
+        }
+    ],
+    "EDUCATION": [
+        {
+            "category": "Section",
+            "text": "EDUCATION"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ecole des Mines de Nancy, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Master of Engineering Degree in Applied Mathematics"
+        },
+        {
+            "category": "Contenu",
+            "text": "September 2021 - September 2025."
+        },
+        {
+            "category": "Contenu",
+            "text": "Relevant Coursework : Optimization, Data Analysis, Databases"
+        },
+        {
+            "category": "Contenu",
+            "text": "Modelization and Times Series, Machine Learning, Deep Learning"
+        },
+        {
+            "category": "Contenu",
+            "text": "Operational Research, Industrial Engineering"
+        },
+        {
+            "category": "Contenu",
+            "text": "Universite de Lorraine, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Bachelor of Sciences - Mathematics :"
+        },
+        {
+            "category": "Contenu",
+            "text": "September 2019 - June 2021"
+        },
+        {
+            "category": "Contenu",
+            "text": "Relevant Coursework : Linear & Bilinear Algebra, Calculus,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Real & Complex Analysis,Probabilitiy, Statistics, Computer Science"
+        }
+    ],
+    "SKILLS AND LANGUAGES": [
+        {
+            "category": "Section",
+            "text": "SKILLS AND LANGUAGES"
+        },
+        {
+            "category": "Contenu",
+            "text": "Technical Skills : Python, C, R, CamL, VBA, Latex, SQL, Pandas,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Tensorflow, Keras,Pytorch, Scikit-Learn, PowerBI, SAP, Jupyter"
+        },
+        {
+            "category": "Contenu",
+            "text": "Hard-Skills : Data science research methods, data modelling,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Regression analysis, Pattern and trend identification. Logistics"
+        },
+        {
+            "category": "Contenu",
+            "text": "Soft-Skills : Communication and public speaking, Teamwork &"
+        },
+        {
+            "category": "Contenu",
+            "text": "collaboration, Decision-Making, Time Management."
+        },
+        {
+            "category": "Contenu",
+            "text": "Languages: - French, Native."
+        },
+        {
+            "category": "Contenu",
+            "text": "- English, Cl Cambridge Advanced Certification."
+        },
+        {
+            "category": "Contenu",
+            "text": "- Spanish, Casual Conversation."
+        },
+        {
+            "category": "Contenu",
+            "text": "- Japanese, Notions."
+        },
+        {
+            "category": "Contenu",
+            "text": "- Arabic, Moroccan Dialect."
+        }
+    ],
+    "ACTIVITIES AND INTERESTS": [
+        {
+            "category": "Section",
+            "text": "ACTIVITIES AND INTERESTS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Basketball : 12 years in club at a regional level (2006-2018) :"
+        },
+        {
+            "category": "Contenu",
+            "text": "Captain of Mines Nancy's Team (2021-2023) :"
+        },
+        {
+            "category": "Contenu",
+            "text": "Played at a regional scale in Tours' Senior Team."
+        },
+        {
+            "category": "Contenu",
+            "text": "Literature / Reading: Essays of Philosophy ;"
+        },
+        {
+            "category": "Contenu",
+            "text": "Sociology, keen on French Theory."
+        },
+        {
+            "category": "Contenu",
+            "text": "Cinema : Member of the Bureau of the School's Association."
+        },
+        {
+            "category": "Contenu",
+            "text": "Attended to various movies' festivals (Villerupt, IRTS)."
+        },
+        {
+            "category": "Contenu",
+            "text": "Scientific lectures : Attendance, human and technical assistance"
+        },
+        {
+            "category": "Contenu",
+            "text": "to the \"Sciences et Societe\" conferences cycle."
+        }
+    ],
+    "PROFESSIONAL EXPERIENCE": [
+        {
+            "category": "Section",
+            "text": "PROFESSIONAL EXPERIENCE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Warehouse Engineer, Givenchy"
+        },
+        {
+            "category": "Contenu",
+            "text": "September 2023 - February 2024"
+        },
+        {
+            "category": "Contenu",
+            "text": "(Montbazon, France)"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Intern in charge of all outbound parcels leaving the warehouse"
+        },
+        {
+            "category": "Contenu",
+            "text": "and the various environnementals projects surrounding it."
+        },
+        {
+            "category": "Contenu",
+            "text": "e Establishment of various KPI built on PowerBI from data"
+        },
+        {
+            "category": "Contenu",
+            "text": "extraction from the WMS used in the warehouse."
+        },
+        {
+            "category": "Contenu",
+            "text": "e Economic and environnemental studies (vacuum rate, wedging...)"
+        },
+        {
+            "category": "Contenu",
+            "text": "of packaging to reduce the impact on the climate."
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Optimizastion of the warehouse's WMS database to improve the"
+        },
+        {
+            "category": "Contenu",
+            "text": "workflow of operations in tune with Givenchy's own ERP system."
+        },
+        {
+            "category": "Contenu",
+            "text": "Logistics Operator, Louis Vuitton"
+        },
+        {
+            "category": "Contenu",
+            "text": "January 2022 - February 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "(Cergy, France)"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Operator in charge of reception of new products at the central"
+        },
+        {
+            "category": "Contenu",
+            "text": "warehouse of Louis Vuitton in France."
+        },
+        {
+            "category": "Contenu",
+            "text": "e Handled the stocking of new products and the delivery for"
+        },
+        {
+            "category": "Contenu",
+            "text": "order preparation."
+        },
+        {
+            "category": "Contenu",
+            "text": "e Worked as an order preparator for E-Shopping and Retail"
+        },
+        {
+            "category": "Contenu",
+            "text": "stores, in charge of the personalized orders."
+        },
+        {
+            "category": "Contenu",
+            "text": "e Took part in all the outbound logistics of goods and ordrers,"
+        },
+        {
+            "category": "Contenu",
+            "text": "as well as forklift operation."
+        }
+    ],
+    "ACADEMICS PROJECTS": [
+        {
+            "category": "Section",
+            "text": "ACADEMICS PROJECTS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Research Project, Sophomore Year (Nancy, France)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Institut Elie Cartan de Lorraine, September 2022 - June 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Study on a particular field of algebra, representations theory"
+        },
+        {
+            "category": "Contenu",
+            "text": "with a focus on a specific group, the Pauli group, used in"
+        },
+        {
+            "category": "Contenu",
+            "text": "quantum computing."
+        },
+        {
+            "category": "Contenu",
+            "text": "e Redaction of a scientific paper, thesis defense and realization of"
+        },
+        {
+            "category": "Contenu",
+            "text": "a vulgarisation film on the subject."
+        },
+        {
+            "category": "Contenu",
+            "text": "\"Main a la pate\", Freshman Year (Nancy, France)"
+        },
+        {
+            "category": "Contenu",
+            "text": "September 2021 - June 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Intervention in elementa"
+        },
+        {
+            "category": "Contenu",
+            "text": "institution, created by Ge"
+        },
+        {
+            "category": "Contenu",
+            "text": "Prize)."
+        },
+        {
+            "category": "Contenu",
+            "text": "class within the \"Main a la Pate\""
+        },
+        {
+            "category": "Contenu",
+            "text": "rges Charpak (French Physics Nobel"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Presentations and experiments for 4th Grades to introduce science."
+        }
+    ]
+}

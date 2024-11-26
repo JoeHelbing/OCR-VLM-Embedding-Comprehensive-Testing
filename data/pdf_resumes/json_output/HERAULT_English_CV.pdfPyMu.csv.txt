@@ -1,0 +1,163 @@
+Florian Herault 
+ 
+Contact details: 
+* 
+Lieu-dit 1, La Roche Guet, 79700 St Amand-sur-Sevre - France 
+* 
+herault.florian79@gmail.com 
+* 
++33 6 37 16 24 92 
+* 
+https://fr.linkedin.com/in/florian-h%C3%A9rault-bb1b7a220 
+ 
+EDUCATION 
+ 
+2021-Present 
+ 
+ 
+ 
+  
+Ecole Nationale Superieure des Mines de Nancy, (France) 
+* 
+Major in Energy and Fluids: fluid mechanics, radiation and boundary layers, 
+numerical methods, thermodynamics, statistical physics, quantum physics, continuum 
+mechanics 
+* 
+Electives: advanced quantum mechanics, environment, biodiversity and sustainability, 
+environmental economics 
+* 
+Others: probabilities, data analysis, machine learning, IT, management ... 
+* 
+Projects:  
+ 
+Major project - Design and manufacture of a piezoelectric slab and adaptation of 
+the recovered energy to power a screen at Insitut Jean Lamour laboratory 
+(Nancy, France) - 
+ 
+Jig project at Georessources laboratory (Nancy, France): experimentation 
+project on a jjigging machine to separate two types of minerals according to their 
+features thanks to fluid dynamics. 
+ 
+Environment and sustainable development project - life cycle analysis, 
+environmental courses 
+ 
+2019-2021 
+Classes Preparatoires aux Grandes Ecoles 
+Lycee Georges Clemenceau, Nantes, (France) 
+A 2-year undergraduate program for preparation to national competitive exams for admission to 
+the most prestigious French graduate schools of engineering. Major in Advanced and Applied 
+Mathematics, Computer Science & Physics, Engineering Science 
+* 
+Project: Study of the stability of a tank truck according to the shape of its tank.  
+ 
+Study of fluid mechanics and building of what needed to perform the experiments  
+ 
+Construction of a miniature tank truck which can move at a constant acceleration 
+speed.  
+ 
+First experiment with coloured fluid which was filmed. Goal: to study the evolution of 
+the barycentre according to the time and the acceleration thanks to image processing 
+on the films 
+ 
+Second experiment to study the pressure forces on the sidewalls of the tank thanks 
+to pressure captors and accelerometers.  
+ 
+Variation of the acceleration to obtain curves representing the movement of the 
+barycentre or points.  
+ 
+Numerical fluid simulations to compare the results of pressures forces and 
+barycentre evolution with the experiments to find the best shape for the tank. 
+July 2019 
+French Baccalaureat in Sciences/Mathematics  
+Lycee Notre Dame de la Tourteliere, Pouzauges, Vendee (France) 
+French Baccalaureat in Science: Mathematics, Physics, Biology (high school leaving diploma), 
+passed with Distinction 
+ 
+WORK EXPERIENCE 
+2021-2022 
+Summer job at Batistyl, Maulevrier, France 
+Duties: reception, sorting and storage of aluminum bars for window production. 
+Developed technical skills and ability to adapt, trained and managed the company's newcomers 
+ 
+ 
+Jan.-Feb.2022 
+Internship as a factory operator at Tell Systems, Maulevrier, France  
+Duties:  
+* 
+Manufacture of aluminum parts, PVC, etc. by turning and milling 
+* 
+Deburring and quality control of parts 
+* 
+Gained rigour and efficiency while being introduced to the industry world and its 
+organization 
+ 
+Jul.-Aug. 2019 
+Summer job as a Farm labourer Saint Mars La Reorthe, France 
+Duties: picking up duck eggs and inseminating female ducks  
+Introduction to the world of work and its requirements. 
+ 
+VOLUNTEER WORK 
+2022-2023 
+HumaMines - Event division, Nancy, France 
+HumaMines is a non-profit student organization which organizes charity events in order to earn 
+money or material goods for persons in need, or to raise awareness about issues that people 
+can suffer from 
+Duties: Handling the logistics side prior to an event, and responsible for the smooth running of 
+all aspects on the day. 
+ 
+2022-2023 
+Coach of the football team of Mines Nancy Nancy, France 
+Duties: Organising women's and men's team practice and training teams and players. Select 
+players for student competitions. 
+ 
+2022-2023 
+Restos du coeur Nancy, France 
+Recognised national French charity, which aims to help and provide voluntary assistance to the 
+people in need, providing free meals and participating in their social and economic integration. 
+Duties: Weekly meal distribution to students in need. 
+ 
+2021-2022 
+TEDxMinesNancy - partnership division, Nancy, France 
+TEDx is a grassroots initiative, created in the spirit of TED's overall mission to research and 
+discover "ideas worth spreading." TEDx brings the spirit of TED to local communities around the 
+globe through TEDx events. Mines Nancy organises an annual one-day event on the college 
+premises. The event is open to the public and welcomes hundreds of people to conferences, 
+talks, interactive exhibitions on a chosen theme. 
+Duties: Searching for partners and canvassing by e-mail, telephone calls and direct contact in 
+Companies. 
+ 
+LANGUAGES 
+ 
+* 
+French: Mother tongue 
+* 
+English: Fluent/C1 (Cambridge Certification in Advanced English, Grade C, 06/2022)  
+* 
+Spanish: Intermediary/B2 (SIELE Certification: score 741/1000, 02/2023) 
+* 
+Portuguese: Beginner A2/B1 
+ 
+SKILLS 
+Knowledge of first aid procedures: 
+* 
+SST in 2022 (Health and safety at work certification)  
+* 
+PSC1 in 2019 (first aid, Basic Life Supports, CardioPulmonary Resuscitation, Automated External 
+Defibrillator certification) 
+ 
+IT skills:  
+* 
+Python, Matlab, SQL, R, Fortran 
+ 
+Project management: 
+* 
+Mooc Project management Certification (https://certification.gestiondeprojet.pm/GdP18A/GdP18a-
+MiLWzCKAC.pdf) 
+ 
+PERSONAL INTERESTS AND CLUBS 
+* 
+Football practice since 6 y-o 
+* 
+Running 
+* 
+Woodwork 

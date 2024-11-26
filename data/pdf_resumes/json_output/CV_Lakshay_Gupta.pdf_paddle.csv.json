@@ -1,0 +1,256 @@
+{
+    "PERSONAL INFORMATIONS": [
+        {
+            "category": "Contenu",
+            "text": "LAKSHAY GUPTA"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ghaziabad, Uttar Pradesh"
+        },
+        {
+            "category": "Contenu",
+            "text": "917 318 919 774"
+        },
+        {
+            "category": "Contenu",
+            "text": " iamlakshay04@gmail.com"
+        },
+        {
+            "category": "Contenu",
+            "text": " in LinkedIn Profile"
+        }
+    ],
+    "Education": [
+        {
+            "category": "Section",
+            "text": "Education"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ajay Kumar Garg Engineering College"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ghaziabad, Uttar Pradesh"
+        },
+        {
+            "category": "Contenu",
+            "text": "Bachelor in Computer Science and Engineering (Data Science) - 8.5/10"
+        },
+        {
+            "category": "Contenu",
+            "text": "2022-Present"
+        },
+        {
+            "category": "Contenu",
+            "text": "K.C.M School - CBSE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Moradabad, Uttar Pradesh"
+        },
+        {
+            "category": "Contenu",
+            "text": "Intermediate - 94.5"
+        },
+        {
+            "category": "Contenu",
+            "text": "2019 - 2022"
+        }
+    ],
+    "Experience": [
+        {
+            "category": "Section",
+            "text": "Experience"
+        },
+        {
+            "category": "Contenu",
+            "text": "Software Incubator - Software Development Center."
+        },
+        {
+            "category": "Contenu",
+            "text": "Nov 2023 - Present"
+        },
+        {
+            "category": "Contenu",
+            "text": "Developer"
+        },
+        {
+            "category": "Contenu",
+            "text": "India"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Working as a Backend Developer with 45 other members for Technical activities and maintaining projects.."
+        },
+        {
+            "category": "Contenu",
+            "text": ": Collaborated with cross-functional teams, including frontend developers and designers, to implement new features.."
+        },
+        {
+            "category": "Contenu",
+            "text": "Programming Club"
+        },
+        {
+            "category": "Contenu",
+            "text": "Oct 2023-Present"
+        },
+        {
+            "category": "Contenu",
+            "text": "Member"
+        },
+        {
+            "category": "Contenu",
+            "text": "India"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Promote Programming Culture in the College by conducting workshops on competitive programming.."
+        },
+        {
+            "category": "Contenu",
+            "text": ": Engage in group problem-solving sessions, enhancing teamwork and communication skills while tackling"
+        },
+        {
+            "category": "Contenu",
+            "text": "complex coding problems."
+        }
+    ],
+    "Projects": [
+        {
+            "category": "Section",
+            "text": "Projects"
+        },
+        {
+            "category": "Contenu",
+            "text": "Justice Link | Flutter, NodeJS, MongoDB, ExpressJS |OGithub"
+        },
+        {
+            "category": "Contenu",
+            "text": "December 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "Made the award winning project for SIH - 2023."
+        },
+        {
+            "category": "Contenu",
+            "text": ": Worked with team of 6 individuals to develop technology-driven solution addressing the challenges faced by undertrial"
+        },
+        {
+            "category": "Contenu",
+            "text": "prisoners in India"
+        },
+        {
+            "category": "Contenu",
+            "text": ": A comprehensive Business plan outlining feasibility, sustainability, and scalability along with Financial projections,."
+        },
+        {
+            "category": "Contenu",
+            "text": "marketing strategies, and user acquisition plans."
+        },
+        {
+            "category": "Contenu",
+            "text": "Soundly | Django, React Js, Figma | OGithub"
+        },
+        {
+            "category": "Contenu",
+            "text": "November 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Made the REST APIs and complete backend from scratch of music listening Application using Django Rest Framework.."
+        },
+        {
+            "category": "Contenu",
+            "text": ": OTP based authentication system."
+        },
+        {
+            "category": "Contenu",
+            "text": ": Advanced search based on music title, artist, language, mood, and genre.."
+        },
+        {
+            "category": "Contenu",
+            "text": "CF Scrapper | Django, Jinga, Bootstrap | OGithub"
+        },
+        {
+            "category": "Contenu",
+            "text": "December 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Build a web application with Flask that allows users to get all Codeforces submissions of two users and see the question."
+        },
+        {
+            "category": "Contenu",
+            "text": "not done by other users."
+        },
+        {
+            "category": "Contenu",
+            "text": ": Shows Codeforces submissions for each user and displays them in a sorted manner based on the contest ID and problem."
+        },
+        {
+            "category": "Contenu",
+            "text": "code."
+        }
+    ],
+    "Skills": [
+        {
+            "category": "Section",
+            "text": "Skills"
+        },
+        {
+            "category": "Contenu",
+            "text": "Languages: C/C++, Python"
+        },
+        {
+            "category": "Contenu",
+            "text": "Technologies/Frameworks/Libraries: Django, DRF, Flutter."
+        },
+        {
+            "category": "Contenu",
+            "text": "Databases: SQLite3, PostgreSQL"
+        },
+        {
+            "category": "Contenu",
+            "text": "Others: GIT, AWS, Nginx,Docker"
+        }
+    ],
+    "Profile Links": [
+        {
+            "category": "Section",
+            "text": "Profile Links"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Codeforces - Pupil : Max Rating 1200+  Profile"
+        },
+        {
+            "category": "Contenu",
+            "text": ". Codechef - 3 : Max Rating 1600+ - Profile"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Leetcode - Solved over 200 Questions - Profile"
+        }
+    ],
+    "Achievements": [
+        {
+            "category": "Section",
+            "text": "Achievements"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Winner Smart India Hackathon 2023, organised by Government of India.."
+        },
+        {
+            "category": "Contenu",
+            "text": "Highest rating of 1225 at Codeforces,and 1622 at Codechef."
+        },
+        {
+            "category": "Contenu",
+            "text": ": Secured the 1st position out of 500+ participants in coding contest CIN>PC at AKGEC, Ghaziabad."
+        }
+    ]
+}

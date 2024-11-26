@@ -1,0 +1,392 @@
+{
+    "Personal Informations": [
+        {
+            "category": "Contenu",
+            "text": "Victor Hoffmann"
+        },
+        {
+            "category": "Contenu",
+            "text": " +33 6 35 78 90 00"
+        },
+        {
+            "category": "Contenu",
+            "text": "Master's degree in Data Science"
+        },
+        {
+            "category": "Contenu",
+            "text": "# victor.hoffmann@polytechnique.edu"
+        },
+        {
+            "category": "Contenu",
+            "text": "Institut Polytechnique de Paris"
+        },
+        {
+            "category": "Contenu",
+            "text": "SS VictorHoffmann1 (GitHub)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ecole des Mines de Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "i victor-hoffmann-ai (LinkedIn)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Seeking for a PhD in Computer Vision"
+        }
+    ],
+    "Experience": [
+        {
+            "category": "Section",
+            "text": "Experience"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Computer Vision Research Intern"
+        },
+        {
+            "category": "Contenu",
+            "text": "April 2024 - present"
+        },
+        {
+            "category": "Contenu",
+            "text": "SONY EUROPE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Schlieren, Switzerland"
+        },
+        {
+            "category": "Contenu",
+            "text": "Basic algorithm research with event-based vision sensor technology."
+        },
+        {
+            "category": "Contenu",
+            "text": "Development and implementation of computer vision and sensor fusion algorithms on real-time platforms."
+        },
+        {
+            "category": "Contenu",
+            "text": "Implementation of proof-of-concept demonstrators with novel cameras and devices from robotics area."
+        },
+        {
+            "category": "Contenu",
+            "text": "Support establishment of a R&D infrastructure which facilitates teamwork for research & development"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Deep Learning Research Intern"
+        },
+        {
+            "category": "Contenu",
+            "text": "June 2023 - August 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "LORIA (Computer Science Research Laboratory)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Nancy, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Led the first AI-based extraction of mechanical curves from fiber composites using only microstructure images,"
+        },
+        {
+            "category": "Contenu",
+            "text": "making the extraction 500 times faster while maintaining a 1% relative error."
+        },
+        {
+            "category": "Contenu",
+            "text": "Created a multi-task computer vision model, combining Equivariant CNNs & LSTMs."
+        },
+        {
+            "category": "Contenu",
+            "text": "Collaborated with research teams at LEMTA (Physics Research Laboratory)."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Machine Learning Research Intern"
+        },
+        {
+            "category": "Contenu",
+            "text": "October 2022 - June 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "INRIA (Computer Science & Mathematics Research Laboratory)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Nancy, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Addressed fragmentation challenges. Lowered the prediction error by 63% and improved robustness by 70%."
+        },
+        {
+            "category": "Contenu",
+            "text": "Gathered and preprocessed data (Outlier Management, Gaussian Transformation, Feature Selection, etc.) then"
+        },
+        {
+            "category": "Contenu",
+            "text": "stacked fine-tuned regressors (MLP, XGBoost, SVR, ElasticNet). Estimated uncertainty of Neural Network pre-"
+        },
+        {
+            "category": "Contenu",
+            "text": "dictions using Bayesian methods (Monte Carlo Dropout)."
+        },
+        {
+            "category": "Contenu",
+            "text": "Publications"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Deep Learning Approaches for DMA of Viscoelastic Fiber Composites, ArXiV PrePrint"
+        },
+        {
+            "category": "Contenu",
+            "text": "October 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Machine Learning Techniques for Fragmentation Problems, HAL PrePrint (French)"
+        },
+        {
+            "category": "Contenu",
+            "text": "June 2023"
+        }
+    ],
+    "Education": [
+        {
+            "category": "Section",
+            "text": "Education"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Master Year 2 Data Science"
+        },
+        {
+            "category": "Contenu",
+            "text": "2023-present"
+        },
+        {
+            "category": "Contenu",
+            "text": "Institut Polytechnique de Paris (Ecole Polytechnique, Telecom Paris, ENSAE & ENSTA)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Palaiseau, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Relevant Coursework: Computer Vision (CNNs, ViT, Transfer Learning, Self-Supervised Learning), NLP (Trans-"
+        },
+        {
+            "category": "Contenu",
+            "text": "formers, Pre-Training & Fine-Tuning LLMs), Generative AI (VAEs, GANs, Diffusion Models, Disentanglement),"
+        },
+        {
+            "category": "Contenu",
+            "text": "Reinforcement Learning (Q-Learning, DQN, Rainbow), Graphs, Online Learning, Optimization, Causal Inference."
+        },
+        {
+            "category": "Contenu",
+            "text": "* MEng / Diplome d'Ingenieur"
+        },
+        {
+            "category": "Contenu",
+            "text": "2021-present"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ecole des Mines de Nancy, Universite de Lorraine"
+        },
+        {
+            "category": "Contenu",
+            "text": "Nancy, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Relevant Coursework: Statistics, Machine Learning, Algorithms & Data Structures, Image Processing & Analysis,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Monte Carlo Methods, Time Series, Markov Chains, Finite Element Methods, PDEs."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Classes Preparatoires aux Grandes Ecoles (CPGE)"
+        },
+        {
+            "category": "Contenu",
+            "text": "2019-2021"
+        },
+        {
+            "category": "Contenu",
+            "text": "Lycee Kleber, Universite de Strasbourg"
+        },
+        {
+            "category": "Contenu",
+            "text": "Strasbourg, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Undergraduated studies to prepare for competitive nationwide entry exams to french engineering schools."
+        },
+        {
+            "category": "Contenu",
+            "text": "Relevant Coursework: Linear Algebra, Calculus, Probabilities, Functional Analysis, Signal Processing."
+        }
+    ],
+    "Technicall Skills": [
+        {
+            "category": "Section",
+            "text": "Technical Skills"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Programming Languages: Python, C/C+"
+        },
+        {
+            "category": "Contenu",
+            "text": "+, SQL, R, MATLAB, VBA"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Python Libraries: PyTorch, TensorFlow, NumPy, Scikit-Learn, OpenCV, Pandas, SciPy, Matplotlib, River"
+        }
+    ],
+    "Languages": [
+        {
+            "category": "Section",
+            "text": "Languages"
+        },
+        {
+            "category": "Contenu",
+            "text": "French: Mother Tongue | English: C1 (IELTS 8/9) | German: C1 (Goethe Zertifikat 16/20)"
+        }
+    ],
+    "Projects / Challenges": [
+        {
+            "category": "Section",
+            "text": "Projects / Challenges"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Personal Projects"
+        },
+        {
+            "category": "Contenu",
+            "text": "Real-Time Depth Estimation with Monocular Camera. Applied MiDaS to the depth estimation of a room."
+        },
+        {
+            "category": "Contenu",
+            "text": "Vehicle Recognition for Smart Cities. Employed YOLOv8 and ByteTrack models to enhance traffic management."
+        },
+        {
+            "category": "Contenu",
+            "text": "Real-Time Segmentation for Biomedical Imaging. Applied FastSAM model to Real-Time MRI Brain Scans."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Data Challenges & AI Hackathons"
+        },
+        {
+            "category": "Contenu",
+            "text": "Hi!ckathon 4th edition, Hi! Paris: Won Capgemini's Best Scientific Approach Award."
+        },
+        {
+            "category": "Contenu",
+            "text": "Real Estate Price Prediction (Multi-Modal: Images + Tables), ENS Data Challenge, 2022, Rank: 9th/172."
+        },
+        {
+            "category": "Contenu",
+            "text": "Return Forecasting of Cryptocurrency Clusters, ENS Data Challenge, 2022, Rank: 11th/51."
+        }
+    ],
+    "Positions of Responsibility": [
+        {
+            "category": "Section",
+            "text": "Positions of Responsibility"
+        },
+        {
+            "category": "Contenu",
+            "text": "* President, Music Club, Ecole des Mines de Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "2022-2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "Created a music room on school site."
+        },
+        {
+            "category": "Contenu",
+            "text": "Supervized over 80 students, coordinated and facilitated the identification of playing partners, rehearsal schedules."
+        },
+        {
+            "category": "Contenu",
+            "text": "Organized 10 concerts among different locations."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Treasurer, Enactus: Carton Solid'air Project"
+        },
+        {
+            "category": "Contenu",
+            "text": "2021-2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "Improved the project's profitability by 16% by reducing costs and production time."
+        },
+        {
+            "category": "Contenu",
+            "text": "Entrepreneurial project focused on the collection, design, and sale of cardboard items with a strong commitment"
+        },
+        {
+            "category": "Contenu",
+            "text": "to sustainability and solidarity."
+        }
+    ],
+    "Hobbies and Interests": [
+        {
+            "category": "Section",
+            "text": "Hobbies and Interests"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Music: Leading a jazz quartet. Advanced piano improvisation. Played 19 concerts across France."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Sports: 5 years of bodybuilding, 7 years of running, 5 years of golf (green card)."
+        }
+    ],
+    "Additional Certifications": [
+        {
+            "category": "Section",
+            "text": "Additional Certifications"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Online Course in Project Management, Ecole Centrale de Lille, France."
+        },
+        {
+            "category": "Contenu",
+            "text": "2021"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Introductory Aeronautics Certificate, Lycee Kleber, Strasbourg."
+        },
+        {
+            "category": "Contenu",
+            "text": "2017"
+        }
+    ]
+}

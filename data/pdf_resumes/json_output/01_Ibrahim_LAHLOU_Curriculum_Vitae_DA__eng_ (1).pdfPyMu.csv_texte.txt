@@ -1,0 +1,105 @@
+IBRAHIM LAHLOU
+End of Studies internship | Starting February
+[ ibrahimlahlou021@gmail.com
+O +212 07 77 61 51 31
+ 1/2  Morocco, Casablanca
+in/ibrahim-lahlou-ab09861ba
+ github.com/IbLahlou
+ACHIEVEMENTS
+3
+Participation in MNPC 22
+National Moroccan Programming
+Competition held at 1337 Khouribga.
+Problem Solving
+Code Optimization
+nan
+Participation in several activities
+* Basmat al aid (ENSAO solidarity)
+* Science Festival (MDSO)
+* Grand Debate of Oujda (ENCGO)
+* Git and GitHub Course Session
+* NASA Space App Challenge
+SKILLS
+DevOps
+* Git, GitHub Actions, Pytest
+* Cloud Services: GCP, AWS
+* Docker and Kubernetes
+Machine Learning
+* Models: LSTM , CNN
+* ML Tools: Tensorflow ,PyTorch, MLflow
+Data Engineering and Analysis
+* Relational Databases: MySQL, SQL Server
+* NoSQL Databases: Redis, BigQuery
+* Big Data Tools: Airflow, Dataproc
+* Data Visualization: Power BI, Looker
+Application Development
+* Frontend: HTML, CSS, JS, Vite + React.js
+* Backend: Python (Flask, Django), Java, PHP
+CERTIFICATIONS
+Intro to Agile Development and Scrum
+Neural Networks and Deep Learning
+GCP Baseline Infrastructure
+LANGUAGES
+English
+Fluent
+French
+Fluent
+Arabic
+Native
+EDUCATION
+Data Science and Cloud Computing Engineering
+ENSA Oujda | Mohammed First University
+ September 2021 - Present
+ 1/2  Oujda, Oriental
+Preparatory Cycle (Science and Engineering)
+ENSA Oujda | Mohammed First University
+ September 2019 - June 2021
+ 1/2  Oujda, Oriental
+EXPERIENCE
+MLOps Application Internship using NLP
+3D Smart Factory
+ July 2023-September 2023
+ 1/2  Morocco, Mohammadia
+* Analysis of data verification and spelling models.
+* Design of a pipeline for an NLP model with metrics.
+* Development and deployment of a web interface with Flask.
+* Github URL: IbLahlou/SpellX
+Docker
+Scrum
+Python
+Flask
+AWS
+DVC
+PERSONAL PROJECTS
+Analysis of Web Application Log Data
+Big Data Project
+(ongoing)
+* Installation and configuration of Hadoop master-slave architecture.
+* Configuration of Flume for log data ingestion into HBase.
+* Github URL: IbLahlou/Data-Log-analysis
+Docker
+Hadoop
+Flume
+HBase
+Python
+InfluxDB
+Grafana
+MLOps Pipeline for ElasticNet Regression
+Data Mining and MLOps Project
+* Incremental data ingestion to Google Cloud Storage.
+* Continuous integration, deployment,& training of the model & application.
+* Github URL: IbLahlou/ElasticNet-model-e2e
+Python
+GCP
+Airflow
+Docker
+Flask
+Scikit-learn
+MLflow
+Other Projects:
+* Statistical Project | Stochastic Modeling for Regression | Link
+* Geospatial Analysis Project using Spatial Autoregressive Model | Link
+* IoT Project | Food Preservation Service | Link
+* Prototype of Backends for Frontends with GraphQL | Link
+* Web Project | Development of an E-Commerce application with PHP and
+Wordpress

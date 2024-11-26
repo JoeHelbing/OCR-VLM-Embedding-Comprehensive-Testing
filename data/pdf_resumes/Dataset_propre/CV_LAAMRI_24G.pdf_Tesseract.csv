@@ -1,0 +1,122 @@
+﻿;Texte;Catégorie;Sections
+0;SUMMARY;Section;SUMMARY
+1;Student-engineer currently in a gap year before my final year of studies, looking for an internship abroad in a;Contenu;SUMMARY
+2;professional context to deepen my knowledge of Data Analytics. Driven by curiosity and the will to learn about state-;Contenu;SUMMARY
+3;of-the-art technologies, has a strong attention to detail and the ability to work collaboratively in team settings.;Contenu;SUMMARY
+4;;Contenu;SUMMARY
+5;EDUCATION;Section;EDUCATION
+6;;Contenu;EDUCATION
+7;Ecole des Mines de Nancy, France;Contenu;EDUCATION
+8;;Contenu;EDUCATION
+9;Master of Engineering Degree in Applied Mathematics;Contenu;EDUCATION
+10;September 2021 - September 2025.;Contenu;EDUCATION
+11;;Contenu;EDUCATION
+12;Relevant Coursework : Optimization, Data Analysis, Databases;Contenu;EDUCATION
+13;Modelization and Times Series, Machine Learning, Deep Learning;Contenu;EDUCATION
+14;Operational Research, Industrial Engineering;Contenu;EDUCATION
+15;;Contenu;EDUCATION
+16;Universite de Lorraine, France;Contenu;EDUCATION
+17;;Contenu;EDUCATION
+18;Bachelor of Sciences - Mathematics :;Contenu;EDUCATION
+19;;Contenu;EDUCATION
+20;September 2019 - June 2021;Contenu;EDUCATION
+21;;Contenu;EDUCATION
+22;Relevant Coursework : Linear & Bilinear Algebra, Calculus,;Contenu;EDUCATION
+23;;Contenu;EDUCATION
+24;Real & Complex Analysis,Probabilitiy, Statistics, Computer Science;Contenu;EDUCATION
+25;;Contenu;EDUCATION
+26;SKILLS AND LANGUAGES;Section;SKILLS AND LANGUAGES
+27;;Contenu;SKILLS AND LANGUAGES
+28;Technical Skills : Python, C, R, CamL, VBA, Latex, SQL, Pandas,;Contenu;SKILLS AND LANGUAGES
+29;Tensorflow, Keras,Pytorch, Scikit-Learn, PowerBI, SAP, Jupyter;Contenu;SKILLS AND LANGUAGES
+30;;Contenu;SKILLS AND LANGUAGES
+31;Hard-Skills : Data science research methods, data modelling,;Contenu;SKILLS AND LANGUAGES
+32;Regression analysis, Pattern and trend identification. Logistics;Contenu;SKILLS AND LANGUAGES
+33;;Contenu;SKILLS AND LANGUAGES
+34;Soft-Skills : Communication and public speaking, Teamwork &;Contenu;SKILLS AND LANGUAGES
+35;collaboration, Decision-Making, Time Management.;Contenu;SKILLS AND LANGUAGES
+36;Languages: - French, Native.;Contenu;SKILLS AND LANGUAGES
+37;;Contenu;SKILLS AND LANGUAGES
+38;- English, Cl Cambridge Advanced Certification.;Contenu;SKILLS AND LANGUAGES
+39;- Spanish, Casual Conversation.;Contenu;SKILLS AND LANGUAGES
+40;;Contenu;SKILLS AND LANGUAGES
+41;- Japanese, Notions.;Contenu;SKILLS AND LANGUAGES
+42;;Contenu;SKILLS AND LANGUAGES
+43;- Arabic, Moroccan Dialect.;Contenu;SKILLS AND LANGUAGES
+44;;Contenu;SKILLS AND LANGUAGES
+45;ACTIVITIES AND INTERESTS;Section;ACTIVITIES AND INTERESTS
+46;;Contenu;ACTIVITIES AND INTERESTS
+47;Basketball : 12 years in club at a regional level (2006-2018) :;Contenu;ACTIVITIES AND INTERESTS
+48;Captain of Mines Nancy's Team (2021-2023) :;Contenu;ACTIVITIES AND INTERESTS
+49;Played at a regional scale in Tours' Senior Team.;Contenu;ACTIVITIES AND INTERESTS
+50;;Contenu;ACTIVITIES AND INTERESTS
+51;"Literature / Reading: Essays of Philosophy ;";Contenu;ACTIVITIES AND INTERESTS
+52;Sociology, keen on French Theory.;Contenu;ACTIVITIES AND INTERESTS
+53;;Contenu;ACTIVITIES AND INTERESTS
+54;Cinema : Member of the Bureau of the School's Association.;Contenu;ACTIVITIES AND INTERESTS
+55;Attended to various movies' festivals (Villerupt, IRTS).;Contenu;ACTIVITIES AND INTERESTS
+56;;Contenu;ACTIVITIES AND INTERESTS
+57;Scientific lectures : Attendance, human and technical assistance;Contenu;ACTIVITIES AND INTERESTS
+58;"to the ""Sciences et Societe"" conferences cycle.";Contenu;ACTIVITIES AND INTERESTS
+59;;Contenu;ACTIVITIES AND INTERESTS
+60;PROFESSIONAL EXPERIENCE;Section;PROFESSIONAL EXPERIENCE
+61;;Contenu;PROFESSIONAL EXPERIENCE
+62;Warehouse Engineer, Givenchy;Contenu;PROFESSIONAL EXPERIENCE
+63;September 2023 - February 2024;Contenu;PROFESSIONAL EXPERIENCE
+64;;Contenu;PROFESSIONAL EXPERIENCE
+65;(Montbazon, France);Contenu;PROFESSIONAL EXPERIENCE
+66;;Contenu;PROFESSIONAL EXPERIENCE
+67;e Intern in charge of all outbound parcels leaving the warehouse;Contenu;PROFESSIONAL EXPERIENCE
+68;and the various environnementals projects surrounding it.;Contenu;PROFESSIONAL EXPERIENCE
+69;;Contenu;PROFESSIONAL EXPERIENCE
+70;e Establishment of various KPI built on PowerBI from data;Contenu;PROFESSIONAL EXPERIENCE
+71;extraction from the WMS used in the warehouse.;Contenu;PROFESSIONAL EXPERIENCE
+72;;Contenu;PROFESSIONAL EXPERIENCE
+73;e Economic and environnemental studies (vacuum rate, wedging...);Contenu;PROFESSIONAL EXPERIENCE
+74;of packaging to reduce the impact on the climate.;Contenu;PROFESSIONAL EXPERIENCE
+75;;Contenu;PROFESSIONAL EXPERIENCE
+76;C/ Optimizastion of the warehouse's WMS database to improve the;Contenu;PROFESSIONAL EXPERIENCE
+77;;Contenu;PROFESSIONAL EXPERIENCE
+78;workflow of operations in tune with Givenchy's own ERP system.;Contenu;PROFESSIONAL EXPERIENCE
+79;;Contenu;PROFESSIONAL EXPERIENCE
+80;Logistics Operator, Louis Vuitton;Contenu;PROFESSIONAL EXPERIENCE
+81;January 2022 - February 2022;Contenu;PROFESSIONAL EXPERIENCE
+82;;Contenu;PROFESSIONAL EXPERIENCE
+83;(Cergy, France);Contenu;PROFESSIONAL EXPERIENCE
+84;;Contenu;PROFESSIONAL EXPERIENCE
+85;e Operator in charge of reception of new products at the central;Contenu;PROFESSIONAL EXPERIENCE
+86;warehouse of Louis Vuitton in France.;Contenu;PROFESSIONAL EXPERIENCE
+87;;Contenu;PROFESSIONAL EXPERIENCE
+88;e Handled the stocking of new products and the delivery for;Contenu;PROFESSIONAL EXPERIENCE
+89;order preparation.;Contenu;PROFESSIONAL EXPERIENCE
+90;;Contenu;PROFESSIONAL EXPERIENCE
+91;e Worked as an order preparator for E-Shopping and Retail;Contenu;PROFESSIONAL EXPERIENCE
+92;stores, in charge of the personalized orders.;Contenu;PROFESSIONAL EXPERIENCE
+93;;Contenu;PROFESSIONAL EXPERIENCE
+94;e Took part in all the outbound logistics of goods and ordrers,;Contenu;PROFESSIONAL EXPERIENCE
+95;as well as forklift operation.;Contenu;PROFESSIONAL EXPERIENCE
+96;;Contenu;PROFESSIONAL EXPERIENCE
+97;ACADEMICS PROJECTS;Section;ACADEMICS PROJECTS
+98;;Contenu;ACADEMICS PROJECTS
+99;Research Project, Sophomore Year (Nancy, France);Contenu;ACADEMICS PROJECTS
+100;Institut Elie Cartan de Lorraine, September 2022 - June 2023;Contenu;ACADEMICS PROJECTS
+101;;Contenu;ACADEMICS PROJECTS
+102;e Study on a particular field of algebra, representations theory;Contenu;ACADEMICS PROJECTS
+103;with a focus on a specific group, the Pauli group, used in;Contenu;ACADEMICS PROJECTS
+104;quantum computing.;Contenu;ACADEMICS PROJECTS
+105;;Contenu;ACADEMICS PROJECTS
+106;e Redaction of a scientific paper, thesis defense and realization of;Contenu;ACADEMICS PROJECTS
+107;a vulgarisation film on the subject.;Contenu;ACADEMICS PROJECTS
+108;;Contenu;ACADEMICS PROJECTS
+109;"""Main a la pate"", Freshman Year (Nancy, France)";Contenu;ACADEMICS PROJECTS
+110;;Contenu;ACADEMICS PROJECTS
+111;September 2021 - June 2022;Contenu;ACADEMICS PROJECTS
+112;;Contenu;ACADEMICS PROJECTS
+113;e Intervention in elementa;Contenu;ACADEMICS PROJECTS
+114;institution, created by Ge;Contenu;ACADEMICS PROJECTS
+115;Prize).;Contenu;ACADEMICS PROJECTS
+116;;Contenu;ACADEMICS PROJECTS
+117;"class within the ""Main a la Pate""";Contenu;ACADEMICS PROJECTS
+118;rges Charpak (French Physics Nobel;Contenu;ACADEMICS PROJECTS
+119;;Contenu;ACADEMICS PROJECTS
+120;e Presentations and experiments for 4th Grades to introduce science.;Contenu;ACADEMICS PROJECTS

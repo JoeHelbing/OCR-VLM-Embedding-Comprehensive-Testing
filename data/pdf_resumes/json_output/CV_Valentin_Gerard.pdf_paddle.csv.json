@@ -1,0 +1,302 @@
+{
+    "Personal Informations": [
+        {
+            "category": "Contenu",
+            "text": "Valentin Gerard"
+        },
+        {
+            "category": "Contenu",
+            "text": " +33 7 55 64 65 48"
+        },
+        {
+            "category": "Contenu",
+            "text": "Master's degree Matematics, Vision, Learning (MVA)"
+        },
+        {
+            "category": "Contenu",
+            "text": " valentin.gerard@etu.u-paris.fr"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ecole normale superieure Paris-Saclay (University Paris-Saclay)."
+        },
+        {
+            "category": "Contenu",
+            "text": "in LinkedIn"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ecole des Mines de Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Seeking for a research internship (5-6 months) starting from April 2024 in the field of Computer."
+        },
+        {
+            "category": "Contenu",
+            "text": "Vision or Natural Language Processing.."
+        }
+    ],
+    "EXPERIENCE": [
+        {
+            "category": "Section",
+            "text": "EXPERIENCE"
+        },
+        {
+            "category": "Contenu",
+            "text": ". Institut FEMTO-ST, Computer Science Department"
+        },
+        {
+            "category": "Contenu",
+            "text": "June 2023 - September 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "Deep Learning Research Intern"
+        },
+        {
+            "category": "Contenu",
+            "text": "Belfort, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Designed and trained a model for the automated detection of R-waves in highly noisy electrocardiograms (ECGs)."
+        },
+        {
+            "category": "Contenu",
+            "text": "To address this challenge, we introduced artificial noise into our training dataset, which originally comprised clear"
+        },
+        {
+            "category": "Contenu",
+            "text": "ECGs and we evaluated the performance of our model using highly noisy ECG data provided by Dijon Hospital."
+        },
+        {
+            "category": "Contenu",
+            "text": "I employed models designed to process the ECG through its time-frequency representation. Then, I leveraged a"
+        },
+        {
+            "category": "Contenu",
+            "text": "Transformer model that combines information from both the time-frequency representation and the time series"
+        },
+        {
+            "category": "Contenu",
+            "text": "data of ECGs."
+        },
+        {
+            "category": "Contenu",
+            "text": ". National Institute for Research in Digital Science and Technology (INRIA)"
+        },
+        {
+            "category": "Contenu",
+            "text": "September 2022 -June 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "Deep Learning Research Intern, MULTISPEECH Team"
+        },
+        {
+            "category": "Contenu",
+            "text": "Nancy, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Designed and trained more efficient neural network architectures for audiovisual speech generative modeling using"
+        },
+        {
+            "category": "Contenu",
+            "text": "variational autoencoders. Speech perception involves both the acoustic modality and the visual modality, specif-"
+        },
+        {
+            "category": "Contenu",
+            "text": "ically the lip movements of the speaker. We focused on an encoder to encode the input signal using both speech"
+        },
+        {
+            "category": "Contenu",
+            "text": " tion. I delved into exploring Transformer based models to capture temporal dependencies within the signal.."
+        },
+        {
+            "category": "Contenu",
+            "text": ": LISI Automotive"
+        },
+        {
+            "category": "Contenu",
+            "text": "January 2022 - February 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "Factory Operator Intern"
+        },
+        {
+            "category": "Contenu",
+            "text": "Delle, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Worked on automatic sorting machines for assembly solutions in the automotive industry. Observed challenges in"
+        },
+        {
+            "category": "Contenu",
+            "text": "applying computer vision on a production line."
+        }
+    ],
+    "EDUCATION": [
+        {
+            "category": "Section",
+            "text": "EDUCATION"
+        },
+        {
+            "category": "Contenu",
+            "text": "-Ecole Normale Superieur Paris-Saclay (University Paris-Saclay)"
+        },
+        {
+            "category": "Contenu",
+            "text": "2023-2024"
+        },
+        {
+            "category": "Contenu",
+            "text": "Master's degree Mathematiques, Vision, Apprentissage (MVA)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Paris, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Image denoising, Generative Models for Image, Digital imaging, Deformable models and geodesic methods for"
+        },
+        {
+            "category": "Contenu",
+            "text": "image analysis, Deep learning for medical imaging, Inverse problems and imaging ,Geometric data analysis, Convex"
+        },
+        {
+            "category": "Contenu",
+            "text": "optimization"
+        },
+        {
+            "category": "Contenu",
+            "text": ". Ecole des Mines de Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "2021-2024"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ingenieur Civil des Mines, Master of Science"
+        },
+        {
+            "category": "Contenu",
+            "text": "Nancy, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Notable Courses: Machine Learning, Deep Learning, Image Processing, Data Analysis, Time Series, Optimization,."
+        },
+        {
+            "category": "Contenu",
+            "text": "Probability, Statistics, Monte Carlo Method, Inverse Problems, Database, Software Engineering, Programming."
+        },
+        {
+            "category": "Contenu",
+            "text": "and Data Structure, Algorithms and Complexity, Statistical Physics, Project Management"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Classe preparatoire au Grandes Ecoles - Lycee Kleber."
+        },
+        {
+            "category": "Contenu",
+            "text": "2019-2021"
+        },
+        {
+            "category": "Contenu",
+            "text": "Undergraduate studies to prepare for competitive nationwide entry exams to engineering schools"
+        },
+        {
+            "category": "Contenu",
+            "text": "Strasbourg, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Intensive courses for two years in mathematics, physics, computer science and engineering"
+        }
+    ],
+    "AWARDS": [
+        {
+            "category": "Section",
+            "text": "AWARDS"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Academic excellence scholarship for MVA given by Paris Artificial Intelligence Research Institute 2023-2024"
+        }
+    ],
+    "TECHNICAL SKILLS": [
+        {
+            "category": "Section",
+            "text": "TECHNICAL SKILLS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Programming Languages: Python, SQL, R, MATLAB"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python Libraries: PyTorch, TensorFlow, Pandas, Numpy, Matplotlib."
+        },
+        {
+            "category": "Contenu",
+            "text": "Cloud Computing: Google Cloud."
+        },
+        {
+            "category": "Contenu",
+            "text": "Other: LATEX, Git, ChatGPT"
+        }
+    ],
+    "LANGUAGES": [
+        {
+            "category": "Section",
+            "text": "LANGUAGES"
+        },
+        {
+            "category": "Contenu",
+            "text": "French: Mother Tongue | English: C1 TOEIC and IELTS | German: B1 Goethe Zertifikat | Italian: B1"
+        }
+    ],
+    "HOBBIES AND INTERESTS": [
+        {
+            "category": "Section",
+            "text": "HOBBIES AND INTERESTS"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Football: Manager of Mines Nancy football team (2022-2023) and US-Bavans U11(2018-2019)"
+        },
+        {
+            "category": "Contenu",
+            "text": ": AI : I attend conferences, read papers, follow the release of models and use SF to think about the impact of AI"
+        }
+    ],
+    "ADDITIONAL CERTIFICATIONS": [
+        {
+            "category": "Section",
+            "text": "ADDITIONAL CERTIFICATIONS"
+        },
+        {
+            "category": "Contenu",
+            "text": ". Workplace First Aid formation, INRS, Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "2022"
+        },
+        {
+            "category": "Contenu",
+            "text": ". Online Course in Project Management, Ecole Centrale de Lille, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "2021"
+        }
+    ]
+}

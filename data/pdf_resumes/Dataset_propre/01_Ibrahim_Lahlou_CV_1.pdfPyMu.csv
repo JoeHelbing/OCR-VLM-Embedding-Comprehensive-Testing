@@ -1,0 +1,119 @@
+﻿;Texte;Catégorie;Sections
+0;Ibrahim LAHLOU;Contenu;Informations Personelles
+1;Data Analyst , Big Data & Cloud;Contenu;Informations Personelles
+2;O linkedin.com/in/ibrahim-lahlou-ild01;Contenu;Informations Personelles
+3; github.com/IbLahlou;Contenu;Informations Personelles
+4;u +212 07 77 61 51 31;Contenu;Informations Personelles
+5;u ibrahimlahlou021@gmail.com;Contenu;Informations Personelles
+6;H 2 Rue Chatillon , Belvedere , 20300 , Casablanca, Maroc;Contenu;Informations Personelles
+7;E 23 ans , Ne a Oujda;Contenu;Informations Personelles
+8;Future Ingenieur specialise en Data Science et Cloud Computing;Contenu;Informations Personelles
+9;COMPETANCE;Section;COMPETANCE
+10;Frameworks;Contenu;COMPETANCE
+11;Fast-api , Flask ,Django ,Java/JEE(mobile,web),Spring, React.js;Contenu;COMPETANCE
+12;Databases;Contenu;COMPETANCE
+13;MySQL,Google Bigquery, Sqlite, Microsoft SQL Server, redis;Contenu;COMPETANCE
+14;Data Analysis & BI;Contenu;COMPETANCE
+15;Talend,Airflow, SSAS , Power BI;Contenu;COMPETANCE
+16;Data Science & AI;Contenu;COMPETANCE
+17;Tensorflow,Pytorch,pandas,mlflow,statsmodel,DVC;Contenu;COMPETANCE
+18;Outils DevOps;Contenu;COMPETANCE
+19;JIRA Scrum,Git , Github Action , Docker , Terraform , Pytest , Grafana;Contenu;COMPETANCE
+20;Industry Knowledge;Contenu;COMPETANCE
+21;Webscraping,Time Series ,Geospatial Data ,Data mining ,Model Serving;Contenu;COMPETANCE
+22;a EXPERIENCES;Section;EXPERIENCES
+23;juil-23;Contenu;EXPERIENCES
+24;Model de Correction Orthographique| MLOps Jr Intern, 3D SMART FACTORY, Mohammadia;Contenu;EXPERIENCES
+25;Aout 2023;Contenu;EXPERIENCES
+26; IbLahlou/SpellX;Contenu;EXPERIENCES
+27;Documentation et analyse des modeles de verification de donnees et d'orthographe.;Contenu;EXPERIENCES
+28;Conception d'un pipeline pour un modele de NLP avec des metriques comme BLEU-N.;Contenu;EXPERIENCES
+29;Conteneurisation et Deploiement de l'application Web Flask vers AWS avec Github Action;Contenu;EXPERIENCES
+30;JIRA;Contenu;EXPERIENCES
+31;Scrum;Contenu;EXPERIENCES
+32;Conda;Contenu;EXPERIENCES
+33;Pip;Contenu;EXPERIENCES
+34;Spello;Contenu;EXPERIENCES
+35;Transformers;Contenu;EXPERIENCES
+36;Flask;Contenu;EXPERIENCES
+37;Docker;Contenu;EXPERIENCES
+38;Github actions;Contenu;EXPERIENCES
+39;AWS;Contenu;EXPERIENCES
+40;Python logging;Contenu;EXPERIENCES
+41;Aout 2022;Contenu;EXPERIENCES
+42;Application Web Fullstack| Web Dev Junior Intern, WIKREAT, Casablanca;Contenu;EXPERIENCES
+43;sept-22;Contenu;EXPERIENCES
+44; IbLahlou/Lareact-backend;Contenu;EXPERIENCES
+45; IbLahlou/Lareact;Contenu;EXPERIENCES
+46;Developpement d'une api avec Laravel PHP avec l'architecture REST;Contenu;EXPERIENCES
+47;Developpement des Composants Frontends avec React.js et tester l'api avec postman;Contenu;EXPERIENCES
+48;Conception d'un tableau interactive avec data.table et jquery;Contenu;EXPERIENCES
+49;composer;Contenu;EXPERIENCES
+50;Laravel 7;Contenu;EXPERIENCES
+51;npm;Contenu;EXPERIENCES
+52;React.js;Contenu;EXPERIENCES
+53;Postman;Contenu;EXPERIENCES
+54;Data.table;Contenu;EXPERIENCES
+55;Jquery;Contenu;EXPERIENCES
+56;PHP;Contenu;EXPERIENCES
+57;Javascript;Contenu;EXPERIENCES
+58;Figma;Contenu;EXPERIENCES
+59;b FORMATION;Section;FORMATION
+60;2024-2019;Contenu;FORMATION
+61;Cycle d'ingenieur , Ingenieurie Data Science and Cloud Computing a l'ENSA Oujda;Contenu;FORMATION
+62;2019;Contenu;FORMATION
+63;Baccalaureat Scientifique option Science de la Chimie et de la Physique , Mention Tres Bien;Contenu;FORMATION
+64;o PROJETS;Section;PROJETS
+65;PIPELINE MLOPS POUR LA REGRESSION ELASTICNET;Contenu;PROJETS
+66;2023;Contenu;PROJETS
+67; IbLahlou/ElasticNet-model-e2e;Contenu;PROJETS
+68;Le projet vise a optimiser un modele de regression Elastic-Net, en utilisant des principes de MLOps pour resoudre les;Contenu;PROJETS
+69;problemes de Data Drift, et ce en automatisant l'ingestion de donnees, model serving et l'artifact tracking.;Contenu;PROJETS
+70;Conda;Contenu;PROJETS
+71;Pip;Contenu;PROJETS
+72;Git;Contenu;PROJETS
+73;DVC;Contenu;PROJETS
+74;Apache Airflow;Contenu;PROJETS
+75;Sckitlearn;Contenu;PROJETS
+76;Gridsearch;Contenu;PROJETS
+77;Mlflow;Contenu;PROJETS
+78;Terraform;Contenu;PROJETS
+79;GCS;Contenu;PROJETS
+80;Flask;Contenu;PROJETS
+81;ANALYSE DES ANOMALIES DANS LES DONNEES DE LOGS;Contenu;PROJETS
+82;2023;Contenu;PROJETS
+83; IbLahlou/Data-Log-analysis;Contenu;PROJETS
+84;Le projet a pour objectif de detecter les anomalies dans les logs d'une application Web en utilisant une architecture;Contenu;PROJETS
+85;maitre-esclave Hadoop, avec HBase et Flume, pour l'ingestion et l'analyse des donnees;Contenu;PROJETS
+86;Bash;Contenu;PROJETS
+87;Linux;Contenu;PROJETS
+88;Git;Contenu;PROJETS
+89;Flask;Contenu;PROJETS
+90;Docker;Contenu;PROJETS
+91;Hadoop;Contenu;PROJETS
+92;Python;Contenu;PROJETS
+93;Java;Contenu;PROJETS
+94;Flume;Contenu;PROJETS
+95;Hbase;Contenu;PROJETS
+96;Phoenix SQL;Contenu;PROJETS
+97;Grafana;Contenu;PROJETS
+98;ANALYSE DES DONNEES D'UN CAPTEUR DHT11;Contenu;PROJETS
+99;2023;Contenu;PROJETS
+100;Ce pipeline automatise le flux de donnees de GCS a Looker, en incluant transfert et nettoyage via BigQuery, pour une;Contenu;PROJETS
+101;utilisation strategique des donnees.;Contenu;PROJETS
+102;Bash;Contenu;PROJETS
+103;Linux;Contenu;PROJETS
+104;Python;Contenu;PROJETS
+105;IAM;Contenu;PROJETS
+106;GCS;Contenu;PROJETS
+107;GCF;Contenu;PROJETS
+108;IAM;Contenu;PROJETS
+109;Bigquery;Contenu;PROJETS
+110;SQL;Contenu;PROJETS
+111;Looker;Contenu;PROJETS
+112; LANGUES;Section; LANGUES
+113;Francais : Courant;Contenu; LANGUES
+114;Anglais : Courant;Contenu; LANGUES
+115;ACTIVITE PARASCOLAIRE;Section;ACTIVITE PARASCOLAIRE
+116;Data Science & IT Content Creator @ildodata;Contenu;ACTIVITE PARASCOLAIRE
+117;Formateur Git et Github a GDSC d'ensa oujda;Contenu;ACTIVITE PARASCOLAIRE

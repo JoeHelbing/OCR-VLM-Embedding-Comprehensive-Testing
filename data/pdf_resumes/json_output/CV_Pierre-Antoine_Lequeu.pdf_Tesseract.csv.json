@@ -1,0 +1,348 @@
+{
+    "Personnal Informations": [
+        {
+            "category": "Contenu",
+            "text": "PIERRE-ANTOINE LEQUEU"
+        },
+        {
+            "category": "Contenu",
+            "text": "FINAL YEAR ENGINEERING INTERNSHIP"
+        },
+        {
+            "category": "Contenu",
+            "text": "ARTIFICIAL INTELLIGENCE"
+        },
+        {
+            "category": "Contenu",
+            "text": "6 MONTH STARTING FEBRUARY-MARCH 2024"
+        }
+    ],
+    "CONTACTS": [
+        {
+            "category": "Section",
+            "text": "CONTACTS"
+        },
+        {
+            "category": "Contenu",
+            "text": "+33 6 95 04.93 31"
+        },
+        {
+            "category": "Contenu",
+            "text": "pierreantoinelequeu@gmail.com"
+        },
+        {
+            "category": "Contenu",
+            "text": "63130 Royat, France"
+        },
+        {
+            "category": "Contenu",
+            "text": "(c) 28 rue Hippolyte Mallet"
+        },
+        {
+            "category": "Contenu",
+            "text": "linkedin.com/in/pierreantoinelequeu/"
+        }
+    ],
+    "PERSONAL PROFILE": [
+        {
+            "category": "Section",
+            "text": "PERSONAL PROFILE"
+        },
+        {
+            "category": "Contenu",
+            "text": "As an Artificial Intelligence enthusiast,"
+        },
+        {
+            "category": "Contenu",
+            "text": "particularly in iits use in impactful fields"
+        },
+        {
+            "category": "Contenu",
+            "text": "such as health care and environnemental"
+        },
+        {
+            "category": "Contenu",
+            "text": "studies, | am currently looking for an"
+        },
+        {
+            "category": "Contenu",
+            "text": "internship to conclude my engineering"
+        },
+        {
+            "category": "Contenu",
+            "text": "degree and to gain insight on the corporate"
+        },
+        {
+            "category": "Contenu",
+            "text": "world."
+        },
+        {
+            "category": "Contenu",
+            "text": "During this period, | hope to enhance my"
+        },
+        {
+            "category": "Contenu",
+            "text": "technical skills, as well as = my"
+        },
+        {
+            "category": "Contenu",
+            "text": "communication and team work skills"
+        }
+    ],
+    "SKILLS": [
+        {
+            "category": "Section",
+            "text": "SKILLS"
+        },
+        {
+            "category": "Contenu",
+            "text": "PROFESSIONAL"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Python (Sklearn, tensorflow, pytorch), R,"
+        },
+        {
+            "category": "Contenu",
+            "text": "matlab, SQL & NoSQL, javascript, React"
+        },
+        {
+            "category": "Contenu",
+            "text": "& React Native"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Team work, organization"
+        },
+        {
+            "category": "Contenu",
+            "text": "e French (Native), English (Fluent),"
+        },
+        {
+            "category": "Contenu",
+            "text": "Japonais (A1-A2), notions of german"
+        },
+        {
+            "category": "Contenu",
+            "text": "and korean"
+        },
+        {
+            "category": "Contenu",
+            "text": "PERSONAL"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Music : Guitar for 10 ans, Piano, Bass"
+        },
+        {
+            "category": "Contenu",
+            "text": "guitar, music composition"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Graphic arts : Design of the 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "TEDxMinesNancy event poster, drawing"
+        },
+        {
+            "category": "Contenu",
+            "text": "e running & Trail : winner of the Raid"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mines Nancy 2023 race"
+        }
+    ],
+    "CERTIFICATIONS & DEGREES": [
+        {
+            "category": "Section",
+            "text": "CERTIFICATIONS & DEGREES"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Baccalaureat (French highschool"
+        },
+        {
+            "category": "Contenu",
+            "text": "leaving diploma) with Distinctions"
+        },
+        {
+            "category": "Contenu",
+            "text": "e English : 8/9 IELTS in 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Japanese : JLPT N5 in 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Project management MOOC"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Driver's Licence"
+        }
+    ],
+    "EDUCATION": [
+        {
+            "category": "Section",
+            "text": "EDUCATION"
+        },
+        {
+            "category": "Contenu",
+            "text": "Seoul National University"
+        },
+        {
+            "category": "Contenu",
+            "text": "Exchange Semester - Seoul, South Korea 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "e One-semester exchange in the Computer Science and Engineering department"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Classes taken : Natural Language Processing, Topic in Machine Intelligence"
+        },
+        {
+            "category": "Contenu",
+            "text": "(Generative Al), Artificial Intelligence in Urban Planning and Design 2,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Understanding Asian Philosophy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mines de Nancy Engineering School"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ingenieur Civil des Mines - Nancy, France 2021-2024"
+        },
+        {
+            "category": "Contenu",
+            "text": "<< Computer Science Engineering degree equivalent to a Master's degree in"
+        },
+        {
+            "category": "Contenu",
+            "text": "Computer Science"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Classes taken : Machine Learning, Data Science, Computer Vision, Robotic,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Statistical Inference, Probabilities, diverse physics classes, micro & macro"
+        },
+        {
+            "category": "Contenu",
+            "text": "economics, management, English and Japanese"
+        },
+        {
+            "category": "Contenu",
+            "text": "Classes Preparatoires aux Grandes Ecoles"
+        },
+        {
+            "category": "Contenu",
+            "text": "Undergraduate Program - Clermont-Ferrand, France 2019-2021"
+        },
+        {
+            "category": "Contenu",
+            "text": "e atwo-year undergraduate program prior to the highly selective entrance"
+        },
+        {
+            "category": "Contenu",
+            "text": "examination to prestigious French engineering schools (Advanced and Applied"
+        },
+        {
+            "category": "Contenu",
+            "text": "Maths and Physics)."
+        }
+    ],
+    "PROFESSIONAL AND CLUB & SOCIETY EXPEREIENCE": [
+        {
+            "category": "Section",
+            "text": "PROFESSIONAL AND CLUB & SOCIETY EXPERIENCE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Research Engineering Intern"
+        },
+        {
+            "category": "Contenu",
+            "text": "Techlab Mines Nancy - 2 month - Nancy, France 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Kotlin mobile application development in partnership with the French army to"
+        },
+        {
+            "category": "Contenu",
+            "text": "control drones and define, generate and send autonomous flying missions"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Video feedback processing trough Al : skeletonization, objects detection"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Drone flocking algorithm development"
+        },
+        {
+            "category": "Contenu",
+            "text": "Treasurer"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mines Nancy Student Union Committee - Nancy, France = 2022-2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Handling of a EUR130k budget for over 35 clubs for over 400 students"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Managing and working with a 21 people team organizing the associative life,"
+        },
+        {
+            "category": "Contenu",
+            "text": "including travels, conferences and student events"
+        },
+        {
+            "category": "Contenu",
+            "text": "Work Placement"
+        },
+        {
+            "category": "Contenu",
+            "text": "Michelin - 5 weeks - Clermont-Ferrand, France 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Discovering the industrial world. shift work in a sorting workshop in a plant of"
+        },
+        {
+            "category": "Contenu",
+            "text": "700 workers"
+        },
+        {
+            "category": "Contenu",
+            "text": "Communication Manager"
+        },
+        {
+            "category": "Contenu",
+            "text": "TEDxMinesNancy & Club Ski - Nancy, France 2021-2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "e In charge of communication in the organisation of two events: skiing trip for 110"
+        },
+        {
+            "category": "Contenu",
+            "text": "persons and TED talks (conferences) open to the public for a week-end"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+LAKSHAY GUPTA
+Ghaziabad, Uttar Pradesh
+917 318 919 774
+ iamlakshay04@gmail.com
+ in LinkedIn Profile
+Education
+Ajay Kumar Garg Engineering College
+Ghaziabad, Uttar Pradesh
+Bachelor in Computer Science and Engineering (Data Science) - 8.5/10
+2022-Present
+K.C.M School - CBSE
+Moradabad, Uttar Pradesh
+Intermediate - 94.5
+2019 - 2022
+Experience
+Software Incubator - Software Development Center.
+Nov 2023 - Present
+Developer
+India
+: Working as a Backend Developer with 45 other members for Technical activities and maintaining projects..
+: Collaborated with cross-functional teams, including frontend developers and designers, to implement new features..
+Programming Club
+Oct 2023-Present
+Member
+India
+: Promote Programming Culture in the College by conducting workshops on competitive programming..
+: Engage in group problem-solving sessions, enhancing teamwork and communication skills while tackling
+complex coding problems.
+Projects
+Justice Link | Flutter, NodeJS, MongoDB, ExpressJS |OGithub
+December 2023
+Made the award winning project for SIH - 2023.
+: Worked with team of 6 individuals to develop technology-driven solution addressing the challenges faced by undertrial
+prisoners in India
+: A comprehensive Business plan outlining feasibility, sustainability, and scalability along with Financial projections,.
+marketing strategies, and user acquisition plans.
+Soundly | Django, React Js, Figma | OGithub
+November 2023
+: Made the REST APIs and complete backend from scratch of music listening Application using Django Rest Framework..
+: OTP based authentication system.
+: Advanced search based on music title, artist, language, mood, and genre..
+CF Scrapper | Django, Jinga, Bootstrap | OGithub
+December 2023
+: Build a web application with Flask that allows users to get all Codeforces submissions of two users and see the question.
+not done by other users.
+: Shows Codeforces submissions for each user and displays them in a sorted manner based on the contest ID and problem.
+code.
+Skills
+Languages: C/C++, Python
+Technologies/Frameworks/Libraries: Django, DRF, Flutter.
+Databases: SQLite3, PostgreSQL
+Others: GIT, AWS, Nginx,Docker
+Profile Links
+: Codeforces - Pupil : Max Rating 1200+  Profile
+. Codechef - 3 : Max Rating 1600+ - Profile
+: Leetcode - Solved over 200 Questions - Profile
+Achievements
+: Winner Smart India Hackathon 2023, organised by Government of India..
+Highest rating of 1225 at Codeforces,and 1622 at Codechef.
+: Secured the 1st position out of 500+ participants in coding contest CIN>PC at AKGEC, Ghaziabad.

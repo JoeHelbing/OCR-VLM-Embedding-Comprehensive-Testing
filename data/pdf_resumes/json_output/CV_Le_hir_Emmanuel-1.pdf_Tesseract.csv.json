@@ -1,0 +1,312 @@
+{
+    "Informations Personnelles": [
+        {
+            "category": "Contenu",
+            "text": "Emmanuel Le Hir"
+        },
+        {
+            "category": "Contenu",
+            "text": "Eleve Ingenieur civil des Mines"
+        },
+        {
+            "category": "Contenu",
+            "text": "Stage de cesure des mars 2024"
+        },
+        {
+            "category": "Contenu",
+            "text": "Finance, Data, Conseil"
+        }
+    ],
+    "Contact": [
+        {
+            "category": "Section",
+            "text": "Contact"
+        },
+        {
+            "category": "Contenu",
+            "text": "(+336 289176 28"
+        },
+        {
+            "category": "Contenu",
+            "text": "MY manulehir@gmail.com"
+        },
+        {
+            "category": "Contenu",
+            "text": "9 5 Rue d'Odessa, 75014 Paris"
+        },
+        {
+            "category": "Contenu",
+            "text": "in) linkedin.com/in/emmanuel-le-hir/"
+        }
+    ],
+    "Langues": [
+        {
+            "category": "Section",
+            "text": "Langues"
+        },
+        {
+            "category": "Contenu",
+            "text": "Francais"
+        },
+        {
+            "category": "Contenu",
+            "text": "Langue natale"
+        },
+        {
+            "category": "Contenu",
+            "text": "Anglais"
+        },
+        {
+            "category": "Contenu",
+            "text": "C1 - IELTS 7,5/9 | 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "Espagnol"
+        },
+        {
+            "category": "Contenu",
+            "text": "B2/C1 - Siele 815/1000 | 2023"
+        }
+    ],
+    "Competences": [
+        {
+            "category": "Section",
+            "text": "Competences"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python / Matlab / R / SQL & MongoDB /"
+        },
+        {
+            "category": "Contenu",
+            "text": "Microsoft 365"
+        },
+        {
+            "category": "Contenu",
+            "text": "Permis B & A2, CACES 2B"
+        },
+        {
+            "category": "Contenu",
+            "text": "Formation aux premiers secours (PSC1)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gestion de Projet"
+        },
+        {
+            "category": "Contenu",
+            "text": "Analyse strategique & entrepreneuriat"
+        }
+    ],
+    "Interets": [
+        {
+            "category": "Section",
+            "text": "Interets"
+        },
+        {
+            "category": "Contenu",
+            "text": "Football, Sports Mecaniques, Tennis"
+        },
+        {
+            "category": "Contenu",
+            "text": "Photographie, Cinema"
+        },
+        {
+            "category": "Contenu",
+            "text": "Musique classique, Pop, Techno"
+        }
+    ],
+    "Formation": [
+        {
+            "category": "Section",
+            "text": "Formation"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mines de Nancy | depuis 2021"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ingenieur Civil des Mines"
+        },
+        {
+            "category": "Contenu",
+            "text": "e 2eme annee : Genie Industriel et Mathematiques Appliquees"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ingenierie Mathematique et d'aide a la Decision : conception, realisation et"
+        },
+        {
+            "category": "Contenu",
+            "text": "utilisation d'outils decisionnels en entreprise (banques, assurances, services...)."
+        },
+        {
+            "category": "Contenu",
+            "text": "(c) Optimisation Lineaire, Methodes de Monte-Carlo, Analyse Complexe"
+        },
+        {
+            "category": "Contenu",
+            "text": "o Analyse de donnees, Bases de Donnees, Machine & Deep Learning"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ 1ere annee : Formation Generale"
+        },
+        {
+            "category": "Contenu",
+            "text": "dego Mathematiques (probabilites, inference statistique, analyse numerique)"
+        },
+        {
+            "category": "Contenu",
+            "text": "o Physique (mecanique, quantique & statistique, thermodynamique)"
+        },
+        {
+            "category": "Contenu",
+            "text": "o Economie et comptabilite generales"
+        },
+        {
+            "category": "Contenu",
+            "text": "Fac de Sciences Economiques & Gestion de Nancy | 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "Master Economie de I'Entreprise et du Marche"
+        },
+        {
+            "category": "Contenu",
+            "text": "Cours de theorie et gestion financiere, ainsi que d'economie de I'information,"
+        },
+        {
+            "category": "Contenu",
+            "text": "industrielle, econometrie, innovation et politique publique"
+        },
+        {
+            "category": "Contenu",
+            "text": "Conservatoire Darius Milhaud | 2005 - 2020"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Fin de 3e cycle avance de piano"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Musique de chambre"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Formation musicale et composition assistee par ordinateur"
+        }
+    ],
+    "Experience": [
+        {
+            "category": "Section",
+            "text": "Experience"
+        },
+        {
+            "category": "Contenu",
+            "text": "EY France - Tour First"
+        },
+        {
+            "category": "Contenu",
+            "text": "Stage en audit financier | Septembre 2023 - Mars 2024"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Etude du Bilan, du compte de resultat et des mouvements financiers"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Travail effectue sur Excel et des logiciels proprietaires."
+        },
+        {
+            "category": "Contenu",
+            "text": "Mines Services | Junior Entreprise Mines de Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Secretaire General | 2022 - 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "<< Management d'une equipe de 30 personnes"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Gestion administrative d'une association au budget de 20 000EUR"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Gestion des partenaires (CNJE, EY, Alten, BNP Paribas....)"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Organisation de conferences et formations professionnelles, ainsi que"
+        },
+        {
+            "category": "Contenu",
+            "text": "d'evenements de rencontres entre etudiants et recruteurs"
+        },
+        {
+            "category": "Contenu",
+            "text": "Bureau des Sports | Mines de Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Responsable Evenements | 2022 - 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Organisation d'evenements sportifs regionaux accueillant plus de 1000"
+        },
+        {
+            "category": "Contenu",
+            "text": "personnes (L-INP, Cartel...)"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Gestion des sports et des competitions universitaires"
+        },
+        {
+            "category": "Contenu",
+            "text": "PSA Groupe"
+        },
+        {
+            "category": "Contenu",
+            "text": "Stage Operateur Cariste | Janvier - Fevrier 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Conducteur d'engins de manutention du matin (5h-13h) et de l'apres-midi"
+        },
+        {
+            "category": "Contenu",
+            "text": "(13h-21h) en alternance hebdomadaire"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Unite CPL : unite logistique en charge de la reception, organisation et"
+        },
+        {
+            "category": "Contenu",
+            "text": "distribution des pieces pour la chaine de montage."
+        },
+        {
+            "category": "Contenu",
+            "text": "Espoir 18"
+        },
+        {
+            "category": "Contenu",
+            "text": "Stage associatif en centre de loisirs et soutien scolaire | Juin 2016"
+        },
+        {
+            "category": "Contenu",
+            "text": "Agence Profil"
+        },
+        {
+            "category": "Contenu",
+            "text": "Service VIP, Mannequinat, Agent d'accueil, etc. | 2023"
+        }
+    ]
+}

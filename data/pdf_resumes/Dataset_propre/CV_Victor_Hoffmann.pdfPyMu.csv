@@ -1,0 +1,94 @@
+﻿;Texte;Catégorie;Sections
+0;Victor Hoffmann;Contenu;Personal Informations
+1; +33 6 35 78 90 00;Contenu;Personal Informations
+2;Master's degree in Data Science;Contenu;Personal Informations
+3;# victor.hoffmann@polytechnique.edu;Contenu;Personal Informations
+4;Institut Polytechnique de Paris;Contenu;Personal Informations
+5;SS VictorHoffmann1 (GitHub);Contenu;Personal Informations
+6;Ecole des Mines de Nancy;Contenu;Personal Informations
+7;i victor-hoffmann-ai (LinkedIn);Contenu;Personal Informations
+8;Seeking for a PhD in Computer Vision;Contenu;Personal Informations
+9;Experience;Section;Experience
+10;* Computer Vision Research Intern;Contenu;Experience
+11;April 2024 - present;Contenu;Experience
+12;SONY EUROPE;Contenu;Experience
+13;Schlieren, Switzerland;Contenu;Experience
+14;Basic algorithm research with event-based vision sensor technology.;Contenu;Experience
+15;Development and implementation of computer vision and sensor fusion algorithms on real-time platforms.;Contenu;Experience
+16;Implementation of proof-of-concept demonstrators with novel cameras and devices from robotics area.;Contenu;Experience
+17;Support establishment of a R&D infrastructure which facilitates teamwork for research & development;Contenu;Experience
+18;* Deep Learning Research Intern;Contenu;Experience
+19;June 2023 - August 2023;Contenu;Experience
+20;LORIA (Computer Science Research Laboratory);Contenu;Experience
+21;Nancy, France;Contenu;Experience
+22;Led the first AI-based extraction of mechanical curves from fiber composites using only microstructure images,;Contenu;Experience
+23;making the extraction 500 times faster while maintaining a 1% relative error.;Contenu;Experience
+24;Created a multi-task computer vision model, combining Equivariant CNNs & LSTMs.;Contenu;Experience
+25;Collaborated with research teams at LEMTA (Physics Research Laboratory).;Contenu;Experience
+26;* Machine Learning Research Intern;Contenu;Experience
+27;October 2022 - June 2023;Contenu;Experience
+28;INRIA (Computer Science & Mathematics Research Laboratory);Contenu;Experience
+29;Nancy, France;Contenu;Experience
+30;Addressed fragmentation challenges. Lowered the prediction error by 63% and improved robustness by 70%.;Contenu;Experience
+31;Gathered and preprocessed data (Outlier Management, Gaussian Transformation, Feature Selection, etc.) then;Contenu;Experience
+32;stacked fine-tuned regressors (MLP, XGBoost, SVR, ElasticNet). Estimated uncertainty of Neural Network pre-;Contenu;Experience
+33;dictions using Bayesian methods (Monte Carlo Dropout).;Contenu;Experience
+34;Publications;Contenu;Experience
+35;* Deep Learning Approaches for DMA of Viscoelastic Fiber Composites, ArXiV PrePrint;Contenu;Experience
+36;October 2023;Contenu;Experience
+37;* Machine Learning Techniques for Fragmentation Problems, HAL PrePrint (French);Contenu;Experience
+38;June 2023;Contenu;Experience
+39;Education;Section;Education
+40;* Master Year 2 Data Science;Contenu;Education
+41;2023-present;Contenu;Education
+42;Institut Polytechnique de Paris (Ecole Polytechnique, Telecom Paris, ENSAE & ENSTA);Contenu;Education
+43;Palaiseau, France;Contenu;Education
+44;Relevant Coursework: Computer Vision (CNNs, ViT, Transfer Learning, Self-Supervised Learning), NLP (Trans-;Contenu;Education
+45;formers, Pre-Training & Fine-Tuning LLMs), Generative AI (VAEs, GANs, Diffusion Models, Disentanglement),;Contenu;Education
+46;Reinforcement Learning (Q-Learning, DQN, Rainbow), Graphs, Online Learning, Optimization, Causal Inference.;Contenu;Education
+47;* MEng / Diplome d'Ingenieur;Contenu;Education
+48;2021-present;Contenu;Education
+49;Ecole des Mines de Nancy, Universite de Lorraine;Contenu;Education
+50;Nancy, France;Contenu;Education
+51;Relevant Coursework: Statistics, Machine Learning, Algorithms & Data Structures, Image Processing & Analysis,;Contenu;Education
+52;Monte Carlo Methods, Time Series, Markov Chains, Finite Element Methods, PDEs.;Contenu;Education
+53;* Classes Preparatoires aux Grandes Ecoles (CPGE);Contenu;Education
+54;2019-2021;Contenu;Education
+55;Lycee Kleber, Universite de Strasbourg;Contenu;Education
+56;Strasbourg, France;Contenu;Education
+57;Undergraduated studies to prepare for competitive nationwide entry exams to french engineering schools.;Contenu;Education
+58;Relevant Coursework: Linear Algebra, Calculus, Probabilities, Functional Analysis, Signal Processing.;Contenu;Education
+59;Technical Skills;Section;Technicall Skills
+60;* Programming Languages: Python, C/C+;Contenu;Technicall Skills
+61;+, SQL, R, MATLAB, VBA;Contenu;Technicall Skills
+62;* Python Libraries: PyTorch, TensorFlow, NumPy, Scikit-Learn, OpenCV, Pandas, SciPy, Matplotlib, River;Contenu;Technicall Skills
+63;Languages;Section;Languages
+64;French: Mother Tongue | English: C1 (IELTS 8/9) | German: C1 (Goethe Zertifikat 16/20);Contenu;Languages
+65;Projects / Challenges;Section;Projects / Challenges
+66;* Personal Projects;Contenu;Projects / Challenges
+67;Real-Time Depth Estimation with Monocular Camera. Applied MiDaS to the depth estimation of a room.;Contenu;Projects / Challenges
+68;Vehicle Recognition for Smart Cities. Employed YOLOv8 and ByteTrack models to enhance traffic management.;Contenu;Projects / Challenges
+69;Real-Time Segmentation for Biomedical Imaging. Applied FastSAM model to Real-Time MRI Brain Scans.;Contenu;Projects / Challenges
+70;* Data Challenges & AI Hackathons;Contenu;Projects / Challenges
+71;Hi!ckathon 4th edition, Hi! Paris: Won Capgemini's Best Scientific Approach Award.;Contenu;Projects / Challenges
+72;Real Estate Price Prediction (Multi-Modal: Images + Tables), ENS Data Challenge, 2022, Rank: 9th/172.;Contenu;Projects / Challenges
+73;Return Forecasting of Cryptocurrency Clusters, ENS Data Challenge, 2022, Rank: 11th/51.;Contenu;Projects / Challenges
+74;Positions of Responsibility;Section;Positions of Responsibility
+75;* President, Music Club, Ecole des Mines de Nancy;Contenu;Positions of Responsibility
+76;2022-2023;Contenu;Positions of Responsibility
+77;Created a music room on school site.;Contenu;Positions of Responsibility
+78;Supervized over 80 students, coordinated and facilitated the identification of playing partners, rehearsal schedules.;Contenu;Positions of Responsibility
+79;Organized 10 concerts among different locations.;Contenu;Positions of Responsibility
+80;* Treasurer, Enactus: Carton Solid'air Project;Contenu;Positions of Responsibility
+81;2021-2022;Contenu;Positions of Responsibility
+82;Improved the project's profitability by 16% by reducing costs and production time.;Contenu;Positions of Responsibility
+83;Entrepreneurial project focused on the collection, design, and sale of cardboard items with a strong commitment;Contenu;Positions of Responsibility
+84;to sustainability and solidarity.;Contenu;Positions of Responsibility
+85;Hobbies and Interests;Section;Hobbies and Interests
+86;* Music: Leading a jazz quartet. Advanced piano improvisation. Played 19 concerts across France.;Contenu;Hobbies and Interests
+87;* Sports: 5 years of bodybuilding, 7 years of running, 5 years of golf (green card).;Contenu;Hobbies and Interests
+88;Additional Certifications;Section;Additional Certifications
+89;* Online Course in Project Management, Ecole Centrale de Lille, France.;Contenu;Additional Certifications
+90;2021;Contenu;Additional Certifications
+91;* Introductory Aeronautics Certificate, Lycee Kleber, Strasbourg.;Contenu;Additional Certifications
+92;2017;Contenu;Additional Certifications

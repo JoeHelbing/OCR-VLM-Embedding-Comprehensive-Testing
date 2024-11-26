@@ -1,0 +1,114 @@
+﻿;Texte;Catégorie;Sections
+0;Arthur;Contenu;Informations Personnelles
+1;21 ans;Contenu;Informations Personnelles
+2;;Contenu;Informations Personnelles
+3;Elave Ingenieur aux Mines de Nancy en 3(r)(tm)e;Contenu;Informations Personnelles
+4;annee, filigre Genie Industriel et Materiaux;Contenu;Informations Personnelles
+5;;Contenu;Informations Personnelles
+6;MES COORDONNEES;Section;MES COORDONNEES
+7;;Contenu;MES COORDONNEES
+8;Mail : arthur.coulon2@gmail.com;Contenu;MES COORDONNEES
+9;;Contenu;MES COORDONNEES
+10;Tel : 06 51 15 38 23;Contenu;MES COORDONNEES
+11;;Contenu;MES COORDONNEES
+12;LinkedIn : linkedin.com/in/arthurcoulon74940;Contenu;MES COORDONNEES
+13;;Contenu;MES COORDONNEES
+14;Adresse 1: 3 bis rue des grottes, 74940,;Contenu;MES COORDONNEES
+15;;Contenu;MES COORDONNEES
+16;Annecy-le-Vieux;Contenu;MES COORDONNEES
+17;;Contenu;MES COORDONNEES
+18;= Adresse 2 : 50 rue du Marechal Oudinot,;Contenu;MES COORDONNEES
+19;54000, Nancy;Contenu;MES COORDONNEES
+20;;Contenu;MES COORDONNEES
+21;= Permis B, vehicule;Contenu;MES COORDONNEES
+22;;Contenu;MES COORDONNEES
+23;MES COMPETENCES;Section;MES COMPETENCES
+24;Langues:;Contenu;MES COMPETENCES
+25;Frangis;Contenu;MES COMPETENCES
+26;Anglais as B2;Contenu;MES COMPETENCES
+27;Espagnol as Ea;Contenu;MES COMPETENCES
+28;Logiciels :;Contenu;MES COMPETENCES
+29;Pack Logiciels VBA, C++;Contenu;MES COMPETENCES
+30;Office CAO&DAO ,;Contenu;MES COMPETENCES
+31;CENTRES D'INTERETS;Section;CENTRES D'INTERETS
+32;Sports :;Contenu;CENTRES D'INTERETS
+33;;Contenu;CENTRES D'INTERETS
+34;- Tennis de table (Annecy TT, 8 ans, competition);Contenu;CENTRES D'INTERETS
+35;- Natation (Dauphins d''Annecy, 4 ans);Contenu;CENTRES D'INTERETS
+36;- Ski (Medailles de base de |'ESF);Contenu;CENTRES D'INTERETS
+37;;Contenu;CENTRES D'INTERETS
+38;Plongeur encadre 12m (PE12);Contenu;CENTRES D'INTERETS
+39;Brevet premiers secours;Contenu;CENTRES D'INTERETS
+40;;Contenu;CENTRES D'INTERETS
+41;06 5115 38 23 | arthurcou;Contenu;CENTRES D'INTERETS
+42;;Contenu;CENTRES D'INTERETS
+43;MA FORMATION;Section;MA FORMATION
+44;;Contenu;MA FORMATION
+45;IAE Nancy School of Management -- Master;Contenu;MA FORMATION
+46;;Contenu;MA FORMATION
+47;2 MAE;Contenu;MA FORMATION
+48;;Contenu;MA FORMATION
+49;Nancy, France, 2023 - 2024;Contenu;MA FORMATION
+50;;Contenu;MA FORMATION
+51;* Master 2 en Management et Administration;Contenu;MA FORMATION
+52;des Entreprises realise en double dipl6me avec;Contenu;MA FORMATION
+53;l'ecole des Mines de Nancy;Contenu;MA FORMATION
+54;;Contenu;MA FORMATION
+55;Ecole Nationale Superieure des Mines de;Contenu;MA FORMATION
+56;Nancy - Ingenieur Genie Industriel et;Contenu;MA FORMATION
+57;Materiaux;Contenu;MA FORMATION
+58;;Contenu;MA FORMATION
+59;Nancy, France, 2021 - 2024;Contenu;MA FORMATION
+60;;Contenu;MA FORMATION
+61;* Sciences des materiaux;Contenu;MA FORMATION
+62;;Contenu;MA FORMATION
+63;* Gestion de production;Contenu;MA FORMATION
+64;;Contenu;MA FORMATION
+65;IUT Annecy - DUT Mesures Physiques;Contenu;MA FORMATION
+66;;Contenu;MA FORMATION
+67;Annecy-le-Vieux, France, 2019 - 2027;Contenu;MA FORMATION
+68;;Contenu;MA FORMATION
+69;* Specialite Materiaux et Contrdles;Contenu;MA FORMATION
+70;chimiques;Contenu;MA FORMATION
+71;;Contenu;MA FORMATION
+72;Lycee Berthollet - Baccalaureat Scientifique;Contenu;MA FORMATION
+73;;Contenu;MA FORMATION
+74;Annecy, France, obtenu en juillet 2019;Contenu;MA FORMATION
+75;;Contenu;MA FORMATION
+76;* Section S SVT, Specialitee Mathematiques;Contenu;MA FORMATION
+77;;Contenu;MA FORMATION
+78;MES EXPERIENCES;Section;MES EXPERIENCES
+79;;Contenu;MES EXPERIENCES
+80;STAGIAIRE CHARGE DE PROJETS METHODES;Section;MES EXPERIENCES
+81;;Contenu;MES EXPERIENCES
+82;& AMELIORATION CONTINUE -- MECALAC;Section;MES EXPERIENCES
+83;;Contenu;MES EXPERIENCES
+84;De mars a juillet 2023, Annecy-le-Vieux;Contenu;MES EXPERIENCES
+85;Service : Methodes Production;Contenu;MES EXPERIENCES
+86;;Contenu;MES EXPERIENCES
+87;Sujet : Creer une dynamique de communication;Contenu;MES EXPERIENCES
+88;standardisee dans les secteurs de l'usine;Contenu;MES EXPERIENCES
+89;(tableaux de management visuels,;Contenu;MES EXPERIENCES
+90;developpement et affichage d'indicateurs...);Contenu;MES EXPERIENCES
+91;Mettre en place un systeme de remontee des;Contenu;MES EXPERIENCES
+92;<< irritants >> des operateurs sur chaine.;Contenu;MES EXPERIENCES
+93;;Contenu;MES EXPERIENCES
+94;TECHNICIEN STAGIAIRE -- FOURNIER GROUPE;Section;MES EXPERIENCES
+95;;Contenu;MES EXPERIENCES
+96;De mars a juillet 2022, Thenes;Contenu;MES EXPERIENCES
+97;;Contenu;MES EXPERIENCES
+98;Service : Qualite Production;Contenu;MES EXPERIENCES
+99;;Contenu;MES EXPERIENCES
+100;= Sujet : Amelioration du taux de conformite d'une;Contenu;MES EXPERIENCES
+101;ligne de montage de meubles. Approche de;Contenu;MES EXPERIENCES
+102;resolution type DMAIC.;Contenu;MES EXPERIENCES
+103;;Contenu;MES EXPERIENCES
+104;TECHNICIEN STAGIAIRE - UGITECH;Section;MES EXPERIENCES
+105;;Contenu;MES EXPERIENCES
+106;De mars a juin 2021, Ugine;Contenu;MES EXPERIENCES
+107;Service : Methodes Acierie;Contenu;MES EXPERIENCES
+108;;Contenu;MES EXPERIENCES
+109;Sujet : Controle du processus de refroidissement;Contenu;MES EXPERIENCES
+110;contrdle sous abri des demi-produits d'acier;Contenu;MES EXPERIENCES
+111;inoxydable.;Contenu;MES EXPERIENCES
+112;;Contenu;MES EXPERIENCES

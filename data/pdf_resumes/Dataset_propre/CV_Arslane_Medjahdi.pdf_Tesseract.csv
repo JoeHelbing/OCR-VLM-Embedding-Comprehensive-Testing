@@ -1,0 +1,99 @@
+﻿;Texte;Catégorie;Sections
+0;PROFIL PERSONNEL;Section;PROFIL PERSONNEL
+1;Jeune data scientist de 23 ans;Contenu;PROFIL PERSONNEL
+2;decouvrant le monde. Je suis curieux,;Contenu;PROFIL PERSONNEL
+3;autonome et desireux de me rendre;Contenu;PROFIL PERSONNEL
+4;utile.;Contenu;PROFIL PERSONNEL
+5;;Contenu;PROFIL PERSONNEL
+6;CONTACTEZ-MOI;Section;CONTACTEZ-MOI
+7;;Contenu;CONTACTEZ-MOI
+8;9 31000, Toulouse;Contenu;CONTACTEZ-MOI
+9;;Contenu;CONTACTEZ-MOI
+10;Ga arslane.medjahdi@gmail.com;Contenu;CONTACTEZ-MOI
+11;fin) @arslane medjahdi;Contenu;CONTACTEZ-MOI
+12;;Contenu;CONTACTEZ-MOI
+13;& 0652537192;Contenu;CONTACTEZ-MOI
+14;;Contenu;CONTACTEZ-MOI
+15;LANGUES;Section;LANGUES
+16;e Anglais B2;Contenu;LANGUES
+17;e Allemand A2;Contenu;LANGUES
+18;e Espagnol A2;Contenu;LANGUES
+19;;Contenu;LANGUES
+20;COMPETENCES;Section;COMPETENCES
+21;;Contenu;COMPETENCES
+22;SOFT SKILLS:;Contenu;COMPETENCES
+23;Travail d'equipe;Contenu;COMPETENCES
+24;Prise de decision;Contenu;COMPETENCES
+25;Proactivite;Contenu;COMPETENCES
+26;Ecoute active;Contenu;COMPETENCES
+27;Esprit critique;Contenu;COMPETENCES
+28;;Contenu;COMPETENCES
+29;HARD SKILLS :;Contenu;COMPETENCES
+30;;Contenu;COMPETENCES
+31;Machine Learning;Contenu;COMPETENCES
+32;;Contenu;COMPETENCES
+33;Deep Learning;Contenu;COMPETENCES
+34;;Contenu;COMPETENCES
+35;Python (Jupyter Notebook), R;Contenu;COMPETENCES
+36;SQL (MySQL);Contenu;COMPETENCES
+37;;Contenu;COMPETENCES
+38;LateX, Powerpoint, QGIS;Contenu;COMPETENCES
+39;;Contenu;COMPETENCES
+40;CENTRE D'INTERET ET LOISIR;Section;CENTRE D'INTERET ET LOISIR
+42;Volley Ball;Contenu;CENTRE D'INTERET ET LOISIR
+43;;Contenu;CENTRE D'INTERET ET LOISIR
+44;Lecture;Contenu;CENTRE D'INTERET ET LOISIR
+45;Wwoofing;Contenu;CENTRE D'INTERET ET LOISIR
+46;;Contenu;CENTRE D'INTERET ET LOISIR
+47;ARSLANE MEDJAHDI;Section;ARSLANE MEDJAHDI
+48;FORMATION;Section;FORMATION
+49;Master en Mathematique et Ingenierie pour la Science des;Contenu;FORMATION
+50;;Contenu;FORMATION
+51;Donnees;Contenu;FORMATION
+52;;Contenu;FORMATION
+53;Faculte des Sciences et Technologies | 2021 - 2023 | Nancy;Contenu;FORMATION
+54;;Contenu;FORMATION
+55;Master en partenariat avec l'Ecole des Mines et Telecom Nancy;Contenu;FORMATION
+56;Fouille de donnees et Extraction de connaissance, Visualisation;Contenu;FORMATION
+57;de donnees, Intelligence Artificielle, Apprentissage supervise.;Contenu;FORMATION
+58;;Contenu;FORMATION
+59;L3 Mathematiques et Applications;Contenu;FORMATION
+60;Faculte des Sciences et Technologies | 2020 - 2021 | Nancy;Contenu;FORMATION
+61;Algebre lineaire appliquee, Statistiques et Probabilites, Analyse.;Contenu;FORMATION
+62;;Contenu;FORMATION
+63;CPU Mathematiques Physique et Informatique;Contenu;FORMATION
+64;;Contenu;FORMATION
+65;Faculte des Sciences et Technologies | 2018 - 2020 | Nancy;Contenu;FORMATION
+66;;Contenu;FORMATION
+67;Licence de mathematique renforcee, complement en physique et;Contenu;FORMATION
+68;en informatique.;Contenu;FORMATION
+69;EXPERIENCE PROFESSIONNELLE ET STAGE;Section;EXPERIENCE PROFESSIONNELLE ET STAGE
+70;Avril 2023 a Septembre 2023;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+71;Stage | CLS Toulouse;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+72;;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+73;e Recherche et Developpement d'un CNN hierarchique pour la;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+74;segmentation semantique des sols;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+75;;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+76;C/ Implementation de Vision Transformers a l'aide de la librairie;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+77;HuggingFace;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+78;;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+79;mars-21;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+80;;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+81;Stage | Laboratoire GREEN;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+82;;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+83;e Analyse de donnees experimentales lors d'etudes de;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+84;materiaux ferromagnetiques et presentation des resultats;Contenu;EXPERIENCE PROFESSIONNELLE ET STAGE
+85;PROJETS D'ETUDE;Section;PROJETS D'ETUDE
+86;Projet de M2: La fouille de donnees au service du;Contenu;PROJETS D'ETUDE
+87;Developpement Durable;Contenu;PROJETS D'ETUDE
+88;e Etude d'une base de donnee regroupant les arbres de;Contenu;PROJETS D'ETUDE
+89;Grenoble;Contenu;PROJETS D'ETUDE
+90;e Prediction de la presence de defaut de chaque arbre, ainsi;Contenu;PROJETS D'ETUDE
+91;que sa localisation;Contenu;PROJETS D'ETUDE
+92;C/ Visualisation de l'etat general du parc vegetal de Grenoble;Contenu;PROJETS D'ETUDE
+93;EXPERIENCE ANNEXE;Section;EXPERIENCE ANNEXE
+94;Benevolat Linkee (Janvier 2023);Contenu;EXPERIENCE ANNEXE
+95;e Preparation et distribution de paniers repas pour les;Contenu;EXPERIENCE ANNEXE
+96;etudiants en situation de precarite alimentaire;Contenu;EXPERIENCE ANNEXE
+97;;Contenu;EXPERIENCE ANNEXE
+98;https://arslane18.github.io/arslanemedjahdi.github.io/;Contenu;EXPERIENCE ANNEXE

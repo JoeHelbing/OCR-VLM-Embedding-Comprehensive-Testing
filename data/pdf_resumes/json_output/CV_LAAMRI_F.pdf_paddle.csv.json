@@ -1,0 +1,206 @@
+{
+    "PERSONAL INFORMATIONS": [
+        {
+            "category": "Contenu",
+            "text": "Anis-Samy LAAMRI"
+        },
+        {
+            "category": "Contenu",
+            "text": " +33 6 09 86 21 03 in Linkedin  a.laamri@outlook.fr"
+        }
+    ],
+    "EDUCATION": [
+        {
+            "category": "Section",
+            "text": "EDUCATION"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ecole des Mines de Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "September 2021 - September 2025"
+        },
+        {
+            "category": "Contenu",
+            "text": "M.S in Applied Mathematics and Industrial Engineering."
+        },
+        {
+            "category": "Contenu",
+            "text": "Current GPA: 3.5/4.0"
+        },
+        {
+            "category": "Contenu",
+            "text": "Coursework: Data Analysis,Databases ,Data Structures & Algorithms, Deep Learning, Machine Learning,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Modelization & Times Series, Operational Research, Statistics"
+        },
+        {
+            "category": "Contenu",
+            "text": "Universite de Lorraine"
+        },
+        {
+            "category": "Contenu",
+            "text": "September 2019 - June 2021"
+        },
+        {
+            "category": "Contenu",
+            "text": "B.S in Mathematics."
+        },
+        {
+            "category": "Contenu",
+            "text": "GPA: 3.9/4.0"
+        },
+        {
+            "category": "Contenu",
+            "text": "Coursework: Calculus, Complex & Real Analysis,Computer Science, Linear & Bilinear Algebra, Probabilities"
+        }
+    ],
+    "SKILLS": [
+        {
+            "category": "Section",
+            "text": "SKILLS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Languages: Python, C, R, VBA, CamL, SQL,Matlab, LATEX"
+        },
+        {
+            "category": "Contenu",
+            "text": "Tools: Excel, Power BI, Jupyter, Keras, Pytorch, Scikit-Learn, SAP."
+        },
+        {
+            "category": "Contenu",
+            "text": "Spoken Languages: French (Native) | English (Fluent : C1 Cambridge Advanced Certification)"
+        },
+        {
+            "category": "Contenu",
+            "text": "| Spanish (Intermediate) | Arabic (Morrocan Dialect)"
+        }
+    ],
+    "PROFESSIONAL EXPERIENCES": [
+        {
+            "category": "Section",
+            "text": "PROFESSIONAL EXPERIENCES"
+        },
+        {
+            "category": "Contenu",
+            "text": "Givenchy | Warehouse Engineer"
+        },
+        {
+            "category": "Contenu",
+            "text": "Sept. 2023 - February 2024"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Intern in charge of the outbound activity and the environnementals projects surrounding it."
+        },
+        {
+            "category": "Contenu",
+            "text": ". Establishment of various KPI built on PowerBI from dataextraction from the WMS used in the warehouse.."
+        },
+        {
+            "category": "Contenu",
+            "text": ": Economic and environnemental studies (vaccum rate, wedging...) of packaging to reduce the impact on climate."
+        },
+        {
+            "category": "Contenu",
+            "text": ": Optimization of the warehouse's WMS database to improve the workflow of operations in tune with Givenchy's own."
+        },
+        {
+            "category": "Contenu",
+            "text": "ERP system"
+        },
+        {
+            "category": "Contenu",
+            "text": "Louis Vuitton | Logistics Operator"
+        },
+        {
+            "category": "Contenu",
+            "text": "January 2022 - February 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Operator in charge of reception of new products at the central warehouse of Louis Vuitton in France."
+        },
+        {
+            "category": "Contenu",
+            "text": ". Handled the stocking of new products and the delivery for order preparation."
+        },
+        {
+            "category": "Contenu",
+            "text": ". Worked as an order preparator for E-Shopping and Retail stores, in charge of the personalized orders.."
+        },
+        {
+            "category": "Contenu",
+            "text": ": Took part in all the outbound logistics of goods and orders, as well as forklift operations.."
+        }
+    ],
+    "ACADEMICS PROJECTS": [
+        {
+            "category": "Section",
+            "text": "ACADEMICS PROJECTS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Research ProjectInstitut Elie Cartan de Lorraine"
+        },
+        {
+            "category": "Contenu",
+            "text": "Sept. 2022 - June 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Study on a particular field of algebra, representations theory with a focus on a specific group, the Pauli group, used."
+        },
+        {
+            "category": "Contenu",
+            "text": "in quantum computing."
+        },
+        {
+            "category": "Contenu",
+            "text": ": Redaction of a scientific paper, thesis defense and realization of an outreach film for younger students.."
+        },
+        {
+            "category": "Contenu",
+            "text": "Student-Scientist | Fondation Main d la Pate"
+        },
+        {
+            "category": "Contenu",
+            "text": "Sept. 2021 - June 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Scientific interventions in elementary class within the \"Main a la Pate' institution, founded by French Nobel Prize."
+        },
+        {
+            "category": "Contenu",
+            "text": "Georges Charpak"
+        },
+        {
+            "category": "Contenu",
+            "text": ": Presentations and experiments for 4th Grades during a year concluded by a Science's Fair."
+        }
+    ],
+    "HOBBIES": [
+        {
+            "category": "Section",
+            "text": "HOBBIES"
+        },
+        {
+            "category": "Contenu",
+            "text": "BasketBall: Player since 2006, currenty playing at a regional scale for Tours's Senior Team."
+        },
+        {
+            "category": "Contenu",
+            "text": "Cinema: Member of the Bureau of the School's Assicitation, Attended various movies' festival (Villerupt, IRTS)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Scientifc lectures: Attendance, human and technical assistance to the Sciences et Societes conferences cycle. )"
+        }
+    ]
+}

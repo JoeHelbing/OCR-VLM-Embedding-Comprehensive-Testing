@@ -1,0 +1,106 @@
+﻿;Texte;Catégorie;Sections
+0;IBRAHIM LAHLOU;Section;Personal Informations
+1;End of Studies internship | Starting February;Contenu;Personal Informations
+2;[ ibrahimlahlou021@gmail.com;Contenu;Personal Informations
+3;O +212 07 77 61 51 31;Contenu;Personal Informations
+4; 1/2  Morocco, Casablanca;Contenu;Personal Informations
+5;in/ibrahim-lahlou-ab09861ba;Contenu;Personal Informations
+6; github.com/IbLahlou;Contenu;Personal Informations
+7;ACHIEVEMENTS;Section;ACHIEVEMENTS
+8;3;Contenu;ACHIEVEMENTS
+9;Participation in MNPC 22;Contenu;ACHIEVEMENTS
+10;National Moroccan Programming;Contenu;ACHIEVEMENTS
+11;Competition held at 1337 Khouribga.;Contenu;ACHIEVEMENTS
+12;Problem Solving;Contenu;ACHIEVEMENTS
+13;Code Optimization;Contenu;ACHIEVEMENTS
+14;;Contenu;ACHIEVEMENTS
+15;Participation in several activities;Contenu;ACHIEVEMENTS
+16;* Basmat al aid (ENSAO solidarity);Contenu;ACHIEVEMENTS
+17;* Science Festival (MDSO);Contenu;ACHIEVEMENTS
+18;* Grand Debate of Oujda (ENCGO);Contenu;ACHIEVEMENTS
+19;* Git and GitHub Course Session;Contenu;ACHIEVEMENTS
+20;* NASA Space App Challenge;Contenu;ACHIEVEMENTS
+21;SKILLS;Section;SKILLS
+22;DevOps;Contenu;SKILLS
+23;* Git, GitHub Actions, Pytest;Contenu;SKILLS
+24;* Cloud Services: GCP, AWS;Contenu;SKILLS
+25;* Docker and Kubernetes;Contenu;SKILLS
+26;Machine Learning;Contenu;SKILLS
+27;* Models: LSTM , CNN;Contenu;SKILLS
+28;* ML Tools: Tensorflow ,PyTorch, MLflow;Contenu;SKILLS
+29;Data Engineering and Analysis;Contenu;SKILLS
+30;* Relational Databases: MySQL, SQL Server;Contenu;SKILLS
+31;* NoSQL Databases: Redis, BigQuery;Contenu;SKILLS
+32;* Big Data Tools: Airflow, Dataproc;Contenu;SKILLS
+33;* Data Visualization: Power BI, Looker;Contenu;SKILLS
+34;Application Development;Contenu;SKILLS
+35;* Frontend: HTML, CSS, JS, Vite + React.js;Contenu;SKILLS
+36;* Backend: Python (Flask, Django), Java, PHP;Contenu;SKILLS
+37;CERTIFICATIONS;Section;CERTIFICATIONS
+38;Intro to Agile Development and Scrum;Contenu;CERTIFICATIONS
+39;Neural Networks and Deep Learning;Contenu;CERTIFICATIONS
+40;GCP Baseline Infrastructure;Contenu;CERTIFICATIONS
+41;LANGUAGES;Section;LANGUAGES
+42;English;Contenu;LANGUAGES
+43;Fluent;Contenu;LANGUAGES
+44;French;Contenu;LANGUAGES
+45;Fluent;Contenu;LANGUAGES
+46;Arabic;Contenu;LANGUAGES
+47;Native;Contenu;LANGUAGES
+48;EDUCATION;Section;EDUCATION
+49;Data Science and Cloud Computing Engineering;Contenu;EDUCATION
+50;ENSA Oujda | Mohammed First University;Contenu;EDUCATION
+51; September 2021 - Present;Contenu;EDUCATION
+52; 1/2  Oujda, Oriental;Contenu;EDUCATION
+53;Preparatory Cycle (Science and Engineering);Contenu;EDUCATION
+54;ENSA Oujda | Mohammed First University;Contenu;EDUCATION
+55; September 2019 - June 2021;Contenu;EDUCATION
+56; 1/2  Oujda, Oriental;Contenu;EDUCATION
+57;EXPERIENCE;Section;EXPERIENCE
+58;MLOps Application Internship using NLP;Contenu;EXPERIENCE
+59;3D Smart Factory;Contenu;EXPERIENCE
+60; July 2023-September 2023;Contenu;EXPERIENCE
+61; 1/2  Morocco, Mohammadia;Contenu;EXPERIENCE
+62;* Analysis of data verification and spelling models.;Contenu;EXPERIENCE
+63;* Design of a pipeline for an NLP model with metrics.;Contenu;EXPERIENCE
+64;* Development and deployment of a web interface with Flask.;Contenu;EXPERIENCE
+65;* Github URL: IbLahlou/SpellX;Contenu;EXPERIENCE
+66;Docker;Contenu;EXPERIENCE
+67;Scrum;Contenu;EXPERIENCE
+68;Python;Contenu;EXPERIENCE
+69;Flask;Contenu;EXPERIENCE
+70;AWS;Contenu;EXPERIENCE
+71;DVC;Contenu;EXPERIENCE
+72;PERSONAL PROJECTS;Section;PERSONAL PROJECTS
+73;Analysis of Web Application Log Data;Contenu;PERSONAL PROJECTS
+74;Big Data Project;Contenu;PERSONAL PROJECTS
+75;(ongoing);Contenu;PERSONAL PROJECTS
+76;* Installation and configuration of Hadoop master-slave architecture.;Contenu;PERSONAL PROJECTS
+77;* Configuration of Flume for log data ingestion into HBase.;Contenu;PERSONAL PROJECTS
+78;* Github URL: IbLahlou/Data-Log-analysis;Contenu;PERSONAL PROJECTS
+79;Docker;Contenu;PERSONAL PROJECTS
+80;Hadoop;Contenu;PERSONAL PROJECTS
+81;Flume;Contenu;PERSONAL PROJECTS
+82;HBase;Contenu;PERSONAL PROJECTS
+83;Python;Contenu;PERSONAL PROJECTS
+84;InfluxDB;Contenu;PERSONAL PROJECTS
+85;Grafana;Contenu;PERSONAL PROJECTS
+86;MLOps Pipeline for ElasticNet Regression;Contenu;PERSONAL PROJECTS
+87;Data Mining and MLOps Project;Contenu;PERSONAL PROJECTS
+88;* Incremental data ingestion to Google Cloud Storage.;Contenu;PERSONAL PROJECTS
+89;* Continuous integration, deployment,& training of the model & application.;Contenu;PERSONAL PROJECTS
+90;* Github URL: IbLahlou/ElasticNet-model-e2e;Contenu;PERSONAL PROJECTS
+91;Python;Contenu;PERSONAL PROJECTS
+92;GCP;Contenu;PERSONAL PROJECTS
+93;Airflow;Contenu;PERSONAL PROJECTS
+94;Docker;Contenu;PERSONAL PROJECTS
+95;Flask;Contenu;PERSONAL PROJECTS
+96;Scikit-learn;Contenu;PERSONAL PROJECTS
+97;MLflow;Contenu;PERSONAL PROJECTS
+98;Other Projects:;Contenu;PERSONAL PROJECTS
+99;* Statistical Project | Stochastic Modeling for Regression | Link;Contenu;PERSONAL PROJECTS
+100;* Geospatial Analysis Project using Spatial Autoregressive Model | Link;Contenu;PERSONAL PROJECTS
+101;* IoT Project | Food Preservation Service | Link;Contenu;PERSONAL PROJECTS
+102;* Prototype of Backends for Frontends with GraphQL | Link;Contenu;PERSONAL PROJECTS
+103;* Web Project | Development of an E-Commerce application with PHP and;Contenu;PERSONAL PROJECTS
+104;Wordpress;Contenu;PERSONAL PROJECTS

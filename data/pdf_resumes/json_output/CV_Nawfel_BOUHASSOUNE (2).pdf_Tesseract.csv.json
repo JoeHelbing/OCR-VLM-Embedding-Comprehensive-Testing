@@ -1,0 +1,388 @@
+{
+    "Informations Personnelles": [
+        {
+            "category": "Contenu",
+            "text": "nawfel.bouhassouneg@gmail.com"
+        },
+        {
+            "category": "Contenu",
+            "text": "Agadir,Maroc"
+        },
+        {
+            "category": "Contenu",
+            "text": "652231458"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mobilite :"
+        },
+        {
+            "category": "Contenu",
+            "text": "Nationale / Internationale"
+        },
+        {
+            "category": "Contenu",
+            "text": "Nawfel BOUHASSOUNE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Je suis un eleve ingenieur en troisieme annee cycle ingenieur en Finance et ingenierie"
+        },
+        {
+            "category": "Contenu",
+            "text": "decisionnelle 4 I'Ensa d'Agadir tres passionne par les mathematiques et leurs"
+        },
+        {
+            "category": "Contenu",
+            "text": "applications en finance et je suis actuellement G la recherche d'un stage de fin d'etudes"
+        },
+        {
+            "category": "Contenu",
+            "text": "d'une duree de 6 mois avec une disponibilite 4 partir de Fevrier"
+        }
+    ],
+    "Reseaux sociaux ": [
+        {
+            "category": "Section",
+            "text": "Reseaux sociaux"
+        },
+        {
+            "category": "Contenu",
+            "text": "in @nawfel-bouhassoune"
+        }
+    ],
+    "Langues": [
+        {
+            "category": "Section",
+            "text": "Langues"
+        },
+        {
+            "category": "Contenu",
+            "text": "Arabe"
+        },
+        {
+            "category": "Contenu",
+            "text": "Langue maternelle"
+        },
+        {
+            "category": "Contenu",
+            "text": "Anglais"
+        },
+        {
+            "category": "Contenu",
+            "text": "Advanced"
+        },
+        {
+            "category": "Contenu",
+            "text": "Frangais"
+        },
+        {
+            "category": "Contenu",
+            "text": "Niveau Cl"
+        }
+    ],
+    "Comp\u00e9tence transversales": [
+        {
+            "category": "Section",
+            "text": "Competence transversales"
+        },
+        {
+            "category": "Contenu",
+            "text": "Adaptabilite"
+        },
+        {
+            "category": "Contenu",
+            "text": "Collaboration"
+        },
+        {
+            "category": "Contenu",
+            "text": "Esprit Critique"
+        },
+        {
+            "category": "Contenu",
+            "text": "Creativite"
+        }
+    ],
+    "Centres d'interet": [
+        {
+            "category": "Section",
+            "text": "Centres d'interet"
+        },
+        {
+            "category": "Contenu",
+            "text": "Lecture"
+        },
+        {
+            "category": "Contenu",
+            "text": "CEuvre philosophique,Romans (Policier ,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mystere , horreur (H.P | ovecraft )),Light"
+        },
+        {
+            "category": "Contenu",
+            "text": "Novels"
+        },
+        {
+            "category": "Contenu",
+            "text": "PC Hardware"
+        },
+        {
+            "category": "Contenu",
+            "text": "Suivi de toutes les nouvelles technologies"
+        },
+        {
+            "category": "Contenu",
+            "text": "materielles des PC (new CPU/GPU/ MBD)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gaming"
+        },
+        {
+            "category": "Contenu",
+            "text": "Souls games , Rogue-like, Sandbox , Moba ,"
+        },
+        {
+            "category": "Contenu",
+            "text": "RPGS & MMORPGS , E-Sports"
+        },
+        {
+            "category": "Contenu",
+            "text": "Parascolaire"
+        },
+        {
+            "category": "Contenu",
+            "text": "Membre du club Traders & Analysts Club d'"
+        },
+        {
+            "category": "Contenu",
+            "text": "ENSA Agadir (depuis 2022)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Membre de Apps Club (depuis 2019)"
+        }
+    ],
+    "Diplomes et formations": [
+        {
+            "category": "Section",
+            "text": "Dipl6mes et Formations"
+        },
+        {
+            "category": "Contenu",
+            "text": "@ Eleve ingenieur en Finance et Ingenierie Decisionnelle"
+        },
+        {
+            "category": "Contenu",
+            "text": "Depuis 2021 Ecole nationale des sciences appliquees Agadir"
+        },
+        {
+            "category": "Contenu",
+            "text": "@ Cycle preparatoire"
+        },
+        {
+            "category": "Contenu",
+            "text": "De 2018 G 2021 Ecole nationale des sciences appliquees Agadir"
+        },
+        {
+            "category": "Contenu",
+            "text": "@ Baccalaureat option Science Mathematique B"
+        },
+        {
+            "category": "Contenu",
+            "text": "De 2017 G 2018 Lycee Al Qalam Agadir"
+        }
+    ],
+    "Experiences professionnelles": [
+        {
+            "category": "Section",
+            "text": "Experiences professionnelles"
+        },
+        {
+            "category": "Contenu",
+            "text": "6 Stage d'application"
+        },
+        {
+            "category": "Contenu",
+            "text": "De mars 2023 G4 mai 2023 Administration des Douanes et Impets Indirects Agadir"
+        },
+        {
+            "category": "Contenu",
+            "text": "Developpement d'un modele de classification des declarations d'iimportation pour"
+        },
+        {
+            "category": "Contenu",
+            "text": "la detection de la fraude douaniere avec python :"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Manipulation des base de donnees pour pouvoir determiner les variables cles"
+        },
+        {
+            "category": "Contenu",
+            "text": "de prediction"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Entrainement de plusieurs modeles avec different algorithmes de classification"
+        },
+        {
+            "category": "Contenu",
+            "text": "*C/ Comparaison et evaluation des performances des modeles et choix du modele"
+        },
+        {
+            "category": "Contenu",
+            "text": "optimal"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Developpement d'une application web"
+        }
+    ],
+    "Projet academique r\u00e9alis\u00e9e": [
+        {
+            "category": "Section",
+            "text": "Projet academique realisee"
+        },
+        {
+            "category": "Contenu",
+            "text": "Projet Data Science:"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Prediction of a subscription to a new bank service using R:"
+        },
+        {
+            "category": "Contenu",
+            "text": "Utilisation des algorithmes de classification pour predire le nombre de client de la"
+        },
+        {
+            "category": "Contenu",
+            "text": "banque qui vont accepter de souscrire a un nouveau service bancaire"
+        },
+        {
+            "category": "Contenu",
+            "text": "Projet Courbe des taux:"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Modele d'estimation de la courbe des taux:"
+        },
+        {
+            "category": "Contenu",
+            "text": "Estimation de la courbe des taux en utilisant les modeles Vasicek et CIR"
+        },
+        {
+            "category": "Contenu",
+            "text": "Projet valorisation des produits derivees :"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Pricing des options europeennes et americaines en utilisant python:"
+        },
+        {
+            "category": "Contenu",
+            "text": "Creation d'une application web du pricing des options (Call et Put ) europeennes et"
+        },
+        {
+            "category": "Contenu",
+            "text": "ameericaines en utilisation le modele binomial avec les hypotheses de Cox-Ross-"
+        },
+        {
+            "category": "Contenu",
+            "text": "Rubinstein et Jarrow-Rudd et comparaison de la convergence avec le modele"
+        },
+        {
+            "category": "Contenu",
+            "text": "Black-Scholes"
+        },
+        {
+            "category": "Contenu",
+            "text": "Projet Gestion de Risque:"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Calcul de VAR et ES pour un portefeuille :"
+        },
+        {
+            "category": "Contenu",
+            "text": "Calcul de la VAR et ES pour un portefeuille contenant des actions avec les 3"
+        },
+        {
+            "category": "Contenu",
+            "text": "methodes : Parametrique , Historique et Monte Carlo"
+        }
+    ],
+    "Competences": [
+        {
+            "category": "Section",
+            "text": "Competences"
+        },
+        {
+            "category": "Contenu",
+            "text": "Recherche operationnelle et aide a la decision"
+        },
+        {
+            "category": "Contenu",
+            "text": "Programmation lineaire et non lineaire , Theorie des graphes , Processus Stochastiques"
+        },
+        {
+            "category": "Contenu",
+            "text": "Finance"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mathematiques financieres , Marches financiers, Gestion financieres , Valorisation des"
+        },
+        {
+            "category": "Contenu",
+            "text": "produits financiers , Valorisation et couverture par les produits derivees , Calcul"
+        },
+        {
+            "category": "Contenu",
+            "text": "stochastique pour la finance, Courbe des Taux,Gestion de portefeuille,Mesure de risques"
+        },
+        {
+            "category": "Contenu",
+            "text": "Statistiques"
+        },
+        {
+            "category": "Contenu",
+            "text": "Statistiques descriptives Statistiques inferentielles , Statistiques non parametriques ,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Analyse des donnees , Series temporelles , Econometrie , Theorie de la decision"
+        },
+        {
+            "category": "Contenu",
+            "text": "Data Science & Big Data"
+        },
+        {
+            "category": "Contenu",
+            "text": "Data Visualization , Data Wrangling & Reshaping , Machine Learning ( Classification ,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Regression, Clustering ) , Text Mining"
+        },
+        {
+            "category": "Contenu",
+            "text": "Economie"
+        },
+        {
+            "category": "Contenu",
+            "text": "Microeconomie , Macroeconomie , Equilibre des marches"
+        },
+        {
+            "category": "Contenu",
+            "text": "Language de programmation"
+        },
+        {
+            "category": "Contenu",
+            "text": "Java,R,C,Python"
+        }
+    ]
+}

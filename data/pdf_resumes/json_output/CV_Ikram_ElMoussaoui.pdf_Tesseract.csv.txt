@@ -1,0 +1,136 @@
+IKRAM
+\ +33 6 83 93 78 50
+9 Toulouse, France
+nan
+EL MOUSSAOUI 4 ikram1999elmoussaoui@gmail.com
+nan
+e 24 ans
+nan
+-- EMBEDDED SYSTEM ENGINEER --
+nan
+PROFESSIONAL PROFILE
+nan
+Embedded Systems Engineer with 1
+year of experience at Continental
+Engineering Services, passionate
+about embedded systems and
+skilled in driver development, SoC
+architectures, low-level
+programming for embedded
+systems, and technical problem-
+solving. I am seeking a position
+starting from September 2024.
+nan
+EDUCATION
+nan
+Master of Complex Systems Engineering
+nan
+Bretagne Sud University -- France
+nan
+Sept. 2021 - June 2024
+nan
+e Thesis focusing on the development
+and integration of drivers on Nvidia
+SoCs for the operation of cameras for
+nan
+ADAS (Advanced Driver Assistance
+Systems).
+nan
+Bachelor's Degree in Electronics/Optics
+nan
+Embedded Systems
+nan
+Limoges University -- France
+nan
+Sept. 2020 - June 2021
+nan
+e Final Year Project 'City Crossroads
+Traffic Lights with Priority Lanes
+Automation' aimed at controlling
+traffic lights.
+nan
+University Diploma in General Studies
+nan
+(DEUG)
+Cadi Ayyad University - Morocco
+Sept.2017 -- June 2020
+nan
+e Higher Education in Physical Science
+and Mathematics.
+nan
+INTERESTS
+e Scientific reading, particularly in
+cosmology.
+nan
+e Practice of yoga and dance.
+nan
+SKILLS
+Programming Languages Language Skills
+: oe e French: Fluent
+Vil e English : Fluent
+e
+(c) Matlab e Arabic : Native Language
+e Assembly
+nan
+System Development
+e Kernel development
+e Communication protocols
+nan
+Development Tools
+e Git/GitHub
+e Bash scripting
+nan
+* Sots . e Agile Project Management (JIRA)
+e Real-time systems (c) Jenkins
+nan
+Debuggi
+: aos e Artifactory
+nan
+PROFESSIONAL EXPERIENCES
+nan
+Embedded Systems Developer
+nan
+Continental Engineering Services - Toulouse, France Sept. 2023 -- Sept. 2024
+nan
+e Integration, testing, and development of drivers for ADAS cameras,
+on Nvidia SoCs, debugging, and Nvidia forums.
+RTOS Project
+nan
+Bretagne Sud University - Lorient, France Nov. 2022 -- Dec. 2022
+nan
+e Implementation of a 3-axis gimbal stabilizer (steadycam) using three
+servo motors utilizing the STM32 board.
+nan
+FPGA Project
+nan
+Bretagne Sud University- Lorient, France Sept. 2022 -- Oct. 2022
+e Development of a simple 16-bit microprocessor using the Basys3
+nan
+board.
+nan
+Internship: Improvement of an embedded control interface for machines
+nan
+Trane Technologies - Charmes, France Sept. 2022 -- Oct. 2022
+nan
+e Evaluate the cause of performance issues in a virtual simulator, propose a
+solution that may involve an alternative data exchange method between
+data and the modbus/IPC3 interface other than the COM technology.
+nan
+QT Project / Python Project
+nan
+Bretagne Sud University - Lorient, France Jan. 2022 -- March. 2022
+nan
+e Implementation of a local messaging system using TCP and UDP protocols
+using Qt in C++.
+nan
+e Implementing the Q-Learning method for the Frozen Lake game in the
+gym environment using Python.
+nan
+ROVER Project
+nan
+Bretagne Sud University- Lorient, France Oct. 2021 -- Feb. 2022
+nan
+e Implementing the control of a ROVER. Controlling 4 ROVER motors,
+adding a distance sensor in bare-metal and real-time.
+nan
+Internal

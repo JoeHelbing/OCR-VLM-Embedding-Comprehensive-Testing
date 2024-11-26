@@ -1,0 +1,222 @@
+{
+    "COORDONNEES": [
+        {
+            "category": "Section",
+            "text": "COORDONNEES"
+        },
+        {
+            "category": "Contenu",
+            "text": "2 Chemin des Imprimeurs, 69250"
+        },
+        {
+            "category": "Contenu",
+            "text": "Montanay"
+        },
+        {
+            "category": "Contenu",
+            "text": "33 788 598 545"
+        },
+        {
+            "category": "Contenu",
+            "text": "milo.kowalska@epitech.eu"
+        },
+        {
+            "category": "Contenu",
+            "text": "02/10/2005 - 18 ans"
+        }
+    ],
+    "COMPETENCES": [
+        {
+            "category": "Section",
+            "text": "COMPETENCES"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Travail en equipe"
+        },
+        {
+            "category": "Contenu",
+            "text": "<< Communication orale"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Capacite d'analyse"
+        }
+    ],
+    "CENTRES D'INTERET": [
+        {
+            "category": "Section",
+            "text": "CENTRES D'INTERET"
+        },
+        {
+            "category": "Contenu",
+            "text": "<< Cinema"
+        },
+        {
+            "category": "Contenu",
+            "text": "Pratique du theatre"
+        },
+        {
+            "category": "Contenu",
+            "text": "Volley-Ball : membre actif d'une"
+        },
+        {
+            "category": "Contenu",
+            "text": "equipe depuis 3 ans et capitaine."
+        },
+        {
+            "category": "Contenu",
+            "text": "Culture generale"
+        },
+        {
+            "category": "Contenu",
+            "text": "Lecture"
+        },
+        {
+            "category": "Contenu",
+            "text": "Informatique"
+        }
+    ],
+    "LANGUES": [
+        {
+            "category": "Section",
+            "text": "LANGUES"
+        },
+        {
+            "category": "Contenu",
+            "text": "Anglais"
+        },
+        {
+            "category": "Contenu",
+            "text": "Avance (C1)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Espagnol"
+        },
+        {
+            "category": "Contenu",
+            "text": "Intermediaire (B1)"
+        }
+    ],
+    "PROFIL": [
+        {
+            "category": "Contenu",
+            "text": "Milo KOWALSKA"
+        },
+        {
+            "category": "Contenu",
+            "text": "Etudiant en informatique a Epitech"
+        },
+        {
+            "category": "Section",
+            "text": "PROFIL"
+        },
+        {
+            "category": "Contenu",
+            "text": "Actuellement en Tere annee d'etude d'informatique a Epitech, je"
+        },
+        {
+            "category": "Contenu",
+            "text": "recherche un stage de 4 a 6 mois dans le cadre de ma deuxieme"
+        },
+        {
+            "category": "Contenu",
+            "text": "annee. Volontaire et curieux, je me distingue par mon engagement"
+        },
+        {
+            "category": "Contenu",
+            "text": "au service du collectif et mon godt d'apprendre."
+        }
+    ],
+    "EXPERIENCE": [
+        {
+            "category": "Section",
+            "text": "EXPERIENCE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Stage d'observation 02/2020 - 02/2020"
+        },
+        {
+            "category": "Contenu",
+            "text": "Jeannot, Fabricant de resistances chauffantes - Lyon - Stage"
+        },
+        {
+            "category": "Contenu",
+            "text": "e<< Accompagnement d'un salarie dans son travail, realisation de"
+        },
+        {
+            "category": "Contenu",
+            "text": "taches simples sous sa supervision."
+        },
+        {
+            "category": "Contenu",
+            "text": "<< Accompagnement et visites commerciales des clients et des"
+        },
+        {
+            "category": "Contenu",
+            "text": "fournisseurs."
+        }
+    ],
+    "FORMATIONS": [
+        {
+            "category": "Section",
+            "text": "FORMATIONS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Expert en Technologies de I'Information, 2023 - 2028"
+        },
+        {
+            "category": "Contenu",
+            "text": "Epitech - Lyon"
+        },
+        {
+            "category": "Contenu",
+            "text": "<< Ambassadeur : Representant de I'ecole a l'exterieur (Salon, Forum,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Intervention dans les lycees)"
+        },
+        {
+            "category": "Contenu",
+            "text": "Baccalaureat general Mention Assez bien, 2020 - 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "Lycee Notre Dame de Bellegarde -- Neuville-Sur-Sa6ne"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Specialites : NSI (Numeriques et Sciences Informatiques) et"
+        },
+        {
+            "category": "Contenu",
+            "text": "HGGSP (Histoire-Geographie, Geopolitique et Sciences"
+        },
+        {
+            "category": "Contenu",
+            "text": "Politiques)."
+        },
+        {
+            "category": "Contenu",
+            "text": "Brevet Mention Bien, 09/2016 - 06/2020"
+        },
+        {
+            "category": "Contenu",
+            "text": "College Notre Dame de Bellegarde -- Neuville-Sur-Sadne"
+        }
+    ],
+    "COMPETENCES INFORMATIQUES": [
+        {
+            "category": "Section",
+            "text": "COMPETENCES INFORMATIQUES"
+        },
+        {
+            "category": "Contenu",
+            "text": "HTML"
+        }
+    ]
+}

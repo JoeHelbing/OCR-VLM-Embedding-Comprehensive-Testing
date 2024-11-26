@@ -1,0 +1,72 @@
+﻿;Texte;Catégorie;Sections
+0;Valentin Gerard;Contenu;Personal Informations
+1; +33 7 55 64 65 48;Contenu;Personal Informations
+2;Master's degree Matematics, Vision, Learning (MVA);Contenu;Personal Informations
+3; valentin.gerard@etu.u-paris.fr;Contenu;Personal Informations
+4;Ecole normale superieure Paris-Saclay (University Paris-Saclay).;Contenu;Personal Informations
+5;in LinkedIn;Contenu;Personal Informations
+6;Ecole des Mines de Nancy;Contenu;Personal Informations
+7;Seeking for a research internship (5-6 months) starting from April 2024 in the field of Computer.;Contenu;Personal Informations
+8;Vision or Natural Language Processing..;Contenu;Personal Informations
+9;EXPERIENCE;Section;EXPERIENCE
+10;. Institut FEMTO-ST, Computer Science Department;Contenu;EXPERIENCE
+11;June 2023 - September 2023;Contenu;EXPERIENCE
+12;Deep Learning Research Intern;Contenu;EXPERIENCE
+13;Belfort, France;Contenu;EXPERIENCE
+14;Designed and trained a model for the automated detection of R-waves in highly noisy electrocardiograms (ECGs).;Contenu;EXPERIENCE
+15;To address this challenge, we introduced artificial noise into our training dataset, which originally comprised clear;Contenu;EXPERIENCE
+16;ECGs and we evaluated the performance of our model using highly noisy ECG data provided by Dijon Hospital.;Contenu;EXPERIENCE
+17;I employed models designed to process the ECG through its time-frequency representation. Then, I leveraged a;Contenu;EXPERIENCE
+18;Transformer model that combines information from both the time-frequency representation and the time series;Contenu;EXPERIENCE
+19;data of ECGs.;Contenu;EXPERIENCE
+20;. National Institute for Research in Digital Science and Technology (INRIA);Contenu;EXPERIENCE
+21;September 2022 -June 2023;Contenu;EXPERIENCE
+22;Deep Learning Research Intern, MULTISPEECH Team;Contenu;EXPERIENCE
+23;Nancy, France;Contenu;EXPERIENCE
+24;Designed and trained more efficient neural network architectures for audiovisual speech generative modeling using;Contenu;EXPERIENCE
+25;variational autoencoders. Speech perception involves both the acoustic modality and the visual modality, specif-;Contenu;EXPERIENCE
+26;ically the lip movements of the speaker. We focused on an encoder to encode the input signal using both speech;Contenu;EXPERIENCE
+27; tion. I delved into exploring Transformer based models to capture temporal dependencies within the signal..;Contenu;EXPERIENCE
+28;: LISI Automotive;Contenu;EXPERIENCE
+29;January 2022 - February 2022;Contenu;EXPERIENCE
+30;Factory Operator Intern;Contenu;EXPERIENCE
+31;Delle, France;Contenu;EXPERIENCE
+32;Worked on automatic sorting machines for assembly solutions in the automotive industry. Observed challenges in;Contenu;EXPERIENCE
+33;applying computer vision on a production line.;Contenu;EXPERIENCE
+34;EDUCATION;Section;EDUCATION
+35;-Ecole Normale Superieur Paris-Saclay (University Paris-Saclay);Contenu;EDUCATION
+36;2023-2024;Contenu;EDUCATION
+37;Master's degree Mathematiques, Vision, Apprentissage (MVA);Contenu;EDUCATION
+38;Paris, France;Contenu;EDUCATION
+39;Image denoising, Generative Models for Image, Digital imaging, Deformable models and geodesic methods for;Contenu;EDUCATION
+40;image analysis, Deep learning for medical imaging, Inverse problems and imaging ,Geometric data analysis, Convex;Contenu;EDUCATION
+41;optimization;Contenu;EDUCATION
+42;. Ecole des Mines de Nancy;Contenu;EDUCATION
+43;2021-2024;Contenu;EDUCATION
+44;Ingenieur Civil des Mines, Master of Science;Contenu;EDUCATION
+45;Nancy, France;Contenu;EDUCATION
+46;Notable Courses: Machine Learning, Deep Learning, Image Processing, Data Analysis, Time Series, Optimization,.;Contenu;EDUCATION
+47;Probability, Statistics, Monte Carlo Method, Inverse Problems, Database, Software Engineering, Programming.;Contenu;EDUCATION
+48;and Data Structure, Algorithms and Complexity, Statistical Physics, Project Management;Contenu;EDUCATION
+49;: Classe preparatoire au Grandes Ecoles - Lycee Kleber.;Contenu;EDUCATION
+50;2019-2021;Contenu;EDUCATION
+51;Undergraduate studies to prepare for competitive nationwide entry exams to engineering schools;Contenu;EDUCATION
+52;Strasbourg, France;Contenu;EDUCATION
+53;Intensive courses for two years in mathematics, physics, computer science and engineering;Contenu;EDUCATION
+54;AWARDS;Section;AWARDS
+55;: Academic excellence scholarship for MVA given by Paris Artificial Intelligence Research Institute 2023-2024;Contenu;AWARDS
+56;TECHNICAL SKILLS;Section;TECHNICAL SKILLS
+57;Programming Languages: Python, SQL, R, MATLAB;Contenu;TECHNICAL SKILLS
+58;Python Libraries: PyTorch, TensorFlow, Pandas, Numpy, Matplotlib.;Contenu;TECHNICAL SKILLS
+59;Cloud Computing: Google Cloud.;Contenu;TECHNICAL SKILLS
+60;Other: LATEX, Git, ChatGPT;Contenu;TECHNICAL SKILLS
+61;LANGUAGES;Section;LANGUAGES
+62;French: Mother Tongue | English: C1 TOEIC and IELTS | German: B1 Goethe Zertifikat | Italian: B1;Contenu;LANGUAGES
+63;HOBBIES AND INTERESTS;Section;HOBBIES AND INTERESTS
+64;: Football: Manager of Mines Nancy football team (2022-2023) and US-Bavans U11(2018-2019);Contenu;HOBBIES AND INTERESTS
+65;: AI : I attend conferences, read papers, follow the release of models and use SF to think about the impact of AI;Contenu;HOBBIES AND INTERESTS
+66;ADDITIONAL CERTIFICATIONS;Section;ADDITIONAL CERTIFICATIONS
+67;. Workplace First Aid formation, INRS, Nancy;Contenu;ADDITIONAL CERTIFICATIONS
+68;2022;Contenu;ADDITIONAL CERTIFICATIONS
+69;. Online Course in Project Management, Ecole Centrale de Lille, France;Contenu;ADDITIONAL CERTIFICATIONS
+70;2021;Contenu;ADDITIONAL CERTIFICATIONS

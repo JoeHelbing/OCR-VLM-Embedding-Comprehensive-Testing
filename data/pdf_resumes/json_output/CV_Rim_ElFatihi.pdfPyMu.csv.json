@@ -1,0 +1,216 @@
+{
+    "Informations personnelles": [
+        {
+            "category": "Contenu",
+            "text": "Rim EL FATIHI"
+        },
+        {
+            "category": "Contenu",
+            "text": "Eleve ingenieure a l'Ecole des Mines de Nancy"
+        },
+        {
+            "category": "Section",
+            "text": "Informations personnelles"
+        },
+        {
+            "category": "Contenu",
+            "text": "Nom"
+        },
+        {
+            "category": "Contenu",
+            "text": "Rim EL FATIHI"
+        },
+        {
+            "category": "Contenu",
+            "text": "Adresse e-mail"
+        },
+        {
+            "category": "Contenu",
+            "text": "rim.el-fatihi6@univ-lorraine.fr"
+        },
+        {
+            "category": "Contenu",
+            "text": "Numero de telephone"
+        },
+        {
+            "category": "Contenu",
+            "text": "33 765 871 961"
+        },
+        {
+            "category": "Contenu",
+            "text": "Adresse"
+        },
+        {
+            "category": "Contenu",
+            "text": "11.Avenue du Charmois"
+        },
+        {
+            "category": "Contenu",
+            "text": "54500 Vandoeuvre-les-Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "LinkedIn"
+        },
+        {
+            "category": "Contenu",
+            "text": "Rim El Fatihi"
+        }
+    ],
+    "Langues": [
+        {
+            "category": "Section",
+            "text": "Langues"
+        },
+        {
+            "category": "Contenu",
+            "text": "Arabe"
+        },
+        {
+            "category": "Contenu",
+            "text": "Francais"
+        },
+        {
+            "category": "Contenu",
+            "text": "Anglais"
+        },
+        {
+            "category": "Contenu",
+            "text": "Espagnol"
+        }
+    ],
+    "Profil": [
+        {
+            "category": "Section",
+            "text": "Profil"
+        },
+        {
+            "category": "Contenu",
+            "text": "Actuellement etudiante a l'ecole Nationale Superieure des Mines de Nancy, je suis a la "
+        },
+        {
+            "category": "Contenu",
+            "text": "recherche d'un stage operateur pour la duree d'un mois qui me permettrait de decouvrir "
+        },
+        {
+            "category": "Contenu",
+            "text": "le monde de l'entreprise et, plus largement, de la vie professionnelle."
+        }
+    ],
+    "Formation": [
+        {
+            "category": "Section",
+            "text": "Formation"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ecole des Mines de Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "sept. 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ingenierie generaliste"
+        },
+        {
+            "category": "Contenu",
+            "text": "Cours pertinents: Analyse numerique et optimisation, Probabilite, Physique Quantique, "
+        },
+        {
+            "category": "Contenu",
+            "text": "Algorithmes et complexite, Mecanique des milieux continus, Recherche operationnelle."
+        },
+        {
+            "category": "Contenu",
+            "text": "Lycee Mohammed VI d'Excellence"
+        },
+        {
+            "category": "Contenu",
+            "text": "de sept. 2021 a juin 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "Classes preparatoires aux grandes ecole MPSI-MP, Benguerir"
+        },
+        {
+            "category": "Contenu",
+            "text": "Cours pertinents: Chimie, thermodynamique, programmation informatique, physique "
+        },
+        {
+            "category": "Contenu",
+            "text": "quantique, equation differentielles, analyse complexe, calcul differentiel et mecanique."
+        },
+        {
+            "category": "Contenu",
+            "text": "Baccalaureat marocain sciences mathematiques"
+        },
+        {
+            "category": "Contenu",
+            "text": "de sept. 2020 a juin 2021"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mention tres bien."
+        }
+    ],
+    "Comp\u00e9tences": [
+        {
+            "category": "Section",
+            "text": "Competences"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python"
+        },
+        {
+            "category": "Contenu",
+            "text": "Matlab"
+        },
+        {
+            "category": "Contenu",
+            "text": "SQL"
+        },
+        {
+            "category": "Contenu",
+            "text": "Microsoft Office"
+        },
+        {
+            "category": "Contenu",
+            "text": "Gestion de Projet"
+        }
+    ],
+    "Certificats": [
+        {
+            "category": "Section",
+            "text": "Certificats"
+        },
+        {
+            "category": "Contenu",
+            "text": "Mooc gestion de projet"
+        },
+        {
+            "category": "Contenu",
+            "text": "nov. 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "Centrale Lille"
+        }
+    ],
+    "Activites extra-professionnelles": [
+        {
+            "category": "Section",
+            "text": "Activites extra-professionnelles"
+        },
+        {
+            "category": "Contenu",
+            "text": "Membre du pole communication du TedX Mines "
+        },
+        {
+            "category": "Contenu",
+            "text": "Nancy"
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "Informations Personnelles": [
+        {
+            "category": "Contenu",
+            "text": "LOGAN MARCELLIN-DIBON"
+        },
+        {
+            "category": "Contenu",
+            "text": "+33 7 68 86 41 92 - loganmarcellindibon@gmail.com -"
+        },
+        {
+            "category": "Contenu",
+            "text": "https://www.linkedin.com/in/logan-marcellin-dibon-b7639326"
+        },
+        {
+            "category": "Contenu",
+            "text": "Looking for a six-month internship for my engineering studies in computer science between february 2024"
+        },
+        {
+            "category": "Contenu",
+            "text": "and august 2024"
+        }
+    ],
+    "EDUCATION": [
+        {
+            "category": "Section",
+            "text": "EDUCATION"
+        },
+        {
+            "category": "Contenu",
+            "text": "2021-2025 Ecole des Mines de Nancy - Engineering School Nancy,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Master in engineering, Specialization in Computer science France"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ranked By Usine Nouvelle as #6 in French Engineering School in 2022"
+        },
+        {
+            "category": "Contenu",
+            "text": "2019 - 2021 Lycee Hoche - Classe Preparatoire aux Grandes Ecoles Versailles,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Two-years intensive preparation to entrance exams for the best french France"
+        },
+        {
+            "category": "Contenu",
+            "text": "engineering schools"
+        },
+        {
+            "category": "Contenu",
+            "text": "Relevant courses : Mathematics - Physics - Chemistry"
+        }
+    ],
+    "PROFESSIONAL EXPERIENCES & PROJECTS": [
+        {
+            "category": "Section",
+            "text": "PROFESSIONAL EXPERIENCES & PROJECTS"
+        },
+        {
+            "category": "Contenu",
+            "text": "Feb 2022 DAUM, historical glassmaker company Nancy,"
+        },
+        {
+            "category": "Contenu",
+            "text": "(4 weeks) Internship as an operator in the Daum crystal factory as an operator incharge France"
+        },
+        {
+            "category": "Contenu",
+            "text": "of deplastering and cleaning the crystal art-pieces."
+        },
+        {
+            "category": "Contenu",
+            "text": "2022-2023 Automatisation of image databases creation (Python) Nancy,"
+        },
+        {
+            "category": "Contenu",
+            "text": "(10 months) Creation of a system that automatically creates databases of images for IA France"
+        },
+        {
+            "category": "Contenu",
+            "text": "training, using python selenium and openCV."
+        },
+        {
+            "category": "Contenu",
+            "text": "2023 Creation of an arcade video game (Unity) Nancy,"
+        },
+        {
+            "category": "Contenu",
+            "text": "(4months) Development of a two player arcade video game for people to play at the yeah __--\" France"
+        },
+        {
+            "category": "Contenu",
+            "text": "music festival in France."
+        }
+    ],
+    "LANGUAGE, SKILLS & CERTIFICATIONS": [
+        {
+            "category": "Section",
+            "text": "LANGUAGE, SKILLS & CERTIFICATIONS"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Native in French"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Fluent in English : level C1 grade B assessed by the Cambridge exam"
+        },
+        {
+            "category": "Contenu",
+            "text": "e MOOC certification - Project management - Central Lille"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Mastered softwares : FL studio, Unity, VCVRack, Adobe illustrator, Premiere Pro, Blender"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Mastered computer languages : Python - GoLang - Java - Javascript"
+        }
+    ],
+    "ACTIVITIES & INTERESTS": [
+        {
+            "category": "Section",
+            "text": "ACTIVITIES & INTERESTS"
+        },
+        {
+            "category": "Contenu",
+            "text": "MUSIC"
+        },
+        {
+            "category": "Contenu",
+            "text": "Member of the sound and light association of Mines Nancy :"
+        },
+        {
+            "category": "Contenu",
+            "text": "Performed as a DJ many times for parties of up to 600 people in addition to the installation of the"
+        },
+        {
+            "category": "Contenu",
+            "text": "sound system and the light system."
+        },
+        {
+            "category": "Contenu",
+            "text": "Strong interest in music creation as a hobby:"
+        },
+        {
+            "category": "Contenu",
+            "text": "I love creating music and exploring different ways to make sounds such as modular synthesis or other"
+        },
+        {
+            "category": "Contenu",
+            "text": "type of synthesis"
+        },
+        {
+            "category": "Contenu",
+            "text": "CINEMA"
+        },
+        {
+            "category": "Contenu",
+            "text": "Short film in partnership with the Nancy art school (ENSAD):"
+        },
+        {
+            "category": "Contenu",
+            "text": "Realization of a short film in partnership with the art school ENSAD as sound engineer in a group of"
+        },
+        {
+            "category": "Contenu",
+            "text": "seven students and with professional equipment."
+        },
+        {
+            "category": "Contenu",
+            "text": "Creation of an animation short film as a personal project for my sabbatical year :"
+        },
+        {
+            "category": "Contenu",
+            "text": "Currently working on an animation short film in order to submit it to several movie festivals."
+        },
+        {
+            "category": "Contenu",
+            "text": "Member of the news broadcast association of Mines Nancy :"
+        },
+        {
+            "category": "Contenu",
+            "text": "Realization of several animation shorts for the news broadcast of the school which is screened in front"
+        },
+        {
+            "category": "Contenu",
+            "text": "of all the students of the school before each vacation."
+        }
+    ]
+}

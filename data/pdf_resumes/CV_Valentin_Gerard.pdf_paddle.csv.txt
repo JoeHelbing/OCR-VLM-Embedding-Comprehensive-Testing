@@ -1,0 +1,71 @@
+Valentin Gerard
+ +33 7 55 64 65 48
+Master's degree Matematics, Vision, Learning (MVA)
+ valentin.gerard@etu.u-paris.fr
+Ecole normale superieure Paris-Saclay (University Paris-Saclay).
+in LinkedIn
+Ecole des Mines de Nancy
+Seeking for a research internship (5-6 months) starting from April 2024 in the field of Computer.
+Vision or Natural Language Processing..
+EXPERIENCE
+. Institut FEMTO-ST, Computer Science Department
+June 2023 - September 2023
+Deep Learning Research Intern
+Belfort, France
+Designed and trained a model for the automated detection of R-waves in highly noisy electrocardiograms (ECGs).
+To address this challenge, we introduced artificial noise into our training dataset, which originally comprised clear
+ECGs and we evaluated the performance of our model using highly noisy ECG data provided by Dijon Hospital.
+I employed models designed to process the ECG through its time-frequency representation. Then, I leveraged a
+Transformer model that combines information from both the time-frequency representation and the time series
+data of ECGs.
+. National Institute for Research in Digital Science and Technology (INRIA)
+September 2022 -June 2023
+Deep Learning Research Intern, MULTISPEECH Team
+Nancy, France
+Designed and trained more efficient neural network architectures for audiovisual speech generative modeling using
+variational autoencoders. Speech perception involves both the acoustic modality and the visual modality, specif-
+ically the lip movements of the speaker. We focused on an encoder to encode the input signal using both speech
+ tion. I delved into exploring Transformer based models to capture temporal dependencies within the signal..
+: LISI Automotive
+January 2022 - February 2022
+Factory Operator Intern
+Delle, France
+Worked on automatic sorting machines for assembly solutions in the automotive industry. Observed challenges in
+applying computer vision on a production line.
+EDUCATION
+-Ecole Normale Superieur Paris-Saclay (University Paris-Saclay)
+2023-2024
+Master's degree Mathematiques, Vision, Apprentissage (MVA)
+Paris, France
+Image denoising, Generative Models for Image, Digital imaging, Deformable models and geodesic methods for
+image analysis, Deep learning for medical imaging, Inverse problems and imaging ,Geometric data analysis, Convex
+optimization
+. Ecole des Mines de Nancy
+2021-2024
+Ingenieur Civil des Mines, Master of Science
+Nancy, France
+Notable Courses: Machine Learning, Deep Learning, Image Processing, Data Analysis, Time Series, Optimization,.
+Probability, Statistics, Monte Carlo Method, Inverse Problems, Database, Software Engineering, Programming.
+and Data Structure, Algorithms and Complexity, Statistical Physics, Project Management
+: Classe preparatoire au Grandes Ecoles - Lycee Kleber.
+2019-2021
+Undergraduate studies to prepare for competitive nationwide entry exams to engineering schools
+Strasbourg, France
+Intensive courses for two years in mathematics, physics, computer science and engineering
+AWARDS
+: Academic excellence scholarship for MVA given by Paris Artificial Intelligence Research Institute 2023-2024
+TECHNICAL SKILLS
+Programming Languages: Python, SQL, R, MATLAB
+Python Libraries: PyTorch, TensorFlow, Pandas, Numpy, Matplotlib.
+Cloud Computing: Google Cloud.
+Other: LATEX, Git, ChatGPT
+LANGUAGES
+French: Mother Tongue | English: C1 TOEIC and IELTS | German: B1 Goethe Zertifikat | Italian: B1
+HOBBIES AND INTERESTS
+: Football: Manager of Mines Nancy football team (2022-2023) and US-Bavans U11(2018-2019)
+: AI : I attend conferences, read papers, follow the release of models and use SF to think about the impact of AI
+ADDITIONAL CERTIFICATIONS
+. Workplace First Aid formation, INRS, Nancy
+2022
+. Online Course in Project Management, Ecole Centrale de Lille, France
+2021

@@ -1,0 +1,118 @@
+Ibrahim LAHLOU
+Data Analyst , Big Data & Cloud
+O linkedin.com/in/ibrahim-lahlou-ild01
+ github.com/IbLahlou
+u +212 07 77 61 51 31
+u ibrahimlahlou021@gmail.com
+H 2 Rue Chatillon , Belvedere , 20300 , Casablanca, Maroc
+E 23 ans , Ne a Oujda
+Future Ingenieur specialise en Data Science et Cloud Computing
+COMPETANCE
+Frameworks
+Fast-api , Flask ,Django ,Java/JEE(mobile,web),Spring, React.js
+Databases
+MySQL,Google Bigquery, Sqlite, Microsoft SQL Server, redis
+Data Analysis & BI
+Talend,Airflow, SSAS , Power BI
+Data Science & AI
+Tensorflow,Pytorch,pandas,mlflow,statsmodel,DVC
+Outils DevOps
+JIRA Scrum,Git , Github Action , Docker , Terraform , Pytest , Grafana
+Industry Knowledge
+Webscraping,Time Series ,Geospatial Data ,Data mining ,Model Serving
+a EXPERIENCES
+juil-23
+Model de Correction Orthographique| MLOps Jr Intern, 3D SMART FACTORY, Mohammadia
+Aout 2023
+ IbLahlou/SpellX
+Documentation et analyse des modeles de verification de donnees et d'orthographe.
+Conception d'un pipeline pour un modele de NLP avec des metriques comme BLEU-N.
+Conteneurisation et Deploiement de l'application Web Flask vers AWS avec Github Action
+JIRA
+Scrum
+Conda
+Pip
+Spello
+Transformers
+Flask
+Docker
+Github actions
+AWS
+Python logging
+Aout 2022
+Application Web Fullstack| Web Dev Junior Intern, WIKREAT, Casablanca
+sept-22
+ IbLahlou/Lareact-backend
+ IbLahlou/Lareact
+Developpement d'une api avec Laravel PHP avec l'architecture REST
+Developpement des Composants Frontends avec React.js et tester l'api avec postman
+Conception d'un tableau interactive avec data.table et jquery
+composer
+Laravel 7
+npm
+React.js
+Postman
+Data.table
+Jquery
+PHP
+Javascript
+Figma
+b FORMATION
+2024-2019
+Cycle d'ingenieur , Ingenieurie Data Science and Cloud Computing a l'ENSA Oujda
+2019
+Baccalaureat Scientifique option Science de la Chimie et de la Physique , Mention Tres Bien
+o PROJETS
+PIPELINE MLOPS POUR LA REGRESSION ELASTICNET
+2023
+ IbLahlou/ElasticNet-model-e2e
+Le projet vise a optimiser un modele de regression Elastic-Net, en utilisant des principes de MLOps pour resoudre les
+problemes de Data Drift, et ce en automatisant l'ingestion de donnees, model serving et l'artifact tracking.
+Conda
+Pip
+Git
+DVC
+Apache Airflow
+Sckitlearn
+Gridsearch
+Mlflow
+Terraform
+GCS
+Flask
+ANALYSE DES ANOMALIES DANS LES DONNEES DE LOGS
+2023
+ IbLahlou/Data-Log-analysis
+Le projet a pour objectif de detecter les anomalies dans les logs d'une application Web en utilisant une architecture
+maitre-esclave Hadoop, avec HBase et Flume, pour l'ingestion et l'analyse des donnees
+Bash
+Linux
+Git
+Flask
+Docker
+Hadoop
+Python
+Java
+Flume
+Hbase
+Phoenix SQL
+Grafana
+ANALYSE DES DONNEES D'UN CAPTEUR DHT11
+2023
+Ce pipeline automatise le flux de donnees de GCS a Looker, en incluant transfert et nettoyage via BigQuery, pour une
+utilisation strategique des donnees.
+Bash
+Linux
+Python
+IAM
+GCS
+GCF
+IAM
+Bigquery
+SQL
+Looker
+ LANGUES
+Francais : Courant
+Anglais : Courant
+ACTIVITE PARASCOLAIRE
+Data Science & IT Content Creator @ildodata
+Formateur Git et Github a GDSC d'ensa oujda

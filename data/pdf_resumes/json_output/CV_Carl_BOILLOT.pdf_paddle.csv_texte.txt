@@ -1,0 +1,67 @@
+CONTACT
+Carl BOILLOT
+G +33 6 58 69 04 63
+MineSnAnCy
+ carlboillot@orange.fr
+ Student at Ecole Nationale des Mines de Nancy.
+ARTEM
+in https://www.linkedin.com/in/carl-boillot/
+I am looking for a gap year internship as a Data Scientist, lasting between 4 and 6 months and starting in February
+2024. I am curious and a fast learner, I am involved in many different clubs and societies which makes me flexible and
+comfortable working both as part of a team or independently.
+EDUCATION
+MINES NANCY
+ENGINEER MINES DE NANCY CURRICULUM - MSc EQUIVALENT
+Nancy, France
+Applied Mathematics department course work : Deep Learning - Data Analysis - Stochastic calculus - Time series
+2021 -
+Analysis - Monte-Carlo Method and Application to Random Processes - Partial Differential Equations - Quantitative
+Finance - Game Theory
+Common core courses : Numerical analysis - Probabilities - Statistics - Quantum Mechanics - Statistical Physics -
+Continuum Mechanics - General Economy - Economic Intelligence.
+LYCEE HENRI
+PREPARATORY COURSEWORK FOR ENGINEERING SCHOOLS - BSc EQUIVALENT
+POINCARE
+Two years of intensive and advanced courses in mathematics, physics and chemistry dedicated to the preparation for
+Nancy, France
+the highly competitive entrance examinations to French Engineering schools
+2019 - 2021
+PROFESSIONAL EXPERIENCE
+SPRINGFIVE
+ SALESFORCE CONSULTANT INTERNSHIP
+Issy les Moulineaux, France
+Implementation of a Salesforce (#1 CRM worldwide) solution for a leading technology communication company in
+July - December 2023
+Europe :
+ Organizing client workshops and gathering business requirements
+Designing and specifying the solution
+ Solution build and configuration on Salesforce
+. Conducting the user acceptance testing
+. Conducting user training
+MINES NANCY
+VICE PRESIDENT OF THE COLLEGE SPORT COMITEE
+Nancy, France
+. Team management
+2022 - 2023
+: Organisation and management of events : inter-college multi-sport tournament (L-INP : 800 athletes, Cartel : 1500
+athletes)
+SOPIL SA
+SEASONAL EMPLOYEMENT
+Pirey, France
+Assistance for handling, packaging, quality control
+July 2022
+SOPIL SA
+PRODUCTION FACTORY OPERATOR INTERNSHIP
+Pirey, France
+Discovery of industrial professions
+February 2022
+: Administrative tasks in accounting
+TECHNICAL SKILLS
+: Programming Languages : Python, Matlab, R, SQL, VBA
+. Machine Learning & Deep Learning : Keras, TensorFlow, Scikit-Learn, Pandas, Matplotlib
+: Salesforce : Configuration, Development, Process Automation, Project Management
+: Tools : Office Pack, Adobe Suite (Premiere Pro, Photoshop, After Effect)
+: Linguistic Skills : French (native), English (confirmed), Spanish (intermediate), Japanese (beginner)
+PERSONAL INTERESTS
+. Hobbies : Competitive table tennis, rugby and running - Piano during 7 years.
+: Aviation : Aeronautic initiation certificate acquired in 2018

@@ -1,0 +1,133 @@
+nawfel.bouhassouneg@gmail.com
+Agadir,Maroc
+652231458
+Mobilite :
+Nationale / Internationale
+Reseaux sociaux
+nan
+in @nawfel-bouhassoune
+nan
+Langues
+nan
+Arabe
+Langue maternelle
+nan
+Anglais
+Advanced
+nan
+Frangais
+Niveau Cl
+nan
+Competence transversales
+nan
+Adaptabilite
+Collaboration
+Esprit Critique
+nan
+Creativite
+nan
+Centres d'interet
+nan
+Lecture
+nan
+CEuvre philosophique,Romans (Policier ,
+Mystere , horreur (H.P | ovecraft )),Light
+Novels
+nan
+PC Hardware
+Suivi de toutes les nouvelles technologies
+materielles des PC (new CPU/GPU/ MBD)
+nan
+Gaming
+nan
+Souls games , Rogue-like, Sandbox , Moba ,
+nan
+RPGS & MMORPGS , E-Sports
+nan
+Parascolaire
+nan
+Membre du club Traders & Analysts Club d'
+nan
+ENSA Agadir (depuis 2022)
+Membre de Apps Club (depuis 2019)
+nan
+Nawfel BOUHASSOUNE
+nan
+Je suis un eleve ingenieur en troisieme annee cycle ingenieur en Finance et ingenierie
+decisionnelle 4 I'Ensa d'Agadir tres passionne par les mathematiques et leurs
+applications en finance et je suis actuellement G la recherche d'un stage de fin d'etudes
+d'une duree de 6 mois avec une disponibilite 4 partir de Fevrier
+nan
+Dipl6mes et Formations
+nan
+@ Eleve ingenieur en Finance et Ingenierie Decisionnelle
+Depuis 2021 Ecole nationale des sciences appliquees Agadir
+nan
+@ Cycle preparatoire
+De 2018 G 2021 Ecole nationale des sciences appliquees Agadir
+nan
+@ Baccalaureat option Science Mathematique B
+De 2017 G 2018 Lycee Al Qalam Agadir
+nan
+Experiences professionnelles
+nan
+6 Stage d'application
+nan
+De mars 2023 G4 mai 2023 Administration des Douanes et Impets Indirects Agadir
+nan
+Developpement d'un modele de classification des declarations d'iimportation pour
+nan
+la detection de la fraude douaniere avec python :
+nan
+C/ Manipulation des base de donnees pour pouvoir determiner les variables cles
+de prediction
+nan
+e Entrainement de plusieurs modeles avec different algorithmes de classification
+nan
+*C/ Comparaison et evaluation des performances des modeles et choix du modele
+optimal
+nan
+C/ Developpement d'une application web
+Projet academique realisee
+Projet Data Science:
+C/ Prediction of a subscription to a new bank service using R:
+Utilisation des algorithmes de classification pour predire le nombre de client de la
+banque qui vont accepter de souscrire a un nouveau service bancaire
+Projet Courbe des taux:
+C/ Modele d'estimation de la courbe des taux:
+Estimation de la courbe des taux en utilisant les modeles Vasicek et CIR
+Projet valorisation des produits derivees :
+C/ Pricing des options europeennes et americaines en utilisant python:
+Creation d'une application web du pricing des options (Call et Put ) europeennes et
+ameericaines en utilisation le modele binomial avec les hypotheses de Cox-Ross-
+Rubinstein et Jarrow-Rudd et comparaison de la convergence avec le modele
+Black-Scholes
+Projet Gestion de Risque:
+C/ Calcul de VAR et ES pour un portefeuille :
+Calcul de la VAR et ES pour un portefeuille contenant des actions avec les 3
+methodes : Parametrique , Historique et Monte Carlo
+nan
+Competences
+nan
+Recherche operationnelle et aide a la decision
+Programmation lineaire et non lineaire , Theorie des graphes , Processus Stochastiques
+nan
+Finance
+nan
+Mathematiques financieres , Marches financiers, Gestion financieres , Valorisation des
+produits financiers , Valorisation et couverture par les produits derivees , Calcul
+stochastique pour la finance, Courbe des Taux,Gestion de portefeuille,Mesure de risques
+nan
+Statistiques
+Statistiques descriptives Statistiques inferentielles , Statistiques non parametriques ,
+Analyse des donnees , Series temporelles , Econometrie , Theorie de la decision
+nan
+Data Science & Big Data
+Data Visualization , Data Wrangling & Reshaping , Machine Learning ( Classification ,
+Regression, Clustering ) , Text Mining
+nan
+Economie
+Microeconomie , Macroeconomie , Equilibre des marches
+nan
+Language de programmation
+Java,R,C,Python

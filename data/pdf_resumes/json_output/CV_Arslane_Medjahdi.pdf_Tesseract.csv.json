@@ -1,0 +1,302 @@
+{
+    "PROFIL PERSONNEL": [
+        {
+            "category": "Section",
+            "text": "PROFIL PERSONNEL"
+        },
+        {
+            "category": "Contenu",
+            "text": "Jeune data scientist de 23 ans"
+        },
+        {
+            "category": "Contenu",
+            "text": "decouvrant le monde. Je suis curieux,"
+        },
+        {
+            "category": "Contenu",
+            "text": "autonome et desireux de me rendre"
+        },
+        {
+            "category": "Contenu",
+            "text": "utile."
+        }
+    ],
+    "CONTACTEZ-MOI": [
+        {
+            "category": "Section",
+            "text": "CONTACTEZ-MOI"
+        },
+        {
+            "category": "Contenu",
+            "text": "9 31000, Toulouse"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ga arslane.medjahdi@gmail.com"
+        },
+        {
+            "category": "Contenu",
+            "text": "fin) @arslane medjahdi"
+        },
+        {
+            "category": "Contenu",
+            "text": "& 0652537192"
+        }
+    ],
+    "LANGUES": [
+        {
+            "category": "Section",
+            "text": "LANGUES"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Anglais B2"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Allemand A2"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Espagnol A2"
+        }
+    ],
+    "COMPETENCES": [
+        {
+            "category": "Section",
+            "text": "COMPETENCES"
+        },
+        {
+            "category": "Contenu",
+            "text": "SOFT SKILLS:"
+        },
+        {
+            "category": "Contenu",
+            "text": "Travail d'equipe"
+        },
+        {
+            "category": "Contenu",
+            "text": "Prise de decision"
+        },
+        {
+            "category": "Contenu",
+            "text": "Proactivite"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ecoute active"
+        },
+        {
+            "category": "Contenu",
+            "text": "Esprit critique"
+        },
+        {
+            "category": "Contenu",
+            "text": "HARD SKILLS :"
+        },
+        {
+            "category": "Contenu",
+            "text": "Machine Learning"
+        },
+        {
+            "category": "Contenu",
+            "text": "Deep Learning"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python (Jupyter Notebook), R"
+        },
+        {
+            "category": "Contenu",
+            "text": "SQL (MySQL)"
+        },
+        {
+            "category": "Contenu",
+            "text": "LateX, Powerpoint, QGIS"
+        }
+    ],
+    "CENTRE D'INTERET ET LOISIR": [
+        {
+            "category": "Section",
+            "text": "CENTRE D'INTERET ET LOISIR"
+        },
+        {
+            "category": "Contenu",
+            "text": "Volley Ball"
+        },
+        {
+            "category": "Contenu",
+            "text": "Lecture"
+        },
+        {
+            "category": "Contenu",
+            "text": "Wwoofing"
+        }
+    ],
+    "ARSLANE MEDJAHDI": [
+        {
+            "category": "Section",
+            "text": "ARSLANE MEDJAHDI"
+        }
+    ],
+    "FORMATION": [
+        {
+            "category": "Section",
+            "text": "FORMATION"
+        },
+        {
+            "category": "Contenu",
+            "text": "Master en Mathematique et Ingenierie pour la Science des"
+        },
+        {
+            "category": "Contenu",
+            "text": "Donnees"
+        },
+        {
+            "category": "Contenu",
+            "text": "Faculte des Sciences et Technologies | 2021 - 2023 | Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Master en partenariat avec l'Ecole des Mines et Telecom Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Fouille de donnees et Extraction de connaissance, Visualisation"
+        },
+        {
+            "category": "Contenu",
+            "text": "de donnees, Intelligence Artificielle, Apprentissage supervise."
+        },
+        {
+            "category": "Contenu",
+            "text": "L3 Mathematiques et Applications"
+        },
+        {
+            "category": "Contenu",
+            "text": "Faculte des Sciences et Technologies | 2020 - 2021 | Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Algebre lineaire appliquee, Statistiques et Probabilites, Analyse."
+        },
+        {
+            "category": "Contenu",
+            "text": "CPU Mathematiques Physique et Informatique"
+        },
+        {
+            "category": "Contenu",
+            "text": "Faculte des Sciences et Technologies | 2018 - 2020 | Nancy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Licence de mathematique renforcee, complement en physique et"
+        },
+        {
+            "category": "Contenu",
+            "text": "en informatique."
+        }
+    ],
+    "EXPERIENCE PROFESSIONNELLE ET STAGE": [
+        {
+            "category": "Section",
+            "text": "EXPERIENCE PROFESSIONNELLE ET STAGE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Avril 2023 a Septembre 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": "Stage | CLS Toulouse"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Recherche et Developpement d'un CNN hierarchique pour la"
+        },
+        {
+            "category": "Contenu",
+            "text": "segmentation semantique des sols"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Implementation de Vision Transformers a l'aide de la librairie"
+        },
+        {
+            "category": "Contenu",
+            "text": "HuggingFace"
+        },
+        {
+            "category": "Contenu",
+            "text": "mars-21"
+        },
+        {
+            "category": "Contenu",
+            "text": "Stage | Laboratoire GREEN"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Analyse de donnees experimentales lors d'etudes de"
+        },
+        {
+            "category": "Contenu",
+            "text": "materiaux ferromagnetiques et presentation des resultats"
+        }
+    ],
+    "PROJETS D'ETUDE": [
+        {
+            "category": "Section",
+            "text": "PROJETS D'ETUDE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Projet de M2: La fouille de donnees au service du"
+        },
+        {
+            "category": "Contenu",
+            "text": "Developpement Durable"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Etude d'une base de donnee regroupant les arbres de"
+        },
+        {
+            "category": "Contenu",
+            "text": "Grenoble"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Prediction de la presence de defaut de chaque arbre, ainsi"
+        },
+        {
+            "category": "Contenu",
+            "text": "que sa localisation"
+        },
+        {
+            "category": "Contenu",
+            "text": "C/ Visualisation de l'etat general du parc vegetal de Grenoble"
+        }
+    ],
+    "EXPERIENCE ANNEXE": [
+        {
+            "category": "Section",
+            "text": "EXPERIENCE ANNEXE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Benevolat Linkee (Janvier 2023)"
+        },
+        {
+            "category": "Contenu",
+            "text": "e Preparation et distribution de paniers repas pour les"
+        },
+        {
+            "category": "Contenu",
+            "text": "etudiants en situation de precarite alimentaire"
+        },
+        {
+            "category": "Contenu",
+            "text": "https://arslane18.github.io/arslanemedjahdi.github.io/"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+COORDONNEES
+2 Chemin des Imprimeurs, 69250
+Montanay
+nan
+33 788 598 545
+milo.kowalska@epitech.eu
+nan
+02/10/2005 - 18 ans
+nan
+COMPETENCES
+nan
+C/ Travail en equipe
+<< Communication orale
+C/ Capacite d'analyse
+nan
+CENTRES D'INTERET
+nan
+<< Cinema
+nan
+Pratique du theatre
+nan
+Volley-Ball : membre actif d'une
+equipe depuis 3 ans et capitaine.
+Culture generale
+nan
+Lecture
+nan
+Informatique
+nan
+LANGUES
+Anglais
+Avance (C1)
+Espagnol
+nan
+Intermediaire (B1)
+nan
+Milo KOWALSKA
+Etudiant en informatique a Epitech
+PROFIL
+nan
+Actuellement en Tere annee d'etude d'informatique a Epitech, je
+recherche un stage de 4 a 6 mois dans le cadre de ma deuxieme
+annee. Volontaire et curieux, je me distingue par mon engagement
+au service du collectif et mon godt d'apprendre.
+nan
+EXPERIENCE
+nan
+Stage d'observation 02/2020 - 02/2020
+Jeannot, Fabricant de resistances chauffantes - Lyon - Stage
+nan
+e<< Accompagnement d'un salarie dans son travail, realisation de
+taches simples sous sa supervision.
+nan
+<< Accompagnement et visites commerciales des clients et des
+fournisseurs.
+nan
+FORMATIONS
+nan
+Expert en Technologies de I'Information, 2023 - 2028
+Epitech - Lyon
+nan
+<< Ambassadeur : Representant de I'ecole a l'exterieur (Salon, Forum,
+Intervention dans les lycees)
+nan
+Baccalaureat general Mention Assez bien, 2020 - 2023
+Lycee Notre Dame de Bellegarde -- Neuville-Sur-Sa6ne
+nan
+e Specialites : NSI (Numeriques et Sciences Informatiques) et
+HGGSP (Histoire-Geographie, Geopolitique et Sciences
+Politiques).
+nan
+Brevet Mention Bien, 09/2016 - 06/2020
+College Notre Dame de Bellegarde -- Neuville-Sur-Sadne
+nan
+COMPETENCES INFORMATIQUES
+HTML
+nan

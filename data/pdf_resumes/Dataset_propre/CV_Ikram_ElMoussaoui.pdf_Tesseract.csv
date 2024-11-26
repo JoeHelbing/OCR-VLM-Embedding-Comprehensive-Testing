@@ -1,0 +1,137 @@
+﻿;Texte;Catégorie;Sections
+0;IKRAM;Contenu;PERSONAL INFORMATIONS
+1;\ +33 6 83 93 78 50;Contenu;PERSONAL INFORMATIONS
+2;9 Toulouse, France;Contenu;PERSONAL INFORMATIONS
+3;;Contenu;PERSONAL INFORMATIONS
+4;EL MOUSSAOUI 4 ikram1999elmoussaoui@gmail.com;Contenu;PERSONAL INFORMATIONS
+5;;Contenu;PERSONAL INFORMATIONS
+6;e 24 ans;Contenu;PERSONAL INFORMATIONS
+7;;Contenu;PERSONAL INFORMATIONS
+8;-- EMBEDDED SYSTEM ENGINEER --;Contenu;PERSONAL INFORMATIONS
+9;;Contenu;PERSONAL INFORMATIONS
+10;PROFESSIONAL PROFILE;Section;PROFESSIONAL PROFILE
+11;;Contenu;PROFESSIONAL PROFILE
+12;Embedded Systems Engineer with 1;Contenu;PROFESSIONAL PROFILE
+13;year of experience at Continental;Contenu;PROFESSIONAL PROFILE
+14;Engineering Services, passionate;Contenu;PROFESSIONAL PROFILE
+15;about embedded systems and;Contenu;PROFESSIONAL PROFILE
+16;skilled in driver development, SoC;Contenu;PROFESSIONAL PROFILE
+17;architectures, low-level;Contenu;PROFESSIONAL PROFILE
+18;programming for embedded;Contenu;PROFESSIONAL PROFILE
+19;systems, and technical problem-;Contenu;PROFESSIONAL PROFILE
+20;solving. I am seeking a position;Contenu;PROFESSIONAL PROFILE
+21;starting from September 2024.;Contenu;PROFESSIONAL PROFILE
+22;;Contenu;PROFESSIONAL PROFILE
+23;EDUCATION;Section;EDUCATION
+24;;Contenu;EDUCATION
+25;Master of Complex Systems Engineering;Contenu;EDUCATION
+26;;Contenu;EDUCATION
+27;Bretagne Sud University -- France;Contenu;EDUCATION
+28;;Contenu;EDUCATION
+29;Sept. 2021 - June 2024;Contenu;EDUCATION
+30;;Contenu;EDUCATION
+31;e Thesis focusing on the development;Contenu;EDUCATION
+32;and integration of drivers on Nvidia;Contenu;EDUCATION
+33;SoCs for the operation of cameras for;Contenu;EDUCATION
+34;;Contenu;EDUCATION
+35;ADAS (Advanced Driver Assistance;Contenu;EDUCATION
+36;Systems).;Contenu;EDUCATION
+37;;Contenu;EDUCATION
+38;Bachelor's Degree in Electronics/Optics;Contenu;EDUCATION
+39;;Contenu;EDUCATION
+40;Embedded Systems;Contenu;EDUCATION
+41;;Contenu;EDUCATION
+42;Limoges University -- France;Contenu;EDUCATION
+43;;Contenu;EDUCATION
+44;Sept. 2020 - June 2021;Contenu;EDUCATION
+45;;Contenu;EDUCATION
+46;e Final Year Project 'City Crossroads;Contenu;EDUCATION
+47;Traffic Lights with Priority Lanes;Contenu;EDUCATION
+48;Automation' aimed at controlling;Contenu;EDUCATION
+49;traffic lights.;Contenu;EDUCATION
+50;;Contenu;EDUCATION
+51;University Diploma in General Studies;Contenu;EDUCATION
+52;;Contenu;EDUCATION
+53;(DEUG);Contenu;EDUCATION
+54;Cadi Ayyad University - Morocco;Contenu;EDUCATION
+55;Sept.2017 -- June 2020;Contenu;EDUCATION
+56;;Contenu;EDUCATION
+57;e Higher Education in Physical Science;Contenu;EDUCATION
+58;and Mathematics.;Contenu;EDUCATION
+59;;Contenu;EDUCATION
+60;INTERESTS;Section;INTERESTS
+61;e Scientific reading, particularly in;Contenu;INTERESTS
+62;cosmology.;Contenu;INTERESTS
+63;;Contenu;INTERESTS
+64;e Practice of yoga and dance.;Contenu;INTERESTS
+65;;Contenu;INTERESTS
+66;SKILLS;Section;SKILLS
+67;Programming Languages Language Skills;Contenu;SKILLS
+68;: oe e French: Fluent;Contenu;SKILLS
+69;Vil e English : Fluent;Contenu;SKILLS
+70;e;Contenu;SKILLS
+71;(c) Matlab e Arabic : Native Language;Contenu;SKILLS
+72;e Assembly;Contenu;SKILLS
+73;;Contenu;SKILLS
+74;System Development;Contenu;SKILLS
+75;e Kernel development;Contenu;SKILLS
+76;e Communication protocols;Contenu;SKILLS
+77;;Contenu;SKILLS
+78;Development Tools;Contenu;SKILLS
+79;e Git/GitHub;Contenu;SKILLS
+80;e Bash scripting;Contenu;SKILLS
+81;;Contenu;SKILLS
+82;* Sots . e Agile Project Management (JIRA);Contenu;SKILLS
+83;e Real-time systems (c) Jenkins;Contenu;SKILLS
+84;;Contenu;SKILLS
+85;Debuggi;Contenu;SKILLS
+86;: aos e Artifactory;Contenu;SKILLS
+87;;Contenu;SKILLS
+88;PROFESSIONAL EXPERIENCES;Section;PROFESSIONAL EXPERIENCES
+89;;Contenu;PROFESSIONAL EXPERIENCES
+90;Embedded Systems Developer;Contenu;PROFESSIONAL EXPERIENCES
+91;;Contenu;PROFESSIONAL EXPERIENCES
+92;Continental Engineering Services - Toulouse, France Sept. 2023 -- Sept. 2024;Contenu;PROFESSIONAL EXPERIENCES
+93;;Contenu;PROFESSIONAL EXPERIENCES
+94;e Integration, testing, and development of drivers for ADAS cameras,;Contenu;PROFESSIONAL EXPERIENCES
+95;on Nvidia SoCs, debugging, and Nvidia forums.;Contenu;PROFESSIONAL EXPERIENCES
+96;RTOS Project;Contenu;PROFESSIONAL EXPERIENCES
+97;;Contenu;PROFESSIONAL EXPERIENCES
+98;Bretagne Sud University - Lorient, France Nov. 2022 -- Dec. 2022;Contenu;PROFESSIONAL EXPERIENCES
+99;;Contenu;PROFESSIONAL EXPERIENCES
+100;e Implementation of a 3-axis gimbal stabilizer (steadycam) using three;Contenu;PROFESSIONAL EXPERIENCES
+101;servo motors utilizing the STM32 board.;Contenu;PROFESSIONAL EXPERIENCES
+102;;Contenu;PROFESSIONAL EXPERIENCES
+103;FPGA Project;Contenu;PROFESSIONAL EXPERIENCES
+104;;Contenu;PROFESSIONAL EXPERIENCES
+105;Bretagne Sud University- Lorient, France Sept. 2022 -- Oct. 2022;Contenu;PROFESSIONAL EXPERIENCES
+106;e Development of a simple 16-bit microprocessor using the Basys3;Contenu;PROFESSIONAL EXPERIENCES
+107;;Contenu;PROFESSIONAL EXPERIENCES
+108;board.;Contenu;PROFESSIONAL EXPERIENCES
+109;;Contenu;PROFESSIONAL EXPERIENCES
+110;Internship: Improvement of an embedded control interface for machines;Contenu;PROFESSIONAL EXPERIENCES
+111;;Contenu;PROFESSIONAL EXPERIENCES
+112;Trane Technologies - Charmes, France Sept. 2022 -- Oct. 2022;Contenu;PROFESSIONAL EXPERIENCES
+113;;Contenu;PROFESSIONAL EXPERIENCES
+114;e Evaluate the cause of performance issues in a virtual simulator, propose a;Contenu;PROFESSIONAL EXPERIENCES
+115;solution that may involve an alternative data exchange method between;Contenu;PROFESSIONAL EXPERIENCES
+116;data and the modbus/IPC3 interface other than the COM technology.;Contenu;PROFESSIONAL EXPERIENCES
+117;;Contenu;PROFESSIONAL EXPERIENCES
+118;QT Project / Python Project;Contenu;PROFESSIONAL EXPERIENCES
+119;;Contenu;PROFESSIONAL EXPERIENCES
+120;Bretagne Sud University - Lorient, France Jan. 2022 -- March. 2022;Contenu;PROFESSIONAL EXPERIENCES
+121;;Contenu;PROFESSIONAL EXPERIENCES
+122;e Implementation of a local messaging system using TCP and UDP protocols;Contenu;PROFESSIONAL EXPERIENCES
+123;using Qt in C++.;Contenu;PROFESSIONAL EXPERIENCES
+124;;Contenu;PROFESSIONAL EXPERIENCES
+125;e Implementing the Q-Learning method for the Frozen Lake game in the;Contenu;PROFESSIONAL EXPERIENCES
+126;gym environment using Python.;Contenu;PROFESSIONAL EXPERIENCES
+127;;Contenu;PROFESSIONAL EXPERIENCES
+128;ROVER Project;Contenu;PROFESSIONAL EXPERIENCES
+129;;Contenu;PROFESSIONAL EXPERIENCES
+130;Bretagne Sud University- Lorient, France Oct. 2021 -- Feb. 2022;Contenu;PROFESSIONAL EXPERIENCES
+131;;Contenu;PROFESSIONAL EXPERIENCES
+132;e Implementing the control of a ROVER. Controlling 4 ROVER motors,;Contenu;PROFESSIONAL EXPERIENCES
+133;adding a distance sensor in bare-metal and real-time.;Contenu;PROFESSIONAL EXPERIENCES
+134;;Contenu;PROFESSIONAL EXPERIENCES
+135;Internal;Contenu;PROFESSIONAL EXPERIENCES

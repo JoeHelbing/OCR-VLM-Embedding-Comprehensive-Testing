@@ -1,0 +1,424 @@
+{
+    "Informations Personnelles": [
+        {
+            "category": "Section",
+            "text": "HOUDA LAHRACHE"
+        },
+        {
+            "category": "Contenu",
+            "text": "A la recheche d'un stage PFE Debut Fevrier"
+        },
+        {
+            "category": "Contenu",
+            "text": "[ houudalahrch20@gmail.com"
+        },
+        {
+            "category": "Contenu",
+            "text": "[ houda.lahrache@ump.ac.ma"
+        },
+        {
+            "category": "Contenu",
+            "text": "O +212 6 00 58 79 29"
+        },
+        {
+            "category": "Contenu",
+            "text": " 1/2  Maroc, Oujda"
+        },
+        {
+            "category": "Contenu",
+            "text": "- linkedin.com/in/houda-lahrache-9a6550246"
+        },
+        {
+            "category": "Contenu",
+            "text": " github.com/Houdalahrache"
+        }
+    ],
+    "REALISATIONS": [
+        {
+            "category": "Section",
+            "text": "REALISATIONS"
+        },
+        {
+            "category": "Contenu",
+            "text": "3"
+        },
+        {
+            "category": "Contenu",
+            "text": "Top Speaker | Club Altruisme ENSAO"
+        },
+        {
+            "category": "Contenu",
+            "text": "2eme place a la competition \"Top"
+        },
+        {
+            "category": "Contenu",
+            "text": "Speaker\""
+        },
+        {
+            "category": "Contenu",
+            "text": "Public Speaking"
+        },
+        {
+            "category": "Contenu",
+            "text": "g"
+        },
+        {
+            "category": "Contenu",
+            "text": "Vice Presidente du Club Reporters"
+        },
+        {
+            "category": "Contenu",
+            "text": "Leadership"
+        },
+        {
+            "category": "Contenu",
+            "text": "Esprit d'equipe"
+        },
+        {
+            "category": "Contenu",
+            "text": "Animatrice de plusieurs activites"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Ateliers lors de la 9eme et 10eme edi-"
+        },
+        {
+            "category": "Contenu",
+            "text": "tion du Festival des Sciences"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Journee Data Science and Cloud Com-"
+        },
+        {
+            "category": "Contenu",
+            "text": "puting, 1ere Edition"
+        }
+    ],
+    "COMPETENCES": [
+        {
+            "category": "Section",
+            "text": "COMPETENCES"
+        },
+        {
+            "category": "Contenu",
+            "text": "Software engineering"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Python, Java, JEE, Web Scraping, R"
+        },
+        {
+            "category": "Contenu",
+            "text": "Intelligence Artificielle"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Modeles : ARIMA , RNN , LSTM , BERT , KNN,"
+        },
+        {
+            "category": "Contenu",
+            "text": "Decision Tree, Naive Bayes"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Outils : Pandas , Seaborn , Tensorflow"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Formats de Donnees : Excel , CSV , SQL"
+        },
+        {
+            "category": "Contenu",
+            "text": "Dev Ops"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Git and Github"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Docker"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Kubernetes"
+        },
+        {
+            "category": "Contenu",
+            "text": "Business Intelligence"
+        },
+        {
+            "category": "Contenu",
+            "text": "* ETL : Talend Open Studio"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Restitution de donnees : Power BI"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Data Streaming : Apache Kafka"
+        },
+        {
+            "category": "Contenu",
+            "text": "Base de donnees"
+        },
+        {
+            "category": "Contenu",
+            "text": "* SQL, PL/SQL, MySQL, Oracle"
+        }
+    ],
+    "LANGUE": [
+        {
+            "category": "Section",
+            "text": "LANGUE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Francais"
+        },
+        {
+            "category": "Contenu",
+            "text": "Courant"
+        },
+        {
+            "category": "Contenu",
+            "text": "Anglais"
+        },
+        {
+            "category": "Contenu",
+            "text": "Niveau Intermediaire"
+        },
+        {
+            "category": "Contenu",
+            "text": "Arabe"
+        },
+        {
+            "category": "Contenu",
+            "text": "Langue maternelle"
+        }
+    ],
+    "EDUCATION": [
+        {
+            "category": "Section",
+            "text": "EDUCATION"
+        },
+        {
+            "category": "Contenu",
+            "text": "Ingenierie Data Science and Cloud Computing"
+        },
+        {
+            "category": "Contenu",
+            "text": "ENSA Oujda | Universite Mohammed Premier"
+        },
+        {
+            "category": "Contenu",
+            "text": "\u0011 Sept 2021 - Aujourd'hui"
+        },
+        {
+            "category": "Contenu",
+            "text": " 1/2  Oujda, Oriental"
+        },
+        {
+            "category": "Contenu",
+            "text": "Cycle Preparatoire Integree"
+        },
+        {
+            "category": "Contenu",
+            "text": "ENSA Oujda | Universite Mohammed Premier"
+        },
+        {
+            "category": "Contenu",
+            "text": "\u0011 Sept 2019 - Juin 2021"
+        },
+        {
+            "category": "Contenu",
+            "text": " 1/2  Oujda, Oriental"
+        }
+    ],
+    "EXPERIENCE": [
+        {
+            "category": "Section",
+            "text": "EXPERIENCE"
+        },
+        {
+            "category": "Contenu",
+            "text": "Stage d'Application en NLP pour l'analyse des articles sci-"
+        },
+        {
+            "category": "Contenu",
+            "text": "entifiques en IA et Extraction en Chatbot"
+        },
+        {
+            "category": "Contenu",
+            "text": "3D Smart Factory"
+        },
+        {
+            "category": "Contenu",
+            "text": "\u0011 Juillet 2023-Septembre 2023"
+        },
+        {
+            "category": "Contenu",
+            "text": " 1/2  Maroc , Mohammadia"
+        },
+        {
+            "category": "Contenu",
+            "text": "1. Collecter les donnees depuis un API Arxiv."
+        },
+        {
+            "category": "Contenu",
+            "text": "2. Preparation des donnees ( Extraction , Nettoyage, Tokenisation...)"
+        },
+        {
+            "category": "Contenu",
+            "text": "3. Entrainement d'un modele BERT pour l'extraction d'informations."
+        },
+        {
+            "category": "Contenu",
+            "text": "Tensorflow"
+        },
+        {
+            "category": "Contenu",
+            "text": "transformers"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python"
+        },
+        {
+            "category": "Contenu",
+            "text": "Arxiv"
+        }
+    ],
+    "PROJET PERSONNEL": [
+        {
+            "category": "Section",
+            "text": "PROJET PERSONNEL"
+        },
+        {
+            "category": "Contenu",
+            "text": "Projet data science"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Collecte des donnees a partir de Kaggle, suivi de la preparation des donnees."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Realisation d'une analyse exploratoire approfondie des donnees."
+        },
+        {
+            "category": "Contenu",
+            "text": "* Developpement du modele"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Deploiement du modele pour une utilisation effective."
+        },
+        {
+            "category": "Contenu",
+            "text": "scikit-learn"
+        },
+        {
+            "category": "Contenu",
+            "text": "seaborn"
+        },
+        {
+            "category": "Contenu",
+            "text": "numpy"
+        },
+        {
+            "category": "Contenu",
+            "text": "Matplotlib"
+        },
+        {
+            "category": "Contenu",
+            "text": "Pandas"
+        },
+        {
+            "category": "Contenu",
+            "text": "Projet d'Analyse des Reservations d'Hotels avec Python"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Collecte des donnees de reservation"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Pretraitement et Analyse des donnees pour la qualite"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Modelisation et prevision des tendances"
+        },
+        {
+            "category": "Contenu",
+            "text": "Pandas"
+        },
+        {
+            "category": "Contenu",
+            "text": "Seaborn"
+        },
+        {
+            "category": "Contenu",
+            "text": "Matplotlib"
+        },
+        {
+            "category": "Contenu",
+            "text": "Python"
+        },
+        {
+            "category": "Contenu",
+            "text": "Time series forecasting"
+        },
+        {
+            "category": "Contenu",
+            "text": "* L'analyse d'une serie temporelle pour la prediction du nombre de vols a main"
+        },
+        {
+            "category": "Contenu",
+            "text": "armee mensuels a Boston ."
+        },
+        {
+            "category": "Contenu",
+            "text": "ARIMA"
+        },
+        {
+            "category": "Contenu",
+            "text": "LSTM"
+        },
+        {
+            "category": "Contenu",
+            "text": "RNN"
+        },
+        {
+            "category": "Contenu",
+            "text": "Data Engineering"
+        },
+        {
+            "category": "Contenu",
+            "text": "* Etablissement d'un pipeline de streaming avec kafka et visualisation en Temps"
+        },
+        {
+            "category": "Contenu",
+            "text": "Reel ."
+        },
+        {
+            "category": "Contenu",
+            "text": "Docker"
+        },
+        {
+            "category": "Contenu",
+            "text": "kafka"
+        },
+        {
+            "category": "Contenu",
+            "text": "InfluxDB"
+        },
+        {
+            "category": "Contenu",
+            "text": "grafana"
+        }
+    ]
+}
