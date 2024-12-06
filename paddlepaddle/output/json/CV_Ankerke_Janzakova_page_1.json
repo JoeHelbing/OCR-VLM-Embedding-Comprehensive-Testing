@@ -1,0 +1,1047 @@
+[
+    {
+        "type": "text",
+        "bbox": [
+            227,
+            267,
+            1472,
+            389
+        ],
+        "res": [
+            {
+                "text": "A highly skilled physician with expertise in infectious diseases, vaccinology, and public health. Accomplished educator and curriculum",
+                "confidence": 0.9940916895866394,
+                "text_region": [
+                    [
+                        90.0,
+                        273.0
+                    ],
+                    [
+                        1568.0,
+                        273.0
+                    ],
+                    [
+                        1568.0,
+                        302.0
+                    ],
+                    [
+                        90.0,
+                        302.0
+                    ]
+                ]
+            },
+            {
+                "text": "developer passionate about promoting collaborative learning and evidence-based decision-making. Dedicated to improving patient",
+                "confidence": 0.9940424561500549,
+                "text_region": [
+                    [
+                        95.0,
+                        305.0
+                    ],
+                    [
+                        1538.0,
+                        305.0
+                    ],
+                    [
+                        1538.0,
+                        328.0
+                    ],
+                    [
+                        95.0,
+                        328.0
+                    ]
+                ]
+            },
+            {
+                "text": "outcomes and promoting healthy behaviours through multidisciplinary collaboration and patient-centred care. R esearch interests",
+                "confidence": 0.983137845993042,
+                "text_region": [
+                    [
+                        92.0,
+                        330.0
+                    ],
+                    [
+                        1511.0,
+                        330.0
+                    ],
+                    [
+                        1511.0,
+                        360.0
+                    ],
+                    [
+                        92.0,
+                        360.0
+                    ]
+                ]
+            },
+            {
+                "text": "include Herpesviruses, COviD-19, HIv, TB, zoonotic and tropical infections diagnosis, treatment and prevention, and vaccinology.",
+                "confidence": 0.9907348155975342,
+                "text_region": [
+                    [
+                        90.0,
+                        357.0
+                    ],
+                    [
+                        1529.0,
+                        360.0
+                    ],
+                    [
+                        1529.0,
+                        390.0
+                    ],
+                    [
+                        90.0,
+                        387.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5382091403007507
+    },
+    {
+        "type": "text",
+        "bbox": [
+            113,
+            758,
+            1015,
+            820
+        ],
+        "res": [
+            {
+                "text": "Internship, Therapy",
+                "confidence": 0.9999131560325623,
+                "text_region": [
+                    [
+                        109.0,
+                        754.0
+                    ],
+                    [
+                        384.0,
+                        756.0
+                    ],
+                    [
+                        383.0,
+                        788.0
+                    ],
+                    [
+                        108.0,
+                        786.0
+                    ]
+                ]
+            },
+            {
+                "text": "Kazakh National Medical University named after S.Zh. Asfendiyarov, Kazakhstan",
+                "confidence": 0.9947597980499268,
+                "text_region": [
+                    [
+                        109.0,
+                        788.0
+                    ],
+                    [
+                        1009.0,
+                        788.0
+                    ],
+                    [
+                        1009.0,
+                        818.0
+                    ],
+                    [
+                        109.0,
+                        818.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5203553438186646
+    },
+    {
+        "type": "title",
+        "bbox": [
+            111,
+            416,
+            296,
+            457
+        ],
+        "res": [
+            {
+                "text": "EDUCATION",
+                "confidence": 0.9949985146522522,
+                "text_region": [
+                    [
+                        109.0,
+                        422.0
+                    ],
+                    [
+                        291.0,
+                        422.0
+                    ],
+                    [
+                        291.0,
+                        451.0
+                    ],
+                    [
+                        109.0,
+                        451.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6407758593559265
+    },
+    {
+        "type": "title",
+        "bbox": [
+            111,
+            457,
+            375,
+            495
+        ],
+        "res": [
+            {
+                "text": "Masters, Medicine.",
+                "confidence": 0.9814862012863159,
+                "text_region": [
+                    [
+                        109.0,
+                        461.0
+                    ],
+                    [
+                        365.0,
+                        461.0
+                    ],
+                    [
+                        365.0,
+                        490.0
+                    ],
+                    [
+                        109.0,
+                        490.0
+                    ]
+                ]
+            },
+            {
+                "text": "University of Higher School of P ublic Health, Kazakhstan",
+                "confidence": 0.9876779317855835,
+                "text_region": [
+                    [
+                        104.0,
+                        493.0
+                    ],
+                    [
+                        739.0,
+                        493.0
+                    ],
+                    [
+                        739.0,
+                        522.0
+                    ],
+                    [
+                        104.0,
+                        522.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.571618378162384
+    },
+    {
+        "type": "title",
+        "bbox": [
+            113,
+            1709,
+            757,
+            1778
+        ],
+        "res": [
+            {
+                "text": "City Clinical Hospital No. 7, Almaty, Kazakhstan.",
+                "confidence": 0.9817545413970947,
+                "text_region": [
+                    [
+                        115.0,
+                        1710.0
+                    ],
+                    [
+                        755.0,
+                        1710.0
+                    ],
+                    [
+                        755.0,
+                        1739.0
+                    ],
+                    [
+                        115.0,
+                        1739.0
+                    ]
+                ]
+            },
+            {
+                "text": "Infectious Diseases Specialist",
+                "confidence": 0.997968316078186,
+                "text_region": [
+                    [
+                        111.0,
+                        1744.0
+                    ],
+                    [
+                        531.0,
+                        1744.0
+                    ],
+                    [
+                        531.0,
+                        1774.0
+                    ],
+                    [
+                        111.0,
+                        1774.0
+                    ]
+                ]
+            },
+            {
+                "text": "Diagnosed patients by evaluating their symptoms and determining their physical ailment",
+                "confidence": 0.996509313583374,
+                "text_region": [
+                    [
+                        291.0,
+                        1778.0
+                    ],
+                    [
+                        1270.0,
+                        1778.0
+                    ],
+                    [
+                        1270.0,
+                        1808.0
+                    ],
+                    [
+                        291.0,
+                        1808.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5675432085990906
+    },
+    {
+        "type": "title",
+        "bbox": [
+            111,
+            1311,
+            874,
+            1369
+        ],
+        "res": [
+            {
+                "text": "Kazakh-Russian Medical University, Almaty, Kazakhstan",
+                "confidence": 0.998729407787323,
+                "text_region": [
+                    [
+                        113.0,
+                        1313.0
+                    ],
+                    [
+                        875.0,
+                        1313.0
+                    ],
+                    [
+                        875.0,
+                        1343.0
+                    ],
+                    [
+                        113.0,
+                        1343.0
+                    ]
+                ]
+            },
+            {
+                "text": "Assistant Professor of Infectious Diseases Department",
+                "confidence": 0.9999459981918335,
+                "text_region": [
+                    [
+                        111.0,
+                        1350.0
+                    ],
+                    [
+                        880.0,
+                        1350.0
+                    ],
+                    [
+                        880.0,
+                        1380.0
+                    ],
+                    [
+                        111.0,
+                        1380.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5600495338439941
+    },
+    {
+        "type": "list",
+        "bbox": [
+            243,
+            1383,
+            1571,
+            1683
+        ],
+        "res": [
+            {
+                "text": "E ducated international medical students from India, Pakistan, and Afghanistan on infectious disease topics through",
+                "confidence": 0.9961690306663513,
+                "text_region": [
+                    [
+                        291.0,
+                        1382.0
+                    ],
+                    [
+                        1564.0,
+                        1382.0
+                    ],
+                    [
+                        1564.0,
+                        1412.0
+                    ],
+                    [
+                        291.0,
+                        1412.0
+                    ]
+                ]
+            },
+            {
+                "text": "lectures, seminars, and clinics",
+                "confidence": 0.9853763580322266,
+                "text_region": [
+                    [
+                        296.0,
+                        1412.0
+                    ],
+                    [
+                        626.0,
+                        1412.0
+                    ],
+                    [
+                        626.0,
+                        1435.0
+                    ],
+                    [
+                        296.0,
+                        1435.0
+                    ]
+                ]
+            },
+            {
+                "text": "Developed and delivered resident education by providing infectious disease rotations and core lectures",
+                "confidence": 0.9894476532936096,
+                "text_region": [
+                    [
+                        291.0,
+                        1441.0
+                    ],
+                    [
+                        1434.0,
+                        1441.0
+                    ],
+                    [
+                        1434.0,
+                        1471.0
+                    ],
+                    [
+                        291.0,
+                        1471.0
+                    ]
+                ]
+            },
+            {
+                "text": "Served on relevant educational and hospital committees, such as hospital formulary, infection control, and",
+                "confidence": 0.990088164806366,
+                "text_region": [
+                    [
+                        291.0,
+                        1471.0
+                    ],
+                    [
+                        1564.0,
+                        1471.0
+                    ],
+                    [
+                        1564.0,
+                        1501.0
+                    ],
+                    [
+                        291.0,
+                        1501.0
+                    ]
+                ]
+            },
+            {
+                "text": "antimicrobial stewardship.",
+                "confidence": 0.9798227548599243,
+                "text_region": [
+                    [
+                        293.0,
+                        1499.0
+                    ],
+                    [
+                        578.0,
+                        1501.0
+                    ],
+                    [
+                        577.0,
+                        1531.0
+                    ],
+                    [
+                        293.0,
+                        1528.0
+                    ]
+                ]
+            },
+            {
+                "text": "Performed inpatient and outpatient care as a consulting and attending physician",
+                "confidence": 0.9942933320999146,
+                "text_region": [
+                    [
+                        291.0,
+                        1531.0
+                    ],
+                    [
+                        1183.0,
+                        1531.0
+                    ],
+                    [
+                        1183.0,
+                        1561.0
+                    ],
+                    [
+                        291.0,
+                        1561.0
+                    ]
+                ]
+            },
+            {
+                "text": "Lectured on the importance of COviD-19 vaccination and conducted a conference on meningococcal infection and",
+                "confidence": 0.9971911907196045,
+                "text_region": [
+                    [
+                        291.0,
+                        1563.0
+                    ],
+                    [
+                        1564.0,
+                        1563.0
+                    ],
+                    [
+                        1564.0,
+                        1593.0
+                    ],
+                    [
+                        291.0,
+                        1593.0
+                    ]
+                ]
+            },
+            {
+                "text": "measles for fellow doctors",
+                "confidence": 0.9889453649520874,
+                "text_region": [
+                    [
+                        293.0,
+                        1595.0
+                    ],
+                    [
+                        587.0,
+                        1595.0
+                    ],
+                    [
+                        587.0,
+                        1618.0
+                    ],
+                    [
+                        293.0,
+                        1618.0
+                    ]
+                ]
+            },
+            {
+                "text": "Designed and developed curriculum and instructional materials for the Basic Clinical and Laboratory Aspects of",
+                "confidence": 0.9973803162574768,
+                "text_region": [
+                    [
+                        293.0,
+                        1620.0
+                    ],
+                    [
+                        1566.0,
+                        1620.0
+                    ],
+                    [
+                        1566.0,
+                        1650.0
+                    ],
+                    [
+                        293.0,
+                        1650.0
+                    ]
+                ]
+            },
+            {
+                "text": "Tropical and Parasitic Diseases and specialized instruction on Childhood Infection.",
+                "confidence": 0.9945831298828125,
+                "text_region": [
+                    [
+                        291.0,
+                        1650.0
+                    ],
+                    [
+                        1206.0,
+                        1650.0
+                    ],
+                    [
+                        1206.0,
+                        1680.0
+                    ],
+                    [
+                        291.0,
+                        1680.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.9333477020263672
+    },
+    {
+        "type": "list",
+        "bbox": [
+            240,
+            1782,
+            1581,
+            1987
+        ],
+        "res": [
+            {
+                "text": "Diagnosed patients by evaluating their symptoms and determining their physical ailment",
+                "confidence": 0.996509313583374,
+                "text_region": [
+                    [
+                        291.0,
+                        1778.0
+                    ],
+                    [
+                        1270.0,
+                        1778.0
+                    ],
+                    [
+                        1270.0,
+                        1808.0
+                    ],
+                    [
+                        291.0,
+                        1808.0
+                    ]
+                ]
+            },
+            {
+                "text": "Prescribed appropriate medications based on patient's health conditions and medical history",
+                "confidence": 0.9910190105438232,
+                "text_region": [
+                    [
+                        291.0,
+                        1808.0
+                    ],
+                    [
+                        1317.0,
+                        1808.0
+                    ],
+                    [
+                        1317.0,
+                        1838.0
+                    ],
+                    [
+                        291.0,
+                        1838.0
+                    ]
+                ]
+            },
+            {
+                "text": "Advised patients on compliance with their therapeutic regimen and avoidance of risk factors",
+                "confidence": 0.9968913793563843,
+                "text_region": [
+                    [
+                        289.0,
+                        1840.0
+                    ],
+                    [
+                        1305.0,
+                        1840.0
+                    ],
+                    [
+                        1305.0,
+                        1870.0
+                    ],
+                    [
+                        289.0,
+                        1870.0
+                    ]
+                ]
+            },
+            {
+                "text": "E ducated medical students on infectious disease topics in lectures, seminars, clinics, and wards",
+                "confidence": 0.9900907278060913,
+                "text_region": [
+                    [
+                        289.0,
+                        1868.0
+                    ],
+                    [
+                        1356.0,
+                        1870.0
+                    ],
+                    [
+                        1356.0,
+                        1900.0
+                    ],
+                    [
+                        289.0,
+                        1897.0
+                    ]
+                ]
+            },
+            {
+                "text": "Communicated with patients, families, and team members through newsletters, roundtables, and professional",
+                "confidence": 0.9862346053123474,
+                "text_region": [
+                    [
+                        291.0,
+                        1902.0
+                    ],
+                    [
+                        1561.0,
+                        1902.0
+                    ],
+                    [
+                        1561.0,
+                        1932.0
+                    ],
+                    [
+                        291.0,
+                        1932.0
+                    ]
+                ]
+            },
+            {
+                "text": "seminars",
+                "confidence": 0.9996172785758972,
+                "text_region": [
+                    [
+                        293.0,
+                        1934.0
+                    ],
+                    [
+                        395.0,
+                        1934.0
+                    ],
+                    [
+                        395.0,
+                        1957.0
+                    ],
+                    [
+                        293.0,
+                        1957.0
+                    ]
+                ]
+            },
+            {
+                "text": "Organized a conference and round table on HIv/AiDs in Central Asia",
+                "confidence": 0.9789190292358398,
+                "text_region": [
+                    [
+                        291.0,
+                        1959.0
+                    ],
+                    [
+                        1062.0,
+                        1959.0
+                    ],
+                    [
+                        1062.0,
+                        1989.0
+                    ],
+                    [
+                        291.0,
+                        1989.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.9016715884208679
+    },
+    {
+        "type": "list",
+        "bbox": [
+            233,
+            1126,
+            1572,
+            1274
+        ],
+        "res": [
+            {
+                "text": "E ducated international medical students from India, Pakistan, and Afghanistan on infectious disease topics through",
+                "confidence": 0.9947100877761841,
+                "text_region": [
+                    [
+                        291.0,
+                        1123.0
+                    ],
+                    [
+                        1564.0,
+                        1123.0
+                    ],
+                    [
+                        1564.0,
+                        1153.0
+                    ],
+                    [
+                        291.0,
+                        1153.0
+                    ]
+                ]
+            },
+            {
+                "text": "lectures, seminars, and clinics",
+                "confidence": 0.9841653108596802,
+                "text_region": [
+                    [
+                        291.0,
+                        1153.0
+                    ],
+                    [
+                        635.0,
+                        1153.0
+                    ],
+                    [
+                        635.0,
+                        1182.0
+                    ],
+                    [
+                        291.0,
+                        1182.0
+                    ]
+                ]
+            },
+            {
+                "text": "Making clinical case studies, tests and taking final exams from the students",
+                "confidence": 0.9995840787887573,
+                "text_region": [
+                    [
+                        291.0,
+                        1182.0
+                    ],
+                    [
+                        1127.0,
+                        1182.0
+                    ],
+                    [
+                        1127.0,
+                        1212.0
+                    ],
+                    [
+                        291.0,
+                        1212.0
+                    ]
+                ]
+            },
+            {
+                "text": "Developed and delivered resident education by providing infectious disease rotations and core lectures",
+                "confidence": 0.9894476532936096,
+                "text_region": [
+                    [
+                        291.0,
+                        1212.0
+                    ],
+                    [
+                        1434.0,
+                        1212.0
+                    ],
+                    [
+                        1434.0,
+                        1242.0
+                    ],
+                    [
+                        291.0,
+                        1242.0
+                    ]
+                ]
+            },
+            {
+                "text": "Lectured on the importance of longCOviD-19, vaccination and Measles, pertussis, Diphtheria",
+                "confidence": 0.9891476035118103,
+                "text_region": [
+                    [
+                        289.0,
+                        1244.0
+                    ],
+                    [
+                        1330.0,
+                        1244.0
+                    ],
+                    [
+                        1330.0,
+                        1274.0
+                    ],
+                    [
+                        289.0,
+                        1274.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8372787833213806
+    },
+    {
+        "type": "list",
+        "bbox": [
+            113,
+            886,
+            1016,
+            946
+        ],
+        "res": [
+            {
+                "text": "Kazakh National Medical University named after S.Zh. Asfendiyarov, Kazakhstan.",
+                "confidence": 0.9954820275306702,
+                "text_region": [
+                    [
+                        109.0,
+                        885.0
+                    ],
+                    [
+                        1009.0,
+                        885.0
+                    ],
+                    [
+                        1009.0,
+                        914.0
+                    ],
+                    [
+                        109.0,
+                        914.0
+                    ]
+                ]
+            },
+            {
+                "text": "Cumulative GPA: 3.67",
+                "confidence": 0.9775714874267578,
+                "text_region": [
+                    [
+                        284.0,
+                        914.0
+                    ],
+                    [
+                        543.0,
+                        914.0
+                    ],
+                    [
+                        543.0,
+                        944.0
+                    ],
+                    [
+                        284.0,
+                        944.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5378702878952026
+    },
+    {
+        "type": "list",
+        "bbox": [
+            117,
+            495,
+            1293,
+            594
+        ],
+        "res": [
+            {
+                "text": "University of Higher School of P ublic Health, Kazakhstan",
+                "confidence": 0.9876779317855835,
+                "text_region": [
+                    [
+                        104.0,
+                        493.0
+                    ],
+                    [
+                        739.0,
+                        493.0
+                    ],
+                    [
+                        739.0,
+                        522.0
+                    ],
+                    [
+                        104.0,
+                        522.0
+                    ]
+                ]
+            },
+            {
+                "text": "Scientific project: \"Reactivation of herpes family viruses (Cytomegalovirus, Epstein-Barr and Herpes Simplex) after COviD-19",
+                "confidence": 0.9943179488182068,
+                "text_region": [
+                    [
+                        208.0,
+                        529.0
+                    ],
+                    [
+                        1608.0,
+                        529.0
+                    ],
+                    [
+                        1608.0,
+                        559.0
+                    ],
+                    [
+                        208.0,
+                        559.0
+                    ]
+                ]
+            },
+            {
+                "text": "infection.'",
+                "confidence": 0.9935999512672424,
+                "text_region": [
+                    [
+                        210.0,
+                        566.0
+                    ],
+                    [
+                        319.0,
+                        566.0
+                    ],
+                    [
+                        319.0,
+                        591.0
+                    ],
+                    [
+                        210.0,
+                        591.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.519044041633606
+    }
+]

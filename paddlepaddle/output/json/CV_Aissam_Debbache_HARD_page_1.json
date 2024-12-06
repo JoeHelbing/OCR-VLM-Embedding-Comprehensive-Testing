@@ -1,0 +1,1511 @@
+[
+    {
+        "type": "figure",
+        "bbox": [
+            2,
+            6,
+            1586,
+            2304
+        ],
+        "res": [
+            {
+                "text": "A SSAM DEBBACHE",
+                "confidence": 0.9688513278961182,
+                "text_region": [
+                    [
+                        552.0,
+                        58.0
+                    ],
+                    [
+                        1335.0,
+                        58.0
+                    ],
+                    [
+                        1335.0,
+                        117.0
+                    ],
+                    [
+                        552.0,
+                        117.0
+                    ]
+                ]
+            },
+            {
+                "text": "91",
+                "confidence": 0.790982186794281,
+                "text_region": [
+                    [
+                        164.0,
+                        96.0
+                    ],
+                    [
+                        223.0,
+                        90.0
+                    ],
+                    [
+                        228.0,
+                        131.0
+                    ],
+                    [
+                        169.0,
+                        138.0
+                    ]
+                ]
+            },
+            {
+                "text": "QC Welding, Piping, Coating and NDT",
+                "confidence": 0.9921162128448486,
+                "text_region": [
+                    [
+                        542.0,
+                        171.0
+                    ],
+                    [
+                        1226.0,
+                        171.0
+                    ],
+                    [
+                        1226.0,
+                        212.0
+                    ],
+                    [
+                        542.0,
+                        212.0
+                    ]
+                ]
+            },
+            {
+                "text": "I have a level II certification in welding and NDT (VT-RT-PT-MT) since 2011, with 13",
+                "confidence": 0.991037905216217,
+                "text_region": [
+                    [
+                        539.0,
+                        227.0
+                    ],
+                    [
+                        1566.0,
+                        227.0
+                    ],
+                    [
+                        1566.0,
+                        258.0
+                    ],
+                    [
+                        539.0,
+                        258.0
+                    ]
+                ]
+            },
+            {
+                "text": "years of experience in the industrial, gas-oil and electricity field with national and",
+                "confidence": 0.9984753727912903,
+                "text_region": [
+                    [
+                        539.0,
+                        270.0
+                    ],
+                    [
+                        1554.0,
+                        270.0
+                    ],
+                    [
+                        1554.0,
+                        302.0
+                    ],
+                    [
+                        539.0,
+                        302.0
+                    ]
+                ]
+            },
+            {
+                "text": "international companies.",
+                "confidence": 0.9998156428337097,
+                "text_region": [
+                    [
+                        539.0,
+                        314.0
+                    ],
+                    [
+                        852.0,
+                        314.0
+                    ],
+                    [
+                        852.0,
+                        346.0
+                    ],
+                    [
+                        539.0,
+                        346.0
+                    ]
+                ]
+            },
+            {
+                "text": "10 years of experience in the IT management field since 1999.",
+                "confidence": 0.9916775822639465,
+                "text_region": [
+                    [
+                        539.0,
+                        356.0
+                    ],
+                    [
+                        1305.0,
+                        356.0
+                    ],
+                    [
+                        1305.0,
+                        387.0
+                    ],
+                    [
+                        539.0,
+                        387.0
+                    ]
+                ]
+            },
+            {
+                "text": "PROFESSIONAL EXPERIENCE",
+                "confidence": 0.9965096116065979,
+                "text_region": [
+                    [
+                        500.0,
+                        422.0
+                    ],
+                    [
+                        1123.0,
+                        422.0
+                    ],
+                    [
+                        1123.0,
+                        453.0
+                    ],
+                    [
+                        500.0,
+                        453.0
+                    ]
+                ]
+            },
+            {
+                "text": "+213 663 083 377",
+                "confidence": 0.9985055923461914,
+                "text_region": [
+                    [
+                        118.0,
+                        517.0
+                    ],
+                    [
+                        342.0,
+                        517.0
+                    ],
+                    [
+                        342.0,
+                        548.0
+                    ],
+                    [
+                        118.0,
+                        548.0
+                    ]
+                ]
+            },
+            {
+                "text": "SIDEM Spa | Welding and NDT inspector",
+                "confidence": 0.984130859375,
+                "text_region": [
+                    [
+                        534.0,
+                        543.0
+                    ],
+                    [
+                        1049.0,
+                        543.0
+                    ],
+                    [
+                        1049.0,
+                        577.0
+                    ],
+                    [
+                        534.0,
+                        577.0
+                    ]
+                ]
+            },
+            {
+                "text": "+213 542 050 451",
+                "confidence": 0.9994465112686157,
+                "text_region": [
+                    [
+                        116.0,
+                        558.0
+                    ],
+                    [
+                        340.0,
+                        558.0
+                    ],
+                    [
+                        340.0,
+                        590.0
+                    ],
+                    [
+                        116.0,
+                        590.0
+                    ]
+                ]
+            },
+            {
+                "text": "May 2023 - today",
+                "confidence": 0.945988118648529,
+                "text_region": [
+                    [
+                        532.0,
+                        592.0
+                    ],
+                    [
+                        766.0,
+                        592.0
+                    ],
+                    [
+                        766.0,
+                        624.0
+                    ],
+                    [
+                        532.0,
+                        624.0
+                    ]
+                ]
+            },
+            {
+                "text": "Aissam.debbache@gmail.com",
+                "confidence": 0.9998079538345337,
+                "text_region": [
+                    [
+                        91.0,
+                        633.0
+                    ],
+                    [
+                        470.0,
+                        633.0
+                    ],
+                    [
+                        470.0,
+                        665.0
+                    ],
+                    [
+                        91.0,
+                        665.0
+                    ]
+                ]
+            },
+            {
+                "text": "Sonatrach representative, Supervisor of welding and CND works.",
+                "confidence": 0.9995025992393494,
+                "text_region": [
+                    [
+                        534.0,
+                        641.0
+                    ],
+                    [
+                        1335.0,
+                        641.0
+                    ],
+                    [
+                        1335.0,
+                        672.0
+                    ],
+                    [
+                        534.0,
+                        672.0
+                    ]
+                ]
+            },
+            {
+                "text": ".",
+                "confidence": 0.5305669903755188,
+                "text_region": [
+                    [
+                        42.0,
+                        687.0
+                    ],
+                    [
+                        66.0,
+                        687.0
+                    ],
+                    [
+                        66.0,
+                        724.0
+                    ],
+                    [
+                        42.0,
+                        724.0
+                    ]
+                ]
+            },
+            {
+                "text": "Redjas, Mila, Algeria",
+                "confidence": 0.9429917931556702,
+                "text_region": [
+                    [
+                        118.0,
+                        697.0
+                    ],
+                    [
+                        377.0,
+                        697.0
+                    ],
+                    [
+                        377.0,
+                        729.0
+                    ],
+                    [
+                        118.0,
+                        729.0
+                    ]
+                ]
+            },
+            {
+                "text": "Project: Connection 22 Gas production wells, Ain Salah",
+                "confidence": 0.9998165369033813,
+                "text_region": [
+                    [
+                        534.0,
+                        692.0
+                    ],
+                    [
+                        1217.0,
+                        692.0
+                    ],
+                    [
+                        1217.0,
+                        724.0
+                    ],
+                    [
+                        534.0,
+                        724.0
+                    ]
+                ]
+            },
+            {
+                "text": "SARPI Spa | NDT and welding inspector",
+                "confidence": 0.9844464659690857,
+                "text_region": [
+                    [
+                        534.0,
+                        743.0
+                    ],
+                    [
+                        1037.0,
+                        743.0
+                    ],
+                    [
+                        1037.0,
+                        775.0
+                    ],
+                    [
+                        534.0,
+                        775.0
+                    ]
+                ]
+            },
+            {
+                "text": "in https://www.linkedin.com/in/",
+                "confidence": 0.996910035610199,
+                "text_region": [
+                    [
+                        37.0,
+                        760.0
+                    ],
+                    [
+                        468.0,
+                        768.0
+                    ],
+                    [
+                        467.0,
+                        809.0
+                    ],
+                    [
+                        37.0,
+                        801.0
+                    ]
+                ]
+            },
+            {
+                "text": "October 2021 - May 2023",
+                "confidence": 0.9946423172950745,
+                "text_region": [
+                    [
+                        534.0,
+                        794.0
+                    ],
+                    [
+                        864.0,
+                        794.0
+                    ],
+                    [
+                        864.0,
+                        826.0
+                    ],
+                    [
+                        534.0,
+                        826.0
+                    ]
+                ]
+            },
+            {
+                "text": "aissam-debbache-266ba865,",
+                "confidence": 0.9804285168647766,
+                "text_region": [
+                    [
+                        116.0,
+                        816.0
+                    ],
+                    [
+                        470.0,
+                        816.0
+                    ],
+                    [
+                        470.0,
+                        841.0
+                    ],
+                    [
+                        116.0,
+                        841.0
+                    ]
+                ]
+            },
+            {
+                "text": "Monitored welding and NDT activities and managed the NDT department and the",
+                "confidence": 0.9875012040138245,
+                "text_region": [
+                    [
+                        534.0,
+                        843.0
+                    ],
+                    [
+                        1601.0,
+                        843.0
+                    ],
+                    [
+                        1601.0,
+                        875.0
+                    ],
+                    [
+                        534.0,
+                        875.0
+                    ]
+                ]
+            },
+            {
+                "text": "radiography team.",
+                "confidence": 0.9999341368675232,
+                "text_region": [
+                    [
+                        537.0,
+                        892.0
+                    ],
+                    [
+                        766.0,
+                        892.0
+                    ],
+                    [
+                        766.0,
+                        916.0
+                    ],
+                    [
+                        537.0,
+                        916.0
+                    ]
+                ]
+            },
+            {
+                "text": "Project: Connection 73 Gas production wells, In Amenas and Adrar.",
+                "confidence": 0.997862696647644,
+                "text_region": [
+                    [
+                        534.0,
+                        936.0
+                    ],
+                    [
+                        1369.0,
+                        936.0
+                    ],
+                    [
+                        1369.0,
+                        967.0
+                    ],
+                    [
+                        534.0,
+                        967.0
+                    ]
+                ]
+            },
+            {
+                "text": "Languages",
+                "confidence": 0.9998640418052673,
+                "text_region": [
+                    [
+                        95.0,
+                        952.0
+                    ],
+                    [
+                        331.0,
+                        960.0
+                    ],
+                    [
+                        329.0,
+                        1004.0
+                    ],
+                    [
+                        93.0,
+                        996.0
+                    ]
+                ]
+            },
+            {
+                "text": "MULTITRADE Spa | Expert Engineer",
+                "confidence": 0.9870699048042297,
+                "text_region": [
+                    [
+                        530.0,
+                        987.0
+                    ],
+                    [
+                        988.0,
+                        989.0
+                    ],
+                    [
+                        987.0,
+                        1023.0
+                    ],
+                    [
+                        529.0,
+                        1021.0
+                    ]
+                ]
+            },
+            {
+                "text": "English: read, speak, write",
+                "confidence": 0.9859182834625244,
+                "text_region": [
+                    [
+                        47.0,
+                        1045.0
+                    ],
+                    [
+                        377.0,
+                        1045.0
+                    ],
+                    [
+                        377.0,
+                        1077.0
+                    ],
+                    [
+                        47.0,
+                        1077.0
+                    ]
+                ]
+            },
+            {
+                "text": "November 2021 - March 2022",
+                "confidence": 0.997205376625061,
+                "text_region": [
+                    [
+                        530.0,
+                        1038.0
+                    ],
+                    [
+                        921.0,
+                        1038.0
+                    ],
+                    [
+                        921.0,
+                        1070.0
+                    ],
+                    [
+                        530.0,
+                        1070.0
+                    ]
+                ]
+            },
+            {
+                "text": "French: read, speak, write",
+                "confidence": 0.9666739106178284,
+                "text_region": [
+                    [
+                        44.0,
+                        1099.0
+                    ],
+                    [
+                        377.0,
+                        1099.0
+                    ],
+                    [
+                        377.0,
+                        1131.0
+                    ],
+                    [
+                        44.0,
+                        1131.0
+                    ]
+                ]
+            },
+            {
+                "text": "Supervised the manufacturing of boiler elements with a Chinese manufacturer",
+                "confidence": 0.9900293946266174,
+                "text_region": [
+                    [
+                        532.0,
+                        1092.0
+                    ],
+                    [
+                        1505.0,
+                        1092.0
+                    ],
+                    [
+                        1505.0,
+                        1116.0
+                    ],
+                    [
+                        532.0,
+                        1116.0
+                    ]
+                ]
+            },
+            {
+                "text": "Project: Renovation of the Marsat Elhadjadj thermal power station, Oran..",
+                "confidence": 0.9930844306945801,
+                "text_region": [
+                    [
+                        534.0,
+                        1140.0
+                    ],
+                    [
+                        1441.0,
+                        1140.0
+                    ],
+                    [
+                        1441.0,
+                        1165.0
+                    ],
+                    [
+                        534.0,
+                        1165.0
+                    ]
+                ]
+            },
+            {
+                "text": "Arabic: read, speak, write",
+                "confidence": 0.9888187050819397,
+                "text_region": [
+                    [
+                        44.0,
+                        1150.0
+                    ],
+                    [
+                        365.0,
+                        1153.0
+                    ],
+                    [
+                        364.0,
+                        1184.0
+                    ],
+                    [
+                        44.0,
+                        1182.0
+                    ]
+                ]
+            },
+            {
+                "text": "INSPECTION POWER Spa | QAQC engineer in welding and NDT",
+                "confidence": 0.9893237948417664,
+                "text_region": [
+                    [
+                        532.0,
+                        1201.0
+                    ],
+                    [
+                        1323.0,
+                        1201.0
+                    ],
+                    [
+                        1323.0,
+                        1233.0
+                    ],
+                    [
+                        532.0,
+                        1233.0
+                    ]
+                ]
+            },
+            {
+                "text": "October 2019 - December 2020",
+                "confidence": 0.9921115040779114,
+                "text_region": [
+                    [
+                        532.0,
+                        1252.0
+                    ],
+                    [
+                        933.0,
+                        1252.0
+                    ],
+                    [
+                        933.0,
+                        1277.0
+                    ],
+                    [
+                        532.0,
+                        1277.0
+                    ]
+                ]
+            },
+            {
+                "text": "Training",
+                "confidence": 0.9997372627258301,
+                "text_region": [
+                    [
+                        123.0,
+                        1278.0
+                    ],
+                    [
+                        309.0,
+                        1290.0
+                    ],
+                    [
+                        306.0,
+                        1338.0
+                    ],
+                    [
+                        120.0,
+                        1327.0
+                    ]
+                ]
+            },
+            {
+                "text": "Monitored and supervised welding, piping and NDT activities.",
+                "confidence": 0.9882094860076904,
+                "text_region": [
+                    [
+                        527.0,
+                        1299.0
+                    ],
+                    [
+                        1293.0,
+                        1299.0
+                    ],
+                    [
+                        1293.0,
+                        1330.0
+                    ],
+                    [
+                        527.0,
+                        1330.0
+                    ]
+                ]
+            },
+            {
+                "text": "Project: Construction of a 1400 MW power plant in Bordj Chegua, Biskra.",
+                "confidence": 0.9890542030334473,
+                "text_region": [
+                    [
+                        530.0,
+                        1347.0
+                    ],
+                    [
+                        1433.0,
+                        1347.0
+                    ],
+                    [
+                        1433.0,
+                        1379.0
+                    ],
+                    [
+                        530.0,
+                        1379.0
+                    ]
+                ]
+            },
+            {
+                "text": "- 2023 : Master HR",
+                "confidence": 0.9634405970573425,
+                "text_region": [
+                    [
+                        34.0,
+                        1408.0
+                    ],
+                    [
+                        256.0,
+                        1408.0
+                    ],
+                    [
+                        256.0,
+                        1433.0
+                    ],
+                    [
+                        34.0,
+                        1433.0
+                    ]
+                ]
+            },
+            {
+                "text": "IDOM Spa | DRI Process Piping and Welding Inspector",
+                "confidence": 0.984922468662262,
+                "text_region": [
+                    [
+                        534.0,
+                        1416.0
+                    ],
+                    [
+                        1217.0,
+                        1416.0
+                    ],
+                    [
+                        1217.0,
+                        1447.0
+                    ],
+                    [
+                        534.0,
+                        1447.0
+                    ]
+                ]
+            },
+            {
+                "text": "Mohamed Boudiaf University, M'sila",
+                "confidence": 0.9862982630729675,
+                "text_region": [
+                    [
+                        27.0,
+                        1445.0
+                    ],
+                    [
+                        475.0,
+                        1442.0
+                    ],
+                    [
+                        475.0,
+                        1474.0
+                    ],
+                    [
+                        27.0,
+                        1477.0
+                    ]
+                ]
+            },
+            {
+                "text": "December 2017 - September 2019",
+                "confidence": 0.9982972741127014,
+                "text_region": [
+                    [
+                        532.0,
+                        1467.0
+                    ],
+                    [
+                        975.0,
+                        1467.0
+                    ],
+                    [
+                        975.0,
+                        1498.0
+                    ],
+                    [
+                        532.0,
+                        1498.0
+                    ]
+                ]
+            },
+            {
+                "text": " 2011 : Management Bachlor degree",
+                "confidence": 0.9979521036148071,
+                "text_region": [
+                    [
+                        37.0,
+                        1525.0
+                    ],
+                    [
+                        480.0,
+                        1525.0
+                    ],
+                    [
+                        480.0,
+                        1557.0
+                    ],
+                    [
+                        37.0,
+                        1557.0
+                    ]
+                ]
+            },
+            {
+                "text": "Monitored and supervised welding, piping and NDT activities.",
+                "confidence": 0.9995258450508118,
+                "text_region": [
+                    [
+                        532.0,
+                        1518.0
+                    ],
+                    [
+                        1295.0,
+                        1518.0
+                    ],
+                    [
+                        1295.0,
+                        1550.0
+                    ],
+                    [
+                        532.0,
+                        1550.0
+                    ]
+                ]
+            },
+            {
+                "text": "Mohamed Kkaider University, Biskra.",
+                "confidence": 0.9842373728752136,
+                "text_region": [
+                    [
+                        27.0,
+                        1569.0
+                    ],
+                    [
+                        473.0,
+                        1569.0
+                    ],
+                    [
+                        473.0,
+                        1593.0
+                    ],
+                    [
+                        27.0,
+                        1593.0
+                    ]
+                ]
+            },
+            {
+                "text": "Project: Construction of a Bellara steel factory, Jijel",
+                "confidence": 0.9987137317657471,
+                "text_region": [
+                    [
+                        532.0,
+                        1564.0
+                    ],
+                    [
+                        1170.0,
+                        1564.0
+                    ],
+                    [
+                        1170.0,
+                        1596.0
+                    ],
+                    [
+                        532.0,
+                        1596.0
+                    ]
+                ]
+            },
+            {
+                "text": "Vingotte International Spa | NDT inspector, welding and coating",
+                "confidence": 0.9895539879798889,
+                "text_region": [
+                    [
+                        537.0,
+                        1625.0
+                    ],
+                    [
+                        1352.0,
+                        1625.0
+                    ],
+                    [
+                        1352.0,
+                        1657.0
+                    ],
+                    [
+                        537.0,
+                        1657.0
+                    ]
+                ]
+            },
+            {
+                "text": " 2011 : NDT Level II Controller",
+                "confidence": 0.9662879109382629,
+                "text_region": [
+                    [
+                        39.0,
+                        1647.0
+                    ],
+                    [
+                        397.0,
+                        1647.0
+                    ],
+                    [
+                        397.0,
+                        1671.0
+                    ],
+                    [
+                        39.0,
+                        1671.0
+                    ]
+                ]
+            },
+            {
+                "text": "October 2016 - November 2017",
+                "confidence": 0.9878782629966736,
+                "text_region": [
+                    [
+                        537.0,
+                        1676.0
+                    ],
+                    [
+                        941.0,
+                        1676.0
+                    ],
+                    [
+                        941.0,
+                        1701.0
+                    ],
+                    [
+                        537.0,
+                        1701.0
+                    ]
+                ]
+            },
+            {
+                "text": "VT-MT-RT-PT",
+                "confidence": 0.9975013136863708,
+                "text_region": [
+                    [
+                        27.0,
+                        1686.0
+                    ],
+                    [
+                        192.0,
+                        1686.0
+                    ],
+                    [
+                        192.0,
+                        1713.0
+                    ],
+                    [
+                        27.0,
+                        1713.0
+                    ]
+                ]
+            },
+            {
+                "text": "3Mecs School, Laghouat",
+                "confidence": 0.9985345602035522,
+                "text_region": [
+                    [
+                        25.0,
+                        1723.0
+                    ],
+                    [
+                        330.0,
+                        1723.0
+                    ],
+                    [
+                        330.0,
+                        1754.0
+                    ],
+                    [
+                        25.0,
+                        1754.0
+                    ]
+                ]
+            },
+            {
+                "text": "Monitored and supervised welding, coating and NDT work.",
+                "confidence": 0.9891201853752136,
+                "text_region": [
+                    [
+                        534.0,
+                        1723.0
+                    ],
+                    [
+                        1266.0,
+                        1723.0
+                    ],
+                    [
+                        1266.0,
+                        1754.0
+                    ],
+                    [
+                        534.0,
+                        1754.0
+                    ]
+                ]
+            },
+            {
+                "text": "Project: Construction of a 22 and 24 Inch ROB1 pipeline of 180 km.",
+                "confidence": 0.9717745780944824,
+                "text_region": [
+                    [
+                        537.0,
+                        1774.0
+                    ],
+                    [
+                        1357.0,
+                        1774.0
+                    ],
+                    [
+                        1357.0,
+                        1798.0
+                    ],
+                    [
+                        537.0,
+                        1798.0
+                    ]
+                ]
+            },
+            {
+                "text": "- 2010 : PRIMAVERA P6",
+                "confidence": 0.939935028553009,
+                "text_region": [
+                    [
+                        32.0,
+                        1801.0
+                    ],
+                    [
+                        313.0,
+                        1801.0
+                    ],
+                    [
+                        313.0,
+                        1832.0
+                    ],
+                    [
+                        32.0,
+                        1832.0
+                    ]
+                ]
+            },
+            {
+                "text": "Project Planning Certificate",
+                "confidence": 0.9974470734596252,
+                "text_region": [
+                    [
+                        27.0,
+                        1844.0
+                    ],
+                    [
+                        357.0,
+                        1844.0
+                    ],
+                    [
+                        357.0,
+                        1876.0
+                    ],
+                    [
+                        27.0,
+                        1876.0
+                    ]
+                ]
+            },
+            {
+                "text": "SAFIR Spa | Controller Receiving pipe 22 and 24 inch",
+                "confidence": 0.9976441264152527,
+                "text_region": [
+                    [
+                        537.0,
+                        1849.0
+                    ],
+                    [
+                        1202.0,
+                        1849.0
+                    ],
+                    [
+                        1202.0,
+                        1883.0
+                    ],
+                    [
+                        537.0,
+                        1883.0
+                    ]
+                ]
+            },
+            {
+                "text": "Ibn Rochd School, Algiers",
+                "confidence": 0.9993227124214172,
+                "text_region": [
+                    [
+                        25.0,
+                        1881.0
+                    ],
+                    [
+                        340.0,
+                        1883.0
+                    ],
+                    [
+                        340.0,
+                        1918.0
+                    ],
+                    [
+                        25.0,
+                        1915.0
+                    ]
+                ]
+            },
+            {
+                "text": "December 2015 - September 2016",
+                "confidence": 0.9834019541740417,
+                "text_region": [
+                    [
+                        534.0,
+                        1898.0
+                    ],
+                    [
+                        978.0,
+                        1898.0
+                    ],
+                    [
+                        978.0,
+                        1930.0
+                    ],
+                    [
+                        534.0,
+                        1930.0
+                    ]
+                ]
+            },
+            {
+                "text": "Monitored and received the production of pipe 22 and 24 inch",
+                "confidence": 0.9998443126678467,
+                "text_region": [
+                    [
+                        534.0,
+                        1949.0
+                    ],
+                    [
+                        1310.0,
+                        1949.0
+                    ],
+                    [
+                        1310.0,
+                        1981.0
+                    ],
+                    [
+                        534.0,
+                        1981.0
+                    ]
+                ]
+            },
+            {
+                "text": "- 2005 : Business Management",
+                "confidence": 0.996800422668457,
+                "text_region": [
+                    [
+                        25.0,
+                        1959.0
+                    ],
+                    [
+                        402.0,
+                        1961.0
+                    ],
+                    [
+                        401.0,
+                        1996.0
+                    ],
+                    [
+                        25.0,
+                        1993.0
+                    ]
+                ]
+            },
+            {
+                "text": "Project: ROB1 of 180 km from Msila to Bejaia.",
+                "confidence": 0.9803079962730408,
+                "text_region": [
+                    [
+                        534.0,
+                        1995.0
+                    ],
+                    [
+                        1101.0,
+                        1995.0
+                    ],
+                    [
+                        1101.0,
+                        2027.0
+                    ],
+                    [
+                        534.0,
+                        2027.0
+                    ]
+                ]
+            },
+            {
+                "text": "Certificate",
+                "confidence": 0.9999255537986755,
+                "text_region": [
+                    [
+                        66.0,
+                        2005.0
+                    ],
+                    [
+                        199.0,
+                        2005.0
+                    ],
+                    [
+                        199.0,
+                        2032.0
+                    ],
+                    [
+                        66.0,
+                        2032.0
+                    ]
+                ]
+            },
+            {
+                "text": "Training center, Tebessa",
+                "confidence": 0.9987223744392395,
+                "text_region": [
+                    [
+                        27.0,
+                        2044.0
+                    ],
+                    [
+                        330.0,
+                        2044.0
+                    ],
+                    [
+                        330.0,
+                        2076.0
+                    ],
+                    [
+                        27.0,
+                        2076.0
+                    ]
+                ]
+            },
+            {
+                "text": "TARsI Spa Group ENcC | Head of technical welding department",
+                "confidence": 0.9774084091186523,
+                "text_region": [
+                    [
+                        537.0,
+                        2064.0
+                    ],
+                    [
+                        1342.0,
+                        2064.0
+                    ],
+                    [
+                        1342.0,
+                        2095.0
+                    ],
+                    [
+                        537.0,
+                        2095.0
+                    ]
+                ]
+            },
+            {
+                "text": "- 1999 : DEUA in Management IT",
+                "confidence": 0.981243371963501,
+                "text_region": [
+                    [
+                        27.0,
+                        2122.0
+                    ],
+                    [
+                        433.0,
+                        2122.0
+                    ],
+                    [
+                        433.0,
+                        2154.0
+                    ],
+                    [
+                        27.0,
+                        2154.0
+                    ]
+                ]
+            },
+            {
+                "text": "October 2014 - November 2015",
+                "confidence": 0.9874593615531921,
+                "text_region": [
+                    [
+                        537.0,
+                        2115.0
+                    ],
+                    [
+                        941.0,
+                        2115.0
+                    ],
+                    [
+                        941.0,
+                        2139.0
+                    ],
+                    [
+                        537.0,
+                        2139.0
+                    ]
+                ]
+            },
+            {
+                "text": "University August 20, 1955, Skikda",
+                "confidence": 0.9896803498268127,
+                "text_region": [
+                    [
+                        27.0,
+                        2161.0
+                    ],
+                    [
+                        453.0,
+                        2161.0
+                    ],
+                    [
+                        453.0,
+                        2193.0
+                    ],
+                    [
+                        27.0,
+                        2193.0
+                    ]
+                ]
+            },
+            {
+                "text": "Manage the NDT and welding service.",
+                "confidence": 0.9775806069374084,
+                "text_region": [
+                    [
+                        534.0,
+                        2161.0
+                    ],
+                    [
+                        1005.0,
+                        2161.0
+                    ],
+                    [
+                        1005.0,
+                        2193.0
+                    ],
+                    [
+                        534.0,
+                        2193.0
+                    ]
+                ]
+            },
+            {
+                "text": "Project: Thermal power plants, storage tanks and piping.",
+                "confidence": 0.998228907585144,
+                "text_region": [
+                    [
+                        534.0,
+                        2210.0
+                    ],
+                    [
+                        1236.0,
+                        2210.0
+                    ],
+                    [
+                        1236.0,
+                        2242.0
+                    ],
+                    [
+                        534.0,
+                        2242.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.688854455947876
+    }
+]

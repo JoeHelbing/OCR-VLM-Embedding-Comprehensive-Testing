@@ -1,0 +1,76 @@
+<document>
+<section_header_level_1><location><page_1><loc_34><loc_93><loc_66><loc_95></location>DataTables example - PDF - image</section_header_level_1>
+<figure>
+<location><page_1><loc_42><loc_79><loc_58><loc_92></location>
+</figure>
+<table>
+<location><page_1><loc_6><loc_6><loc_80><loc_76></location>
+<row_0><col_0><col_header>Name</col_0><col_1><col_header>Position</col_1><col_2><col_header>Office</col_2><col_3><col_header>Age</col_3><col_4><col_header>Start date</col_4><col_5><col_header>Salary</col_5></row_0>
+<row_1><col_0><body>Airi Satou</col_0><col_1><body>Accountant</col_1><col_2><body>Tokyo</col_2><col_3><body>33</col_3><col_4><body>2008-11-28</col_4><col_5><body>$162,700</col_5></row_1>
+<row_2><col_0><body>Angelica Ramos</col_0><col_1><body>Chief Executive Officer (CEO)</col_1><col_2><body>London</col_2><col_3><body>47</col_3><col_4><body>2009-10-09</col_4><col_5><body>$1,200,000</col_5></row_2>
+<row_3><col_0><body>Ashton Cox</col_0><col_1><body>Junior Technical Author</col_1><col_2><body>San Francisco</col_2><col_3><body>66</col_3><col_4><body>2009-01-12</col_4><col_5><body>$86,000</col_5></row_3>
+<row_4><col_0><body>Bradley Greer</col_0><col_1><body>Software Engineer</col_1><col_2><body>London</col_2><col_3><body>41</col_3><col_4><body>2012-10-13</col_4><col_5><body>$132,000</col_5></row_4>
+<row_5><col_0><body>Brenden Wagner</col_0><col_1><body>Software Engineer</col_1><col_2><body>San Francisco</col_2><col_3><body>28</col_3><col_4><body>2011-06-07</col_4><col_5><body>$206,850</col_5></row_5>
+<row_6><col_0><body>Brielle Williamson</col_0><col_1><body>Integration Specialist</col_1><col_2><body>New York</col_2><col_3><body>61</col_3><col_4><body>2012-12-02</col_4><col_5><body>$372,000</col_5></row_6>
+<row_7><col_0><body>Bruno Nash</col_0><col_1><body>Software Engineer</col_1><col_2><body>London</col_2><col_3><body>38</col_3><col_4><body>2011-05-03</col_4><col_5><body>$163,500</col_5></row_7>
+<row_8><col_0><body>Caesar Vance</col_0><col_1><body>Pre-Sales Support</col_1><col_2><body>New York</col_2><col_3><body>21</col_3><col_4><body>2011-12-12</col_4><col_5><body>$106,450</col_5></row_8>
+<row_9><col_0><body>Cara Stevens</col_0><col_1><body>Sales Assistant</col_1><col_2><body>New York</col_2><col_3><body>46</col_3><col_4><body>2011-12-06</col_4><col_5><body>$145,600</col_5></row_9>
+<row_10><col_0><body>Cedric Kelly</col_0><col_1><body>Senior Javascript Developer</col_1><col_2><body>Edinburgh</col_2><col_3><body>22</col_3><col_4><body>2012-03-29</col_4><col_5><body>$433,060</col_5></row_10>
+<row_11><col_0><body>Charde Marshall</col_0><col_1><body>Regional Director</col_1><col_2><body>San Francisco</col_2><col_3><body>36</col_3><col_4><body>2008-10-16</col_4><col_5><body>$470,600</col_5></row_11>
+<row_12><col_0><body>Colleen Hurst</col_0><col_1><body>Javascript Developer</col_1><col_2><body>San Francisco</col_2><col_3><body>39</col_3><col_4><body>2009-09-15</col_4><col_5><body>$205,500</col_5></row_12>
+<row_13><col_0><body>Dai Rios</col_0><col_1><body>Personnel Lead</col_1><col_2><body>Edinburgh</col_2><col_3><body>35</col_3><col_4><body>2012-09-26</col_4><col_5><body>$217,500</col_5></row_13>
+<row_14><col_0><body>Donna Snider</col_0><col_1><body>Customer Support</col_1><col_2><body>New York</col_2><col_3><body>27</col_3><col_4><body>2011-01-25</col_4><col_5><body>$112,000</col_5></row_14>
+<row_15><col_0><body>Doris Wilder</col_0><col_1><body>Sales Assistant</col_1><col_2><body>Sydney</col_2><col_3><body>23</col_3><col_4><body>2010-09-20</col_4><col_5><body>$85,600</col_5></row_15>
+<row_16><col_0><body>Finn Camacho</col_0><col_1><body>Support Engineer</col_1><col_2><body>San Francisco</col_2><col_3><body>47</col_3><col_4><body>2009-07-07</col_4><col_5><body>$87,500</col_5></row_16>
+<row_17><col_0><body>Fiona Green</col_0><col_1><body>Chief Operating Officer (COO)</col_1><col_2><body>San Francisco</col_2><col_3><body>48</col_3><col_4><body>2010-03-11</col_4><col_5><body>$850,000</col_5></row_17>
+<row_18><col_0><body>Garrett Winters</col_0><col_1><body>Accountant</col_1><col_2><body>Tokyo</col_2><col_3><body>63</col_3><col_4><body>2011-07-25</col_4><col_5><body>$170,750</col_5></row_18>
+<row_19><col_0><body>Gavin Cortez</col_0><col_1><body>Team Leader</col_1><col_2><body>San Francisco</col_2><col_3><body>22</col_3><col_4><body>2008-10-26</col_4><col_5><body>$235,500</col_5></row_19>
+<row_20><col_0><body>Gavin Joyce</col_0><col_1><body>Developer</col_1><col_2><body>Edinburgh</col_2><col_3><body>42</col_3><col_4><body>2010-12-22</col_4><col_5><body>$92,575</col_5></row_20>
+<row_21><col_0><body>Gloria Little</col_0><col_1><body>Systems Administrator</col_1><col_2><body>New York</col_2><col_3><body>59</col_3><col_4><body>2009-04-10</col_4><col_5><body>$237,500</col_5></row_21>
+<row_22><col_0><body>Haley Kennedy</col_0><col_1><body>Senior Marketing Designer</col_1><col_2><body>London</col_2><col_3><body>43</col_3><col_4><body>2012-12-18</col_4><col_5><body>$313,500</col_5></row_22>
+<row_23><col_0><body>Hermione Butler</col_0><col_1><body>Regional Director</col_1><col_2><body>London</col_2><col_3><body>47</col_3><col_4><body>2011-03-21</col_4><col_5><body>$356,250</col_5></row_23>
+<row_24><col_0><body>Herrod Chandler</col_0><col_1><body>Sales Assistant</col_1><col_2><body>San Francisco</col_2><col_3><body>59</col_3><col_4><body>2012-08-06</col_4><col_5><body>$137,500</col_5></row_24>
+</table>
+<table>
+<location><page_2><loc_6><loc_8><loc_80><loc_94></location>
+<row_0><col_0><col_header>Name</col_0><col_1><col_header>Position</col_1><col_2><col_header>Office</col_2><col_3><col_header>Age</col_3><col_4><col_header>Start date</col_4><col_5><col_header>Salary</col_5></row_0>
+<row_1><col_0><body>Hope Fuentes</col_0><col_1><body>Secretary</col_1><col_2><body>San Francisco</col_2><col_3><body>41</col_3><col_4><body>2010-02-12</col_4><col_5><body>$109,850</col_5></row_1>
+<row_2><col_0><body>Howard Hatfield</col_0><col_1><body>Office Manager</col_1><col_2><body>San Francisco</col_2><col_3><body>51</col_3><col_4><body>2008-12-16</col_4><col_5><body>$164,500</col_5></row_2>
+<row_3><col_0><body>Jackson Bradshaw</col_0><col_1><body>Director</col_1><col_2><body>New York</col_2><col_3><body>65</col_3><col_4><body>2008-09-26</col_4><col_5><body>$645,750</col_5></row_3>
+<row_4><col_0><body>Jena Gaines</col_0><col_1><body>Office Manager</col_1><col_2><body>London</col_2><col_3><body>30</col_3><col_4><body>2008-12-19</col_4><col_5><body>$90,560</col_5></row_4>
+<row_5><col_0><body>Jenette Caldwell</col_0><col_1><body>Development Lead</col_1><col_2><body>New York</col_2><col_3><body>30</col_3><col_4><body>2011-09-03</col_4><col_5><body>$345,000</col_5></row_5>
+<row_6><col_0><body>Jennifer Acosta</col_0><col_1><body>Junior Javascript Developer</col_1><col_2><body>Edinburgh</col_2><col_3><body>43</col_3><col_4><body>2013-02-01</col_4><col_5><body>$75,650</col_5></row_6>
+<row_7><col_0><body>Jennifer Chang</col_0><col_1><body>Regional Director</col_1><col_2><body>Singapore</col_2><col_3><body>28</col_3><col_4><body>2010-11-14</col_4><col_5><body>$357,650</col_5></row_7>
+<row_8><col_0><body>Jonas Alexander</col_0><col_1><body>Developer</col_1><col_2><body>San Francisco</col_2><col_3><body>30</col_3><col_4><body>2010-07-14</col_4><col_5><body>$86,500</col_5></row_8>
+<row_9><col_0><body>Lael Greer</col_0><col_1><body>Systems Administrator</col_1><col_2><body>London</col_2><col_3><body>21</col_3><col_4><body>2009-02-27</col_4><col_5><body>$103,500</col_5></row_9>
+<row_10><col_0><body>Martena Mccray</col_0><col_1><body>Post-Sales support</col_1><col_2><body>Edinburgh</col_2><col_3><body>46</col_3><col_4><body>2011-03-09</col_4><col_5><body>$324,050</col_5></row_10>
+<row_11><col_0><body>Michael Bruce</col_0><col_1><body>Javascript Developer</col_1><col_2><body>Singapore</col_2><col_3><body>29</col_3><col_4><body>2011-06-27</col_4><col_5><body>$183,000</col_5></row_11>
+<row_12><col_0><body>Michael Silva</col_0><col_1><body>Marketing Designer</col_1><col_2><body>London</col_2><col_3><body>66</col_3><col_4><body>2012-11-27</col_4><col_5><body>$198,500</col_5></row_12>
+<row_13><col_0><body>Michelle House</col_0><col_1><body>Integration Specialist</col_1><col_2><body>Sydney</col_2><col_3><body>37</col_3><col_4><body>2011-06-02</col_4><col_5><body>$95,400</col_5></row_13>
+<row_14><col_0><body>Olivia Liang</col_0><col_1><body>Support Engineer</col_1><col_2><body>Singapore</col_2><col_3><body>64</col_3><col_4><body>2011-02-03</col_4><col_5><body>$234,500</col_5></row_14>
+<row_15><col_0><body>Paul Byrd</col_0><col_1><body>Chief Financial Officer (CFO)</col_1><col_2><body>New York</col_2><col_3><body>64</col_3><col_4><body>2010-06-09</col_4><col_5><body>$725,000</col_5></row_15>
+<row_16><col_0><body>Prescott Bartlett</col_0><col_1><body>Technical Author</col_1><col_2><body>London</col_2><col_3><body>27</col_3><col_4><body>2011-05-07</col_4><col_5><body>$145,000</col_5></row_16>
+<row_17><col_0><body>Quinn Flynn</col_0><col_1><body>Support Lead</col_1><col_2><body>Edinburgh</col_2><col_3><body>22</col_3><col_4><body>2013-03-03</col_4><col_5><body>$342,000</col_5></row_17>
+<row_18><col_0><body>Rhona Davidson</col_0><col_1><body>Integration Specialist</col_1><col_2><body>Tokyo</col_2><col_3><body>55</col_3><col_4><body>2010-10-14</col_4><col_5><body>$327,900</col_5></row_18>
+<row_19><col_0><body>Sakura Yamamoto</col_0><col_1><body>Support Engineer</col_1><col_2><body>Tokyo</col_2><col_3><body>37</col_3><col_4><body>2009-08-19</col_4><col_5><body>$139,575</col_5></row_19>
+<row_20><col_0><body>Serge Baldwin</col_0><col_1><body>Data Coordinator</col_1><col_2><body>Singapore</col_2><col_3><body>64</col_3><col_4><body>2012-04-09</col_4><col_5><body>$138,575</col_5></row_20>
+<row_21><col_0><body>Shad Decker</col_0><col_1><body>Regional Director</col_1><col_2><body>Edinburgh</col_2><col_3><body>51</col_3><col_4><body>2008-11-13</col_4><col_5><body>$183,000</col_5></row_21>
+<row_22><col_0><body>Shou Itou</col_0><col_1><body>Regional Marketing</col_1><col_2><body>Tokyo</col_2><col_3><body>20</col_3><col_4><body>2011-08-14</col_4><col_5><body>$163,000</col_5></row_22>
+<row_23><col_0><body>Sonya Frost</col_0><col_1><body>Software Engineer</col_1><col_2><body>Edinburgh</col_2><col_3><body>23</col_3><col_4><body>2008-12-13</col_4><col_5><body>$103,600</col_5></row_23>
+<row_24><col_0><body>Suki Burks</col_0><col_1><body>Developer</col_1><col_2><body>London</col_2><col_3><body>53</col_3><col_4><body>2009-10-22</col_4><col_5><body>$114,500</col_5></row_24>
+<row_25><col_0><body>Tatyana Fitzpatrick</col_0><col_1><body>Regional Director</col_1><col_2><body>London</col_2><col_3><body>19</col_3><col_4><body>2010-03-17</col_4><col_5><body>$385,750</col_5></row_25>
+<row_26><col_0><body>Thor Walton</col_0><col_1><body>Developer</col_1><col_2><body>New York</col_2><col_3><body>61</col_3><col_4><body>2013-08-11</col_4><col_5><body>$98,540</col_5></row_26>
+<row_27><col_0><body>Tiger Nixon</col_0><col_1><body>System Architect</col_1><col_2><body>Edinburgh</col_2><col_3><body>61</col_3><col_4><body>2011-04-25</col_4><col_5><body>$320,800</col_5></row_27>
+<row_28><col_0><body>Timothy Mooney</col_0><col_1><body>Office Manager</col_1><col_2><body>London</col_2><col_3><body>37</col_3><col_4><body>2008-12-11</col_4><col_5><body>$136,200</col_5></row_28>
+<row_29><col_0><body>Unity Butler</col_0><col_1><body>Marketing Designer</col_1><col_2><body>San Francisco</col_2><col_3><body>47</col_3><col_4><body>2009-12-09</col_4><col_5><body>$85,675</col_5></row_29>
+<row_30><col_0><body>Vivian Harrell</col_0><col_1><body>Financial Controller</col_1><col_2><body>San Francisco</col_2><col_3><body>62</col_3><col_4><body>2009-02-14</col_4><col_5><body>$452,500</col_5></row_30>
+</table>
+<table>
+<location><page_3><loc_6><loc_81><loc_80><loc_94></location>
+<row_0><col_0><col_header>Name</col_0><col_1><col_header>Position</col_1><col_2><col_header>Office</col_2><col_3><col_header>Age</col_3><col_4><col_header>Start date</col_4><col_5><col_header>Salary</col_5></row_0>
+<row_1><col_0><body>Yuri Berry</col_0><col_1><body>Chief Marketing Officer (CMO)</col_1><col_2><body>New York</col_2><col_3><body>40</col_3><col_4><body>2009-06-25</col_4><col_5><body>$675,000</col_5></row_1>
+<row_2><col_0><body>Zenaida Frank</col_0><col_1><body>Software Engineer</col_1><col_2><body>New York</col_2><col_3><body>63</col_3><col_4><body>2010-01-04</col_4><col_5><body>$125,250</col_5></row_2>
+<row_3><col_0><body>Zorita Serrano</col_0><col_1><body>Software Engineer</col_1><col_2><body>San Francisco</col_2><col_3><body>56</col_3><col_4><body>2012-06-01</col_4><col_5><body>$115,000</col_5></row_3>
+<row_4><col_0><body>Name</col_0><col_1><body>Position</col_1><col_2><body>Office</col_2><col_3><body>Age</col_3><col_4><body>Start date</col_4><col_5><body>Salary</col_5></row_4>
+</table>
+</document>

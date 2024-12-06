@@ -1,0 +1,33 @@
+{ "Full Name": "Victor Hoffmann", 
+  "Email": "victor.hoffmann@polytechnique.edu",
+  "Phone": "+33 6 35 78 90 00", 
+  "Education":
+    {
+      "Master's Degree": ["Institut Polytechnique de Paris", "Master's degree in Data Science", "2023"],
+      "Bachelor's Degree": ["University of Nancy", "Bachelor's degree in Computer Science", "2019-2021"]
+    },
+  "Work Experience":
+    [
+        { 
+          "Company Name": "Sony Europe",
+          "Title": "Computer Vision Research Intern",
+          "Dates": "April 2024 - Present"
+        },  
+        { 
+          "Company Name": "LORIA (Computer Science Research Laboratory)",
+          "Title": "Deep Learning Research Intern",
+          "Dates": "June 2023 - August 2023"
+        },
+        { 
+          "Company Name": "INRIA (Computer Science & Mathematics Research Laboratory)",
+          "Title": "Machine Learning Research Intern",
+          "Dates": "October 2022 - June 2023"
+        }
+    ],  
+  "Skills":
+    [
+      {"Programming Languages": ["Python", "C/C++", "SQL", "R", "MATLAB", "VBA"]},
+      {"Libraries": ["PyTorch", "TensorFlow", "NumPy", "Scikit-learn", "OpenCV", "Pandas"]}
+    ],
+  "Certifications": [] 
+}

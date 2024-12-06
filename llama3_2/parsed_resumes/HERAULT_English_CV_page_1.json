@@ -1,0 +1,34 @@
+{ 
+    "Full Name": "Florian Hérault",
+    "Emails": ["herault.florian79@gmail.com"],
+    "Phone Number": "+33 6 37 16 24 92",
+    "Education":
+        {
+            "Name": "Ecole Nationale Supérieure des Mines de Nancy (France)",
+            "Degree": "Major in Energy and Fluids: fluid mechanics, radiation and boundary layers, numerical methods, thermodynamics, statistical physics, quantum physics, continuum mechanics.",
+            "Graduation Date": "2021-present"
+        },
+    "Work Experience":
+        {
+            "Title": "Summer job at Batistyl",
+            "Company": "Batistyl (Maulévrier, France)",
+            "Dates of Employment": "July 2019",
+            "Job Description": ["Reception", "Sorting and storage of aluminum bars for window production.", "Developed technical skills and ability to adapt, trained and managed company's newcomers."],
+        "Title": "Classes Préparatoires aux Grandes Ecoles",
+        "Company": "Lycée Georges Clemenceau (Nantes, France)",
+        "Dates of Employment": "2019-2021",
+        "Job Description": ["A 2-year undergraduate program for national competitive exams for admission to the most prestigious French graduate schools of engineering."],
+        "Title": "Baccalaureate in Science and Mathematics",
+        "Company": "Lycée Notre Dame de la Tourtelière (Pouzauges, France)",
+        "Dates of Employment": "July 2019",
+        "Job Description": ["Passed with distinction"]
+    },
+    "Skills":
+        {
+            "Work Experience": "Reception, sorting and storage of aluminum bars for window production, developed technical skills and ability to adapt, trained and managed company's newcomers.",
+            "Education": ["Fluid mechanics", "Radiation and boundary layers", "Numerical methods", "Thermodynamics", "Statistical physics", "Quantum physics", "Continuum mechanics"]
+        },
+    "Certifications": []
+}
+
+   

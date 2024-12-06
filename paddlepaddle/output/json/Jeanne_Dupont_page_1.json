@@ -1,0 +1,292 @@
+[
+    {
+        "type": "title",
+        "bbox": [
+            117,
+            1555,
+            353,
+            1592
+        ],
+        "res": [
+            {
+                "text": "Work experience",
+                "confidence": 0.9999608993530273,
+                "text_region": [
+                    [
+                        116.0,
+                        1554.0
+                    ],
+                    [
+                        345.0,
+                        1554.0
+                    ],
+                    [
+                        345.0,
+                        1589.0
+                    ],
+                    [
+                        116.0,
+                        1589.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7133735418319702
+    },
+    {
+        "type": "list",
+        "bbox": [
+            131,
+            1662,
+            1547,
+            2140
+        ],
+        "res": [
+            {
+                "text": "Paralympic Games (ROCOG), Rio, Brazil.",
+                "confidence": 0.9915457367897034,
+                "text_region": [
+                    [
+                        165.0,
+                        1662.0
+                    ],
+                    [
+                        694.0,
+                        1662.0
+                    ],
+                    [
+                        694.0,
+                        1696.0
+                    ],
+                    [
+                        165.0,
+                        1696.0
+                    ]
+                ]
+            },
+            {
+                "text": "J une -- September 2019",
+                "confidence": 0.9665935635566711,
+                "text_region": [
+                    [
+                        212.0,
+                        1713.0
+                    ],
+                    [
+                        522.0,
+                        1713.0
+                    ],
+                    [
+                        522.0,
+                        1747.0
+                    ],
+                    [
+                        212.0,
+                        1747.0
+                    ]
+                ]
+            },
+            {
+                "text": " In charge of accreditation for 47 National Paralympic Committees of Eastern Europe and the Middle East",
+                "confidence": 0.9842895269393921,
+                "text_region": [
+                    [
+                        209.0,
+                        1764.0
+                    ],
+                    [
+                        1531.0,
+                        1764.0
+                    ],
+                    [
+                        1531.0,
+                        1798.0
+                    ],
+                    [
+                        209.0,
+                        1798.0
+                    ]
+                ]
+            },
+            {
+                "text": "additionally responsible for Spanish speaking countries due to staff health difficulties..",
+                "confidence": 0.9921870827674866,
+                "text_region": [
+                    [
+                        214.0,
+                        1803.0
+                    ],
+                    [
+                        1270.0,
+                        1803.0
+                    ],
+                    [
+                        1270.0,
+                        1835.0
+                    ],
+                    [
+                        214.0,
+                        1835.0
+                    ]
+                ]
+            },
+            {
+                "text": "Registering delegations (athletes, team officials and dignitaries) and managing their access rights through",
+                "confidence": 0.9931214451789856,
+                "text_region": [
+                    [
+                        214.0,
+                        1857.0
+                    ],
+                    [
+                        1536.0,
+                        1857.0
+                    ],
+                    [
+                        1536.0,
+                        1888.0
+                    ],
+                    [
+                        214.0,
+                        1888.0
+                    ]
+                ]
+            },
+            {
+                "text": "constant telephone and email contact with the respective delegates in their native language whenever",
+                "confidence": 0.9947798252105713,
+                "text_region": [
+                    [
+                        214.0,
+                        1893.0
+                    ],
+                    [
+                        1538.0,
+                        1893.0
+                    ],
+                    [
+                        1538.0,
+                        1925.0
+                    ],
+                    [
+                        214.0,
+                        1925.0
+                    ]
+                ]
+            },
+            {
+                "text": " possible.",
+                "confidence": 0.9711614847183228,
+                "text_region": [
+                    [
+                        211.0,
+                        1928.0
+                    ],
+                    [
+                        326.0,
+                        1922.0
+                    ],
+                    [
+                        328.0,
+                        1956.0
+                    ],
+                    [
+                        213.0,
+                        1962.0
+                    ]
+                ]
+            },
+            {
+                "text": "Liaising with British agencies such as the Home Office, the UK Border Agency and the Metropolitan",
+                "confidence": 0.9982828497886658,
+                "text_region": [
+                    [
+                        214.0,
+                        1981.0
+                    ],
+                    [
+                        1536.0,
+                        1981.0
+                    ],
+                    [
+                        1536.0,
+                        2013.0
+                    ],
+                    [
+                        214.0,
+                        2013.0
+                    ]
+                ]
+            },
+            {
+                "text": "Police to carry out participants' background checks, handling sensitive personal data.",
+                "confidence": 0.9900661110877991,
+                "text_region": [
+                    [
+                        209.0,
+                        2010.0
+                    ],
+                    [
+                        1265.0,
+                        2015.0
+                    ],
+                    [
+                        1265.0,
+                        2056.0
+                    ],
+                    [
+                        209.0,
+                        2051.0
+                    ]
+                ]
+            },
+            {
+                "text": " Travelling abroad to meet with delegates from countries concerned for accreditation meetings and working.",
+                "confidence": 0.9842421412467957,
+                "text_region": [
+                    [
+                        209.0,
+                        2069.0
+                    ],
+                    [
+                        1536.0,
+                        2071.0
+                    ],
+                    [
+                        1536.0,
+                        2105.0
+                    ],
+                    [
+                        209.0,
+                        2103.0
+                    ]
+                ]
+            },
+            {
+                "text": "in a multi-lingual environment (official, office language - English).",
+                "confidence": 0.9904695749282837,
+                "text_region": [
+                    [
+                        214.0,
+                        2108.0
+                    ],
+                    [
+                        1044.0,
+                        2108.0
+                    ],
+                    [
+                        1044.0,
+                        2139.0
+                    ],
+                    [
+                        214.0,
+                        2139.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5204751491546631
+    }
+]

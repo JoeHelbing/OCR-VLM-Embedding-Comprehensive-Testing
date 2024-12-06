@@ -1,0 +1,27 @@
+{ "name": "Abdelrahman Mohamed Ahmed Hassan", 
+  "email": "abdelrahman.abotaleb@gmail.com", 
+  "phone": "(02)1092025667", 
+  "education": [
+    {"institution": "Assiut University (Assiut, Egypt)", 
+     "degree": "Bachelor of Computer and Information Systems", 
+     "graduation_date": "2015"}, 
+    {"institution": "National Telecommunication Institute (NTI) ", 
+     "degree": "Cisco Certified Network Associate (CCNA)", 
+     "graduation_date": "2022"}
+  ], 
+  "work_experience": [
+    {
+      "company_name": "Rouvan Hospital", 
+      "title": "IT Help Desk Technician and Store Keeper for IT Department", 
+      "dates": "Dec 23 - until now"
+    }, 
+    {"company_name": "International Company for Medical Supplies", 
+     "title": "IT Specialist and Help Desk", 
+     "dates": "Feb 22- Dec 23"}
+  ], 
+  "skills": [
+    "Database Administration",
+    "Network Architecture and Maintenance",
+    "Graphic Designing"
+  ],
+  "certifications": ["Google IT Support Specialist", "Cisco Certified Network Associate (CCNA)", "MCSA Self Study"] }

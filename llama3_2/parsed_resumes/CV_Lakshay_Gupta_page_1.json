@@ -1,0 +1,25 @@
+{ "Name": "Lakshay Gupta", 
+  "Email": "iamlakshay04@gmail.com",
+  "Phone": "+91-7318919774",
+  "Education":
+    {
+      "Degree": "Bachelor in Computer Science and Engineering (Data Science)",
+      "Institution": "Ajay Kumar Garg Engineering College",
+      "Graduation Date": "2022-Present"
+    },
+  "Work Experience":
+    [
+      {"Company": "Software Incubator - Software Development Center", "Title": "Developer", "Date": "Nov 2023 - Present"}
+    ],
+  "Skills":
+    {
+      "Languages": ["C/C++", "Python"],
+      "Technologies/Frameworks/Libraries": ["Django", "DRF", "Flutter"],
+      "Databases": ["SQLite3", "PostgreSQL"],
+      "Others": ["GIT", "AWS", "Nginx", "Docker"]
+    },
+  "Certifications":
+    {
+      "Smart India Hackathon 2023": "Winner"
+    }
+}

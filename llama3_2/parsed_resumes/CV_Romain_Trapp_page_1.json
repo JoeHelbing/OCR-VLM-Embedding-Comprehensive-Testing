@@ -1,0 +1,28 @@
+{ "Romain Trapp" : [
+  { "Email": "romain18trapp@gmail.com", "Phone": "+33.6.74.11.40.92" },
+  {
+    "Education": [
+      {
+        "Institution": "Mines Nancy",
+        "Degree": "Master's Degree",
+        "Graduation Date": "2022"
+      }
+    ]
+  },
+  {
+    "Work Experience": [
+      {
+        "Company Name": "Salzgitter AG",
+        "Title": "Producer Worker (training period)",
+        "Date": "February 2023 - Present"
+      },
+      {
+        "Company Name": "Mines Nancy",
+        "Title": "Treasurer",
+        "Date": "2022 - Present"
+      }
+    ]
+  },
+  { "Skills": ["Native speaker", "Advanced English", "Microsoft Office"] },
+  { "Certifications": [] }
+] }

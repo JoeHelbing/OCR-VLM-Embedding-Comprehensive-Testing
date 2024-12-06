@@ -1,0 +1,52 @@
+{ "name": "Anis-Samy Laamri", 
+"email": "a.laamri@outlook.fr", 
+"phone": "+33 6 09 86 21 03",
+"education":
+  [
+    {
+      "institution": "Ecole des Mines de Nancy, France",
+      "degree": "Master of Engineering Degree in Applied Mathematics",
+      "graduation date": "September 2021 - September 2025"
+    },
+    { 
+      "institution": "Universite Lorraine, France", 
+      "degree": "Bachelor of Science - Mathematics", 
+      "graduation date": "September 2019 - June 2021" 
+    } 
+  ], 
+"work experience":
+  [
+    {
+      "company": "Warehouse Engineer at Givenchy (Montbazon, France)",
+      "title": "Intern",
+      "dates": "September 2023 - February 2024"
+    }, 
+    { 
+      "company": "Logistics Operator at Louis Vuitton (Cergy, France)", 
+      "title": "Operator", 
+      "dates": "January 2022 - February 2022" 
+    } 
+  ], 
+"skills":
+  [
+    {
+      "skill name": "Python",
+      "level": "Proficient"
+    },  
+    { 
+      "skill name": "C", 
+      "level": "Intermediate" 
+    },  
+    { 
+      "skill name": "R", 
+      "level": "Basic" 
+    } 
+  ], 
+"certifications":
+  [
+    {
+      "name": "CI Cambridge Advanced Certification",
+      "year": "2018"
+    }
+  ] 
+}

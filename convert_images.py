@@ -2,8 +2,8 @@ import os
 
 from pdf2image import convert_from_path
 
-pdf_dir = "pdf_resumes/CV_Brut"
-output_dir = "pdf_resumes/CV_Images"
+pdf_dir = "data/tables/pdfs"
+output_dir = "data/tables/images"
 
 
 def convert_pdfs_to_images(pdf_dir, output_dir, dpi=200):

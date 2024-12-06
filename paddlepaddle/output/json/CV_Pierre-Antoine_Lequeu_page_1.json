@@ -1,0 +1,2363 @@
+[
+    {
+        "type": "text",
+        "bbox": [
+            692,
+            757,
+            1145,
+            792
+        ],
+        "res": [
+            {
+                "text": "Ingenieur Civil des Mines - Nancy, France",
+                "confidence": 0.9930025339126587,
+                "text_region": [
+                    [
+                        690.0,
+                        760.0
+                    ],
+                    [
+                        1150.0,
+                        760.0
+                    ],
+                    [
+                        1150.0,
+                        792.0
+                    ],
+                    [
+                        690.0,
+                        792.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7074944376945496
+    },
+    {
+        "type": "text",
+        "bbox": [
+            691,
+            1030,
+            1265,
+            1064
+        ],
+        "res": [
+            {
+                "text": "Undergraduate Program - Clermont-Ferrand, France",
+                "confidence": 0.9998178482055664,
+                "text_region": [
+                    [
+                        687.0,
+                        1031.0
+                    ],
+                    [
+                        1266.0,
+                        1036.0
+                    ],
+                    [
+                        1266.0,
+                        1068.0
+                    ],
+                    [
+                        687.0,
+                        1063.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6956701278686523
+    },
+    {
+        "type": "text",
+        "bbox": [
+            693,
+            518,
+            1142,
+            551
+        ],
+        "res": [
+            {
+                "text": "Exchange Semester - Seoul, South Korea",
+                "confidence": 0.9996996521949768,
+                "text_region": [
+                    [
+                        692.0,
+                        519.0
+                    ],
+                    [
+                        1148.0,
+                        519.0
+                    ],
+                    [
+                        1148.0,
+                        551.0
+                    ],
+                    [
+                        692.0,
+                        551.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6562051773071289
+    },
+    {
+        "type": "text",
+        "bbox": [
+            141,
+            878,
+            583,
+            1090
+        ],
+        "res": [
+            {
+                "text": "As an Artificial Intelligence enthusiast,",
+                "confidence": 0.9910520315170288,
+                "text_region": [
+                    [
+                        138.0,
+                        885.0
+                    ],
+                    [
+                        579.0,
+                        885.0
+                    ],
+                    [
+                        579.0,
+                        909.0
+                    ],
+                    [
+                        138.0,
+                        909.0
+                    ]
+                ]
+            },
+            {
+                "text": "particularly in iits use in impactful fields",
+                "confidence": 0.9826840758323669,
+                "text_region": [
+                    [
+                        135.0,
+                        912.0
+                    ],
+                    [
+                        581.0,
+                        912.0
+                    ],
+                    [
+                        581.0,
+                        943.0
+                    ],
+                    [
+                        135.0,
+                        943.0
+                    ]
+                ]
+            },
+            {
+                "text": "such as health care and environnemental",
+                "confidence": 0.999514639377594,
+                "text_region": [
+                    [
+                        140.0,
+                        946.0
+                    ],
+                    [
+                        579.0,
+                        946.0
+                    ],
+                    [
+                        579.0,
+                        970.0
+                    ],
+                    [
+                        140.0,
+                        970.0
+                    ]
+                ]
+            },
+            {
+                "text": "studies, I am currently looking for an",
+                "confidence": 0.9781683087348938,
+                "text_region": [
+                    [
+                        138.0,
+                        975.0
+                    ],
+                    [
+                        581.0,
+                        975.0
+                    ],
+                    [
+                        581.0,
+                        999.0
+                    ],
+                    [
+                        138.0,
+                        999.0
+                    ]
+                ]
+            },
+            {
+                "text": "internship to conclude my engineering",
+                "confidence": 0.9976556301116943,
+                "text_region": [
+                    [
+                        138.0,
+                        1002.0
+                    ],
+                    [
+                        579.0,
+                        1004.0
+                    ],
+                    [
+                        579.0,
+                        1031.0
+                    ],
+                    [
+                        138.0,
+                        1029.0
+                    ]
+                ]
+            },
+            {
+                "text": " degree and to gain insight on the corporate",
+                "confidence": 0.9819478988647461,
+                "text_region": [
+                    [
+                        135.0,
+                        1031.0
+                    ],
+                    [
+                        579.0,
+                        1031.0
+                    ],
+                    [
+                        579.0,
+                        1063.0
+                    ],
+                    [
+                        135.0,
+                        1063.0
+                    ]
+                ]
+            },
+            {
+                "text": "world.",
+                "confidence": 0.9993908405303955,
+                "text_region": [
+                    [
+                        140.0,
+                        1065.0
+                    ],
+                    [
+                        202.0,
+                        1065.0
+                    ],
+                    [
+                        202.0,
+                        1087.0
+                    ],
+                    [
+                        140.0,
+                        1087.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5396935343742371
+    },
+    {
+        "type": "text",
+        "bbox": [
+            692,
+            1422,
+            1387,
+            1458
+        ],
+        "res": [
+            {
+                "text": "Techlab Mines Nancy - 2 month - Nancy, France.",
+                "confidence": 0.9804689288139343,
+                "text_region": [
+                    [
+                        687.0,
+                        1424.0
+                    ],
+                    [
+                        1278.0,
+                        1424.0
+                    ],
+                    [
+                        1278.0,
+                        1455.0
+                    ],
+                    [
+                        687.0,
+                        1455.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5289780497550964
+    },
+    {
+        "type": "title",
+        "bbox": [
+            693,
+            714,
+            1185,
+            755
+        ],
+        "res": [
+            {
+                "text": "Mines de Nancy Engineering School",
+                "confidence": 0.9962645769119263,
+                "text_region": [
+                    [
+                        692.0,
+                        722.0
+                    ],
+                    [
+                        1187.0,
+                        722.0
+                    ],
+                    [
+                        1187.0,
+                        753.0
+                    ],
+                    [
+                        692.0,
+                        753.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8878451585769653
+    },
+    {
+        "type": "title",
+        "bbox": [
+            692,
+            987,
+            1271,
+            1026
+        ],
+        "res": [
+            {
+                "text": "Classes Preparatoires aux Grandes Ecoles",
+                "confidence": 0.9999303817749023,
+                "text_region": [
+                    [
+                        692.0,
+                        994.0
+                    ],
+                    [
+                        1276.0,
+                        994.0
+                    ],
+                    [
+                        1276.0,
+                        1026.0
+                    ],
+                    [
+                        692.0,
+                        1026.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8476420044898987
+    },
+    {
+        "type": "title",
+        "bbox": [
+            694,
+            1989,
+            1038,
+            2029
+        ],
+        "res": [
+            {
+                "text": "Communication Manager",
+                "confidence": 0.9998798370361328,
+                "text_region": [
+                    [
+                        690.0,
+                        1996.0
+                    ],
+                    [
+                        1044.0,
+                        1996.0
+                    ],
+                    [
+                        1044.0,
+                        2028.0
+                    ],
+                    [
+                        690.0,
+                        2028.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8406928181648254
+    },
+    {
+        "type": "title",
+        "bbox": [
+            693,
+            1375,
+            1081,
+            1419
+        ],
+        "res": [
+            {
+                "text": "Research Engineering Intern",
+                "confidence": 0.9991610646247864,
+                "text_region": [
+                    [
+                        685.0,
+                        1380.0
+                    ],
+                    [
+                        1084.0,
+                        1382.0
+                    ],
+                    [
+                        1084.0,
+                        1416.0
+                    ],
+                    [
+                        685.0,
+                        1414.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8132162094116211
+    },
+    {
+        "type": "title",
+        "bbox": [
+            693,
+            1812,
+            920,
+            1852
+        ],
+        "res": [
+            {
+                "text": "Work Placement",
+                "confidence": 0.9996242523193359,
+                "text_region": [
+                    [
+                        690.0,
+                        1818.0
+                    ],
+                    [
+                        924.0,
+                        1818.0
+                    ],
+                    [
+                        924.0,
+                        1850.0
+                    ],
+                    [
+                        690.0,
+                        1850.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7717356085777283
+    },
+    {
+        "type": "title",
+        "bbox": [
+            692,
+            407,
+            953,
+            454
+        ],
+        "res": [
+            {
+                "text": "EDUCATION",
+                "confidence": 0.9939954280853271,
+                "text_region": [
+                    [
+                        687.0,
+                        412.0
+                    ],
+                    [
+                        956.0,
+                        414.0
+                    ],
+                    [
+                        955.0,
+                        449.0
+                    ],
+                    [
+                        687.0,
+                        446.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7693145871162415
+    },
+    {
+        "type": "title",
+        "bbox": [
+            694,
+            1611,
+            828,
+            1649
+        ],
+        "res": [
+            {
+                "text": "Treasurer",
+                "confidence": 0.9998694658279419,
+                "text_region": [
+                    [
+                        690.0,
+                        1616.0
+                    ],
+                    [
+                        828.0,
+                        1616.0
+                    ],
+                    [
+                        828.0,
+                        1643.0
+                    ],
+                    [
+                        690.0,
+                        1643.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7621501088142395
+    },
+    {
+        "type": "title",
+        "bbox": [
+            693,
+            478,
+            1041,
+            516
+        ],
+        "res": [
+            {
+                "text": "Seoul National University",
+                "confidence": 0.9901381731033325,
+                "text_region": [
+                    [
+                        690.0,
+                        478.0
+                    ],
+                    [
+                        1042.0,
+                        480.0
+                    ],
+                    [
+                        1042.0,
+                        514.0
+                    ],
+                    [
+                        689.0,
+                        512.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7393057346343994
+    },
+    {
+        "type": "title",
+        "bbox": [
+            695,
+            1258,
+            1324,
+            1359
+        ],
+        "res": [
+            {
+                "text": "PROFESSIONAL AND CLUB &",
+                "confidence": 0.9794636368751526,
+                "text_region": [
+                    [
+                        692.0,
+                        1265.0
+                    ],
+                    [
+                        1323.0,
+                        1265.0
+                    ],
+                    [
+                        1323.0,
+                        1297.0
+                    ],
+                    [
+                        692.0,
+                        1297.0
+                    ]
+                ]
+            },
+            {
+                "text": "SOCIETY EXPERIENCE",
+                "confidence": 0.9835692644119263,
+                "text_region": [
+                    [
+                        692.0,
+                        1316.0
+                    ],
+                    [
+                        1190.0,
+                        1316.0
+                    ],
+                    [
+                        1190.0,
+                        1350.0
+                    ],
+                    [
+                        692.0,
+                        1350.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7293023467063904
+    },
+    {
+        "type": "title",
+        "bbox": [
+            136,
+            816,
+            531,
+            858
+        ],
+        "res": [
+            {
+                "text": "PERSONAL PROFILE",
+                "confidence": 0.9912850260734558,
+                "text_region": [
+                    [
+                        138.0,
+                        824.0
+                    ],
+                    [
+                        547.0,
+                        824.0
+                    ],
+                    [
+                        547.0,
+                        856.0
+                    ],
+                    [
+                        138.0,
+                        856.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7167457938194275
+    },
+    {
+        "type": "title",
+        "bbox": [
+            140,
+            1262,
+            280,
+            1303
+        ],
+        "res": [
+            {
+                "text": "SKILLS",
+                "confidence": 0.9957059025764465,
+                "text_region": [
+                    [
+                        140.0,
+                        1270.0
+                    ],
+                    [
+                        278.0,
+                        1270.0
+                    ],
+                    [
+                        278.0,
+                        1297.0
+                    ],
+                    [
+                        140.0,
+                        1297.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6608117818832397
+    },
+    {
+        "type": "title",
+        "bbox": [
+            309,
+            116,
+            1334,
+            192
+        ],
+        "res": [
+            {
+                "text": "PIERRE-ANTOINE LEQUEU",
+                "confidence": 0.9919029474258423,
+                "text_region": [
+                    [
+                        313.0,
+                        127.0
+                    ],
+                    [
+                        1335.0,
+                        129.0
+                    ],
+                    [
+                        1335.0,
+                        178.0
+                    ],
+                    [
+                        313.0,
+                        175.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5921201109886169
+    },
+    {
+        "type": "title",
+        "bbox": [
+            143,
+            1885,
+            537,
+            1973
+        ],
+        "res": [
+            {
+                "text": "CERTIFICATIONS &",
+                "confidence": 0.9913709163665771,
+                "text_region": [
+                    [
+                        140.0,
+                        1892.0
+                    ],
+                    [
+                        537.0,
+                        1892.0
+                    ],
+                    [
+                        537.0,
+                        1923.0
+                    ],
+                    [
+                        140.0,
+                        1923.0
+                    ]
+                ]
+            },
+            {
+                "text": "DEGREES",
+                "confidence": 0.996708869934082,
+                "text_region": [
+                    [
+                        140.0,
+                        1940.0
+                    ],
+                    [
+                        330.0,
+                        1940.0
+                    ],
+                    [
+                        330.0,
+                        1969.0
+                    ],
+                    [
+                        140.0,
+                        1969.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5387430787086487
+    },
+    {
+        "type": "list",
+        "bbox": [
+            697,
+            811,
+            1526,
+            958
+        ],
+        "res": [
+            {
+                "text": "Computer Science Engineering degree equivalent to a Master's degree in",
+                "confidence": 0.9991928935050964,
+                "text_region": [
+                    [
+                        722.0,
+                        809.0
+                    ],
+                    [
+                        1529.0,
+                        809.0
+                    ],
+                    [
+                        1529.0,
+                        841.0
+                    ],
+                    [
+                        722.0,
+                        841.0
+                    ]
+                ]
+            },
+            {
+                "text": "Computer Science",
+                "confidence": 0.9973590970039368,
+                "text_region": [
+                    [
+                        729.0,
+                        843.0
+                    ],
+                    [
+                        916.0,
+                        843.0
+                    ],
+                    [
+                        916.0,
+                        868.0
+                    ],
+                    [
+                        729.0,
+                        868.0
+                    ]
+                ]
+            },
+            {
+                "text": "Classes taken : Machine Learning, Data Science, Computer Vision, Robotic,",
+                "confidence": 0.9859691262245178,
+                "text_region": [
+                    [
+                        719.0,
+                        868.0
+                    ],
+                    [
+                        1527.0,
+                        870.0
+                    ],
+                    [
+                        1527.0,
+                        902.0
+                    ],
+                    [
+                        719.0,
+                        899.0
+                    ]
+                ]
+            },
+            {
+                "text": "Statistical Inference, Probabilities, diverse physics classes, micro & macro",
+                "confidence": 0.9955857992172241,
+                "text_region": [
+                    [
+                        727.0,
+                        899.0
+                    ],
+                    [
+                        1529.0,
+                        899.0
+                    ],
+                    [
+                        1529.0,
+                        931.0
+                    ],
+                    [
+                        727.0,
+                        931.0
+                    ]
+                ]
+            },
+            {
+                "text": "economics, management, English and Japanese.",
+                "confidence": 0.9887709021568298,
+                "text_region": [
+                    [
+                        729.0,
+                        934.0
+                    ],
+                    [
+                        1209.0,
+                        934.0
+                    ],
+                    [
+                        1209.0,
+                        958.0
+                    ],
+                    [
+                        729.0,
+                        958.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.9649363160133362
+    },
+    {
+        "type": "list",
+        "bbox": [
+            698,
+            570,
+            1526,
+            686
+        ],
+        "res": [
+            {
+                "text": ". One-semester exchange in the Computer Science and Engineering department",
+                "confidence": 0.9747788906097412,
+                "text_region": [
+                    [
+                        697.0,
+                        565.0
+                    ],
+                    [
+                        1507.0,
+                        568.0
+                    ],
+                    [
+                        1507.0,
+                        600.0
+                    ],
+                    [
+                        697.0,
+                        597.0
+                    ]
+                ]
+            },
+            {
+                "text": ".Classes taken : Natural Language Processing, Topic in Machine Intelligence",
+                "confidence": 0.9928410053253174,
+                "text_region": [
+                    [
+                        697.0,
+                        597.0
+                    ],
+                    [
+                        1527.0,
+                        597.0
+                    ],
+                    [
+                        1527.0,
+                        629.0
+                    ],
+                    [
+                        697.0,
+                        629.0
+                    ]
+                ]
+            },
+            {
+                "text": "(Generative Al), Artificial Intelligence in Urban Planning and Design 2,",
+                "confidence": 0.9874786734580994,
+                "text_region": [
+                    [
+                        727.0,
+                        629.0
+                    ],
+                    [
+                        1529.0,
+                        629.0
+                    ],
+                    [
+                        1529.0,
+                        661.0
+                    ],
+                    [
+                        727.0,
+                        661.0
+                    ]
+                ]
+            },
+            {
+                "text": "Understanding Asian Philosophy",
+                "confidence": 0.9993830919265747,
+                "text_region": [
+                    [
+                        727.0,
+                        658.0
+                    ],
+                    [
+                        1057.0,
+                        658.0
+                    ],
+                    [
+                        1057.0,
+                        690.0
+                    ],
+                    [
+                        727.0,
+                        690.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.9641236066818237
+    },
+    {
+        "type": "list",
+        "bbox": [
+            698,
+            1657,
+            1525,
+            1785
+        ],
+        "res": [
+            {
+                "text": "Mines Nancy Student Union Committee - Nancy, France",
+                "confidence": 0.9849372506141663,
+                "text_region": [
+                    [
+                        690.0,
+                        1655.0
+                    ],
+                    [
+                        1379.0,
+                        1655.0
+                    ],
+                    [
+                        1379.0,
+                        1687.0
+                    ],
+                    [
+                        690.0,
+                        1687.0
+                    ]
+                ]
+            },
+            {
+                "text": "2022-2023",
+                "confidence": 0.9995216727256775,
+                "text_region": [
+                    [
+                        1414.0,
+                        1653.0
+                    ],
+                    [
+                        1527.0,
+                        1653.0
+                    ],
+                    [
+                        1527.0,
+                        1679.0
+                    ],
+                    [
+                        1414.0,
+                        1679.0
+                    ]
+                ]
+            },
+            {
+                "text": ". Handling of a 130k budget for over 35 clubs for over 400 students",
+                "confidence": 0.9844731688499451,
+                "text_region": [
+                    [
+                        702.0,
+                        1699.0
+                    ],
+                    [
+                        1394.0,
+                        1699.0
+                    ],
+                    [
+                        1394.0,
+                        1723.0
+                    ],
+                    [
+                        702.0,
+                        1723.0
+                    ]
+                ]
+            },
+            {
+                "text": ": Managing and working with a 21 people team organizing the associative life,",
+                "confidence": 0.9836639761924744,
+                "text_region": [
+                    [
+                        697.0,
+                        1726.0
+                    ],
+                    [
+                        1522.0,
+                        1726.0
+                    ],
+                    [
+                        1522.0,
+                        1750.0
+                    ],
+                    [
+                        697.0,
+                        1750.0
+                    ]
+                ]
+            },
+            {
+                "text": " including travels, conferences and student events",
+                "confidence": 0.9670071601867676,
+                "text_region": [
+                    [
+                        724.0,
+                        1755.0
+                    ],
+                    [
+                        1217.0,
+                        1755.0
+                    ],
+                    [
+                        1217.0,
+                        1779.0
+                    ],
+                    [
+                        724.0,
+                        1779.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.9259440898895264
+    },
+    {
+        "type": "list",
+        "bbox": [
+            694,
+            1462,
+            1522,
+            1580
+        ],
+        "res": [
+            {
+                "text": ". Kotlin mobile application development in partnership with the French army to.",
+                "confidence": 0.9670159220695496,
+                "text_region": [
+                    [
+                        695.0,
+                        1462.0
+                    ],
+                    [
+                        1527.0,
+                        1462.0
+                    ],
+                    [
+                        1527.0,
+                        1494.0
+                    ],
+                    [
+                        695.0,
+                        1494.0
+                    ]
+                ]
+            },
+            {
+                "text": "control drones and define, generate and send autonomous flying missions",
+                "confidence": 0.9931226968765259,
+                "text_region": [
+                    [
+                        727.0,
+                        1497.0
+                    ],
+                    [
+                        1460.0,
+                        1497.0
+                    ],
+                    [
+                        1460.0,
+                        1521.0
+                    ],
+                    [
+                        727.0,
+                        1521.0
+                    ]
+                ]
+            },
+            {
+                "text": ".Video feedback processing trough Al : skeletonization, objects detection",
+                "confidence": 0.9981216192245483,
+                "text_region": [
+                    [
+                        699.0,
+                        1526.0
+                    ],
+                    [
+                        1441.0,
+                        1526.0
+                    ],
+                    [
+                        1441.0,
+                        1550.0
+                    ],
+                    [
+                        699.0,
+                        1550.0
+                    ]
+                ]
+            },
+            {
+                "text": ".Drone flocking algorithm development",
+                "confidence": 0.9881022572517395,
+                "text_region": [
+                    [
+                        697.0,
+                        1555.0
+                    ],
+                    [
+                        1108.0,
+                        1555.0
+                    ],
+                    [
+                        1108.0,
+                        1580.0
+                    ],
+                    [
+                        697.0,
+                        1580.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.9145002961158752
+    },
+    {
+        "type": "list",
+        "bbox": [
+            697,
+            2078,
+            1523,
+            2137
+        ],
+        "res": [
+            {
+                "text": ": In charge of communication in the organisation of two events: skiing trip for 110",
+                "confidence": 0.9806565642356873,
+                "text_region": [
+                    [
+                        699.0,
+                        2082.0
+                    ],
+                    [
+                        1524.0,
+                        2082.0
+                    ],
+                    [
+                        1524.0,
+                        2106.0
+                    ],
+                    [
+                        699.0,
+                        2106.0
+                    ]
+                ]
+            },
+            {
+                "text": "persons and TED talks (conferences) open to the public for a week-end",
+                "confidence": 0.9994531273841858,
+                "text_region": [
+                    [
+                        727.0,
+                        2111.0
+                    ],
+                    [
+                        1428.0,
+                        2111.0
+                    ],
+                    [
+                        1428.0,
+                        2135.0
+                    ],
+                    [
+                        727.0,
+                        2135.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.911841869354248
+    },
+    {
+        "type": "list",
+        "bbox": [
+            693,
+            1083,
+            1507,
+            1171
+        ],
+        "res": [
+            {
+                "text": ". a two-year undergraduate program prior to the highly selective entrance",
+                "confidence": 0.9785262942314148,
+                "text_region": [
+                    [
+                        702.0,
+                        1087.0
+                    ],
+                    [
+                        1438.0,
+                        1087.0
+                    ],
+                    [
+                        1438.0,
+                        1112.0
+                    ],
+                    [
+                        702.0,
+                        1112.0
+                    ]
+                ]
+            },
+            {
+                "text": "examination to prestigious French engineering schools (Advanced and Applied",
+                "confidence": 0.9957038164138794,
+                "text_region": [
+                    [
+                        729.0,
+                        1116.0
+                    ],
+                    [
+                        1505.0,
+                        1116.0
+                    ],
+                    [
+                        1505.0,
+                        1141.0
+                    ],
+                    [
+                        729.0,
+                        1141.0
+                    ]
+                ]
+            },
+            {
+                "text": "Maths and Physics)..",
+                "confidence": 0.9814478158950806,
+                "text_region": [
+                    [
+                        727.0,
+                        1146.0
+                    ],
+                    [
+                        931.0,
+                        1146.0
+                    ],
+                    [
+                        931.0,
+                        1170.0
+                    ],
+                    [
+                        727.0,
+                        1170.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.911223292350769
+    },
+    {
+        "type": "list",
+        "bbox": [
+            694,
+            1858,
+            1525,
+            1960
+        ],
+        "res": [
+            {
+                "text": " Michelin - 5 weeks - Clermont-Ferrand, France",
+                "confidence": 0.9919182062149048,
+                "text_region": [
+                    [
+                        687.0,
+                        1857.0
+                    ],
+                    [
+                        1256.0,
+                        1857.0
+                    ],
+                    [
+                        1256.0,
+                        1889.0
+                    ],
+                    [
+                        687.0,
+                        1889.0
+                    ]
+                ]
+            },
+            {
+                "text": "2022",
+                "confidence": 0.9998348951339722,
+                "text_region": [
+                    [
+                        1468.0,
+                        1852.0
+                    ],
+                    [
+                        1528.0,
+                        1858.0
+                    ],
+                    [
+                        1525.0,
+                        1887.0
+                    ],
+                    [
+                        1464.0,
+                        1881.0
+                    ]
+                ]
+            },
+            {
+                "text": ". Discovering the industrial world. shift work in a sorting workshop in a plant of",
+                "confidence": 0.9907538294792175,
+                "text_region": [
+                    [
+                        699.0,
+                        1904.0
+                    ],
+                    [
+                        1527.0,
+                        1904.0
+                    ],
+                    [
+                        1527.0,
+                        1928.0
+                    ],
+                    [
+                        699.0,
+                        1928.0
+                    ]
+                ]
+            },
+            {
+                "text": "700 workers",
+                "confidence": 0.9643933773040771,
+                "text_region": [
+                    [
+                        727.0,
+                        1933.0
+                    ],
+                    [
+                        857.0,
+                        1933.0
+                    ],
+                    [
+                        857.0,
+                        1960.0
+                    ],
+                    [
+                        727.0,
+                        1960.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8920418620109558
+    },
+    {
+        "type": "list",
+        "bbox": [
+            352,
+            199,
+            1302,
+            333
+        ],
+        "res": [
+            {
+                "text": "FINAL YEAR ENGINEERING INTERNSHIP",
+                "confidence": 0.991064727306366,
+                "text_region": [
+                    [
+                        416.0,
+                        205.0
+                    ],
+                    [
+                        1231.0,
+                        205.0
+                    ],
+                    [
+                        1231.0,
+                        236.0
+                    ],
+                    [
+                        416.0,
+                        236.0
+                    ]
+                ]
+            },
+            {
+                "text": "ARTIFICIAL INTELLIGENCE",
+                "confidence": 0.9909877181053162,
+                "text_region": [
+                    [
+                        549.0,
+                        251.0
+                    ],
+                    [
+                        1098.0,
+                        251.0
+                    ],
+                    [
+                        1098.0,
+                        283.0
+                    ],
+                    [
+                        549.0,
+                        283.0
+                    ]
+                ]
+            },
+            {
+                "text": "6 MONTH STARTING FEBRUARY-MARCH 2024",
+                "confidence": 0.97281414270401,
+                "text_region": [
+                    [
+                        360.0,
+                        297.0
+                    ],
+                    [
+                        1288.0,
+                        297.0
+                    ],
+                    [
+                        1288.0,
+                        329.0
+                    ],
+                    [
+                        360.0,
+                        329.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7617765665054321
+    },
+    {
+        "type": "list",
+        "bbox": [
+            147,
+            1618,
+            587,
+            1803
+        ],
+        "res": [
+            {
+                "text": "Music : Guitar for 10 ans, Piano, Bass",
+                "confidence": 0.9867019653320312,
+                "text_region": [
+                    [
+                        155.0,
+                        1628.0
+                    ],
+                    [
+                        579.0,
+                        1628.0
+                    ],
+                    [
+                        579.0,
+                        1653.0
+                    ],
+                    [
+                        155.0,
+                        1653.0
+                    ]
+                ]
+            },
+            {
+                "text": " guitar, music composition",
+                "confidence": 0.9969189763069153,
+                "text_region": [
+                    [
+                        172.0,
+                        1655.0
+                    ],
+                    [
+                        441.0,
+                        1655.0
+                    ],
+                    [
+                        441.0,
+                        1687.0
+                    ],
+                    [
+                        172.0,
+                        1687.0
+                    ]
+                ]
+            },
+            {
+                "text": "Graphic arts : Design of the 2022",
+                "confidence": 0.9922967553138733,
+                "text_region": [
+                    [
+                        153.0,
+                        1687.0
+                    ],
+                    [
+                        579.0,
+                        1687.0
+                    ],
+                    [
+                        579.0,
+                        1711.0
+                    ],
+                    [
+                        153.0,
+                        1711.0
+                    ]
+                ]
+            },
+            {
+                "text": " TEDxMinesNancy event poster, drawing",
+                "confidence": 0.9882634878158569,
+                "text_region": [
+                    [
+                        173.0,
+                        1711.0
+                    ],
+                    [
+                        572.0,
+                        1716.0
+                    ],
+                    [
+                        571.0,
+                        1748.0
+                    ],
+                    [
+                        172.0,
+                        1743.0
+                    ]
+                ]
+            },
+            {
+                "text": ". running & Trail : winner of the Raid",
+                "confidence": 0.9631683826446533,
+                "text_region": [
+                    [
+                        150.0,
+                        1748.0
+                    ],
+                    [
+                        579.0,
+                        1748.0
+                    ],
+                    [
+                        579.0,
+                        1772.0
+                    ],
+                    [
+                        150.0,
+                        1772.0
+                    ]
+                ]
+            },
+            {
+                "text": "Mines Nancy 2023 race",
+                "confidence": 0.9997744560241699,
+                "text_region": [
+                    [
+                        175.0,
+                        1777.0
+                    ],
+                    [
+                        411.0,
+                        1777.0
+                    ],
+                    [
+                        411.0,
+                        1801.0
+                    ],
+                    [
+                        175.0,
+                        1801.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6845582127571106
+    },
+    {
+        "type": "list",
+        "bbox": [
+            149,
+            1988,
+            581,
+            2163
+        ],
+        "res": [
+            {
+                "text": ". Baccalaureat",
+                "confidence": 0.9693893194198608,
+                "text_region": [
+                    [
+                        145.0,
+                        1991.0
+                    ],
+                    [
+                        315.0,
+                        1991.0
+                    ],
+                    [
+                        315.0,
+                        2018.0
+                    ],
+                    [
+                        145.0,
+                        2018.0
+                    ]
+                ]
+            },
+            {
+                "text": "(French",
+                "confidence": 0.9988402724266052,
+                "text_region": [
+                    [
+                        345.0,
+                        1991.0
+                    ],
+                    [
+                        436.0,
+                        1991.0
+                    ],
+                    [
+                        436.0,
+                        2018.0
+                    ],
+                    [
+                        345.0,
+                        2018.0
+                    ]
+                ]
+            },
+            {
+                "text": "highschool",
+                "confidence": 0.9996639490127563,
+                "text_region": [
+                    [
+                        463.0,
+                        1991.0
+                    ],
+                    [
+                        581.0,
+                        1991.0
+                    ],
+                    [
+                        581.0,
+                        2018.0
+                    ],
+                    [
+                        463.0,
+                        2018.0
+                    ]
+                ]
+            },
+            {
+                "text": " leaving diploma) with Distinctions",
+                "confidence": 0.965406596660614,
+                "text_region": [
+                    [
+                        170.0,
+                        2016.0
+                    ],
+                    [
+                        515.0,
+                        2021.0
+                    ],
+                    [
+                        514.0,
+                        2053.0
+                    ],
+                    [
+                        170.0,
+                        2047.0
+                    ]
+                ]
+            },
+            {
+                "text": ":English : 8/9 IELTS in 2022",
+                "confidence": 0.955518364906311,
+                "text_region": [
+                    [
+                        148.0,
+                        2052.0
+                    ],
+                    [
+                        446.0,
+                        2052.0
+                    ],
+                    [
+                        446.0,
+                        2077.0
+                    ],
+                    [
+                        148.0,
+                        2077.0
+                    ]
+                ]
+            },
+            {
+                "text": ":Japanese : JLPT N5 in 2023",
+                "confidence": 0.9870184659957886,
+                "text_region": [
+                    [
+                        148.0,
+                        2082.0
+                    ],
+                    [
+                        456.0,
+                        2082.0
+                    ],
+                    [
+                        456.0,
+                        2106.0
+                    ],
+                    [
+                        148.0,
+                        2106.0
+                    ]
+                ]
+            },
+            {
+                "text": ". Project management Mooc",
+                "confidence": 0.9559304714202881,
+                "text_region": [
+                    [
+                        150.0,
+                        2111.0
+                    ],
+                    [
+                        456.0,
+                        2111.0
+                    ],
+                    [
+                        456.0,
+                        2135.0
+                    ],
+                    [
+                        150.0,
+                        2135.0
+                    ]
+                ]
+            },
+            {
+                "text": ".Driver's Licence",
+                "confidence": 0.9778423309326172,
+                "text_region": [
+                    [
+                        148.0,
+                        2140.0
+                    ],
+                    [
+                        332.0,
+                        2140.0
+                    ],
+                    [
+                        332.0,
+                        2167.0
+                    ],
+                    [
+                        148.0,
+                        2167.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6041930317878723
+    },
+    {
+        "type": "list",
+        "bbox": [
+            149,
+            1366,
+            584,
+            1553
+        ],
+        "res": [
+            {
+                "text": ". Python (Sklearn, tensorflow, pytorch), R,",
+                "confidence": 0.971159040927887,
+                "text_region": [
+                    [
+                        143.0,
+                        1363.0
+                    ],
+                    [
+                        581.0,
+                        1363.0
+                    ],
+                    [
+                        581.0,
+                        1394.0
+                    ],
+                    [
+                        143.0,
+                        1394.0
+                    ]
+                ]
+            },
+            {
+                "text": "matlab, SQL & NoSQL, javascript, React",
+                "confidence": 0.9963298439979553,
+                "text_region": [
+                    [
+                        175.0,
+                        1397.0
+                    ],
+                    [
+                        579.0,
+                        1397.0
+                    ],
+                    [
+                        579.0,
+                        1421.0
+                    ],
+                    [
+                        175.0,
+                        1421.0
+                    ]
+                ]
+            },
+            {
+                "text": "& React Native",
+                "confidence": 0.9575363397598267,
+                "text_region": [
+                    [
+                        175.0,
+                        1426.0
+                    ],
+                    [
+                        328.0,
+                        1426.0
+                    ],
+                    [
+                        328.0,
+                        1450.0
+                    ],
+                    [
+                        175.0,
+                        1450.0
+                    ]
+                ]
+            },
+            {
+                "text": ". Team work, organization",
+                "confidence": 0.9776278138160706,
+                "text_region": [
+                    [
+                        148.0,
+                        1455.0
+                    ],
+                    [
+                        426.0,
+                        1455.0
+                    ],
+                    [
+                        426.0,
+                        1480.0
+                    ],
+                    [
+                        148.0,
+                        1480.0
+                    ]
+                ]
+            },
+            {
+                "text": ".French (Native), English (Fluent),",
+                "confidence": 0.971758246421814,
+                "text_region": [
+                    [
+                        148.0,
+                        1482.0
+                    ],
+                    [
+                        579.0,
+                        1482.0
+                    ],
+                    [
+                        579.0,
+                        1514.0
+                    ],
+                    [
+                        148.0,
+                        1514.0
+                    ]
+                ]
+            },
+            {
+                "text": "Japonais (A1-A2), notions of german",
+                "confidence": 0.9681551456451416,
+                "text_region": [
+                    [
+                        175.0,
+                        1516.0
+                    ],
+                    [
+                        581.0,
+                        1516.0
+                    ],
+                    [
+                        581.0,
+                        1540.0
+                    ],
+                    [
+                        175.0,
+                        1540.0
+                    ]
+                ]
+            },
+            {
+                "text": "and korean",
+                "confidence": 0.9997809529304504,
+                "text_region": [
+                    [
+                        175.0,
+                        1543.0
+                    ],
+                    [
+                        291.0,
+                        1543.0
+                    ],
+                    [
+                        291.0,
+                        1570.0
+                    ],
+                    [
+                        175.0,
+                        1570.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5806357860565186
+    },
+    {
+        "type": "list",
+        "bbox": [
+            142,
+            488,
+            555,
+            709
+        ],
+        "res": [
+            {
+                "text": "+33 6 95 04 93 31",
+                "confidence": 0.9989363551139832,
+                "text_region": [
+                    [
+                        199.0,
+                        488.0
+                    ],
+                    [
+                        377.0,
+                        488.0
+                    ],
+                    [
+                        377.0,
+                        514.0
+                    ],
+                    [
+                        199.0,
+                        514.0
+                    ]
+                ]
+            },
+            {
+                "text": "pierreantoinelequeu@gmail.com",
+                "confidence": 0.9998706579208374,
+                "text_region": [
+                    [
+                        187.0,
+                        551.0
+                    ],
+                    [
+                        520.0,
+                        551.0
+                    ],
+                    [
+                        520.0,
+                        575.0
+                    ],
+                    [
+                        187.0,
+                        575.0
+                    ]
+                ]
+            },
+            {
+                "text": "28 rue Hippolyte Mallet.",
+                "confidence": 0.9691014289855957,
+                "text_region": [
+                    [
+                        199.0,
+                        597.0
+                    ],
+                    [
+                        431.0,
+                        597.0
+                    ],
+                    [
+                        431.0,
+                        622.0
+                    ],
+                    [
+                        199.0,
+                        622.0
+                    ]
+                ]
+            },
+            {
+                "text": "0",
+                "confidence": 0.5833158493041992,
+                "text_region": [
+                    [
+                        143.0,
+                        607.0
+                    ],
+                    [
+                        172.0,
+                        607.0
+                    ],
+                    [
+                        172.0,
+                        641.0
+                    ],
+                    [
+                        143.0,
+                        641.0
+                    ]
+                ]
+            },
+            {
+                "text": "63130 Royat, France",
+                "confidence": 0.9998265504837036,
+                "text_region": [
+                    [
+                        197.0,
+                        621.0
+                    ],
+                    [
+                        407.0,
+                        624.0
+                    ],
+                    [
+                        406.0,
+                        651.0
+                    ],
+                    [
+                        197.0,
+                        648.0
+                    ]
+                ]
+            },
+            {
+                "text": " linkedin.com/in/pierreantoinelequeu/",
+                "confidence": 0.9844728708267212,
+                "text_region": [
+                    [
+                        185.0,
+                        670.0
+                    ],
+                    [
+                        572.0,
+                        675.0
+                    ],
+                    [
+                        571.0,
+                        709.0
+                    ],
+                    [
+                        185.0,
+                        704.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5549104809761047
+    },
+    {
+        "type": "list",
+        "bbox": [
+            143,
+            1085,
+            588,
+            1175
+        ],
+        "res": [
+            {
+                "text": "world.",
+                "confidence": 0.9993908405303955,
+                "text_region": [
+                    [
+                        140.0,
+                        1065.0
+                    ],
+                    [
+                        202.0,
+                        1065.0
+                    ],
+                    [
+                        202.0,
+                        1087.0
+                    ],
+                    [
+                        140.0,
+                        1087.0
+                    ]
+                ]
+            },
+            {
+                "text": "During this period, I hope to enhance my",
+                "confidence": 0.9865574836730957,
+                "text_region": [
+                    [
+                        138.0,
+                        1094.0
+                    ],
+                    [
+                        579.0,
+                        1094.0
+                    ],
+                    [
+                        579.0,
+                        1119.0
+                    ],
+                    [
+                        138.0,
+                        1119.0
+                    ]
+                ]
+            },
+            {
+                "text": "technical",
+                "confidence": 0.9798323512077332,
+                "text_region": [
+                    [
+                        138.0,
+                        1124.0
+                    ],
+                    [
+                        249.0,
+                        1124.0
+                    ],
+                    [
+                        249.0,
+                        1148.0
+                    ],
+                    [
+                        138.0,
+                        1148.0
+                    ]
+                ]
+            },
+            {
+                "text": "skills,",
+                "confidence": 0.9843418002128601,
+                "text_region": [
+                    [
+                        239.0,
+                        1124.0
+                    ],
+                    [
+                        337.0,
+                        1124.0
+                    ],
+                    [
+                        337.0,
+                        1148.0
+                    ],
+                    [
+                        239.0,
+                        1148.0
+                    ]
+                ]
+            },
+            {
+                "text": "as",
+                "confidence": 0.976655900478363,
+                "text_region": [
+                    [
+                        345.0,
+                        1126.0
+                    ],
+                    [
+                        394.0,
+                        1126.0
+                    ],
+                    [
+                        394.0,
+                        1146.0
+                    ],
+                    [
+                        345.0,
+                        1146.0
+                    ]
+                ]
+            },
+            {
+                "text": "communication and team work skills",
+                "confidence": 0.9999261498451233,
+                "text_region": [
+                    [
+                        138.0,
+                        1153.0
+                    ],
+                    [
+                        507.0,
+                        1153.0
+                    ],
+                    [
+                        507.0,
+                        1177.0
+                    ],
+                    [
+                        138.0,
+                        1177.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5499074459075928
+    }
+]

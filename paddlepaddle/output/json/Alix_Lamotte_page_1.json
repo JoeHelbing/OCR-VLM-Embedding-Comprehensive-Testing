@@ -1,0 +1,1458 @@
+[
+    {
+        "type": "text",
+        "bbox": [
+            1303,
+            311,
+            1527,
+            337
+        ],
+        "res": [
+            {
+                "text": "Sep 2023 - May 2024",
+                "confidence": 0.9994754791259766,
+                "text_region": [
+                    [
+                        1298.0,
+                        305.0
+                    ],
+                    [
+                        1532.0,
+                        305.0
+                    ],
+                    [
+                        1532.0,
+                        336.0
+                    ],
+                    [
+                        1298.0,
+                        336.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6906372904777527
+    },
+    {
+        "type": "title",
+        "bbox": [
+            124,
+            2092,
+            499,
+            2121
+        ],
+        "res": [
+            {
+                "text": "SKILLS AND INTERESTS",
+                "confidence": 0.9995764493942261,
+                "text_region": [
+                    [
+                        121.0,
+                        2086.0
+                    ],
+                    [
+                        497.0,
+                        2086.0
+                    ],
+                    [
+                        497.0,
+                        2118.0
+                    ],
+                    [
+                        121.0,
+                        2118.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8632204532623291
+    },
+    {
+        "type": "title",
+        "bbox": [
+            123,
+            1764,
+            497,
+            1789
+        ],
+        "res": [
+            {
+                "text": "Venture Capital Analyst Certificate",
+                "confidence": 0.9999130368232727,
+                "text_region": [
+                    [
+                        116.0,
+                        1755.0
+                    ],
+                    [
+                        498.0,
+                        1757.0
+                    ],
+                    [
+                        497.0,
+                        1789.0
+                    ],
+                    [
+                        116.0,
+                        1787.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8532533049583435
+    },
+    {
+        "type": "title",
+        "bbox": [
+            123,
+            1678,
+            630,
+            1711
+        ],
+        "res": [
+            {
+                "text": "EXTRACURRICULAR ACTIVITIES",
+                "confidence": 0.9996151328086853,
+                "text_region": [
+                    [
+                        123.0,
+                        1672.0
+                    ],
+                    [
+                        628.0,
+                        1672.0
+                    ],
+                    [
+                        628.0,
+                        1704.0
+                    ],
+                    [
+                        123.0,
+                        1704.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8285204768180847
+    },
+    {
+        "type": "title",
+        "bbox": [
+            124,
+            704,
+            345,
+            730
+        ],
+        "res": [
+            {
+                "text": "HEC Business Game",
+                "confidence": 0.9981871247291565,
+                "text_region": [
+                    [
+                        118.0,
+                        697.0
+                    ],
+                    [
+                        345.0,
+                        697.0
+                    ],
+                    [
+                        345.0,
+                        729.0
+                    ],
+                    [
+                        118.0,
+                        729.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7815070152282715
+    },
+    {
+        "type": "title",
+        "bbox": [
+            125,
+            898,
+            205,
+            923
+        ],
+        "res": [
+            {
+                "text": "KPMG",
+                "confidence": 0.9993668794631958,
+                "text_region": [
+                    [
+                        121.0,
+                        892.0
+                    ],
+                    [
+                        204.0,
+                        892.0
+                    ],
+                    [
+                        204.0,
+                        919.0
+                    ],
+                    [
+                        121.0,
+                        919.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7773952484130859
+    },
+    {
+        "type": "title",
+        "bbox": [
+            153,
+            1930,
+            760,
+            1955
+        ],
+        "res": [
+            {
+                "text": "Junior Management Consultant | Inter-university competition",
+                "confidence": 0.9950310587882996,
+                "text_region": [
+                    [
+                        123.0,
+                        1928.0
+                    ],
+                    [
+                        761.0,
+                        1928.0
+                    ],
+                    [
+                        761.0,
+                        1952.0
+                    ],
+                    [
+                        123.0,
+                        1952.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7662968635559082
+    },
+    {
+        "type": "title",
+        "bbox": [
+            126,
+            625,
+            432,
+            654
+        ],
+        "res": [
+            {
+                "text": "WORK EXPERIENCE",
+                "confidence": 0.9987364411354065,
+                "text_region": [
+                    [
+                        121.0,
+                        619.0
+                    ],
+                    [
+                        436.0,
+                        619.0
+                    ],
+                    [
+                        436.0,
+                        651.0
+                    ],
+                    [
+                        121.0,
+                        651.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.755316972732544
+    },
+    {
+        "type": "title",
+        "bbox": [
+            125,
+            1094,
+            245,
+            1120
+        ],
+        "res": [
+            {
+                "text": "Air Liquide",
+                "confidence": 0.9968969225883484,
+                "text_region": [
+                    [
+                        123.0,
+                        1090.0
+                    ],
+                    [
+                        246.0,
+                        1090.0
+                    ],
+                    [
+                        246.0,
+                        1116.0
+                    ],
+                    [
+                        123.0,
+                        1116.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7216955423355103
+    },
+    {
+        "type": "title",
+        "bbox": [
+            1376,
+            274,
+            1526,
+            302
+        ],
+        "res": [
+            {
+                "text": "Paris, France",
+                "confidence": 0.9999157190322876,
+                "text_region": [
+                    [
+                        1377.0,
+                        273.0
+                    ],
+                    [
+                        1527.0,
+                        273.0
+                    ],
+                    [
+                        1527.0,
+                        300.0
+                    ],
+                    [
+                        1377.0,
+                        300.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7205253839492798
+    },
+    {
+        "type": "title",
+        "bbox": [
+            125,
+            192,
+            321,
+            222
+        ],
+        "res": [
+            {
+                "text": "EDUCATION",
+                "confidence": 0.9992657899856567,
+                "text_region": [
+                    [
+                        121.0,
+                        185.0
+                    ],
+                    [
+                        318.0,
+                        185.0
+                    ],
+                    [
+                        318.0,
+                        217.0
+                    ],
+                    [
+                        121.0,
+                        217.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7102040648460388
+    },
+    {
+        "type": "title",
+        "bbox": [
+            124,
+            274,
+            331,
+            300
+        ],
+        "res": [
+            {
+                "text": "HEC Paris, France",
+                "confidence": 0.9998199343681335,
+                "text_region": [
+                    [
+                        118.0,
+                        266.0
+                    ],
+                    [
+                        335.0,
+                        266.0
+                    ],
+                    [
+                        335.0,
+                        297.0
+                    ],
+                    [
+                        118.0,
+                        297.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7030500769615173
+    },
+    {
+        "type": "title",
+        "bbox": [
+            126,
+            470,
+            384,
+            496
+        ],
+        "res": [
+            {
+                "text": "HEC Montreal, Canada",
+                "confidence": 0.9980415105819702,
+                "text_region": [
+                    [
+                        119.0,
+                        461.0
+                    ],
+                    [
+                        382.0,
+                        466.0
+                    ],
+                    [
+                        381.0,
+                        497.0
+                    ],
+                    [
+                        118.0,
+                        492.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6942641735076904
+    },
+    {
+        "type": "title",
+        "bbox": [
+            125,
+            1131,
+            566,
+            1157
+        ],
+        "res": [
+            {
+                "text": "Digital and E-commerce Marketing Intern",
+                "confidence": 0.9976273775100708,
+                "text_region": [
+                    [
+                        118.0,
+                        1124.0
+                    ],
+                    [
+                        569.0,
+                        1126.0
+                    ],
+                    [
+                        569.0,
+                        1158.0
+                    ],
+                    [
+                        118.0,
+                        1155.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6085493564605713
+    },
+    {
+        "type": "title",
+        "bbox": [
+            123,
+            1480,
+            290,
+            1508
+        ],
+        "res": [
+            {
+                "text": "Les Bons Eleves",
+                "confidence": 0.9794847965240479,
+                "text_region": [
+                    [
+                        121.0,
+                        1480.0
+                    ],
+                    [
+                        293.0,
+                        1480.0
+                    ],
+                    [
+                        293.0,
+                        1506.0
+                    ],
+                    [
+                        121.0,
+                        1506.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5664290189743042
+    },
+    {
+        "type": "title",
+        "bbox": [
+            125,
+            309,
+            340,
+            336
+        ],
+        "res": [
+            {
+                "text": "Master in Marketing",
+                "confidence": 0.9999534487724304,
+                "text_region": [
+                    [
+                        123.0,
+                        307.0
+                    ],
+                    [
+                        342.0,
+                        307.0
+                    ],
+                    [
+                        342.0,
+                        332.0
+                    ],
+                    [
+                        123.0,
+                        332.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5046096444129944
+    },
+    {
+        "type": "list",
+        "bbox": [
+            128,
+            739,
+            1528,
+            860
+        ],
+        "res": [
+            {
+                "text": "President",
+                "confidence": 0.9999411106109619,
+                "text_region": [
+                    [
+                        121.0,
+                        736.0
+                    ],
+                    [
+                        224.0,
+                        736.0
+                    ],
+                    [
+                        224.0,
+                        763.0
+                    ],
+                    [
+                        121.0,
+                        763.0
+                    ]
+                ]
+            },
+            {
+                "text": "Sep 2023 - Apr 2024",
+                "confidence": 0.9995908141136169,
+                "text_region": [
+                    [
+                        1320.0,
+                        736.0
+                    ],
+                    [
+                        1534.0,
+                        736.0
+                    ],
+                    [
+                        1534.0,
+                        768.0
+                    ],
+                    [
+                        1320.0,
+                        768.0
+                    ]
+                ]
+            },
+            {
+                "text": " Managed a 50ke budget, leveraging new revenue streams and implementing growth strategies,to achieve a 10% revenue increase.",
+                "confidence": 0.9871171712875366,
+                "text_region": [
+                    [
+                        160.0,
+                        765.0
+                    ],
+                    [
+                        1527.0,
+                        765.0
+                    ],
+                    [
+                        1527.0,
+                        797.0
+                    ],
+                    [
+                        160.0,
+                        797.0
+                    ]
+                ]
+            },
+            {
+                "text": "Crafted innovative customer experience for more than 200 individuals, including 150 participants and 50 industry professionals",
+                "confidence": 0.9977515339851379,
+                "text_region": [
+                    [
+                        143.0,
+                        802.0
+                    ],
+                    [
+                        1517.0,
+                        802.0
+                    ],
+                    [
+                        1517.0,
+                        826.0
+                    ],
+                    [
+                        143.0,
+                        826.0
+                    ]
+                ]
+            },
+            {
+                "text": "Led an IT project for improved front-office operations, resulting in a [3-10j% yearly budget improvement.",
+                "confidence": 0.9945223927497864,
+                "text_region": [
+                    [
+                        145.0,
+                        831.0
+                    ],
+                    [
+                        1286.0,
+                        831.0
+                    ],
+                    [
+                        1286.0,
+                        856.0
+                    ],
+                    [
+                        145.0,
+                        856.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.9017536044120789
+    },
+    {
+        "type": "list",
+        "bbox": [
+            127,
+            937,
+            1526,
+            1055
+        ],
+        "res": [
+            {
+                "text": "Audit - Staff Accountant Intern",
+                "confidence": 0.9994321465492249,
+                "text_region": [
+                    [
+                        121.0,
+                        929.0
+                    ],
+                    [
+                        456.0,
+                        931.0
+                    ],
+                    [
+                        455.0,
+                        963.0
+                    ],
+                    [
+                        121.0,
+                        960.0
+                    ]
+                ]
+            },
+            {
+                "text": "May 2023 - Aug 2023",
+                "confidence": 0.9993324279785156,
+                "text_region": [
+                    [
+                        1295.0,
+                        934.0
+                    ],
+                    [
+                        1534.0,
+                        934.0
+                    ],
+                    [
+                        1534.0,
+                        965.0
+                    ],
+                    [
+                        1295.0,
+                        965.0
+                    ]
+                ]
+            },
+            {
+                "text": "Sourced startups to collaborate with Montreal's largest incubator, as an intrapreneur and secured a lead for Venture's team.",
+                "confidence": 0.9927538633346558,
+                "text_region": [
+                    [
+                        163.0,
+                        965.0
+                    ],
+                    [
+                        1480.0,
+                        965.0
+                    ],
+                    [
+                        1480.0,
+                        990.0
+                    ],
+                    [
+                        163.0,
+                        990.0
+                    ]
+                ]
+            },
+            {
+                "text": "Generated 500k+ views and 30+ leads for the HR team by maximizing lead generation and conversion strategies.",
+                "confidence": 0.998706579208374,
+                "text_region": [
+                    [
+                        160.0,
+                        992.0
+                    ],
+                    [
+                        1369.0,
+                        992.0
+                    ],
+                    [
+                        1369.0,
+                        1024.0
+                    ],
+                    [
+                        160.0,
+                        1024.0
+                    ]
+                ]
+            },
+            {
+                "text": ": Mastered 3 accounting tools to support auditing teams on current projects and methodically audit financial procedures.",
+                "confidence": 0.9841095209121704,
+                "text_region": [
+                    [
+                        131.0,
+                        1021.0
+                    ],
+                    [
+                        1433.0,
+                        1024.0
+                    ],
+                    [
+                        1433.0,
+                        1058.0
+                    ],
+                    [
+                        131.0,
+                        1055.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.86676025390625
+    },
+    {
+        "type": "list",
+        "bbox": [
+            126,
+            1325,
+            1514,
+            1446
+        ],
+        "res": [
+            {
+                "text": "IT Risk and Cybersecurity Communication Intern",
+                "confidence": 0.9784982204437256,
+                "text_region": [
+                    [
+                        118.0,
+                        1321.0
+                    ],
+                    [
+                        653.0,
+                        1321.0
+                    ],
+                    [
+                        653.0,
+                        1353.0
+                    ],
+                    [
+                        118.0,
+                        1353.0
+                    ]
+                ]
+            },
+            {
+                "text": "Sept 2021 - Nov 2021",
+                "confidence": 0.9833539724349976,
+                "text_region": [
+                    [
+                        1300.0,
+                        1326.0
+                    ],
+                    [
+                        1524.0,
+                        1326.0
+                    ],
+                    [
+                        1524.0,
+                        1350.0
+                    ],
+                    [
+                        1300.0,
+                        1350.0
+                    ]
+                ]
+            },
+            {
+                "text": ". Played a pivotal role in the organization by designing a newsletter distributed to over 10,o00 top managers and executives.",
+                "confidence": 0.990199089050293,
+                "text_region": [
+                    [
+                        140.0,
+                        1353.0
+                    ],
+                    [
+                        1463.0,
+                        1353.0
+                    ],
+                    [
+                        1463.0,
+                        1384.0
+                    ],
+                    [
+                        140.0,
+                        1384.0
+                    ]
+                ]
+            },
+            {
+                "text": "Implemented innovative ideas and set up online project meetings, accelerating the newsletter process by 20%.",
+                "confidence": 0.9944588541984558,
+                "text_region": [
+                    [
+                        150.0,
+                        1384.0
+                    ],
+                    [
+                        1323.0,
+                        1384.0
+                    ],
+                    [
+                        1323.0,
+                        1416.0
+                    ],
+                    [
+                        150.0,
+                        1416.0
+                    ]
+                ]
+            },
+            {
+                "text": "Enhanced my presentation and communication skills by collecting data from a highly diverse team: Tokyo, New York ...",
+                "confidence": 0.993373453617096,
+                "text_region": [
+                    [
+                        148.0,
+                        1419.0
+                    ],
+                    [
+                        1446.0,
+                        1419.0
+                    ],
+                    [
+                        1446.0,
+                        1443.0
+                    ],
+                    [
+                        148.0,
+                        1443.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8594794273376465
+    },
+    {
+        "type": "list",
+        "bbox": [
+            126,
+            1154,
+            1518,
+            1250
+        ],
+        "res": [
+            {
+                "text": "Digital and E-commerce Marketing Intern",
+                "confidence": 0.9976273775100708,
+                "text_region": [
+                    [
+                        118.0,
+                        1124.0
+                    ],
+                    [
+                        569.0,
+                        1126.0
+                    ],
+                    [
+                        569.0,
+                        1158.0
+                    ],
+                    [
+                        118.0,
+                        1155.0
+                    ]
+                ]
+            },
+            {
+                "text": "May 2022 - Jan 2023",
+                "confidence": 0.9980330467224121,
+                "text_region": [
+                    [
+                        1303.0,
+                        1129.0
+                    ],
+                    [
+                        1534.0,
+                        1129.0
+                    ],
+                    [
+                        1534.0,
+                        1160.0
+                    ],
+                    [
+                        1303.0,
+                        1160.0
+                    ]
+                ]
+            },
+            {
+                "text": "Optimized online channels and increased the storefront (welding consumer goods) catalog by 25% using Oracle Cloud.",
+                "confidence": 0.9889085292816162,
+                "text_region": [
+                    [
+                        163.0,
+                        1160.0
+                    ],
+                    [
+                        1421.0,
+                        1160.0
+                    ],
+                    [
+                        1421.0,
+                        1185.0
+                    ],
+                    [
+                        163.0,
+                        1185.0
+                    ]
+                ]
+            },
+            {
+                "text": "Contributed to a E500k digital transformation initiative (P.1.M. implementation ), leading to a 5% annual sales increase.",
+                "confidence": 0.9808904528617859,
+                "text_region": [
+                    [
+                        145.0,
+                        1187.0
+                    ],
+                    [
+                        1438.0,
+                        1190.0
+                    ],
+                    [
+                        1438.0,
+                        1221.0
+                    ],
+                    [
+                        145.0,
+                        1219.0
+                    ]
+                ]
+            },
+            {
+                "text": ":Improved e-commerce product descriptions by 30%, by analyzing data to enhance customer experience and satisfaction.",
+                "confidence": 0.9875895977020264,
+                "text_region": [
+                    [
+                        138.0,
+                        1224.0
+                    ],
+                    [
+                        1438.0,
+                        1224.0
+                    ],
+                    [
+                        1438.0,
+                        1248.0
+                    ],
+                    [
+                        138.0,
+                        1248.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7711343765258789
+    },
+    {
+        "type": "list",
+        "bbox": [
+            128,
+            1544,
+            1520,
+            1642
+        ],
+        "res": [
+            {
+                "text": "Startup Founder |6 months Incubator Program at \"La Base\" HEC Montreal",
+                "confidence": 0.9747940301895142,
+                "text_region": [
+                    [
+                        121.0,
+                        1516.0
+                    ],
+                    [
+                        926.0,
+                        1516.0
+                    ],
+                    [
+                        926.0,
+                        1548.0
+                    ],
+                    [
+                        121.0,
+                        1548.0
+                    ]
+                ]
+            },
+            {
+                "text": "Jan 2020 - Jul 2021",
+                "confidence": 0.9853113889694214,
+                "text_region": [
+                    [
+                        1323.0,
+                        1523.0
+                    ],
+                    [
+                        1527.0,
+                        1523.0
+                    ],
+                    [
+                        1527.0,
+                        1548.0
+                    ],
+                    [
+                        1323.0,
+                        1548.0
+                    ]
+                ]
+            },
+            {
+                "text": " Developed a digital prototype in 5 weeks then launched a test that generated 27 sales within 4 weeks, using lean methodology.",
+                "confidence": 0.9881914854049683,
+                "text_region": [
+                    [
+                        158.0,
+                        1545.0
+                    ],
+                    [
+                        1495.0,
+                        1550.0
+                    ],
+                    [
+                        1495.0,
+                        1582.0
+                    ],
+                    [
+                        158.0,
+                        1577.0
+                    ]
+                ]
+            },
+            {
+                "text": "Dove into self-learning web development, hosting, and basic automation processes using no-code tools, driven by curiosity.",
+                "confidence": 0.9856951832771301,
+                "text_region": [
+                    [
+                        145.0,
+                        1575.0
+                    ],
+                    [
+                        1470.0,
+                        1580.0
+                    ],
+                    [
+                        1470.0,
+                        1611.0
+                    ],
+                    [
+                        145.0,
+                        1606.0
+                    ]
+                ]
+            },
+            {
+                "text": ". Developed a forward-thinking business model, turned disruption into opportunity, and drove growth in dynamic markets.",
+                "confidence": 0.9889167547225952,
+                "text_region": [
+                    [
+                        133.0,
+                        1609.0
+                    ],
+                    [
+                        1460.0,
+                        1609.0
+                    ],
+                    [
+                        1460.0,
+                        1640.0
+                    ],
+                    [
+                        133.0,
+                        1640.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7614449858665466
+    },
+    {
+        "type": "list",
+        "bbox": [
+            133,
+            1800,
+            1346,
+            1892
+        ],
+        "res": [
+            {
+                "text": "EntryLevel.net",
+                "confidence": 0.9775751829147339,
+                "text_region": [
+                    [
+                        123.0,
+                        1801.0
+                    ],
+                    [
+                        281.0,
+                        1801.0
+                    ],
+                    [
+                        281.0,
+                        1826.0
+                    ],
+                    [
+                        123.0,
+                        1826.0
+                    ]
+                ]
+            },
+            {
+                "text": "Aug 2023 - Sept 2023",
+                "confidence": 0.9943296313285828,
+                "text_region": [
+                    [
+                        1300.0,
+                        1801.0
+                    ],
+                    [
+                        1532.0,
+                        1799.0
+                    ],
+                    [
+                        1532.0,
+                        1830.0
+                    ],
+                    [
+                        1301.0,
+                        1833.0
+                    ]
+                ]
+            },
+            {
+                "text": " Completed a 6-week certification (50-60) hours, to enhance startup funding knowledge and business modeling best practices.",
+                "confidence": 0.9971754550933838,
+                "text_region": [
+                    [
+                        150.0,
+                        1828.0
+                    ],
+                    [
+                        1485.0,
+                        1828.0
+                    ],
+                    [
+                        1485.0,
+                        1860.0
+                    ],
+                    [
+                        150.0,
+                        1860.0
+                    ]
+                ]
+            },
+            {
+                "text": ".Curriculum: Stakeholders, Deal Flow, Term Sheets, the Deal Process, and Analysis of Investment Opportunities.",
+                "confidence": 0.9822376370429993,
+                "text_region": [
+                    [
+                        133.0,
+                        1862.0
+                    ],
+                    [
+                        1362.0,
+                        1862.0
+                    ],
+                    [
+                        1362.0,
+                        1894.0
+                    ],
+                    [
+                        133.0,
+                        1894.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7264251708984375
+    },
+    {
+        "type": "list",
+        "bbox": [
+            134,
+            1986,
+            1342,
+            2055
+        ],
+        "res": [
+            {
+                "text": "Bombardier Aviation.",
+                "confidence": 0.9733269810676575,
+                "text_region": [
+                    [
+                        123.0,
+                        1965.0
+                    ],
+                    [
+                        350.0,
+                        1965.0
+                    ],
+                    [
+                        350.0,
+                        1989.0
+                    ],
+                    [
+                        123.0,
+                        1989.0
+                    ]
+                ]
+            },
+            {
+                "text": " Jan 2022 - Apr 2022",
+                "confidence": 0.9756412506103516,
+                "text_region": [
+                    [
+                        1313.0,
+                        1962.0
+                    ],
+                    [
+                        1532.0,
+                        1962.0
+                    ],
+                    [
+                        1532.0,
+                        1994.0
+                    ],
+                    [
+                        1313.0,
+                        1994.0
+                    ]
+                ]
+            },
+            {
+                "text": " Delivered a 40mins presentation to executive teams, offering strategic recommendations in a client-facing role",
+                "confidence": 0.9936161637306213,
+                "text_region": [
+                    [
+                        150.0,
+                        1994.0
+                    ],
+                    [
+                        1325.0,
+                        1994.0
+                    ],
+                    [
+                        1325.0,
+                        2018.0
+                    ],
+                    [
+                        150.0,
+                        2018.0
+                    ]
+                ]
+            },
+            {
+                "text": ": Delivered a 25-page report encompassing in-depth analysis, viable solutions, and actionable recommendations",
+                "confidence": 0.9846150279045105,
+                "text_region": [
+                    [
+                        131.0,
+                        2021.0
+                    ],
+                    [
+                        1340.0,
+                        2023.0
+                    ],
+                    [
+                        1340.0,
+                        2055.0
+                    ],
+                    [
+                        131.0,
+                        2052.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6998630166053772
+    },
+    {
+        "type": "list",
+        "bbox": [
+            127,
+            339,
+            1171,
+            431
+        ],
+        "res": [
+            {
+                "text": "Master thesis: How has technology been used to gamify decision-making in financial digitalization?",
+                "confidence": 0.9980865120887756,
+                "text_region": [
+                    [
+                        163.0,
+                        341.0
+                    ],
+                    [
+                        1219.0,
+                        341.0
+                    ],
+                    [
+                        1219.0,
+                        366.0
+                    ],
+                    [
+                        163.0,
+                        366.0
+                    ]
+                ]
+            },
+            {
+                "text": "Certificate: Strategy for Impact by Mazars | Consulting, Business Transformation and Strategic Governance.",
+                "confidence": 0.9974488019943237,
+                "text_region": [
+                    [
+                        153.0,
+                        373.0
+                    ],
+                    [
+                        1320.0,
+                        373.0
+                    ],
+                    [
+                        1320.0,
+                        397.0
+                    ],
+                    [
+                        153.0,
+                        397.0
+                    ]
+                ]
+            },
+            {
+                "text": ". Reference: Upon Request",
+                "confidence": 0.9787691235542297,
+                "text_region": [
+                    [
+                        133.0,
+                        397.0
+                    ],
+                    [
+                        441.0,
+                        402.0
+                    ],
+                    [
+                        440.0,
+                        434.0
+                    ],
+                    [
+                        133.0,
+                        429.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6331996917724609
+    }
+]

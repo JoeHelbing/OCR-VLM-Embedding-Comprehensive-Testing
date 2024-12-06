@@ -1,0 +1,801 @@
+[
+    {
+        "type": "text",
+        "bbox": [
+            220,
+            573,
+            1433,
+            650
+        ],
+        "res": [
+            {
+                "text": "Skills developed: liaising closely with different internal departments, deadlines, dealing with important government",
+                "confidence": 0.9960960149765015,
+                "text_region": [
+                    [
+                        116.0,
+                        577.0
+                    ],
+                    [
+                        1541.0,
+                        580.0
+                    ],
+                    [
+                        1541.0,
+                        614.0
+                    ],
+                    [
+                        116.0,
+                        612.0
+                    ]
+                ]
+            },
+            {
+                "text": "personnel in a professional manner, analysing legal documents.",
+                "confidence": 0.9990979433059692,
+                "text_region": [
+                    [
+                        116.0,
+                        616.0
+                    ],
+                    [
+                        893.0,
+                        616.0
+                    ],
+                    [
+                        893.0,
+                        648.0
+                    ],
+                    [
+                        116.0,
+                        648.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7377001047134399
+    },
+    {
+        "type": "text",
+        "bbox": [
+            308,
+            1219,
+            1520,
+            1299
+        ],
+        "res": [
+            {
+                "text": "Skills developed: communication (multi-lingual), team-work, IT, problem solving, multi-tasking, quick and broad",
+                "confidence": 0.9950770735740662,
+                "text_region": [
+                    [
+                        116.0,
+                        1221.0
+                    ],
+                    [
+                        1538.0,
+                        1223.0
+                    ],
+                    [
+                        1538.0,
+                        1257.0
+                    ],
+                    [
+                        116.0,
+                        1255.0
+                    ]
+                ]
+            },
+            {
+                "text": "thinking, listening.",
+                "confidence": 0.998038649559021,
+                "text_region": [
+                    [
+                        114.0,
+                        1257.0
+                    ],
+                    [
+                        347.0,
+                        1262.0
+                    ],
+                    [
+                        347.0,
+                        1296.0
+                    ],
+                    [
+                        113.0,
+                        1291.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.650714099407196
+    },
+    {
+        "type": "text",
+        "bbox": [
+            118,
+            2100,
+            1222,
+            2143
+        ],
+        "res": [
+            {
+                "text": "Cultural interests: Reading (political history and general fiction), Music, Cinema, Drama.",
+                "confidence": 0.9948141574859619,
+                "text_region": [
+                    [
+                        116.0,
+                        2108.0
+                    ],
+                    [
+                        1209.0,
+                        2108.0
+                    ],
+                    [
+                        1209.0,
+                        2139.0
+                    ],
+                    [
+                        116.0,
+                        2139.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5131901502609253
+    },
+    {
+        "type": "title",
+        "bbox": [
+            118,
+            1709,
+            632,
+            1759
+        ],
+        "res": [
+            {
+                "text": "Interests, Club & Society Involvement",
+                "confidence": 0.999819278717041,
+                "text_region": [
+                    [
+                        113.0,
+                        1720.0
+                    ],
+                    [
+                        628.0,
+                        1720.0
+                    ],
+                    [
+                        628.0,
+                        1752.0
+                    ],
+                    [
+                        113.0,
+                        1752.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7766903638839722
+    },
+    {
+        "type": "title",
+        "bbox": [
+            117,
+            1373,
+            276,
+            1422
+        ],
+        "res": [
+            {
+                "text": "Languages",
+                "confidence": 0.9994467496871948,
+                "text_region": [
+                    [
+                        112.0,
+                        1378.0
+                    ],
+                    [
+                        269.0,
+                        1387.0
+                    ],
+                    [
+                        267.0,
+                        1423.0
+                    ],
+                    [
+                        110.0,
+                        1415.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5788476467132568
+    },
+    {
+        "type": "title",
+        "bbox": [
+            120,
+            763,
+            1183,
+            803
+        ],
+        "res": [
+            {
+                "text": "* Call handler each summer for the AA European Call Centre, ACTA, Lyon, France.",
+                "confidence": 0.9752689599990845,
+                "text_region": [
+                    [
+                        121.0,
+                        770.0
+                    ],
+                    [
+                        1174.0,
+                        770.0
+                    ],
+                    [
+                        1174.0,
+                        802.0
+                    ],
+                    [
+                        121.0,
+                        802.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5267695188522339
+    },
+    {
+        "type": "list",
+        "bbox": [
+            122,
+            1778,
+            1542,
+            2040
+        ],
+        "res": [
+            {
+                "text": "Formerly involved in the university Student Union, co-organiser of social events.",
+                "confidence": 0.98907470703125,
+                "text_region": [
+                    [
+                        113.0,
+                        1786.0
+                    ],
+                    [
+                        1110.0,
+                        1788.0
+                    ],
+                    [
+                        1110.0,
+                        1823.0
+                    ],
+                    [
+                        113.0,
+                        1820.0
+                    ]
+                ]
+            },
+            {
+                "text": " Responsible for the complete organisation of the 2019 University gala.",
+                "confidence": 0.990964412689209,
+                "text_region": [
+                    [
+                        204.0,
+                        1825.0
+                    ],
+                    [
+                        1081.0,
+                        1825.0
+                    ],
+                    [
+                        1081.0,
+                        1859.0
+                    ],
+                    [
+                        204.0,
+                        1859.0
+                    ]
+                ]
+            },
+            {
+                "text": "Manager of a 12-member student team, employment of 6 private companies for catering, security, light and sound,",
+                "confidence": 0.9933784604072571,
+                "text_region": [
+                    [
+                        116.0,
+                        1861.0
+                    ],
+                    [
+                        1519.0,
+                        1861.0
+                    ],
+                    [
+                        1519.0,
+                        1896.0
+                    ],
+                    [
+                        116.0,
+                        1896.0
+                    ]
+                ]
+            },
+            {
+                "text": "logistics, bar, emergency services.",
+                "confidence": 0.9997633695602417,
+                "text_region": [
+                    [
+                        116.0,
+                        1898.0
+                    ],
+                    [
+                        537.0,
+                        1898.0
+                    ],
+                    [
+                        537.0,
+                        1930.0
+                    ],
+                    [
+                        116.0,
+                        1930.0
+                    ]
+                ]
+            },
+            {
+                "text": " Member of team of 15 students organising the 2019 Cartel, a national, student, sports tournament involving",
+                "confidence": 0.9848047494888306,
+                "text_region": [
+                    [
+                        202.0,
+                        1930.0
+                    ],
+                    [
+                        1538.0,
+                        1932.0
+                    ],
+                    [
+                        1538.0,
+                        1966.0
+                    ],
+                    [
+                        202.0,
+                        1964.0
+                    ]
+                ]
+            },
+            {
+                "text": "nine universities (two thousand students) from all over France.",
+                "confidence": 0.9935961961746216,
+                "text_region": [
+                    [
+                        214.0,
+                        1969.0
+                    ],
+                    [
+                        987.0,
+                        1969.0
+                    ],
+                    [
+                        987.0,
+                        2000.0
+                    ],
+                    [
+                        214.0,
+                        2000.0
+                    ]
+                ]
+            },
+            {
+                "text": "In charge of hotel accommodation for 750 students.",
+                "confidence": 0.9924716949462891,
+                "text_region": [
+                    [
+                        116.0,
+                        2005.0
+                    ],
+                    [
+                        753.0,
+                        2005.0
+                    ],
+                    [
+                        753.0,
+                        2037.0
+                    ],
+                    [
+                        116.0,
+                        2037.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7693912982940674
+    },
+    {
+        "type": "list",
+        "bbox": [
+            150,
+            212,
+            1544,
+            557
+        ],
+        "res": [
+            {
+                "text": "J une -- September 2018",
+                "confidence": 0.95545494556427,
+                "text_region": [
+                    [
+                        222.0,
+                        207.0
+                    ],
+                    [
+                        534.0,
+                        207.0
+                    ],
+                    [
+                        534.0,
+                        239.0
+                    ],
+                    [
+                        222.0,
+                        239.0
+                    ]
+                ]
+            },
+            {
+                "text": "Part of Operations Section 1dealing with EU-funded projects in Good Governance and Democracy",
+                "confidence": 0.9983033537864685,
+                "text_region": [
+                    [
+                        219.0,
+                        258.0
+                    ],
+                    [
+                        1533.0,
+                        261.0
+                    ],
+                    [
+                        1533.0,
+                        295.0
+                    ],
+                    [
+                        219.0,
+                        292.0
+                    ]
+                ]
+            },
+            {
+                "text": "Building, working in the sphere of border management.",
+                "confidence": 0.9864290952682495,
+                "text_region": [
+                    [
+                        219.0,
+                        292.0
+                    ],
+                    [
+                        908.0,
+                        295.0
+                    ],
+                    [
+                        908.0,
+                        329.0
+                    ],
+                    [
+                        219.0,
+                        326.0
+                    ]
+                ]
+            },
+            {
+                "text": "Assisting in project management, tendering, implementation and evaluation phases, meeting and",
+                "confidence": 0.9969117641448975,
+                "text_region": [
+                    [
+                        222.0,
+                        348.0
+                    ],
+                    [
+                        1536.0,
+                        348.0
+                    ],
+                    [
+                        1536.0,
+                        380.0
+                    ],
+                    [
+                        222.0,
+                        380.0
+                    ]
+                ]
+            },
+            {
+                "text": "communicating with the appropriate Ukrainian authorities (fluent Russian was needed).",
+                "confidence": 0.9945576190948486,
+                "text_region": [
+                    [
+                        219.0,
+                        385.0
+                    ],
+                    [
+                        1297.0,
+                        382.0
+                    ],
+                    [
+                        1297.0,
+                        417.0
+                    ],
+                    [
+                        219.0,
+                        419.0
+                    ]
+                ]
+            },
+            {
+                "text": "Working alongside local staff and personnel from various EU Member States to assist the authorities of",
+                "confidence": 0.9915252923965454,
+                "text_region": [
+                    [
+                        219.0,
+                        439.0
+                    ],
+                    [
+                        1538.0,
+                        439.0
+                    ],
+                    [
+                        1538.0,
+                        470.0
+                    ],
+                    [
+                        219.0,
+                        470.0
+                    ]
+                ]
+            },
+            {
+                "text": "Ukraine in the improvement of its institutions.",
+                "confidence": 0.999219536781311,
+                "text_region": [
+                    [
+                        222.0,
+                        470.0
+                    ],
+                    [
+                        793.0,
+                        473.0
+                    ],
+                    [
+                        792.0,
+                        507.0
+                    ],
+                    [
+                        221.0,
+                        504.0
+                    ]
+                ]
+            },
+            {
+                "text": "W orking languages - Russian and English.",
+                "confidence": 0.9747121930122375,
+                "text_region": [
+                    [
+                        214.0,
+                        529.0
+                    ],
+                    [
+                        751.0,
+                        529.0
+                    ],
+                    [
+                        751.0,
+                        560.0
+                    ],
+                    [
+                        214.0,
+                        560.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7049562931060791
+    },
+    {
+        "type": "list",
+        "bbox": [
+            153,
+            864,
+            1544,
+            1209
+        ],
+        "res": [
+            {
+                "text": "Assisting customers experiencing trouble with their vehicle while travelling abroad by organising roadside",
+                "confidence": 0.9959092736244202,
+                "text_region": [
+                    [
+                        214.0,
+                        875.0
+                    ],
+                    [
+                        1533.0,
+                        875.0
+                    ],
+                    [
+                        1533.0,
+                        906.0
+                    ],
+                    [
+                        214.0,
+                        906.0
+                    ]
+                ]
+            },
+            {
+                "text": "assistance and making alternative travel arrangements and liaising with counterparts all across Europe and",
+                "confidence": 0.9950504899024963,
+                "text_region": [
+                    [
+                        212.0,
+                        911.0
+                    ],
+                    [
+                        1538.0,
+                        911.0
+                    ],
+                    [
+                        1538.0,
+                        943.0
+                    ],
+                    [
+                        212.0,
+                        943.0
+                    ]
+                ]
+            },
+            {
+                "text": "mechanics on behalf of customers.",
+                "confidence": 0.9958828091621399,
+                "text_region": [
+                    [
+                        214.0,
+                        945.0
+                    ],
+                    [
+                        645.0,
+                        945.0
+                    ],
+                    [
+                        645.0,
+                        977.0
+                    ],
+                    [
+                        214.0,
+                        977.0
+                    ]
+                ]
+            },
+            {
+                "text": "Combining multi-lingual communication and customer management skills, applying protocols and using",
+                "confidence": 0.9970440864562988,
+                "text_region": [
+                    [
+                        214.0,
+                        999.0
+                    ],
+                    [
+                        1536.0,
+                        999.0
+                    ],
+                    [
+                        1536.0,
+                        1033.0
+                    ],
+                    [
+                        214.0,
+                        1033.0
+                    ]
+                ]
+            },
+            {
+                "text": "modern communication technologies.",
+                "confidence": 0.9864765405654907,
+                "text_region": [
+                    [
+                        214.0,
+                        1035.0
+                    ],
+                    [
+                        682.0,
+                        1035.0
+                    ],
+                    [
+                        682.0,
+                        1067.0
+                    ],
+                    [
+                        214.0,
+                        1067.0
+                    ]
+                ]
+            },
+            {
+                "text": "Part of the \"Prestige Team' in 2017 for Aston Martin, Bentley and Jaguar assistance, dealing with its",
+                "confidence": 0.9860342144966125,
+                "text_region": [
+                    [
+                        214.0,
+                        1089.0
+                    ],
+                    [
+                        1536.0,
+                        1089.0
+                    ],
+                    [
+                        1536.0,
+                        1121.0
+                    ],
+                    [
+                        214.0,
+                        1121.0
+                    ]
+                ]
+            },
+            {
+                "text": "customers all over Europe.",
+                "confidence": 0.999455451965332,
+                "text_region": [
+                    [
+                        212.0,
+                        1121.0
+                    ],
+                    [
+                        547.0,
+                        1123.0
+                    ],
+                    [
+                        546.0,
+                        1157.0
+                    ],
+                    [
+                        212.0,
+                        1155.0
+                    ]
+                ]
+            },
+            {
+                "text": " Official office language - English",
+                "confidence": 0.9800354838371277,
+                "text_region": [
+                    [
+                        209.0,
+                        1177.0
+                    ],
+                    [
+                        633.0,
+                        1177.0
+                    ],
+                    [
+                        633.0,
+                        1211.0
+                    ],
+                    [
+                        209.0,
+                        1211.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6795210242271423
+    }
+]

@@ -1,0 +1,27 @@
+{ "Name": "Jeanne Dupont", 
+"Email": "jeanne.dupont@email.com" , 
+"Phone": "1234567890" ,
+"Education": ["Imperial College London, BSc (Hons) International Business Management 2012-2016"], 
+"Experience":
+  [
+    {
+      "Company Name": "AA European Call Centre", 
+      "Job Title": "Call Handler",
+      "Date Started": "Summer 2017", 
+      "Date Ended": "September 2018", 
+      "Responsibilities":
+        ["Assisted customers experiencing issues with their vehicles while traveling abroad by organizing roadside assistance and alternative travel arrangements." , 
+         "Combined multilingual communication skills, applying protocols and utilizing modern technology."]
+    }, 
+    {
+      "Company Name": "Prestige Team", 
+      "Job Title": "Call Handler",
+      "Date Started": "Summer 2016", 
+      "Date Ended": "September 2017", 
+      "Responsibilities":
+        ["Assisted customers experiencing issues with their vehicles while traveling abroad by organizing roadside assistance and alternative travel arrangements." , 
+         "Combined multilingual communication skills, applying protocols and utilizing modern technology."]
+    }
+  ],
+"Skills": ["Multilingual (English, French, Spanish)" , "Customer Service", "Communication"],
+"Certifications": [] }

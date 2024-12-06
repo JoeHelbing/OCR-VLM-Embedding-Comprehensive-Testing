@@ -1,0 +1,78 @@
+{
+    "Full Name": "Anis-Samy LAAMRI",
+    "Email": "a.laamri@outlook.fr",
+    "Phone": "+33 6 09 86 21 03",
+    "Education": [
+        {
+            "Institution": "Ecole des Mines de Nancy",
+            "Degree": "M.S in Applied Mathematics and Industrial Engineering",
+            "Graduation Date": "September 2025"
+        },
+        {
+            "Institution": "Université de Lorraine",
+            "Degree": "B.S in Mathematics",
+            "Graduation Date": "June 2021"
+        }
+    ],
+    "Work Experience": [
+        {
+            "Company Name": "Givenchy",
+            "Title": "Warehouse Engineer",
+            "Duration": "Sept. 2023 - Feb. 2024",
+            "Responsibilities": [
+                "Intern in charge of the outbound activity and environmental projects surrounding it.",
+                "Establishment of various KPIs built on PowerBI from warehouse data."
+            ]
+        },
+        {
+            "Company Name": "Louis Vuitton",
+            "Title": "Logistics Operator",
+            "Duration": "Jan. 2022 - Feb. 2022",
+            "Responsibilities": [
+                "Operator in charge of receiving new products at the central Louis Vuitton warehouse in France.",
+                "Handling and delivery of orders to stores.",
+                "Participation in outbound logistics."
+            ]
+        },
+        {
+            "Company Name": "Student-Scientist",
+            "Title": "Fondation Main à la Pâte Institution",
+            "Duration": "Sept. 2021 - June 2022",
+            "Responsibilities": [
+                "Intervention in elementary class within the 'Main à la Pâte' institution, founded by French Nobel Prize winner Georges Charpak.",
+                "Presentations and experiments for 4th-grade students at the end of the year."
+            ]
+        },
+        {
+            "Company Name": "Basketball Player",
+            "Title": "Player since 2006",
+            "Duration": "Since 2006",
+            "Responsibilities": [
+                "Playing regional scale for Tours Senior Team."
+            ]
+        }
+    ],
+    "Skills": [
+        {
+            "Language": "Python",
+            "Level": "C"
+        },
+        {
+            "Language": "C",
+            "Level": "R"
+        },
+        {
+            "Language": "VBA",
+            "Level": "CamL"
+        },
+        {
+            "Language": "SQL",
+            "Level": "Matlab"
+        },
+        {
+            "Language": "Latex",
+            "Level": "E"
+        }
+    ],
+    "Certifications": []
+}

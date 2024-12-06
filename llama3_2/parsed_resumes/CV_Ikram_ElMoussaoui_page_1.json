@@ -1,0 +1,51 @@
+{ "Full Name": "Ikram El Moussaoui", 
+  "Email": "ikram1999elmoussaoui@gmail.com", 
+  "Phone": "+33 6 83 93 78 50" , 
+  "Education": [
+    {
+      "Institution": "Bretagne Sud University - France", 
+      "Degree": "Master of Complex Systems Engineering", 
+      "Graduation Date": "Sept. 2021- June 2024"
+    }, 
+    {
+      "Institution": "Limoges University - France", 
+      "Degree": "Bachelor's Degree in Electronics/Optics Embedded Systems", 
+      "Graduation Date": "Sept. 2020- June 2021" 
+    }, 
+    {
+      "Institution": "Cadi Ayad University - Morocco", 
+      "Degree": "DEUG (Diplôme d'Etudes Universitaires Générales)", 
+      "Graduation Date": "September 2017-June 2020"
+    }
+  ], 
+  "Work Experience": [
+    {
+      "Company Name": "Continental Engineering Services - Toulouse, France", 
+      "Job Title": "Embedded Systems Developer", 
+      "Employment Dates": "Sept. 2023- Sept. 2024",
+      "Key Responsibilities":
+        "Integration, testing and development of drivers for ADAS cameras on Nvidia SoCs, debugging and Nvidia forums"
+    }, 
+    {
+      "Company Name": "SteadaCam - Lorient, France", 
+      "Job Title": "Implementation of a 3-axis gimbal stabilizer (Steadycam) using three servo motors utilizing the STM32 board",
+      "Employment Dates": "Nov. 2022- Dec. 2022"
+    }, 
+    {
+      "Company Name": "Bretagne Sud University - Lorient, France", 
+      "Job Title": "Development of a simple 16-bit microprocessor using the Basys3 board.",
+      "Employment Dates": "Sept. 2022- Oct. 2022"
+    }
+  ], 
+  "Skills": [
+    "C/C++",
+    "Python",
+    "VHDL",
+    "Matlab",
+    "Assembly",
+    "French: Fluent", 
+    "English: Fluent", 
+    "Arabic: Native Language"
+  ], 
+  "Certifications": []
+}

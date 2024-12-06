@@ -1,0 +1,164 @@
+[
+    {
+        "type": "title",
+        "bbox": [
+            555,
+            281,
+            1114,
+            319
+        ],
+        "res": [
+            {
+                "text": "Seeking for a PhD in Computer Vision",
+                "confidence": 0.9972456693649292,
+                "text_region": [
+                    [
+                        554.0,
+                        283.0
+                    ],
+                    [
+                        1115.0,
+                        285.0
+                    ],
+                    [
+                        1115.0,
+                        319.0
+                    ],
+                    [
+                        554.0,
+                        317.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8284428119659424
+    },
+    {
+        "type": "title",
+        "bbox": [
+            110,
+            1274,
+            299,
+            1309
+        ],
+        "res": [
+            {
+                "text": "EDUCATION",
+                "confidence": 0.9986298084259033,
+                "text_region": [
+                    [
+                        106.0,
+                        1269.0
+                    ],
+                    [
+                        306.0,
+                        1275.0
+                    ],
+                    [
+                        305.0,
+                        1309.0
+                    ],
+                    [
+                        106.0,
+                        1303.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.717707097530365
+    },
+    {
+        "type": "title",
+        "bbox": [
+            108,
+            1169,
+            1289,
+            1247
+        ],
+        "res": [
+            {
+                "text": ". Deep Learning Approaches for DMA of Viscoelastic Fiber Composites, ArXiV PrePrint",
+                "confidence": 0.9957292079925537,
+                "text_region": [
+                    [
+                        108.0,
+                        1174.0
+                    ],
+                    [
+                        1297.0,
+                        1174.0
+                    ],
+                    [
+                        1297.0,
+                        1206.0
+                    ],
+                    [
+                        108.0,
+                        1206.0
+                    ]
+                ]
+            },
+            {
+                "text": ". Machine Learning Techniques for Fragmentation Problems, HAL PrePrint (French)",
+                "confidence": 0.983271062374115,
+                "text_region": [
+                    [
+                        106.0,
+                        1213.0
+                    ],
+                    [
+                        1240.0,
+                        1213.0
+                    ],
+                    [
+                        1240.0,
+                        1247.0
+                    ],
+                    [
+                        106.0,
+                        1247.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5806132555007935
+    },
+    {
+        "type": "title",
+        "bbox": [
+            110,
+            338,
+            319,
+            372
+        ],
+        "res": [
+            {
+                "text": "EXPERIENCE",
+                "confidence": 0.9990279078483582,
+                "text_region": [
+                    [
+                        108.0,
+                        334.0
+                    ],
+                    [
+                        320.0,
+                        334.0
+                    ],
+                    [
+                        320.0,
+                        368.0
+                    ],
+                    [
+                        108.0,
+                        368.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5261844396591187
+    }
+]

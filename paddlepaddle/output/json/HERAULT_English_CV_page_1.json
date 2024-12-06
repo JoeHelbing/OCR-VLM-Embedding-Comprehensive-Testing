@@ -1,0 +1,1074 @@
+[
+    {
+        "type": "text",
+        "bbox": [
+            395,
+            1129,
+            1542,
+            1238
+        ],
+        "res": [
+            {
+                "text": "Lycee Georges Clemenceau, Nantes, (France)",
+                "confidence": 0.9980413317680359,
+                "text_region": [
+                    [
+                        362.0,
+                        1104.0
+                    ],
+                    [
+                        1051.0,
+                        1104.0
+                    ],
+                    [
+                        1051.0,
+                        1135.0
+                    ],
+                    [
+                        362.0,
+                        1135.0
+                    ]
+                ]
+            },
+            {
+                "text": "A 2-year undergraduate program for preparation to national competitive exams for admission to",
+                "confidence": 0.9997526407241821,
+                "text_region": [
+                    [
+                        357.0,
+                        1138.0
+                    ],
+                    [
+                        1526.0,
+                        1138.0
+                    ],
+                    [
+                        1526.0,
+                        1170.0
+                    ],
+                    [
+                        357.0,
+                        1170.0
+                    ]
+                ]
+            },
+            {
+                "text": "the most prestigious French graduate schools of engineering. Major in Advanced and Applied",
+                "confidence": 0.9951599836349487,
+                "text_region": [
+                    [
+                        359.0,
+                        1174.0
+                    ],
+                    [
+                        1506.0,
+                        1174.0
+                    ],
+                    [
+                        1506.0,
+                        1199.0
+                    ],
+                    [
+                        359.0,
+                        1199.0
+                    ]
+                ]
+            },
+            {
+                "text": "Mathematics, Computer Science & Physics, Engineering Science",
+                "confidence": 0.9916766881942749,
+                "text_region": [
+                    [
+                        357.0,
+                        1201.0
+                    ],
+                    [
+                        1167.0,
+                        1201.0
+                    ],
+                    [
+                        1167.0,
+                        1233.0
+                    ],
+                    [
+                        357.0,
+                        1233.0
+                    ]
+                ]
+            },
+            {
+                "text": "Project: Study of the stability of a tank truck according to the shape of its tank.",
+                "confidence": 0.9890289306640625,
+                "text_region": [
+                    [
+                        455.0,
+                        1233.0
+                    ],
+                    [
+                        1425.0,
+                        1238.0
+                    ],
+                    [
+                        1425.0,
+                        1269.0
+                    ],
+                    [
+                        455.0,
+                        1264.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.604434072971344
+    },
+    {
+        "type": "title",
+        "bbox": [
+            362,
+            1055,
+            1039,
+            1101
+        ],
+        "res": [
+            {
+                "text": "Classes Preparatoires aux Grandes Ecoles",
+                "confidence": 0.9941940307617188,
+                "text_region": [
+                    [
+                        357.0,
+                        1060.0
+                    ],
+                    [
+                        1036.0,
+                        1062.0
+                    ],
+                    [
+                        1036.0,
+                        1096.0
+                    ],
+                    [
+                        357.0,
+                        1094.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8114258646965027
+    },
+    {
+        "type": "title",
+        "bbox": [
+            107,
+            443,
+            309,
+            482
+        ],
+        "res": [
+            {
+                "text": "EDUCATION",
+                "confidence": 0.9886834621429443,
+                "text_region": [
+                    [
+                        109.0,
+                        443.0
+                    ],
+                    [
+                        313.0,
+                        446.0
+                    ],
+                    [
+                        312.0,
+                        480.0
+                    ],
+                    [
+                        108.0,
+                        477.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7886438965797424
+    },
+    {
+        "type": "title",
+        "bbox": [
+            359,
+            494,
+            1216,
+            539
+        ],
+        "res": [
+            {
+                "text": "E cole Nationale Superieure des Mines de Nancy, (France)",
+                "confidence": 0.994143009185791,
+                "text_region": [
+                    [
+                        354.0,
+                        502.0
+                    ],
+                    [
+                        1216.0,
+                        502.0
+                    ],
+                    [
+                        1216.0,
+                        534.0
+                    ],
+                    [
+                        354.0,
+                        534.0
+                    ]
+                ]
+            },
+            {
+                "text": " Major in Energy and Fluids: fluid mechanics, radiation and boundary layers,",
+                "confidence": 0.9774022102355957,
+                "text_region": [
+                    [
+                        453.0,
+                        538.0
+                    ],
+                    [
+                        1413.0,
+                        538.0
+                    ],
+                    [
+                        1413.0,
+                        570.0
+                    ],
+                    [
+                        453.0,
+                        570.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6514204144477844
+    },
+    {
+        "type": "title",
+        "bbox": [
+            108,
+            203,
+            366,
+            253
+        ],
+        "res": [
+            {
+                "text": "Contact details:",
+                "confidence": 0.9999349117279053,
+                "text_region": [
+                    [
+                        109.0,
+                        209.0
+                    ],
+                    [
+                        367.0,
+                        212.0
+                    ],
+                    [
+                        367.0,
+                        246.0
+                    ],
+                    [
+                        108.0,
+                        244.0
+                    ]
+                ]
+            },
+            {
+                "text": "Lieu-dit 1, La Roche Guet, 79700 St Amand-sur-Sevre - France",
+                "confidence": 0.9969640374183655,
+                "text_region": [
+                    [
+                        197.0,
+                        251.0
+                    ],
+                    [
+                        1063.0,
+                        253.0
+                    ],
+                    [
+                        1063.0,
+                        288.0
+                    ],
+                    [
+                        197.0,
+                        285.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5769010186195374
+    },
+    {
+        "type": "list",
+        "bbox": [
+            150,
+            248,
+            1056,
+            403
+        ],
+        "res": [
+            {
+                "text": "Lieu-dit 1, La Roche Guet, 79700 St Amand-sur-Sevre - France",
+                "confidence": 0.9969640374183655,
+                "text_region": [
+                    [
+                        197.0,
+                        251.0
+                    ],
+                    [
+                        1063.0,
+                        253.0
+                    ],
+                    [
+                        1063.0,
+                        288.0
+                    ],
+                    [
+                        197.0,
+                        285.0
+                    ]
+                ]
+            },
+            {
+                "text": "herault.florian79@ gmail.com",
+                "confidence": 0.9981723427772522,
+                "text_region": [
+                    [
+                        199.0,
+                        292.0
+                    ],
+                    [
+                        596.0,
+                        292.0
+                    ],
+                    [
+                        596.0,
+                        324.0
+                    ],
+                    [
+                        199.0,
+                        324.0
+                    ]
+                ]
+            },
+            {
+                "text": "+33 6 37 16 24 92",
+                "confidence": 0.9904255867004395,
+                "text_region": [
+                    [
+                        202.0,
+                        329.0
+                    ],
+                    [
+                        453.0,
+                        329.0
+                    ],
+                    [
+                        453.0,
+                        361.0
+                    ],
+                    [
+                        202.0,
+                        361.0
+                    ]
+                ]
+            },
+            {
+                "text": "https://fr.linkedin.com/in/florian-h%C 3%A9rault-bb1b7a220",
+                "confidence": 0.9823106527328491,
+                "text_region": [
+                    [
+                        202.0,
+                        365.0
+                    ],
+                    [
+                        997.0,
+                        365.0
+                    ],
+                    [
+                        997.0,
+                        400.0
+                    ],
+                    [
+                        202.0,
+                        400.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7074586749076843
+    },
+    {
+        "type": "list",
+        "bbox": [
+            449,
+            1260,
+            1547,
+            1687
+        ],
+        "res": [
+            {
+                "text": "Project: Study of the stability of a tank truck according to the shape of its tank.",
+                "confidence": 0.9890289306640625,
+                "text_region": [
+                    [
+                        455.0,
+                        1233.0
+                    ],
+                    [
+                        1425.0,
+                        1238.0
+                    ],
+                    [
+                        1425.0,
+                        1269.0
+                    ],
+                    [
+                        455.0,
+                        1264.0
+                    ]
+                ]
+            },
+            {
+                "text": "Study of fluid mechanics and building of what needed to perform the experiments.",
+                "confidence": 0.995836079120636,
+                "text_region": [
+                    [
+                        502.0,
+                        1274.0
+                    ],
+                    [
+                        1504.0,
+                        1274.0
+                    ],
+                    [
+                        1504.0,
+                        1299.0
+                    ],
+                    [
+                        502.0,
+                        1299.0
+                    ]
+                ]
+            },
+            {
+                "text": "Construction of a miniature tank truck which can move at a constant acceleration.",
+                "confidence": 0.9797154068946838,
+                "text_region": [
+                    [
+                        507.0,
+                        1308.0
+                    ],
+                    [
+                        1538.0,
+                        1308.0
+                    ],
+                    [
+                        1538.0,
+                        1333.0
+                    ],
+                    [
+                        507.0,
+                        1333.0
+                    ]
+                ]
+            },
+            {
+                "text": "speed.",
+                "confidence": 0.9996216893196106,
+                "text_region": [
+                    [
+                        509.0,
+                        1342.0
+                    ],
+                    [
+                        596.0,
+                        1342.0
+                    ],
+                    [
+                        596.0,
+                        1369.0
+                    ],
+                    [
+                        509.0,
+                        1369.0
+                    ]
+                ]
+            },
+            {
+                "text": "First experiment with coloured fluid which was filmed. Goal: to study the evolution of.",
+                "confidence": 0.9885654449462891,
+                "text_region": [
+                    [
+                        507.0,
+                        1374.0
+                    ],
+                    [
+                        1541.0,
+                        1374.0
+                    ],
+                    [
+                        1541.0,
+                        1406.0
+                    ],
+                    [
+                        507.0,
+                        1406.0
+                    ]
+                ]
+            },
+            {
+                "text": "the barycentre according to the time and the acceleration thanks to image processing",
+                "confidence": 0.9913648962974548,
+                "text_region": [
+                    [
+                        507.0,
+                        1408.0
+                    ],
+                    [
+                        1541.0,
+                        1408.0
+                    ],
+                    [
+                        1541.0,
+                        1440.0
+                    ],
+                    [
+                        507.0,
+                        1440.0
+                    ]
+                ]
+            },
+            {
+                "text": "on the films",
+                "confidence": 0.9987408518791199,
+                "text_region": [
+                    [
+                        509.0,
+                        1447.0
+                    ],
+                    [
+                        655.0,
+                        1447.0
+                    ],
+                    [
+                        655.0,
+                        1472.0
+                    ],
+                    [
+                        509.0,
+                        1472.0
+                    ]
+                ]
+            },
+            {
+                "text": "Second experiment to study the pressure forces on the sidewalls of the tank thanks.",
+                "confidence": 0.9898537397384644,
+                "text_region": [
+                    [
+                        507.0,
+                        1481.0
+                    ],
+                    [
+                        1536.0,
+                        1481.0
+                    ],
+                    [
+                        1536.0,
+                        1506.0
+                    ],
+                    [
+                        507.0,
+                        1506.0
+                    ]
+                ]
+            },
+            {
+                "text": "to pressure captors and accelerometers.",
+                "confidence": 0.9983508586883545,
+                "text_region": [
+                    [
+                        507.0,
+                        1515.0
+                    ],
+                    [
+                        1012.0,
+                        1515.0
+                    ],
+                    [
+                        1012.0,
+                        1540.0
+                    ],
+                    [
+                        507.0,
+                        1540.0
+                    ]
+                ]
+            },
+            {
+                "text": "Variation of the acceleration to obtain curves representing the movement of the.",
+                "confidence": 0.988277792930603,
+                "text_region": [
+                    [
+                        505.0,
+                        1547.0
+                    ],
+                    [
+                        1541.0,
+                        1547.0
+                    ],
+                    [
+                        1541.0,
+                        1579.0
+                    ],
+                    [
+                        505.0,
+                        1579.0
+                    ]
+                ]
+            },
+            {
+                "text": "barycentre or points.",
+                "confidence": 0.9998419880867004,
+                "text_region": [
+                    [
+                        509.0,
+                        1584.0
+                    ],
+                    [
+                        761.0,
+                        1584.0
+                    ],
+                    [
+                        761.0,
+                        1608.0
+                    ],
+                    [
+                        509.0,
+                        1608.0
+                    ]
+                ]
+            },
+            {
+                "text": "Numerical fluid simulations to compare the results of pressures forces and",
+                "confidence": 0.9988998174667358,
+                "text_region": [
+                    [
+                        507.0,
+                        1615.0
+                    ],
+                    [
+                        1541.0,
+                        1615.0
+                    ],
+                    [
+                        1541.0,
+                        1647.0
+                    ],
+                    [
+                        507.0,
+                        1647.0
+                    ]
+                ]
+            },
+            {
+                "text": "barycentre evolution with the experiments to find the best shape for the tank..",
+                "confidence": 0.987506628036499,
+                "text_region": [
+                    [
+                        507.0,
+                        1649.0
+                    ],
+                    [
+                        1450.0,
+                        1649.0
+                    ],
+                    [
+                        1450.0,
+                        1681.0
+                    ],
+                    [
+                        507.0,
+                        1681.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6563296318054199
+    },
+    {
+        "type": "list",
+        "bbox": [
+            411,
+            534,
+            1520,
+            1023
+        ],
+        "res": [
+            {
+                "text": "E cole Nationale Superieure des Mines de Nancy, (France)",
+                "confidence": 0.994143009185791,
+                "text_region": [
+                    [
+                        354.0,
+                        502.0
+                    ],
+                    [
+                        1216.0,
+                        502.0
+                    ],
+                    [
+                        1216.0,
+                        534.0
+                    ],
+                    [
+                        354.0,
+                        534.0
+                    ]
+                ]
+            },
+            {
+                "text": " Major in Energy and Fluids: fluid mechanics, radiation and boundary layers,",
+                "confidence": 0.9774022102355957,
+                "text_region": [
+                    [
+                        453.0,
+                        538.0
+                    ],
+                    [
+                        1413.0,
+                        538.0
+                    ],
+                    [
+                        1413.0,
+                        570.0
+                    ],
+                    [
+                        453.0,
+                        570.0
+                    ]
+                ]
+            },
+            {
+                "text": "numerical methods, thermodynamics, statistical physics, quantum physics, continuum.",
+                "confidence": 0.9955859780311584,
+                "text_region": [
+                    [
+                        458.0,
+                        573.0
+                    ],
+                    [
+                        1514.0,
+                        573.0
+                    ],
+                    [
+                        1514.0,
+                        604.0
+                    ],
+                    [
+                        458.0,
+                        604.0
+                    ]
+                ]
+            },
+            {
+                "text": "mechanics",
+                "confidence": 0.999634325504303,
+                "text_region": [
+                    [
+                        458.0,
+                        607.0
+                    ],
+                    [
+                        593.0,
+                        607.0
+                    ],
+                    [
+                        593.0,
+                        631.0
+                    ],
+                    [
+                        458.0,
+                        631.0
+                    ]
+                ]
+            },
+            {
+                "text": "Electives: advanced quantum mechanics, environment, biodiversity and sustainability,.",
+                "confidence": 0.9902083277702332,
+                "text_region": [
+                    [
+                        458.0,
+                        638.0
+                    ],
+                    [
+                        1521.0,
+                        638.0
+                    ],
+                    [
+                        1521.0,
+                        670.0
+                    ],
+                    [
+                        458.0,
+                        670.0
+                    ]
+                ]
+            },
+            {
+                "text": "environmental economics",
+                "confidence": 0.9997909665107727,
+                "text_region": [
+                    [
+                        455.0,
+                        668.0
+                    ],
+                    [
+                        775.0,
+                        670.0
+                    ],
+                    [
+                        775.0,
+                        702.0
+                    ],
+                    [
+                        455.0,
+                        699.0
+                    ]
+                ]
+            },
+            {
+                "text": "Others: probabilities, data analysis, machine learning, IT, management ....",
+                "confidence": 0.988311231136322,
+                "text_region": [
+                    [
+                        453.0,
+                        699.0
+                    ],
+                    [
+                        1371.0,
+                        704.0
+                    ],
+                    [
+                        1371.0,
+                        736.0
+                    ],
+                    [
+                        453.0,
+                        731.0
+                    ]
+                ]
+            },
+            {
+                "text": "Projects:",
+                "confidence": 0.9988441467285156,
+                "text_region": [
+                    [
+                        458.0,
+                        738.0
+                    ],
+                    [
+                        581.0,
+                        738.0
+                    ],
+                    [
+                        581.0,
+                        763.0
+                    ],
+                    [
+                        458.0,
+                        763.0
+                    ]
+                ]
+            },
+            {
+                "text": "Major project - Design and manufacture of a piezoelectric slab and adaptation of",
+                "confidence": 0.9953061938285828,
+                "text_region": [
+                    [
+                        556.0,
+                        767.0
+                    ],
+                    [
+                        1541.0,
+                        767.0
+                    ],
+                    [
+                        1541.0,
+                        799.0
+                    ],
+                    [
+                        556.0,
+                        799.0
+                    ]
+                ]
+            },
+            {
+                "text": "the recovered energy to power a screen at Insitut Jean Lamour laboratory.",
+                "confidence": 0.9924314022064209,
+                "text_region": [
+                    [
+                        554.0,
+                        797.0
+                    ],
+                    [
+                        1541.0,
+                        799.0
+                    ],
+                    [
+                        1541.0,
+                        833.0
+                    ],
+                    [
+                        554.0,
+                        831.0
+                    ]
+                ]
+            },
+            {
+                "text": "(Nancy, France) -",
+                "confidence": 0.9985032677650452,
+                "text_region": [
+                    [
+                        556.0,
+                        833.0
+                    ],
+                    [
+                        783.0,
+                        833.0
+                    ],
+                    [
+                        783.0,
+                        865.0
+                    ],
+                    [
+                        556.0,
+                        865.0
+                    ]
+                ]
+            },
+            {
+                "text": "Jig projectat Georessources laboratory (Nancy, France): experimentation",
+                "confidence": 0.9834926724433899,
+                "text_region": [
+                    [
+                        554.0,
+                        863.0
+                    ],
+                    [
+                        1536.0,
+                        863.0
+                    ],
+                    [
+                        1536.0,
+                        894.0
+                    ],
+                    [
+                        554.0,
+                        894.0
+                    ]
+                ]
+            },
+            {
+                "text": "project on a jjigging machine to separate two types of minerals according to their",
+                "confidence": 0.9951398968696594,
+                "text_region": [
+                    [
+                        559.0,
+                        897.0
+                    ],
+                    [
+                        1541.0,
+                        897.0
+                    ],
+                    [
+                        1541.0,
+                        928.0
+                    ],
+                    [
+                        559.0,
+                        928.0
+                    ]
+                ]
+            },
+            {
+                "text": "features thanks to fluid dynamics.",
+                "confidence": 0.9999500513076782,
+                "text_region": [
+                    [
+                        559.0,
+                        931.0
+                    ],
+                    [
+                        970.0,
+                        931.0
+                    ],
+                    [
+                        970.0,
+                        955.0
+                    ],
+                    [
+                        559.0,
+                        955.0
+                    ]
+                ]
+            },
+            {
+                "text": "Environment and sustainable development project - life cycle analysis,",
+                "confidence": 0.9864951968193054,
+                "text_region": [
+                    [
+                        556.0,
+                        960.0
+                    ],
+                    [
+                        1420.0,
+                        960.0
+                    ],
+                    [
+                        1420.0,
+                        992.0
+                    ],
+                    [
+                        556.0,
+                        992.0
+                    ]
+                ]
+            },
+            {
+                "text": "environmental courses",
+                "confidence": 0.9990079998970032,
+                "text_region": [
+                    [
+                        561.0,
+                        997.0
+                    ],
+                    [
+                        839.0,
+                        997.0
+                    ],
+                    [
+                        839.0,
+                        1021.0
+                    ],
+                    [
+                        561.0,
+                        1021.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.629368007183075
+    }
+]

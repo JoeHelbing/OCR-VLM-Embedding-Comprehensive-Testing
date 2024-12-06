@@ -1,0 +1,19 @@
+{ "Full Name": "Carl Boillot", 
+  "Contact Information": {"Email": "carlboillot@orange.fr", "Phone": "+33 6 58 69 04 63"},
+  "Education": [
+    { "Institution": "Mines Nancy", "Degree": "Engineer Mines de Nancy Curriculum - MSc Equivalent", 
+      "Graduation Date": "2021" },
+    { "Institution": "Lycee Henri Poincare", "Degree": "Preparatory Coursework for Engineering Schools - BSc Equivalent", 
+      "Graduation Date": "2019-2021" }
+  ],
+  "Work Experience": [
+    { "Company Name": "SpringFive", "Title": "Salesforce Consultant Internship", 
+      "Date": "July-Dec 2023", "Key Responsibilities": "Implementation of a Salesforce #1 CRM worldwide solution, organizing client workshops and gathering business requirements, designing and specifying the solution, conducting user acceptance testing, and leading training" },
+    { "Company Name": "Sopil SA", "Title": "Seasonal Employment", 
+      "Date": "July 2022 - Feb 2023", "Key Responsibilities": "Assistance with handling, packaging, and quality control" }
+  ],
+  "Technical Skills": [
+    "Programming Languages: Python, Matlab, R, SQL, VBA",
+    "Machine Learning & Deep Learning: Keras, TensorFlow, Scikit-Learn, Pandas, Matplotlib"
+  ]
+}

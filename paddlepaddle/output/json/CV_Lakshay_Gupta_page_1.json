@@ -1,0 +1,151 @@
+[
+    {
+        "type": "title",
+        "bbox": [
+            82,
+            441,
+            270,
+            478
+        ],
+        "res": [
+            {
+                "text": "Experience",
+                "confidence": 0.999921977519989,
+                "text_region": [
+                    [
+                        79.0,
+                        440.0
+                    ],
+                    [
+                        261.0,
+                        440.0
+                    ],
+                    [
+                        261.0,
+                        472.0
+                    ],
+                    [
+                        79.0,
+                        472.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6048785448074341
+    },
+    {
+        "type": "title",
+        "bbox": [
+            82,
+            1927,
+            309,
+            1958
+        ],
+        "res": [
+            {
+                "text": "Achievementss",
+                "confidence": 0.9323034286499023,
+                "text_region": [
+                    [
+                        81.0,
+                        1925.0
+                    ],
+                    [
+                        307.0,
+                        1925.0
+                    ],
+                    [
+                        307.0,
+                        1955.0
+                    ],
+                    [
+                        81.0,
+                        1955.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5817295908927917
+    },
+    {
+        "type": "list",
+        "bbox": [
+            137,
+            1990,
+            1383,
+            2095
+        ],
+        "res": [
+            {
+                "text": ". Winner Smart India Hackathon 2023, organised by Government of India.",
+                "confidence": 0.9771755933761597,
+                "text_region": [
+                    [
+                        118.0,
+                        1987.0
+                    ],
+                    [
+                        1081.0,
+                        1987.0
+                    ],
+                    [
+                        1081.0,
+                        2017.0
+                    ],
+                    [
+                        118.0,
+                        2017.0
+                    ]
+                ]
+            },
+            {
+                "text": ": Highest rating of 1225 at Codeforces,and 1622 at Codechef.",
+                "confidence": 0.9751758575439453,
+                "text_region": [
+                    [
+                        122.0,
+                        2026.0
+                    ],
+                    [
+                        901.0,
+                        2026.0
+                    ],
+                    [
+                        901.0,
+                        2056.0
+                    ],
+                    [
+                        122.0,
+                        2056.0
+                    ]
+                ]
+            },
+            {
+                "text": ": Secured the 1st position out of 500+ participants in coding contest CIN>PC at AKGEC, Ghaziabad.",
+                "confidence": 0.9833701848983765,
+                "text_region": [
+                    [
+                        118.0,
+                        2065.0
+                    ],
+                    [
+                        1402.0,
+                        2065.0
+                    ],
+                    [
+                        1402.0,
+                        2095.0
+                    ],
+                    [
+                        118.0,
+                        2095.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.6558566093444824
+    }
+]

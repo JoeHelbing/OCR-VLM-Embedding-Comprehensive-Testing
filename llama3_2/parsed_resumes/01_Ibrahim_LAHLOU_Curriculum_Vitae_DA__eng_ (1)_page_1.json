@@ -1,0 +1,33 @@
+{ "title": "Resume Analysis", "sections": [
+    { "name": "Full Name", "value": "IBRAHIM LAHLOU" },
+    { "name": "Email", "value": "ibrahimlahlou021@gmail.com" },
+    { "name": "Phone", "value": "+212 07 77 61 51 31" },
+    { "name": "Education", "values": [
+        {
+            "institution": "ENSA Oujda | Mohammed First University",
+            "degree": "Data Science and Cloud Computing Engineering",
+            "graduation_date": null
+        }, 
+        {
+            "institution": "Preparatory Cycle (Science and Engineering)",
+            "degree": null,
+            "graduation_date": null
+        } 
+    ] },
+    { "name": "Work Experience", "values": [
+        {
+            "company_name": "MLOps Application Internship using NLP 3D Smart Factory",
+            "title": "Intern",
+            "dates": "July 2023 - September 2023"
+        }
+    ] },
+    { "name": "Skills", "values": [
+        {
+            "skill": "DevOps"
+        }, 
+        {
+            "skill": "Machine Learning"
+        } 
+    ] },
+    { "name": "Certifications", "values": [] }
+] }

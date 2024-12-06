@@ -1,0 +1,21 @@
+{ "Full Name": "THEO CHANGARNIER", 
+"Email": "t.changarnier@gmail.com", 
+"Phone Number": "+33.6.45.44.79.02", 
+"Education": [
+  {"Institution": "CESI Engineering School, Nancy, FR", 
+   "Degree": "Master of Science in Computer Science Specialization", 
+   "Graduation Date": "2020-2025"}, 
+  {"Institution": "Fabert College, Metz, FR", 
+   "Degree": "Preparatory classes oriented towards Physics, Chemistry and Engineering Sciences", 
+   "Graduation Date": "2019-2020"}], 
+"Work Experience": [
+  {"Company Name": "Reservist, Gendarmerie Nationale, FR", 
+   "Title": "Trainee Project and Product Management Engineer (September 2023 to February 2024)", 
+   "Dates": "August 2021 - Present"}, 
+  {"Company Name": "ArcelorMittal Maizieres Research at Mezieres, France", 
+   "Title": "Assistant IT Project Manager (January to April 2023)", 
+   "Dates": "January to April 2023"}], 
+"Skills": [
+  "Network Administration: CISCO Certification - CCNA1", 
+  "Web Development: HTML5, CSS, MYSQL"], 
+"Certifications": [] }

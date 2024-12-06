@@ -1,0 +1,27 @@
+{ "full_name": "Saule Doskojaeva", 
+  "email": "sdoskojaeva@mail.ru",
+  "phone": "+7(702)256-65-76" ,
+  "education":
+    {"Institution":"Kazakh-Russian Medical University","Degree":"Doctor of Medicine","Graduation Date":2014 },
+  "work_experience": [
+      {
+        "Company Name": "Al-Farabi Kazakh National University",
+        "Title": "Assistant Professor, Department of Internal Diseases and Therapy ",
+        "Date": "September 2022 - present",
+        "Key Responsibilities": 
+          ["Conducting lectures for students", 
+           "Participating in the development of educational programs and materials"]
+      },
+      {
+        "Company Name": "Kazakh-Russian Medical University",
+        "Title": "Lecturer, Department of Internal Diseases ",
+        "Date": "September 2018 - August 2022",
+        "Key Responsibilities": 
+          ["Conducting lectures for students", 
+           "Participating in the development of educational programs and materials"]
+      }
+    ],
+  "skills":
+    {"Language Skills":"English, Russian","Computer Skills":"Microsoft Office Suite"},
+  "certifications":
+    [] }

@@ -1,0 +1,371 @@
+[
+    {
+        "type": "title",
+        "bbox": [
+            111,
+            538,
+            265,
+            568
+        ],
+        "res": [
+            {
+                "text": "REFERENCE",
+                "confidence": 0.9984583258628845,
+                "text_region": [
+                    [
+                        113.0,
+                        539.0
+                    ],
+                    [
+                        263.0,
+                        539.0
+                    ],
+                    [
+                        263.0,
+                        564.0
+                    ],
+                    [
+                        113.0,
+                        564.0
+                    ]
+                ]
+            },
+            {
+                "text": "Saule Doskojaeva - Professor, Doctor of Medical Sciences of the Department of Infectious Diseases at Kazakh-Russian.",
+                "confidence": 0.9907292723655701,
+                "text_region": [
+                    [
+                        189.0,
+                        568.0
+                    ],
+                    [
+                        1594.0,
+                        568.0
+                    ],
+                    [
+                        1594.0,
+                        598.0
+                    ],
+                    [
+                        189.0,
+                        598.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7287672162055969
+    },
+    {
+        "type": "list",
+        "bbox": [
+            140,
+            233,
+            1595,
+            473
+        ],
+        "res": [
+            {
+                "text": "Project Manager in the healthcare system.",
+                "confidence": 0.9849658012390137,
+                "text_region": [
+                    [
+                        189.0,
+                        231.0
+                    ],
+                    [
+                        658.0,
+                        231.0
+                    ],
+                    [
+                        658.0,
+                        261.0
+                    ],
+                    [
+                        189.0,
+                        261.0
+                    ]
+                ]
+            },
+            {
+                "text": "Managed a healthcare project from September 2022 at the Yenbekshikazakh multidisciplinary hospital. Produced education",
+                "confidence": 0.9951218962669373,
+                "text_region": [
+                    [
+                        192.0,
+                        264.0
+                    ],
+                    [
+                        1591.0,
+                        264.0
+                    ],
+                    [
+                        1591.0,
+                        293.0
+                    ],
+                    [
+                        192.0,
+                        293.0
+                    ]
+                ]
+            },
+            {
+                "text": "and training videos for patients, also project management of diseases at the primary health care level",
+                "confidence": 0.9898179769515991,
+                "text_region": [
+                    [
+                        194.0,
+                        296.0
+                    ],
+                    [
+                        1312.0,
+                        296.0
+                    ],
+                    [
+                        1312.0,
+                        319.0
+                    ],
+                    [
+                        194.0,
+                        319.0
+                    ]
+                ]
+            },
+            {
+                "text": "Active in supporting a healthy lifestyle, regularly taking part in marathons. in 2022 she ran the city marathon for 10 km.",
+                "confidence": 0.979275107383728,
+                "text_region": [
+                    [
+                        192.0,
+                        323.0
+                    ],
+                    [
+                        1494.0,
+                        323.0
+                    ],
+                    [
+                        1494.0,
+                        353.0
+                    ],
+                    [
+                        192.0,
+                        353.0
+                    ]
+                ]
+            },
+            {
+                "text": "Volunteered and held a charity concert at the Home for the Aged and Disabled. 2011.",
+                "confidence": 0.9891001582145691,
+                "text_region": [
+                    [
+                        192.0,
+                        353.0
+                    ],
+                    [
+                        1134.0,
+                        353.0
+                    ],
+                    [
+                        1134.0,
+                        383.0
+                    ],
+                    [
+                        192.0,
+                        383.0
+                    ]
+                ]
+            },
+            {
+                "text": "Volunteered and organized a doctor's trip to help the flood victims in Kyzylagash 2010.",
+                "confidence": 0.987553060054779,
+                "text_region": [
+                    [
+                        192.0,
+                        383.0
+                    ],
+                    [
+                        1146.0,
+                        383.0
+                    ],
+                    [
+                        1146.0,
+                        412.0
+                    ],
+                    [
+                        192.0,
+                        412.0
+                    ]
+                ]
+            },
+            {
+                "text": "Volunteered and organized a charity concert at the KazNMU named after S.D. Asfendiyarov to help treat children with disabilities.",
+                "confidence": 0.9866368174552917,
+                "text_region": [
+                    [
+                        189.0,
+                        410.0
+                    ],
+                    [
+                        1594.0,
+                        415.0
+                    ],
+                    [
+                        1594.0,
+                        445.0
+                    ],
+                    [
+                        189.0,
+                        440.0
+                    ]
+                ]
+            },
+            {
+                "text": "and cerebral palsy 2009",
+                "confidence": 0.9986900687217712,
+                "text_region": [
+                    [
+                        194.0,
+                        447.0
+                    ],
+                    [
+                        460.0,
+                        447.0
+                    ],
+                    [
+                        460.0,
+                        470.0
+                    ],
+                    [
+                        194.0,
+                        470.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.9437562823295593
+    },
+    {
+        "type": "list",
+        "bbox": [
+            132,
+            565,
+            1595,
+            748
+        ],
+        "res": [
+            {
+                "text": "Saule Doskojaeva - Professor, Doctor of Medical Sciences of the Department of Infectious Diseases at Kazakh-Russian.",
+                "confidence": 0.9907292723655701,
+                "text_region": [
+                    [
+                        189.0,
+                        568.0
+                    ],
+                    [
+                        1594.0,
+                        568.0
+                    ],
+                    [
+                        1594.0,
+                        598.0
+                    ],
+                    [
+                        189.0,
+                        598.0
+                    ]
+                ]
+            },
+            {
+                "text": "Medical University, Contact information - E mail: sdoskojaeva@ mail.ru , P hone: +7 (702) 256-65-76.",
+                "confidence": 0.9801120162010193,
+                "text_region": [
+                    [
+                        189.0,
+                        598.0
+                    ],
+                    [
+                        1298.0,
+                        598.0
+                    ],
+                    [
+                        1298.0,
+                        628.0
+                    ],
+                    [
+                        189.0,
+                        628.0
+                    ]
+                ]
+            },
+            {
+                "text": "Gauhar Kurmanova- Professor, Doctor of Medical Sciences, Head of the Department of Clinical Disciplines Kazakh National",
+                "confidence": 0.9892139434814453,
+                "text_region": [
+                    [
+                        192.0,
+                        658.0
+                    ],
+                    [
+                        1591.0,
+                        658.0
+                    ],
+                    [
+                        1591.0,
+                        688.0
+                    ],
+                    [
+                        192.0,
+                        688.0
+                    ]
+                ]
+            },
+            {
+                "text": "University named after Al-F arabi.",
+                "confidence": 0.9821299314498901,
+                "text_region": [
+                    [
+                        192.0,
+                        688.0
+                    ],
+                    [
+                        557.0,
+                        688.0
+                    ],
+                    [
+                        557.0,
+                        717.0
+                    ],
+                    [
+                        192.0,
+                        717.0
+                    ]
+                ]
+            },
+            {
+                "text": "Contact information: Email: gaukhar.kurmanova200o@ gmail.com P hone: +7 (775) 259-22-99",
+                "confidence": 0.9846581816673279,
+                "text_region": [
+                    [
+                        189.0,
+                        715.0
+                    ],
+                    [
+                        1233.0,
+                        713.0
+                    ],
+                    [
+                        1233.0,
+                        742.0
+                    ],
+                    [
+                        189.0,
+                        745.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8494040369987488
+    }
+]

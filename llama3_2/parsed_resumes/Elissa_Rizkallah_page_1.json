@@ -1,0 +1,53 @@
+{ "name": "Elissa Rizkallah", 
+"contact info": { "email": "elissa.rizkallah1@yahoo.com", "phone": "+33 7 44 83 74 26" }, 
+
+"education": [
+    { "institution": "HEC Paris", "degree": "Master of Science in Marketing", "graduation date": "2023-2024" },
+    { "institution": "Lebanese American University", "degree": "Bachelor of Science in Business with an emphasis on Banking and Finance", "graduation date": "2020-2023" }
+],
+
+"work experience": [
+    {
+        "company": "800 Storage Dubai, UAE",
+        "title": "Sales Supervisor",
+        "dates": "May - August 2023",
+        "responsibilities": [
+            "Achieved monthly sales targets of $40,000+ by implementing effective sales strategies and conducting regular sales performance evaluations."
+            ]
+    },
+    {
+        "company": "Chamber of Commerce Industry & Agriculture Beirut Lebanon",
+        "title": "Economic Researcher",
+        "dates": "May - July 2022",
+        "responsibilities": [
+                "Analyzed economic indicators and forecasted their impact on the Lebanese economy.",
+                "Reviewed and critiqued the government's financial sector recovery strategy and economic roadmap."
+            ]
+    },
+    {
+        "company": "Printemps Paris, France",
+        "title": "Junior Consultant",
+        "dates": "February - April 2022",
+        "responsibilities": [
+                "Created a benchmark comparing Metaverse and NFT practices in worldwide department stores.",
+                "Launched an action plan based on market analysis to implement NFT practices in-store."
+            ]
+    },
+    {
+        "company": "MMKN Organization Beirut, Lebanon",
+        "title": "School Coordinator Volunteer",
+        "dates": "February 2021 - June 2023",
+        "responsibilities": [
+                "Supervised two schools and tutored 80 underprivileged children in academic subjects such as math and Arabic."
+            ]
+    }
+],
+
+"skills": {
+    "languages": ["English", "Arabic"],
+    "IT skills": ["Microsoft Office (Word, Excel, PowerPoint, Outlook)"]
+},
+
+"certifications": [
+    "Inside LVMH Management of Fashion and Luxury Companies - Bocconi University"
+] }

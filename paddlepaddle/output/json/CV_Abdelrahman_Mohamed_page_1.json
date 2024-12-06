@@ -1,0 +1,1065 @@
+[
+    {
+        "type": "title",
+        "bbox": [
+            100,
+            1295,
+            348,
+            1340
+        ],
+        "res": [
+            {
+                "text": "COURSEWORK",
+                "confidence": 0.9857527613639832,
+                "text_region": [
+                    [
+                        104.0,
+                        1302.0
+                    ],
+                    [
+                        349.0,
+                        1302.0
+                    ],
+                    [
+                        349.0,
+                        1334.0
+                    ],
+                    [
+                        104.0,
+                        1334.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8716441988945007
+    },
+    {
+        "type": "title",
+        "bbox": [
+            101,
+            1737,
+            279,
+            1782
+        ],
+        "res": [
+            {
+                "text": "PROJ ECTS",
+                "confidence": 0.9858974814414978,
+                "text_region": [
+                    [
+                        99.0,
+                        1744.0
+                    ],
+                    [
+                        277.0,
+                        1744.0
+                    ],
+                    [
+                        277.0,
+                        1776.0
+                    ],
+                    [
+                        99.0,
+                        1776.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.8464664816856384
+    },
+    {
+        "type": "title",
+        "bbox": [
+            101,
+            462,
+            432,
+            507
+        ],
+        "res": [
+            {
+                "text": "WORK EXPERIENCE",
+                "confidence": 0.9964993000030518,
+                "text_region": [
+                    [
+                        102.0,
+                        470.0
+                    ],
+                    [
+                        430.0,
+                        470.0
+                    ],
+                    [
+                        430.0,
+                        500.0
+                    ],
+                    [
+                        102.0,
+                        500.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7860431671142578
+    },
+    {
+        "type": "title",
+        "bbox": [
+            100,
+            1134,
+            301,
+            1175
+        ],
+        "res": [
+            {
+                "text": "EDUCATION",
+                "confidence": 0.9989362359046936,
+                "text_region": [
+                    [
+                        102.0,
+                        1139.0
+                    ],
+                    [
+                        303.0,
+                        1139.0
+                    ],
+                    [
+                        303.0,
+                        1171.0
+                    ],
+                    [
+                        102.0,
+                        1171.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.7267914414405823
+    },
+    {
+        "type": "list",
+        "bbox": [
+            152,
+            1813,
+            1585,
+            1952
+        ],
+        "res": [
+            {
+                "text": "An Electronic Election Website",
+                "confidence": 0.999845564365387,
+                "text_region": [
+                    [
+                        196.0,
+                        1817.0
+                    ],
+                    [
+                        584.0,
+                        1817.0
+                    ],
+                    [
+                        584.0,
+                        1847.0
+                    ],
+                    [
+                        196.0,
+                        1847.0
+                    ]
+                ]
+            },
+            {
+                "text": "Faculty of Computer and Information System..",
+                "confidence": 0.9799346923828125,
+                "text_region": [
+                    [
+                        196.0,
+                        1852.0
+                    ],
+                    [
+                        668.0,
+                        1852.0
+                    ],
+                    [
+                        668.0,
+                        1881.0
+                    ],
+                    [
+                        196.0,
+                        1881.0
+                    ]
+                ]
+            },
+            {
+                "text": "- Developed and configured an electronic election website with voice authentication and secure user authentication, meeting federal",
+                "confidence": 0.9880179166793823,
+                "text_region": [
+                    [
+                        212.0,
+                        1891.0
+                    ],
+                    [
+                        1578.0,
+                        1891.0
+                    ],
+                    [
+                        1578.0,
+                        1920.0
+                    ],
+                    [
+                        212.0,
+                        1920.0
+                    ]
+                ]
+            },
+            {
+                "text": "and state security standards.",
+                "confidence": 0.999954879283905,
+                "text_region": [
+                    [
+                        236.0,
+                        1925.0
+                    ],
+                    [
+                        531.0,
+                        1925.0
+                    ],
+                    [
+                        531.0,
+                        1948.0
+                    ],
+                    [
+                        236.0,
+                        1948.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.9198018908500671
+    },
+    {
+        "type": "list",
+        "bbox": [
+            158,
+            1203,
+            780,
+            1274
+        ],
+        "res": [
+            {
+                "text": " Bachelor of Computer and Information Systems.",
+                "confidence": 0.9836468696594238,
+                "text_region": [
+                    [
+                        194.0,
+                        1208.0
+                    ],
+                    [
+                        799.0,
+                        1208.0
+                    ],
+                    [
+                        799.0,
+                        1238.0
+                    ],
+                    [
+                        194.0,
+                        1238.0
+                    ]
+                ]
+            },
+            {
+                "text": "Assiut University, Assiut ,2015.",
+                "confidence": 0.9958846569061279,
+                "text_region": [
+                    [
+                        194.0,
+                        1244.0
+                    ],
+                    [
+                        517.0,
+                        1244.0
+                    ],
+                    [
+                        517.0,
+                        1274.0
+                    ],
+                    [
+                        194.0,
+                        1274.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.635968029499054
+    },
+    {
+        "type": "list",
+        "bbox": [
+            148,
+            1370,
+            825,
+            1709
+        ],
+        "res": [
+            {
+                "text": "Google IT Support Specialist certificate. May 2024.",
+                "confidence": 0.9991918802261353,
+                "text_region": [
+                    [
+                        176.0,
+                        1370.0
+                    ],
+                    [
+                        815.0,
+                        1373.0
+                    ],
+                    [
+                        815.0,
+                        1405.0
+                    ],
+                    [
+                        175.0,
+                        1402.0
+                    ]
+                ]
+            },
+            {
+                "text": "Cisco Certified Network Associate (CCNA)",
+                "confidence": 0.9933941960334778,
+                "text_region": [
+                    [
+                        164.0,
+                        1407.0
+                    ],
+                    [
+                        709.0,
+                        1409.0
+                    ],
+                    [
+                        709.0,
+                        1442.0
+                    ],
+                    [
+                        164.0,
+                        1439.0
+                    ]
+                ]
+            },
+            {
+                "text": " National Telecommunication Institute (NTI) ,2022",
+                "confidence": 0.9872863292694092,
+                "text_region": [
+                    [
+                        178.0,
+                        1441.0
+                    ],
+                    [
+                        711.0,
+                        1441.0
+                    ],
+                    [
+                        711.0,
+                        1471.0
+                    ],
+                    [
+                        178.0,
+                        1471.0
+                    ]
+                ]
+            },
+            {
+                "text": "MCsA Self Study.",
+                "confidence": 0.9387425780296326,
+                "text_region": [
+                    [
+                        155.0,
+                        1480.0
+                    ],
+                    [
+                        400.0,
+                        1485.0
+                    ],
+                    [
+                        399.0,
+                        1517.0
+                    ],
+                    [
+                        155.0,
+                        1512.0
+                    ]
+                ]
+            },
+            {
+                "text": " 2D Graphic Design",
+                "confidence": 0.9868510365486145,
+                "text_region": [
+                    [
+                        178.0,
+                        1522.0
+                    ],
+                    [
+                        423.0,
+                        1522.0
+                    ],
+                    [
+                        423.0,
+                        1551.0
+                    ],
+                    [
+                        178.0,
+                        1551.0
+                    ]
+                ]
+            },
+            {
+                "text": " National Telecommunication Institute (NTI) ,2023.",
+                "confidence": 0.9747856855392456,
+                "text_region": [
+                    [
+                        180.0,
+                        1554.0
+                    ],
+                    [
+                        714.0,
+                        1554.0
+                    ],
+                    [
+                        714.0,
+                        1584.0
+                    ],
+                    [
+                        180.0,
+                        1584.0
+                    ]
+                ]
+            },
+            {
+                "text": "General Education Diploma",
+                "confidence": 0.9976341128349304,
+                "text_region": [
+                    [
+                        178.0,
+                        1588.0
+                    ],
+                    [
+                        531.0,
+                        1588.0
+                    ],
+                    [
+                        531.0,
+                        1618.0
+                    ],
+                    [
+                        178.0,
+                        1618.0
+                    ]
+                ]
+            },
+            {
+                "text": "Assiut University. 2023",
+                "confidence": 0.9994496703147888,
+                "text_region": [
+                    [
+                        178.0,
+                        1622.0
+                    ],
+                    [
+                        413.0,
+                        1622.0
+                    ],
+                    [
+                        413.0,
+                        1645.0
+                    ],
+                    [
+                        178.0,
+                        1645.0
+                    ]
+                ]
+            },
+            {
+                "text": " Digital Transformation Certificate..",
+                "confidence": 0.9711767435073853,
+                "text_region": [
+                    [
+                        173.0,
+                        1655.0
+                    ],
+                    [
+                        621.0,
+                        1655.0
+                    ],
+                    [
+                        621.0,
+                        1684.0
+                    ],
+                    [
+                        173.0,
+                        1684.0
+                    ]
+                ]
+            },
+            {
+                "text": "Assiut University. 2023.",
+                "confidence": 0.9978854060173035,
+                "text_region": [
+                    [
+                        176.0,
+                        1684.0
+                    ],
+                    [
+                        425.0,
+                        1687.0
+                    ],
+                    [
+                        425.0,
+                        1719.0
+                    ],
+                    [
+                        175.0,
+                        1716.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5700172185897827
+    },
+    {
+        "type": "list",
+        "bbox": [
+            227,
+            274,
+            1465,
+            433
+        ],
+        "res": [
+            {
+                "text": "Motivated Computer Science graduate seeking the role of IT Specialist at smart companies.",
+                "confidence": 0.9969106316566467,
+                "text_region": [
+                    [
+                        194.0,
+                        280.0
+                    ],
+                    [
+                        1437.0,
+                        280.0
+                    ],
+                    [
+                        1437.0,
+                        312.0
+                    ],
+                    [
+                        194.0,
+                        312.0
+                    ]
+                ]
+            },
+            {
+                "text": "Experience 3+ years of industry experience Passionate about building Relevant skills include",
+                "confidence": 0.9856633543968201,
+                "text_region": [
+                    [
+                        196.0,
+                        321.0
+                    ],
+                    [
+                        1460.0,
+                        321.0
+                    ],
+                    [
+                        1460.0,
+                        353.0
+                    ],
+                    [
+                        196.0,
+                        353.0
+                    ]
+                ]
+            },
+            {
+                "text": "Database Administration, and Network Architecture and maintaining computer systems.",
+                "confidence": 0.9996625781059265,
+                "text_region": [
+                    [
+                        196.0,
+                        360.0
+                    ],
+                    [
+                        1407.0,
+                        362.0
+                    ],
+                    [
+                        1407.0,
+                        394.0
+                    ],
+                    [
+                        196.0,
+                        392.0
+                    ]
+                ]
+            },
+            {
+                "text": "Experience 1+ years as Graphic Designer.",
+                "confidence": 0.9960746765136719,
+                "text_region": [
+                    [
+                        194.0,
+                        399.0
+                    ],
+                    [
+                        755.0,
+                        401.0
+                    ],
+                    [
+                        755.0,
+                        433.0
+                    ],
+                    [
+                        194.0,
+                        431.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5649197101593018
+    },
+    {
+        "type": "list",
+        "bbox": [
+            153,
+            531,
+            1452,
+            1127
+        ],
+        "res": [
+            {
+                "text": "IT Help desk, IT Technician and Store Keeper for IT Department",
+                "confidence": 0.990159273147583,
+                "text_region": [
+                    [
+                        192.0,
+                        539.0
+                    ],
+                    [
+                        1086.0,
+                        541.0
+                    ],
+                    [
+                        1086.0,
+                        573.0
+                    ],
+                    [
+                        192.0,
+                        571.0
+                    ]
+                ]
+            },
+            {
+                "text": " Rouvan Hospital",
+                "confidence": 0.9737371206283569,
+                "text_region": [
+                    [
+                        196.0,
+                        580.0
+                    ],
+                    [
+                        390.0,
+                        580.0
+                    ],
+                    [
+                        390.0,
+                        610.0
+                    ],
+                    [
+                        196.0,
+                        610.0
+                    ]
+                ]
+            },
+            {
+                "text": "Dec 23-until now, Assiut",
+                "confidence": 0.9989383816719055,
+                "text_region": [
+                    [
+                        1171.0,
+                        580.0
+                    ],
+                    [
+                        1453.0,
+                        580.0
+                    ],
+                    [
+                        1453.0,
+                        610.0
+                    ],
+                    [
+                        1171.0,
+                        610.0
+                    ]
+                ]
+            },
+            {
+                "text": ". Designed, implemented, and maintained hardware, software, and network configurations and troubleshoot system and",
+                "confidence": 0.9938720464706421,
+                "text_region": [
+                    [
+                        199.0,
+                        612.0
+                    ],
+                    [
+                        1441.0,
+                        612.0
+                    ],
+                    [
+                        1441.0,
+                        642.0
+                    ],
+                    [
+                        199.0,
+                        642.0
+                    ]
+                ]
+            },
+            {
+                "text": "network problems quickly and accurately.",
+                "confidence": 0.988442063331604,
+                "text_region": [
+                    [
+                        196.0,
+                        642.0
+                    ],
+                    [
+                        626.0,
+                        642.0
+                    ],
+                    [
+                        626.0,
+                        671.0
+                    ],
+                    [
+                        196.0,
+                        671.0
+                    ]
+                ]
+            },
+            {
+                "text": "IT Specialist and Help desk",
+                "confidence": 0.9678004384040833,
+                "text_region": [
+                    [
+                        196.0,
+                        713.0
+                    ],
+                    [
+                        577.0,
+                        713.0
+                    ],
+                    [
+                        577.0,
+                        742.0
+                    ],
+                    [
+                        196.0,
+                        742.0
+                    ]
+                ]
+            },
+            {
+                "text": "International Company for Medical Supplies",
+                "confidence": 0.999921441078186,
+                "text_region": [
+                    [
+                        196.0,
+                        749.0
+                    ],
+                    [
+                        695.0,
+                        749.0
+                    ],
+                    [
+                        695.0,
+                        779.0
+                    ],
+                    [
+                        196.0,
+                        779.0
+                    ]
+                ]
+            },
+            {
+                "text": "Feb 22-Dec 23, Assiut",
+                "confidence": 0.9995406270027161,
+                "text_region": [
+                    [
+                        1180.0,
+                        749.0
+                    ],
+                    [
+                        1427.0,
+                        749.0
+                    ],
+                    [
+                        1427.0,
+                        779.0
+                    ],
+                    [
+                        1180.0,
+                        779.0
+                    ]
+                ]
+            },
+            {
+                "text": " Designed, implemented, and maintained hardware, software, and network configurations and troubleshoot system and",
+                "confidence": 0.9988926649093628,
+                "text_region": [
+                    [
+                        201.0,
+                        784.0
+                    ],
+                    [
+                        1441.0,
+                        784.0
+                    ],
+                    [
+                        1441.0,
+                        807.0
+                    ],
+                    [
+                        201.0,
+                        807.0
+                    ]
+                ]
+            },
+            {
+                "text": "network problems quickly and accurately..",
+                "confidence": 0.9891698956489563,
+                "text_region": [
+                    [
+                        196.0,
+                        814.0
+                    ],
+                    [
+                        626.0,
+                        814.0
+                    ],
+                    [
+                        626.0,
+                        836.0
+                    ],
+                    [
+                        196.0,
+                        836.0
+                    ]
+                ]
+            },
+            {
+                "text": "Technical Support",
+                "confidence": 0.9999738335609436,
+                "text_region": [
+                    [
+                        190.0,
+                        871.0
+                    ],
+                    [
+                        457.0,
+                        873.0
+                    ],
+                    [
+                        457.0,
+                        905.0
+                    ],
+                    [
+                        189.0,
+                        903.0
+                    ]
+                ]
+            },
+            {
+                "text": "WE Company",
+                "confidence": 0.9994925260543823,
+                "text_region": [
+                    [
+                        192.0,
+                        907.0
+                    ],
+                    [
+                        354.0,
+                        912.0
+                    ],
+                    [
+                        353.0,
+                        945.0
+                    ],
+                    [
+                        191.0,
+                        939.0
+                    ]
+                ]
+            },
+            {
+                "text": "May 19 - Feb 22, Assiut",
+                "confidence": 0.9984745383262634,
+                "text_region": [
+                    [
+                        1178.0,
+                        912.0
+                    ],
+                    [
+                        1441.0,
+                        912.0
+                    ],
+                    [
+                        1441.0,
+                        942.0
+                    ],
+                    [
+                        1178.0,
+                        942.0
+                    ]
+                ]
+            },
+            {
+                "text": ": Provided technical assistance to customers over the phone and email, efficiently resolved customer inquiries and troubleshooted",
+                "confidence": 0.9926309585571289,
+                "text_region": [
+                    [
+                        199.0,
+                        942.0
+                    ],
+                    [
+                        1534.0,
+                        942.0
+                    ],
+                    [
+                        1534.0,
+                        972.0
+                    ],
+                    [
+                        199.0,
+                        972.0
+                    ]
+                ]
+            },
+            {
+                "text": "technical issues.",
+                "confidence": 0.9997057914733887,
+                "text_region": [
+                    [
+                        194.0,
+                        969.0
+                    ],
+                    [
+                        367.0,
+                        972.0
+                    ],
+                    [
+                        367.0,
+                        997.0
+                    ],
+                    [
+                        194.0,
+                        994.0
+                    ]
+                ]
+            },
+            {
+                "text": "Customer Services",
+                "confidence": 0.9998940825462341,
+                "text_region": [
+                    [
+                        194.0,
+                        1013.0
+                    ],
+                    [
+                        460.0,
+                        1013.0
+                    ],
+                    [
+                        460.0,
+                        1043.0
+                    ],
+                    [
+                        194.0,
+                        1043.0
+                    ]
+                ]
+            },
+            {
+                "text": "Vodafone",
+                "confidence": 0.9998763203620911,
+                "text_region": [
+                    [
+                        196.0,
+                        1050.0
+                    ],
+                    [
+                        310.0,
+                        1050.0
+                    ],
+                    [
+                        310.0,
+                        1075.0
+                    ],
+                    [
+                        196.0,
+                        1075.0
+                    ]
+                ]
+            },
+            {
+                "text": "April 18 - May 19, Assiut",
+                "confidence": 0.9855365753173828,
+                "text_region": [
+                    [
+                        1173.0,
+                        1050.0
+                    ],
+                    [
+                        1432.0,
+                        1050.0
+                    ],
+                    [
+                        1432.0,
+                        1079.0
+                    ],
+                    [
+                        1173.0,
+                        1079.0
+                    ]
+                ]
+            },
+            {
+                "text": ": Achieved outstanding customer satisfaction scores of 1oo%, handle them problems and answered over 1o0 customer inquiries a day",
+                "confidence": 0.9891990423202515,
+                "text_region": [
+                    [
+                        196.0,
+                        1079.0
+                    ],
+                    [
+                        1575.0,
+                        1079.0
+                    ],
+                    [
+                        1575.0,
+                        1109.0
+                    ],
+                    [
+                        196.0,
+                        1109.0
+                    ]
+                ]
+            }
+        ],
+        "img_idx": 0,
+        "score": 0.5126487016677856
+    }
+]

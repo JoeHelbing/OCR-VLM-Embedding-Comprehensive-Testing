@@ -1,0 +1,39 @@
+{ "Full Name": "Logan Marcellin Dibon",
+  "Emails": ["logandibon@gmail.com", "https://www.linkedin.com/in/logan-marcellin-dibon-b76393a267/"],
+  "Phone Number": "+33 768864192",
+  "Education":
+    [ 
+      { "Institution": "Ecole des Mines de Nancy - Engineering School",
+        "Degree": "Master in engineering, Specialization in Computer Science",
+        "Graduation Date": "2022" },
+      { "Institution": "Lycée Hoche - Préparatoire aux Grandes Ecoles ",
+        "Degree": "Two-year intensive preparation for entrance exams to the best French engineering schools",
+        "Graduation Date": "2019-2021" }
+    ],
+  "Work Experience":
+    [
+      { 
+        "Company Name": "Daum, historical glassmaker company",
+        "Job Title": "Internship as an operator in the Daum crystal factory",
+        "Start Date": "February 2022",
+        "End Date": "4 weeks" },
+      { 
+        "Company Name": "Unity (Arcade Video Game)",
+        "Job Title": "Development of a two-player arcade video game for the Yeah Music Festival in France",
+        "Start Date": "2023",
+        "End Date": "Not specified"
+      }
+    ],
+  "Skills": ["Native French speaker", "Fluent English speaker"],
+  "Certifications":
+    [
+      { 
+        "Certificate Name": "Cambridge Exam",
+        "Level": "C1" },
+      { 
+        "Certificate Name": "MOOC Certification",
+        "Project Management - Central Lille"
+      	: "Project Management - Central Lille"
+      }
+    ]
+}
