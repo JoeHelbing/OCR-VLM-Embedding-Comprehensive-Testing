@@ -1,0 +1,1938 @@
+{
+    "schema_name": "DoclingDocument",
+    "version": "1.0.0",
+    "name": "large",
+    "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 17442536969041507999,
+        "filename": "large.png"
+    },
+    "furniture": {
+        "self_ref": "#/furniture",
+        "children": [],
+        "name": "_root_",
+        "label": "unspecified"
+    },
+    "body": {
+        "self_ref": "#/body",
+        "children": [
+            {
+                "$ref": "#/pictures/0"
+            },
+            {
+                "$ref": "#/groups/0"
+            },
+            {
+                "$ref": "#/texts/2"
+            },
+            {
+                "$ref": "#/groups/1"
+            },
+            {
+                "$ref": "#/texts/5"
+            },
+            {
+                "$ref": "#/texts/6"
+            },
+            {
+                "$ref": "#/groups/2"
+            },
+            {
+                "$ref": "#/texts/8"
+            },
+            {
+                "$ref": "#/texts/9"
+            },
+            {
+                "$ref": "#/pictures/1"
+            },
+            {
+                "$ref": "#/texts/10"
+            },
+            {
+                "$ref": "#/groups/3"
+            },
+            {
+                "$ref": "#/texts/12"
+            },
+            {
+                "$ref": "#/groups/4"
+            },
+            {
+                "$ref": "#/texts/17"
+            },
+            {
+                "$ref": "#/texts/18"
+            },
+            {
+                "$ref": "#/texts/19"
+            },
+            {
+                "$ref": "#/texts/20"
+            },
+            {
+                "$ref": "#/groups/5"
+            },
+            {
+                "$ref": "#/texts/23"
+            },
+            {
+                "$ref": "#/texts/24"
+            },
+            {
+                "$ref": "#/groups/6"
+            },
+            {
+                "$ref": "#/texts/26"
+            },
+            {
+                "$ref": "#/texts/27"
+            },
+            {
+                "$ref": "#/texts/28"
+            },
+            {
+                "$ref": "#/groups/7"
+            },
+            {
+                "$ref": "#/texts/31"
+            },
+            {
+                "$ref": "#/groups/8"
+            },
+            {
+                "$ref": "#/texts/33"
+            },
+            {
+                "$ref": "#/texts/34"
+            },
+            {
+                "$ref": "#/texts/35"
+            },
+            {
+                "$ref": "#/texts/36"
+            },
+            {
+                "$ref": "#/texts/37"
+            },
+            {
+                "$ref": "#/texts/38"
+            },
+            {
+                "$ref": "#/groups/9"
+            },
+            {
+                "$ref": "#/texts/40"
+            },
+            {
+                "$ref": "#/groups/10"
+            },
+            {
+                "$ref": "#/texts/42"
+            },
+            {
+                "$ref": "#/texts/43"
+            },
+            {
+                "$ref": "#/texts/44"
+            },
+            {
+                "$ref": "#/texts/45"
+            },
+            {
+                "$ref": "#/texts/46"
+            },
+            {
+                "$ref": "#/texts/47"
+            },
+            {
+                "$ref": "#/texts/48"
+            },
+            {
+                "$ref": "#/texts/49"
+            },
+            {
+                "$ref": "#/texts/50"
+            },
+            {
+                "$ref": "#/texts/51"
+            },
+            {
+                "$ref": "#/texts/52"
+            },
+            {
+                "$ref": "#/texts/53"
+            },
+            {
+                "$ref": "#/texts/54"
+            },
+            {
+                "$ref": "#/texts/55"
+            },
+            {
+                "$ref": "#/texts/56"
+            }
+        ],
+        "name": "_root_",
+        "label": "unspecified"
+    },
+    "groups": [
+        {
+            "self_ref": "#/groups/0",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/0"
+                },
+                {
+                    "$ref": "#/texts/1"
+                }
+            ],
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/1",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/3"
+                },
+                {
+                    "$ref": "#/texts/4"
+                }
+            ],
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/2",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/7"
+                }
+            ],
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/3",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/11"
+                }
+            ],
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/4",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/13"
+                },
+                {
+                    "$ref": "#/texts/14"
+                },
+                {
+                    "$ref": "#/texts/15"
+                },
+                {
+                    "$ref": "#/texts/16"
+                }
+            ],
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/5",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/21"
+                },
+                {
+                    "$ref": "#/texts/22"
+                }
+            ],
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/6",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/25"
+                }
+            ],
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/7",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/29"
+                },
+                {
+                    "$ref": "#/texts/30"
+                }
+            ],
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/8",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/32"
+                }
+            ],
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/9",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/39"
+                }
+            ],
+            "name": "list",
+            "label": "list"
+        },
+        {
+            "self_ref": "#/groups/10",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [
+                {
+                    "$ref": "#/texts/41"
+                }
+            ],
+            "name": "list",
+            "label": "list"
+        }
+    ],
+    "texts": [
+        {
+            "self_ref": "#/texts/0",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 36.17273712158203,
+                        "t": 828.3333129882812,
+                        "r": 124.0,
+                        "b": 813.6666870117188,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "orig": "Position Title",
+            "text": "Position Title",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/1",
+            "parent": {
+                "$ref": "#/groups/0"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 443.3333435058594,
+                        "t": 829.0,
+                        "r": 502.3333435058594,
+                        "b": 812.3333129882812,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "orig": "2. Grades",
+            "text": "2. Grades",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/2",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 45.66666793823242,
+                        "t": 806.3333129882812,
+                        "r": 142.6666717529297,
+                        "b": 790.0,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        18
+                    ]
+                }
+            ],
+            "orig": "Telephone Operator",
+            "text": "Telephone Operator"
+        },
+        {
+            "self_ref": "#/texts/3",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 33.66666793823242,
+                        "t": 783.3333129882812,
+                        "r": 291.0,
+                        "b": 765.6666870117188,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        41
+                    ]
+                }
+            ],
+            "orig": "3. Vacancy Announcement Number (If known)",
+            "text": "3. Vacancy Announcement Number (If known)",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/4",
+            "parent": {
+                "$ref": "#/groups/1"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 443.3333435058594,
+                        "t": 784.3333129882812,
+                        "r": 667.0,
+                        "b": 766.3333129882812,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        39
+                    ]
+                }
+            ],
+            "orig": "4. Date Available for Work (mm-dd-yyyy)",
+            "text": "4. Date Available for Work (mm-dd-yyyy)",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/5",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 45.33333206176758,
+                        "t": 761.6666870117188,
+                        "r": 82.33333587646484,
+                        "b": 745.3333129882812,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        6
+                    ]
+                }
+            ],
+            "orig": "11-013",
+            "text": "11-013"
+        },
+        {
+            "self_ref": "#/texts/6",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 456.3333435058594,
+                        "t": 762.0,
+                        "r": 542.6666870117188,
+                        "b": 745.3333129882812,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "orig": "One month notice",
+            "text": "One month notice"
+        },
+        {
+            "self_ref": "#/texts/7",
+            "parent": {
+                "$ref": "#/groups/2"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 34.66666793823242,
+                        "t": 704.6666870117188,
+                        "r": 195.3333282470703,
+                        "b": 688.3333129882812,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "orig": "5. Last Name(s) Sumames",
+            "text": "5. Last Name(s) Sumames",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/8",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 385.3333435058594,
+                        "t": 704.3333129882812,
+                        "r": 449.6666564941406,
+                        "b": 690.3333129882812,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "orig": "First Name",
+            "text": "First Name"
+        },
+        {
+            "self_ref": "#/texts/9",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 631.0,
+                        "t": 704.3333129882812,
+                        "r": 708.0,
+                        "b": 690.3333129882812,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "orig": "Middle Name",
+            "text": "Middle Name"
+        },
+        {
+            "self_ref": "#/texts/10",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 641.6666870117188,
+                        "t": 682.3333129882812,
+                        "r": 673.0,
+                        "b": 667.6666870117188,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        4
+                    ]
+                }
+            ],
+            "orig": "None",
+            "text": "None"
+        },
+        {
+            "self_ref": "#/texts/11",
+            "parent": {
+                "$ref": "#/groups/3"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 35.0,
+                        "t": 658.6820068359375,
+                        "r": 159.3333282470703,
+                        "b": 644.6666870117188,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        19
+                    ]
+                }
+            ],
+            "orig": "6. Olher Nares Used",
+            "text": "6. Olher Nares Used",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/12",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 46.0,
+                        "t": 630.0,
+                        "r": 74.33333587646484,
+                        "b": 616.0,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        4
+                    ]
+                }
+            ],
+            "orig": "None",
+            "text": "None"
+        },
+        {
+            "self_ref": "#/texts/13",
+            "parent": {
+                "$ref": "#/groups/4"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 35.066986083984375,
+                        "t": 599.0,
+                        "r": 196.0,
+                        "b": 582.0,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        26
+                    ]
+                }
+            ],
+            "orig": "Date of Birth (mm-dd-yyyy)",
+            "text": "Date of Birth (mm-dd-yyyy)",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/14",
+            "parent": {
+                "$ref": "#/groups/4"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 384.3333435058594,
+                        "t": 598.6666870117188,
+                        "r": 477.0,
+                        "b": 584.6666870117188,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        17
+                    ]
+                }
+            ],
+            "orig": "8. Place of Birth",
+            "text": "8. Place of Birth",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/15",
+            "parent": {
+                "$ref": "#/groups/4"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 35.0,
+                        "t": 554.0,
+                        "r": 143.3333282470703,
+                        "b": 540.0,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        18
+                    ]
+                }
+            ],
+            "orig": "9. Gurrent Address",
+            "text": "9. Gurrent Address",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/16",
+            "parent": {
+                "$ref": "#/groups/4"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 385.3333435058594,
+                        "t": 554.0,
+                        "r": 500.0,
+                        "b": 539.0,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        17
+                    ]
+                }
+            ],
+            "orig": "10. Phone Numbers",
+            "text": "10. Phone Numbers",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/17",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 395.3333435058594,
+                        "t": 577.3333129882812,
+                        "r": 475.6666564941406,
+                        "b": 561.3333129882812,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "orig": "India; New Delhi",
+            "text": "India; New Delhi"
+        },
+        {
+            "self_ref": "#/texts/18",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 406.993408203125,
+                        "t": 540.2982788085938,
+                        "r": 430.6732482910156,
+                        "b": 521.0350341796875,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        3
+                    ]
+                }
+            ],
+            "orig": "Day",
+            "text": "Day"
+        },
+        {
+            "self_ref": "#/texts/19",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 404.6666564941406,
+                        "t": 518.3333129882812,
+                        "r": 455.0,
+                        "b": 498.0,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "orig": "Evening",
+            "text": "Evening"
+        },
+        {
+            "self_ref": "#/texts/20",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 405.3333435058594,
+                        "t": 492.3333435058594,
+                        "r": 430.3333435058594,
+                        "b": 478.3333435058594,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        4
+                    ]
+                }
+            ],
+            "orig": "Gell",
+            "text": "Gell"
+        },
+        {
+            "self_ref": "#/texts/21",
+            "parent": {
+                "$ref": "#/groups/5"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 35.0,
+                        "t": 472.3333435058594,
+                        "r": 144.0,
+                        "b": 457.6666564941406,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        17
+                    ]
+                }
+            ],
+            "orig": "11. Email Address",
+            "text": "11. Email Address",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/22",
+            "parent": {
+                "$ref": "#/groups/5"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 34.66666793823242,
+                        "t": 418.0,
+                        "r": 190.0,
+                        "b": 400.3333435058594,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        27
+                    ]
+                }
+            ],
+            "orig": "12. Are you a U.S. Citizen?",
+            "text": "12. Are you a U.S. Citizen?",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/23",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "checkbox_unselected",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 210.1708526611328,
+                        "t": 419.691162109375,
+                        "r": 271.3333435058594,
+                        "b": 401.6666564941406,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        3
+                    ]
+                }
+            ],
+            "orig": "Yes",
+            "text": "Yes"
+        },
+        {
+            "self_ref": "#/texts/24",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "checkbox_unselected",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 295.3428955078125,
+                        "t": 418.42315673828125,
+                        "r": 349.6666564941406,
+                        "b": 402.06268310546875,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        4
+                    ]
+                }
+            ],
+            "orig": "{ No",
+            "text": "{ No"
+        },
+        {
+            "self_ref": "#/texts/25",
+            "parent": {
+                "$ref": "#/groups/6"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 34.66666793823242,
+                        "t": 383.3333435058594,
+                        "r": 319.0,
+                        "b": 365.6666564941406,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        47
+                    ]
+                }
+            ],
+            "orig": "13. Do you have permanent U.S. Resident status?",
+            "text": "13. Do you have permanent U.S. Resident status?",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/26",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "checkbox_unselected",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 363.0941467285156,
+                        "t": 384.87939453125,
+                        "r": 423.3333435058594,
+                        "b": 366.99072265625,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        3
+                    ]
+                }
+            ],
+            "orig": "Yes",
+            "text": "Yes"
+        },
+        {
+            "self_ref": "#/texts/27",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "checkbox_unselected",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 453.922119140625,
+                        "t": 383.68896484375,
+                        "r": 508.0,
+                        "b": 367.57861328125,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        4
+                    ]
+                }
+            ],
+            "orig": "{ No",
+            "text": "{ No"
+        },
+        {
+            "self_ref": "#/texts/28",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 517.6666870117188,
+                        "t": 383.3333435058594,
+                        "r": 650.3333129882812,
+                        "b": 365.6666564941406,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        22
+                    ]
+                }
+            ],
+            "orig": "If yes, provide Number",
+            "text": "If yes, provide Number"
+        },
+        {
+            "self_ref": "#/texts/29",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 34.33333206176758,
+                        "t": 345.0,
+                        "r": 488.0,
+                        "b": 324.6666564941406,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        77
+                    ]
+                }
+            ],
+            "orig": "74a. 0.S. Social Security Number (for 0.S. Citizens Permanent U.S. Residents)",
+            "text": "74a. 0.S. Social Security Number (for 0.S. Citizens Permanent U.S. Residents)",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/30",
+            "parent": {
+                "$ref": "#/groups/7"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 34.66666793823242,
+                        "t": 313.3333435058594,
+                        "r": 232.3333282470703,
+                        "b": 294.3333435058594,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        34
+                    ]
+                }
+            ],
+            "orig": "146. Country identilication Number",
+            "text": "146. Country identilication Number",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/31",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 62.0,
+                        "t": 326.0,
+                        "r": 105.66666412353516,
+                        "b": 312.0,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "orig": "and /or",
+            "text": "and /or"
+        },
+        {
+            "self_ref": "#/texts/32",
+            "parent": {
+                "$ref": "#/groups/8"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 34.33333206176758,
+                        "t": 278.3333435058594,
+                        "r": 278.0,
+                        "b": 258.3333435058594,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        45
+                    ]
+                }
+            ],
+            "orig": "15. Are you eligible to work in this country?",
+            "text": "15. Are you eligible to work in this country?",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/33",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "checkbox_unselected",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 335.0345764160156,
+                        "t": 278.34149169921875,
+                        "r": 395.3333435058594,
+                        "b": 261.94366455078125,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        3
+                    ]
+                }
+            ],
+            "orig": "Yes",
+            "text": "Yes"
+        },
+        {
+            "self_ref": "#/texts/34",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "checkbox_unselected",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 459.6302795410156,
+                        "t": 279.1522216796875,
+                        "r": 513.6666870117188,
+                        "b": 261.301025390625,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "orig": "No",
+            "text": "No"
+        },
+        {
+            "self_ref": "#/texts/35",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 33.33333206176758,
+                        "t": 254.0,
+                        "r": 715.6666870117188,
+                        "b": 206.0,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        304
+                    ]
+                }
+            ],
+            "orig": "If yes, Mission HR may require verification of eligibility .   Please atlach copies of all documentation that conlirms your legal eligibility to work in this country work permit, residency permit) -   If you are not sure if you need to submit proof of eligibility, contact the Mission's HR office. (e.9-,",
+            "text": "If yes, Mission HR may require verification of eligibility .   Please atlach copies of all documentation that conlirms your legal eligibility to work in this country work permit, residency permit) -   If you are not sure if you need to submit proof of eligibility, contact the Mission's HR office. (e.9-,"
+        },
+        {
+            "self_ref": "#/texts/36",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 55.0,
+                        "t": 192.6666717529297,
+                        "r": 207.0,
+                        "b": 172.3333282470703,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        27
+                    ]
+                }
+            ],
+            "orig": "and duties of thc position?",
+            "text": "and duties of thc position?"
+        },
+        {
+            "self_ref": "#/texts/37",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "checkbox_unselected",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 232.9955291748047,
+                        "t": 192.7860107421875,
+                        "r": 293.0,
+                        "b": 175.118896484375,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        3
+                    ]
+                }
+            ],
+            "orig": "Yes",
+            "text": "Yes"
+        },
+        {
+            "self_ref": "#/texts/38",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "checkbox_unselected",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 335.0833435058594,
+                        "t": 191.0946044921875,
+                        "r": 389.6666564941406,
+                        "b": 175.2606201171875,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        4
+                    ]
+                }
+            ],
+            "orig": "X No",
+            "text": "X No"
+        },
+        {
+            "self_ref": "#/texts/39",
+            "parent": {
+                "$ref": "#/groups/9"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 34.66666793823242,
+                        "t": 208.6666717529297,
+                        "r": 696.3333129882812,
+                        "b": 189.6666717529297,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        119
+                    ]
+                }
+            ],
+            "orig": "16. If hired, are there accommodations the Mission neods to provide s0 that you can perform all the assential functions",
+            "text": "16. If hired, are there accommodations the Mission neods to provide s0 that you can perform all the assential functions",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/40",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 415.0,
+                        "t": 192.3333282470703,
+                        "r": 536.6666870117188,
+                        "b": 171.3333282470703,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        22
+                    ]
+                }
+            ],
+            "orig": "If yes, please explain",
+            "text": "If yes, please explain"
+        },
+        {
+            "self_ref": "#/texts/41",
+            "parent": {
+                "$ref": "#/groups/10"
+            },
+            "children": [],
+            "label": "list_item",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 34.66666793823242,
+                        "t": 145.3333282470703,
+                        "r": 715.6666870117188,
+                        "b": 126.66666412353516,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        126
+                    ]
+                }
+            ],
+            "orig": "17 . If you are applying lor a position that includes driving a U.S. Government vehicle, do you have a valid driver's license?",
+            "text": "17 . If you are applying lor a position that includes driving a U.S. Government vehicle, do you have a valid driver's license?",
+            "enumerated": false,
+            "marker": "-"
+        },
+        {
+            "self_ref": "#/texts/42",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "checkbox_unselected",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 57.96467971801758,
+                        "t": 121.7303466796875,
+                        "r": 117.66666412353516,
+                        "b": 105.4476318359375,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        5
+                    ]
+                }
+            ],
+            "orig": "{ Yes",
+            "text": "{ Yes"
+        },
+        {
+            "self_ref": "#/texts/43",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "checkbox_unselected",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 176.746337890625,
+                        "t": 120.9686279296875,
+                        "r": 230.3333282470703,
+                        "b": 103.845703125,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "orig": "No",
+            "text": "No"
+        },
+        {
+            "self_ref": "#/texts/44",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 55.33333206176758,
+                        "t": 97.66666412353516,
+                        "r": 220.0,
+                        "b": 77.33333587646484,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        29
+                    ]
+                }
+            ],
+            "orig": "If yes, Class Type of License",
+            "text": "If yes, Class Type of License"
+        },
+        {
+            "self_ref": "#/texts/45",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 244.0,
+                        "t": 96.66666412353516,
+                        "r": 403.6666564941406,
+                        "b": 79.33333587646484,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        32
+                    ]
+                }
+            ],
+            "orig": "lightheavy_on commercial [icense",
+            "text": "lightheavy_on commercial [icense"
+        },
+        {
+            "self_ref": "#/texts/46",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 55.33333206176758,
+                        "t": 78.66666412353516,
+                        "r": 484.3333435058594,
+                        "b": 59.66666793823242,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        78
+                    ]
+                }
+            ],
+            "orig": "If yes, have you operated a vehicle without incident for the past three years?",
+            "text": "If yes, have you operated a vehicle without incident for the past three years?"
+        },
+        {
+            "self_ref": "#/texts/47",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "checkbox_unselected",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 510.6921081542969,
+                        "t": 78.8934326171875,
+                        "r": 571.3333129882812,
+                        "b": 62.33333206176758,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        5
+                    ]
+                }
+            ],
+            "orig": "X Yes",
+            "text": "X Yes"
+        },
+        {
+            "self_ref": "#/texts/48",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "checkbox_unselected",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 590.1654052734375,
+                        "t": 79.39788818359375,
+                        "r": 644.0,
+                        "b": 62.61993408203125,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        2
+                    ]
+                }
+            ],
+            "orig": "No",
+            "text": "No"
+        },
+        {
+            "self_ref": "#/texts/49",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "page_footer",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 34.0,
+                        "t": 33.0,
+                        "r": 72.0,
+                        "b": 8.666666984558105,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "orig": "05-174 12-2i119",
+            "text": "05-174 12-2i119"
+        },
+        {
+            "self_ref": "#/texts/50",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "page_footer",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 595.6431274414062,
+                        "t": 33.284690856933594,
+                        "r": 625.0,
+                        "b": 18.715309143066406,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        5
+                    ]
+                }
+            ],
+            "orig": "1 Fgr",
+            "text": "1 Fgr"
+        },
+        {
+            "self_ref": "#/texts/51",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "section_header",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 300.3333435058594,
+                        "t": 729.3333129882812,
+                        "r": 465.0,
+                        "b": 715.0,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        20
+                    ]
+                }
+            ],
+            "orig": "PERSONAL INFORMATION",
+            "text": "PERSONAL INFORMATION",
+            "level": 1
+        },
+        {
+            "self_ref": "#/texts/52",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "section_header",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 317.3333435058594,
+                        "t": 986.6666870117188,
+                        "r": 395.3333435058594,
+                        "b": 972.6666870117188,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "orig": "0.5. Mission",
+            "text": "0.5. Mission",
+            "level": 1
+        },
+        {
+            "self_ref": "#/texts/53",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "section_header",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 198.6666717529297,
+                        "t": 959.6666870117188,
+                        "r": 512.3333129882812,
+                        "b": 927.6666870117188,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        71
+                    ]
+                }
+            ],
+            "orig": "APPLICATION FOR EMPLOYMENT AS A LOCALLY EMPLOYED STAFF OR FAMILY MeMBER",
+            "text": "APPLICATION FOR EMPLOYMENT AS A LOCALLY EMPLOYED STAFF OR FAMILY MeMBER",
+            "level": 1
+        },
+        {
+            "self_ref": "#/texts/54",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 130.3333282470703,
+                        "t": 904.3333129882812,
+                        "r": 582.6666870117188,
+                        "b": 865.3333129882812,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        175
+                    ]
+                }
+            ],
+            "orig": "(Tluis appdcalion is for posltions recruuted by Ihe LS. Msslon under Ihe Department 0f State $ Office 0f Overseas Employment $ interagoncy Local Employmenr Rocruitmenr Folicy)",
+            "text": "(Tluis appdcalion is for posltions recruuted by Ihe LS. Msslon under Ihe Department 0f State $ Office 0f Overseas Employment $ interagoncy Local Employmenr Rocruitmenr Folicy)"
+        },
+        {
+            "self_ref": "#/texts/55",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "section_header",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 351.0,
+                        "t": 851.6666870117188,
+                        "r": 413.6666564941406,
+                        "b": 836.6666870117188,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "orig": "POSITION",
+            "text": "POSITION",
+            "level": 1
+        },
+        {
+            "self_ref": "#/texts/56",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "text",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 601.6666870117188,
+                        "t": 988.0,
+                        "r": 716.6666870117188,
+                        "b": 960.3333129882812,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        64
+                    ]
+                }
+            ],
+            "orig": "Oma afpaoval No1405-[169 EXPIFES; 12912012 eatimaTFN PUADFN: Hcu",
+            "text": "Oma afpaoval No1405-[169 EXPIFES; 12912012 eatimaTFN PUADFN: Hcu"
+        }
+    ],
+    "pictures": [
+        {
+            "self_ref": "#/pictures/0",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "picture",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 35.92992401123047,
+                        "t": 981.0145263671875,
+                        "r": 110.85647583007812,
+                        "b": 903.8341064453125,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        },
+        {
+            "self_ref": "#/pictures/1",
+            "parent": {
+                "$ref": "#/body"
+            },
+            "children": [],
+            "label": "picture",
+            "prov": [
+                {
+                    "page_no": 1,
+                    "bbox": {
+                        "l": 388.8126220703125,
+                        "t": 687.2203979492188,
+                        "r": 429.94488525390625,
+                        "b": 664.8046264648438,
+                        "coord_origin": "BOTTOMLEFT"
+                    },
+                    "charspan": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "captions": [],
+            "references": [],
+            "footnotes": [],
+            "annotations": []
+        }
+    ],
+    "tables": [],
+    "key_value_items": [],
+    "pages": {
+        "1": {
+            "size": {
+                "width": 770.0,
+                "height": 1024.0
+            },
+            "page_no": 1
+        }
+    }
+}

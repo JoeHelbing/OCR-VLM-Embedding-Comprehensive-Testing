@@ -1,0 +1,1284 @@
+body:
+  children:
+  - $ref: '#/pictures/0'
+  - $ref: '#/groups/0'
+  - $ref: '#/texts/2'
+  - $ref: '#/groups/1'
+  - $ref: '#/texts/5'
+  - $ref: '#/texts/6'
+  - $ref: '#/groups/2'
+  - $ref: '#/texts/8'
+  - $ref: '#/texts/9'
+  - $ref: '#/pictures/1'
+  - $ref: '#/texts/10'
+  - $ref: '#/groups/3'
+  - $ref: '#/texts/12'
+  - $ref: '#/groups/4'
+  - $ref: '#/texts/17'
+  - $ref: '#/texts/18'
+  - $ref: '#/texts/19'
+  - $ref: '#/texts/20'
+  - $ref: '#/groups/5'
+  - $ref: '#/texts/23'
+  - $ref: '#/texts/24'
+  - $ref: '#/groups/6'
+  - $ref: '#/texts/26'
+  - $ref: '#/texts/27'
+  - $ref: '#/texts/28'
+  - $ref: '#/groups/7'
+  - $ref: '#/texts/31'
+  - $ref: '#/groups/8'
+  - $ref: '#/texts/33'
+  - $ref: '#/texts/34'
+  - $ref: '#/texts/35'
+  - $ref: '#/texts/36'
+  - $ref: '#/texts/37'
+  - $ref: '#/texts/38'
+  - $ref: '#/groups/9'
+  - $ref: '#/texts/40'
+  - $ref: '#/groups/10'
+  - $ref: '#/texts/42'
+  - $ref: '#/texts/43'
+  - $ref: '#/texts/44'
+  - $ref: '#/texts/45'
+  - $ref: '#/texts/46'
+  - $ref: '#/texts/47'
+  - $ref: '#/texts/48'
+  - $ref: '#/texts/49'
+  - $ref: '#/texts/50'
+  - $ref: '#/texts/51'
+  - $ref: '#/texts/52'
+  - $ref: '#/texts/53'
+  - $ref: '#/texts/54'
+  - $ref: '#/texts/55'
+  - $ref: '#/texts/56'
+  label: unspecified
+  name: _root_
+  self_ref: '#/body'
+furniture:
+  children: []
+  label: unspecified
+  name: _root_
+  self_ref: '#/furniture'
+groups:
+- children:
+  - $ref: '#/texts/0'
+  - $ref: '#/texts/1'
+  label: list
+  name: list
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/0'
+- children:
+  - $ref: '#/texts/3'
+  - $ref: '#/texts/4'
+  label: list
+  name: list
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/1'
+- children:
+  - $ref: '#/texts/7'
+  label: list
+  name: list
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/2'
+- children:
+  - $ref: '#/texts/11'
+  label: list
+  name: list
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/3'
+- children:
+  - $ref: '#/texts/13'
+  - $ref: '#/texts/14'
+  - $ref: '#/texts/15'
+  - $ref: '#/texts/16'
+  label: list
+  name: list
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/4'
+- children:
+  - $ref: '#/texts/21'
+  - $ref: '#/texts/22'
+  label: list
+  name: list
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/5'
+- children:
+  - $ref: '#/texts/25'
+  label: list
+  name: list
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/6'
+- children:
+  - $ref: '#/texts/29'
+  - $ref: '#/texts/30'
+  label: list
+  name: list
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/7'
+- children:
+  - $ref: '#/texts/32'
+  label: list
+  name: list
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/8'
+- children:
+  - $ref: '#/texts/39'
+  label: list
+  name: list
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/9'
+- children:
+  - $ref: '#/texts/41'
+  label: list
+  name: list
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/10'
+key_value_items: []
+name: large
+origin:
+  binary_hash: 17442536969041507999
+  filename: large.png
+  mimetype: application/pdf
+pages:
+  '1':
+    page_no: 1
+    size:
+      height: 1024.0
+      width: 770.0
+pictures:
+- annotations: []
+  captions: []
+  children: []
+  footnotes: []
+  label: picture
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 903.8341064453125
+      coord_origin: BOTTOMLEFT
+      l: 35.92992401123047
+      r: 110.85647583007812
+      t: 981.0145263671875
+    charspan:
+    - 0
+    - 0
+    page_no: 1
+  references: []
+  self_ref: '#/pictures/0'
+- annotations: []
+  captions: []
+  children: []
+  footnotes: []
+  label: picture
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 664.8046264648438
+      coord_origin: BOTTOMLEFT
+      l: 388.8126220703125
+      r: 429.94488525390625
+      t: 687.2203979492188
+    charspan:
+    - 0
+    - 0
+    page_no: 1
+  references: []
+  self_ref: '#/pictures/1'
+schema_name: DoclingDocument
+tables: []
+texts:
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: Position Title
+  parent:
+    $ref: '#/groups/0'
+  prov:
+  - bbox:
+      b: 813.6666870117188
+      coord_origin: BOTTOMLEFT
+      l: 36.17273712158203
+      r: 124.0
+      t: 828.3333129882812
+    charspan:
+    - 0
+    - 14
+    page_no: 1
+  self_ref: '#/texts/0'
+  text: Position Title
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 2. Grades
+  parent:
+    $ref: '#/groups/0'
+  prov:
+  - bbox:
+      b: 812.3333129882812
+      coord_origin: BOTTOMLEFT
+      l: 443.3333435058594
+      r: 502.3333435058594
+      t: 829.0
+    charspan:
+    - 0
+    - 9
+    page_no: 1
+  self_ref: '#/texts/1'
+  text: 2. Grades
+- children: []
+  label: text
+  orig: Telephone Operator
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 790.0
+      coord_origin: BOTTOMLEFT
+      l: 45.66666793823242
+      r: 142.6666717529297
+      t: 806.3333129882812
+    charspan:
+    - 0
+    - 18
+    page_no: 1
+  self_ref: '#/texts/2'
+  text: Telephone Operator
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 3. Vacancy Announcement Number (If known)
+  parent:
+    $ref: '#/groups/1'
+  prov:
+  - bbox:
+      b: 765.6666870117188
+      coord_origin: BOTTOMLEFT
+      l: 33.66666793823242
+      r: 291.0
+      t: 783.3333129882812
+    charspan:
+    - 0
+    - 41
+    page_no: 1
+  self_ref: '#/texts/3'
+  text: 3. Vacancy Announcement Number (If known)
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 4. Date Available for Work (mm-dd-yyyy)
+  parent:
+    $ref: '#/groups/1'
+  prov:
+  - bbox:
+      b: 766.3333129882812
+      coord_origin: BOTTOMLEFT
+      l: 443.3333435058594
+      r: 667.0
+      t: 784.3333129882812
+    charspan:
+    - 0
+    - 39
+    page_no: 1
+  self_ref: '#/texts/4'
+  text: 4. Date Available for Work (mm-dd-yyyy)
+- children: []
+  label: text
+  orig: 11-013
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 745.3333129882812
+      coord_origin: BOTTOMLEFT
+      l: 45.33333206176758
+      r: 82.33333587646484
+      t: 761.6666870117188
+    charspan:
+    - 0
+    - 6
+    page_no: 1
+  self_ref: '#/texts/5'
+  text: 11-013
+- children: []
+  label: text
+  orig: One month notice
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 745.3333129882812
+      coord_origin: BOTTOMLEFT
+      l: 456.3333435058594
+      r: 542.6666870117188
+      t: 762.0
+    charspan:
+    - 0
+    - 16
+    page_no: 1
+  self_ref: '#/texts/6'
+  text: One month notice
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 5. Last Name(s) Sumames
+  parent:
+    $ref: '#/groups/2'
+  prov:
+  - bbox:
+      b: 688.3333129882812
+      coord_origin: BOTTOMLEFT
+      l: 34.66666793823242
+      r: 195.3333282470703
+      t: 704.6666870117188
+    charspan:
+    - 0
+    - 23
+    page_no: 1
+  self_ref: '#/texts/7'
+  text: 5. Last Name(s) Sumames
+- children: []
+  label: text
+  orig: First Name
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 690.3333129882812
+      coord_origin: BOTTOMLEFT
+      l: 385.3333435058594
+      r: 449.6666564941406
+      t: 704.3333129882812
+    charspan:
+    - 0
+    - 10
+    page_no: 1
+  self_ref: '#/texts/8'
+  text: First Name
+- children: []
+  label: text
+  orig: Middle Name
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 690.3333129882812
+      coord_origin: BOTTOMLEFT
+      l: 631.0
+      r: 708.0
+      t: 704.3333129882812
+    charspan:
+    - 0
+    - 11
+    page_no: 1
+  self_ref: '#/texts/9'
+  text: Middle Name
+- children: []
+  label: text
+  orig: None
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 667.6666870117188
+      coord_origin: BOTTOMLEFT
+      l: 641.6666870117188
+      r: 673.0
+      t: 682.3333129882812
+    charspan:
+    - 0
+    - 4
+    page_no: 1
+  self_ref: '#/texts/10'
+  text: None
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 6. Olher Nares Used
+  parent:
+    $ref: '#/groups/3'
+  prov:
+  - bbox:
+      b: 644.6666870117188
+      coord_origin: BOTTOMLEFT
+      l: 35.0
+      r: 159.3333282470703
+      t: 658.6820068359375
+    charspan:
+    - 0
+    - 19
+    page_no: 1
+  self_ref: '#/texts/11'
+  text: 6. Olher Nares Used
+- children: []
+  label: text
+  orig: None
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 616.0
+      coord_origin: BOTTOMLEFT
+      l: 46.0
+      r: 74.33333587646484
+      t: 630.0
+    charspan:
+    - 0
+    - 4
+    page_no: 1
+  self_ref: '#/texts/12'
+  text: None
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: Date of Birth (mm-dd-yyyy)
+  parent:
+    $ref: '#/groups/4'
+  prov:
+  - bbox:
+      b: 582.0
+      coord_origin: BOTTOMLEFT
+      l: 35.066986083984375
+      r: 196.0
+      t: 599.0
+    charspan:
+    - 0
+    - 26
+    page_no: 1
+  self_ref: '#/texts/13'
+  text: Date of Birth (mm-dd-yyyy)
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 8. Place of Birth
+  parent:
+    $ref: '#/groups/4'
+  prov:
+  - bbox:
+      b: 584.6666870117188
+      coord_origin: BOTTOMLEFT
+      l: 384.3333435058594
+      r: 477.0
+      t: 598.6666870117188
+    charspan:
+    - 0
+    - 17
+    page_no: 1
+  self_ref: '#/texts/14'
+  text: 8. Place of Birth
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 9. Gurrent Address
+  parent:
+    $ref: '#/groups/4'
+  prov:
+  - bbox:
+      b: 540.0
+      coord_origin: BOTTOMLEFT
+      l: 35.0
+      r: 143.3333282470703
+      t: 554.0
+    charspan:
+    - 0
+    - 18
+    page_no: 1
+  self_ref: '#/texts/15'
+  text: 9. Gurrent Address
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 10. Phone Numbers
+  parent:
+    $ref: '#/groups/4'
+  prov:
+  - bbox:
+      b: 539.0
+      coord_origin: BOTTOMLEFT
+      l: 385.3333435058594
+      r: 500.0
+      t: 554.0
+    charspan:
+    - 0
+    - 17
+    page_no: 1
+  self_ref: '#/texts/16'
+  text: 10. Phone Numbers
+- children: []
+  label: text
+  orig: India; New Delhi
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 561.3333129882812
+      coord_origin: BOTTOMLEFT
+      l: 395.3333435058594
+      r: 475.6666564941406
+      t: 577.3333129882812
+    charspan:
+    - 0
+    - 16
+    page_no: 1
+  self_ref: '#/texts/17'
+  text: India; New Delhi
+- children: []
+  label: text
+  orig: Day
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 521.0350341796875
+      coord_origin: BOTTOMLEFT
+      l: 406.993408203125
+      r: 430.6732482910156
+      t: 540.2982788085938
+    charspan:
+    - 0
+    - 3
+    page_no: 1
+  self_ref: '#/texts/18'
+  text: Day
+- children: []
+  label: text
+  orig: Evening
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 498.0
+      coord_origin: BOTTOMLEFT
+      l: 404.6666564941406
+      r: 455.0
+      t: 518.3333129882812
+    charspan:
+    - 0
+    - 7
+    page_no: 1
+  self_ref: '#/texts/19'
+  text: Evening
+- children: []
+  label: text
+  orig: Gell
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 478.3333435058594
+      coord_origin: BOTTOMLEFT
+      l: 405.3333435058594
+      r: 430.3333435058594
+      t: 492.3333435058594
+    charspan:
+    - 0
+    - 4
+    page_no: 1
+  self_ref: '#/texts/20'
+  text: Gell
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 11. Email Address
+  parent:
+    $ref: '#/groups/5'
+  prov:
+  - bbox:
+      b: 457.6666564941406
+      coord_origin: BOTTOMLEFT
+      l: 35.0
+      r: 144.0
+      t: 472.3333435058594
+    charspan:
+    - 0
+    - 17
+    page_no: 1
+  self_ref: '#/texts/21'
+  text: 11. Email Address
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 12. Are you a U.S. Citizen?
+  parent:
+    $ref: '#/groups/5'
+  prov:
+  - bbox:
+      b: 400.3333435058594
+      coord_origin: BOTTOMLEFT
+      l: 34.66666793823242
+      r: 190.0
+      t: 418.0
+    charspan:
+    - 0
+    - 27
+    page_no: 1
+  self_ref: '#/texts/22'
+  text: 12. Are you a U.S. Citizen?
+- children: []
+  label: checkbox_unselected
+  orig: 'Yes'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 401.6666564941406
+      coord_origin: BOTTOMLEFT
+      l: 210.1708526611328
+      r: 271.3333435058594
+      t: 419.691162109375
+    charspan:
+    - 0
+    - 3
+    page_no: 1
+  self_ref: '#/texts/23'
+  text: 'Yes'
+- children: []
+  label: checkbox_unselected
+  orig: '{ No'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 402.06268310546875
+      coord_origin: BOTTOMLEFT
+      l: 295.3428955078125
+      r: 349.6666564941406
+      t: 418.42315673828125
+    charspan:
+    - 0
+    - 4
+    page_no: 1
+  self_ref: '#/texts/24'
+  text: '{ No'
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 13. Do you have permanent U.S. Resident status?
+  parent:
+    $ref: '#/groups/6'
+  prov:
+  - bbox:
+      b: 365.6666564941406
+      coord_origin: BOTTOMLEFT
+      l: 34.66666793823242
+      r: 319.0
+      t: 383.3333435058594
+    charspan:
+    - 0
+    - 47
+    page_no: 1
+  self_ref: '#/texts/25'
+  text: 13. Do you have permanent U.S. Resident status?
+- children: []
+  label: checkbox_unselected
+  orig: 'Yes'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 366.99072265625
+      coord_origin: BOTTOMLEFT
+      l: 363.0941467285156
+      r: 423.3333435058594
+      t: 384.87939453125
+    charspan:
+    - 0
+    - 3
+    page_no: 1
+  self_ref: '#/texts/26'
+  text: 'Yes'
+- children: []
+  label: checkbox_unselected
+  orig: '{ No'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 367.57861328125
+      coord_origin: BOTTOMLEFT
+      l: 453.922119140625
+      r: 508.0
+      t: 383.68896484375
+    charspan:
+    - 0
+    - 4
+    page_no: 1
+  self_ref: '#/texts/27'
+  text: '{ No'
+- children: []
+  label: text
+  orig: If yes, provide Number
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 365.6666564941406
+      coord_origin: BOTTOMLEFT
+      l: 517.6666870117188
+      r: 650.3333129882812
+      t: 383.3333435058594
+    charspan:
+    - 0
+    - 22
+    page_no: 1
+  self_ref: '#/texts/28'
+  text: If yes, provide Number
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 74a. 0.S. Social Security Number (for 0.S. Citizens Permanent U.S. Residents)
+  parent:
+    $ref: '#/groups/7'
+  prov:
+  - bbox:
+      b: 324.6666564941406
+      coord_origin: BOTTOMLEFT
+      l: 34.33333206176758
+      r: 488.0
+      t: 345.0
+    charspan:
+    - 0
+    - 77
+    page_no: 1
+  self_ref: '#/texts/29'
+  text: 74a. 0.S. Social Security Number (for 0.S. Citizens Permanent U.S. Residents)
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 146. Country identilication Number
+  parent:
+    $ref: '#/groups/7'
+  prov:
+  - bbox:
+      b: 294.3333435058594
+      coord_origin: BOTTOMLEFT
+      l: 34.66666793823242
+      r: 232.3333282470703
+      t: 313.3333435058594
+    charspan:
+    - 0
+    - 34
+    page_no: 1
+  self_ref: '#/texts/30'
+  text: 146. Country identilication Number
+- children: []
+  label: text
+  orig: and /or
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 312.0
+      coord_origin: BOTTOMLEFT
+      l: 62.0
+      r: 105.66666412353516
+      t: 326.0
+    charspan:
+    - 0
+    - 7
+    page_no: 1
+  self_ref: '#/texts/31'
+  text: and /or
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 15. Are you eligible to work in this country?
+  parent:
+    $ref: '#/groups/8'
+  prov:
+  - bbox:
+      b: 258.3333435058594
+      coord_origin: BOTTOMLEFT
+      l: 34.33333206176758
+      r: 278.0
+      t: 278.3333435058594
+    charspan:
+    - 0
+    - 45
+    page_no: 1
+  self_ref: '#/texts/32'
+  text: 15. Are you eligible to work in this country?
+- children: []
+  label: checkbox_unselected
+  orig: 'Yes'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 261.94366455078125
+      coord_origin: BOTTOMLEFT
+      l: 335.0345764160156
+      r: 395.3333435058594
+      t: 278.34149169921875
+    charspan:
+    - 0
+    - 3
+    page_no: 1
+  self_ref: '#/texts/33'
+  text: 'Yes'
+- children: []
+  label: checkbox_unselected
+  orig: 'No'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 261.301025390625
+      coord_origin: BOTTOMLEFT
+      l: 459.6302795410156
+      r: 513.6666870117188
+      t: 279.1522216796875
+    charspan:
+    - 0
+    - 2
+    page_no: 1
+  self_ref: '#/texts/34'
+  text: 'No'
+- children: []
+  label: text
+  orig: If yes, Mission HR may require verification of eligibility .   Please atlach
+    copies of all documentation that conlirms your legal eligibility to work in this
+    country work permit, residency permit) -   If you are not sure if you need to
+    submit proof of eligibility, contact the Mission's HR office. (e.9-,
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 206.0
+      coord_origin: BOTTOMLEFT
+      l: 33.33333206176758
+      r: 715.6666870117188
+      t: 254.0
+    charspan:
+    - 0
+    - 304
+    page_no: 1
+  self_ref: '#/texts/35'
+  text: If yes, Mission HR may require verification of eligibility .   Please atlach
+    copies of all documentation that conlirms your legal eligibility to work in this
+    country work permit, residency permit) -   If you are not sure if you need to
+    submit proof of eligibility, contact the Mission's HR office. (e.9-,
+- children: []
+  label: text
+  orig: and duties of thc position?
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 172.3333282470703
+      coord_origin: BOTTOMLEFT
+      l: 55.0
+      r: 207.0
+      t: 192.6666717529297
+    charspan:
+    - 0
+    - 27
+    page_no: 1
+  self_ref: '#/texts/36'
+  text: and duties of thc position?
+- children: []
+  label: checkbox_unselected
+  orig: 'Yes'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 175.118896484375
+      coord_origin: BOTTOMLEFT
+      l: 232.9955291748047
+      r: 293.0
+      t: 192.7860107421875
+    charspan:
+    - 0
+    - 3
+    page_no: 1
+  self_ref: '#/texts/37'
+  text: 'Yes'
+- children: []
+  label: checkbox_unselected
+  orig: X No
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 175.2606201171875
+      coord_origin: BOTTOMLEFT
+      l: 335.0833435058594
+      r: 389.6666564941406
+      t: 191.0946044921875
+    charspan:
+    - 0
+    - 4
+    page_no: 1
+  self_ref: '#/texts/38'
+  text: X No
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 16. If hired, are there accommodations the Mission neods to provide s0 that
+    you can perform all the assential functions
+  parent:
+    $ref: '#/groups/9'
+  prov:
+  - bbox:
+      b: 189.6666717529297
+      coord_origin: BOTTOMLEFT
+      l: 34.66666793823242
+      r: 696.3333129882812
+      t: 208.6666717529297
+    charspan:
+    - 0
+    - 119
+    page_no: 1
+  self_ref: '#/texts/39'
+  text: 16. If hired, are there accommodations the Mission neods to provide s0 that
+    you can perform all the assential functions
+- children: []
+  label: text
+  orig: If yes, please explain
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 171.3333282470703
+      coord_origin: BOTTOMLEFT
+      l: 415.0
+      r: 536.6666870117188
+      t: 192.3333282470703
+    charspan:
+    - 0
+    - 22
+    page_no: 1
+  self_ref: '#/texts/40'
+  text: If yes, please explain
+- children: []
+  enumerated: false
+  label: list_item
+  marker: '-'
+  orig: 17 . If you are applying lor a position that includes driving a U.S. Government
+    vehicle, do you have a valid driver's license?
+  parent:
+    $ref: '#/groups/10'
+  prov:
+  - bbox:
+      b: 126.66666412353516
+      coord_origin: BOTTOMLEFT
+      l: 34.66666793823242
+      r: 715.6666870117188
+      t: 145.3333282470703
+    charspan:
+    - 0
+    - 126
+    page_no: 1
+  self_ref: '#/texts/41'
+  text: 17 . If you are applying lor a position that includes driving a U.S. Government
+    vehicle, do you have a valid driver's license?
+- children: []
+  label: checkbox_unselected
+  orig: '{ Yes'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 105.4476318359375
+      coord_origin: BOTTOMLEFT
+      l: 57.96467971801758
+      r: 117.66666412353516
+      t: 121.7303466796875
+    charspan:
+    - 0
+    - 5
+    page_no: 1
+  self_ref: '#/texts/42'
+  text: '{ Yes'
+- children: []
+  label: checkbox_unselected
+  orig: 'No'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 103.845703125
+      coord_origin: BOTTOMLEFT
+      l: 176.746337890625
+      r: 230.3333282470703
+      t: 120.9686279296875
+    charspan:
+    - 0
+    - 2
+    page_no: 1
+  self_ref: '#/texts/43'
+  text: 'No'
+- children: []
+  label: text
+  orig: If yes, Class Type of License
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 77.33333587646484
+      coord_origin: BOTTOMLEFT
+      l: 55.33333206176758
+      r: 220.0
+      t: 97.66666412353516
+    charspan:
+    - 0
+    - 29
+    page_no: 1
+  self_ref: '#/texts/44'
+  text: If yes, Class Type of License
+- children: []
+  label: text
+  orig: lightheavy_on commercial [icense
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 79.33333587646484
+      coord_origin: BOTTOMLEFT
+      l: 244.0
+      r: 403.6666564941406
+      t: 96.66666412353516
+    charspan:
+    - 0
+    - 32
+    page_no: 1
+  self_ref: '#/texts/45'
+  text: lightheavy_on commercial [icense
+- children: []
+  label: text
+  orig: If yes, have you operated a vehicle without incident for the past three years?
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 59.66666793823242
+      coord_origin: BOTTOMLEFT
+      l: 55.33333206176758
+      r: 484.3333435058594
+      t: 78.66666412353516
+    charspan:
+    - 0
+    - 78
+    page_no: 1
+  self_ref: '#/texts/46'
+  text: If yes, have you operated a vehicle without incident for the past three years?
+- children: []
+  label: checkbox_unselected
+  orig: X Yes
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 62.33333206176758
+      coord_origin: BOTTOMLEFT
+      l: 510.6921081542969
+      r: 571.3333129882812
+      t: 78.8934326171875
+    charspan:
+    - 0
+    - 5
+    page_no: 1
+  self_ref: '#/texts/47'
+  text: X Yes
+- children: []
+  label: checkbox_unselected
+  orig: 'No'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 62.61993408203125
+      coord_origin: BOTTOMLEFT
+      l: 590.1654052734375
+      r: 644.0
+      t: 79.39788818359375
+    charspan:
+    - 0
+    - 2
+    page_no: 1
+  self_ref: '#/texts/48'
+  text: 'No'
+- children: []
+  label: page_footer
+  orig: 05-174 12-2i119
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 8.666666984558105
+      coord_origin: BOTTOMLEFT
+      l: 34.0
+      r: 72.0
+      t: 33.0
+    charspan:
+    - 0
+    - 15
+    page_no: 1
+  self_ref: '#/texts/49'
+  text: 05-174 12-2i119
+- children: []
+  label: page_footer
+  orig: 1 Fgr
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 18.715309143066406
+      coord_origin: BOTTOMLEFT
+      l: 595.6431274414062
+      r: 625.0
+      t: 33.284690856933594
+    charspan:
+    - 0
+    - 5
+    page_no: 1
+  self_ref: '#/texts/50'
+  text: 1 Fgr
+- children: []
+  label: section_header
+  level: 1
+  orig: PERSONAL INFORMATION
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 715.0
+      coord_origin: BOTTOMLEFT
+      l: 300.3333435058594
+      r: 465.0
+      t: 729.3333129882812
+    charspan:
+    - 0
+    - 20
+    page_no: 1
+  self_ref: '#/texts/51'
+  text: PERSONAL INFORMATION
+- children: []
+  label: section_header
+  level: 1
+  orig: 0.5. Mission
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 972.6666870117188
+      coord_origin: BOTTOMLEFT
+      l: 317.3333435058594
+      r: 395.3333435058594
+      t: 986.6666870117188
+    charspan:
+    - 0
+    - 12
+    page_no: 1
+  self_ref: '#/texts/52'
+  text: 0.5. Mission
+- children: []
+  label: section_header
+  level: 1
+  orig: APPLICATION FOR EMPLOYMENT AS A LOCALLY EMPLOYED STAFF OR FAMILY MeMBER
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 927.6666870117188
+      coord_origin: BOTTOMLEFT
+      l: 198.6666717529297
+      r: 512.3333129882812
+      t: 959.6666870117188
+    charspan:
+    - 0
+    - 71
+    page_no: 1
+  self_ref: '#/texts/53'
+  text: APPLICATION FOR EMPLOYMENT AS A LOCALLY EMPLOYED STAFF OR FAMILY MeMBER
+- children: []
+  label: text
+  orig: (Tluis appdcalion is for posltions recruuted by Ihe LS. Msslon under Ihe Department
+    0f State $ Office 0f Overseas Employment $ interagoncy Local Employmenr Rocruitmenr
+    Folicy)
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 865.3333129882812
+      coord_origin: BOTTOMLEFT
+      l: 130.3333282470703
+      r: 582.6666870117188
+      t: 904.3333129882812
+    charspan:
+    - 0
+    - 175
+    page_no: 1
+  self_ref: '#/texts/54'
+  text: (Tluis appdcalion is for posltions recruuted by Ihe LS. Msslon under Ihe Department
+    0f State $ Office 0f Overseas Employment $ interagoncy Local Employmenr Rocruitmenr
+    Folicy)
+- children: []
+  label: section_header
+  level: 1
+  orig: POSITION
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 836.6666870117188
+      coord_origin: BOTTOMLEFT
+      l: 351.0
+      r: 413.6666564941406
+      t: 851.6666870117188
+    charspan:
+    - 0
+    - 8
+    page_no: 1
+  self_ref: '#/texts/55'
+  text: POSITION
+- children: []
+  label: text
+  orig: 'Oma afpaoval No1405-[169 EXPIFES; 12912012 eatimaTFN PUADFN: Hcu'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 960.3333129882812
+      coord_origin: BOTTOMLEFT
+      l: 601.6666870117188
+      r: 716.6666870117188
+      t: 988.0
+    charspan:
+    - 0
+    - 64
+    page_no: 1
+  self_ref: '#/texts/56'
+  text: 'Oma afpaoval No1405-[169 EXPIFES; 12912012 eatimaTFN PUADFN: Hcu'
+version: 1.0.0

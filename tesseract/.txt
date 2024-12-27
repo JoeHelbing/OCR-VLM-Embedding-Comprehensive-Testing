@@ -1,0 +1,141 @@
+IBRAHIM LAHLOU
+
+End of Studies internship | Starting February
+
+@ ibrahimlahlou021@gmail.com & +212 07 77 615131
+in |in/ibrahim-lahlou-ab09861ba
+
+© |github.com/IbLahlou
+
+ 
+
+9 Morocco, Casablanca
+
+ 
+
+ 
+
+EDUCATION
+
+Data Science and Cloud Computing Engineering
+ENSA Oujda | Mohammed First University
+@4 September 2021 - Present 9 Oujda, Oriental
+
+Preparatory Cycle (Science and Engineering)
+ENSA Oujda | Mohammed First University
+@4 September 2019 - June 2021 9 Oujda, Oriental
+
+EXPERIENCE
+
+MLOps Application Internship using NLP
+3D Smart Factory
+
+(4 July 2023-September 2023
+e Analysis of data verification and spelling models.
+
+e Design of a pipeline for an NLP model with metrics.
+
+e Development and deployment of a web interface with Flask.
+¢ Github URL:|IbLahlou/SpellX)
+Python
+
+PERSONAL PROJECTS
+
+ 
+
+9 Morocco, Mohammadia
+
+Docker = Scrum Flask AWS DVC
+
+ 
+
+Analysis of Web Application Log Data
+
+Big Data Project (ongoing)
+e Installation and configuration of Hadoop master-slave architecture.
+e Configuration of Flume for log data ingestion into HBase.
+e Github URL:|IbLahlou/Data-Log-analysis
+Docker Hadoop Flume  HBase_ Python = InfluxDB = Grafana
+
+MLOps Pipeline for ElasticNet Regression
+Data Mining and MLOps Project
+
+e Incremental data ingestion to Google Cloud Storage.
+
+e Continuous integration, deployment,& training of the model & application.
+
+* Github URL:|IbLahlou/ElasticNet-model-e2e|
+Python | GCP Flask | Scikit-learn © MLflow
+
+Airflow Docker
+
+Other Projects:
+
+e Statistical Project | Stochastic Modeling for Regression ||Link|
+Geospatial Analysis Project using Spatial Autoregressive Model | Link
+loT Project | Food Preservation Service | Link)
+
+Prototype of Backends for Frontends with GraphQL ||Link|
+
+Web Project | Development of an E-Commerce application with PHP and
+Wordpress
+
+ACHIEVEMENTS
+
+& Participation in MNPC 22
+National Moroccan Programming
+Competition held at 1337 Khouribga.
+
+Problem Solving Code Optimization
+
+e Participation in several activities
+
+ay
+
+e Basmat al aid (ENSAO solidarity)
+Science Festival (MDSO)
+
+Grand Debate of Oujda (ENCGO)
+Git and GitHub Course Session
+NASA Space App Challenge
+
+SKILLS
+
+DevOps
+e Git, GitHub Actions, Pytest
+
+e Cloud Services: GCP, AWS
+e Docker and Kubernetes
+
+Machine Learning
+e Models: LSTM , CNN
+
+e ML Tools: Tensorflow ,PyTorch, MLflow
+
+Data Engineering and Analysis
+e Relational Databases: MySQL, SQL Server
+
+e NoSQL Databases: Redis, BigQuery
+e Big Data Tools: Airflow, Dataproc
+e Data Visualization: Power BI, Looker
+
+Application Development
+e Frontend: HTML, CSS, JS, Vite + React js
+
+e Backend: Python (Flask, Django), Java, PHP
+
+CERTIFICATIONS
+
+ 
+
+Intro to Agile Development and Scrum
+
+leural Networks and Deep Learning
+P Baseline Infrastructure
+
+LANGUAGES
+
+English Fluent
+French Fluent
+Arabic Native
+
