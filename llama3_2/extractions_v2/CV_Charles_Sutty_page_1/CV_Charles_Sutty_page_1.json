@@ -1,0 +1,44 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Charles Sutty",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "charles.m.sutty@gmail.com",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33680776336",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {
+            "value": {
+                "value": "14, rue Pierre and Marie Curie, 54500 Vandoeuvres-Les-Nancy",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        }
+    },
+    "sections": {},
+    "extracted_text": "I am looking for an engineering internship over the period July/August 2024 in data science or AI."
+}

@@ -1,0 +1,84 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "abdelrahman.abotaleb@gmail.com"
+        ],
+        "phones": [
+            "(02)1092025667"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Bachelor of Computer and Information Systems",
+            "field_of_study": "Computer and Information Systems",
+            "location": null,
+            "start_date": "2015-01-01",
+            "end_date": null,
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Rouvan Hospital",
+            "location": "Assiut",
+            "start_date": "2023-12-23",
+            "end_date": null,
+            "description": [
+                "IT Help desk"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "International Company for Medical Supplies",
+            "location": "Assiut",
+            "start_date": "2022-02-22",
+            "end_date": "2023-12-23",
+            "description": [
+                "IT Specialist and Help Desk"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": [
+        {
+            "name": "An Electronic Election Website",
+            "description": [
+                "Developed an electronic election website with voice authentication and secure user authentication, meeting federal and state security standards."
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": null
+        },
+        {
+            "name": "2D Graphic Design",
+            "description": [
+                "Designed 2D graphics for various projects."
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": null
+        }
+    ],
+    "skills": [
+        "Database Administration",
+        "Network Architecture",
+        "Computer Systems"
+    ],
+    "languages": null,
+    "certifications": [
+        "Google IT Support Specialist Certificate",
+        "Cisco Certified Network Associate (CCNA)"
+    ],
+    "achievements": []
+}

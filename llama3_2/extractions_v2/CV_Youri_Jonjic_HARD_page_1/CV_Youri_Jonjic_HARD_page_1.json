@@ -1,0 +1,142 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Youri JONJIC",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "youri.jonjic@rte-france.com",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+330631458361",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {
+        "About me": [
+            {
+                "value": "Passionate about electrical engineering and design, I am looking for an internship abroad of a minimum duration of 9 weeks in order to validate my engineering diploma in Industrial Engineering, training at the CNAM in Avignon",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "skills": [
+            {
+                "value": "English",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Spanish",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "French",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "Hobbies": [
+            {
+                "value": "Music production",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Scuba diving",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Fishing",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Badminton",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Fitness",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "experience": [
+            {
+                "value": "Alternating Training - 2022/2025 - Marseille 13008",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Data Configurator Technician, RTE (Electricity Transport Network)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "education": [
+            {
+                "value": "EICNAM Alternating, Avignon",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ]
+    },
+    "extracted_text": null
+}

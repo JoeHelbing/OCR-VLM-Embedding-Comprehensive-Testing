@@ -1,0 +1,82 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "manulehir@gmail.com"
+        ],
+        "phones": [
+            "+33 628 917 628"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "MSc",
+            "field_of_study": "Civil Engineering",
+            "location": null,
+            "start_date": "2021",
+            "end_date": "Current",
+            "gpa": null
+        },
+        {
+            "institution": null,
+            "degree": "Bachelor of Honor in Business and Market Economics",
+            "field_of_study": "Business and Market Economics",
+            "location": null,
+            "start_date": "2005",
+            "end_date": "2020",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "EY France - First Tower Paris",
+            "location": "Paris, France",
+            "start_date": "September 2023",
+            "end_date": "March 2024",
+            "description": [
+                "Financial Audit Intern"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Mines Services Junior Enterprise of Mines Nancy",
+            "location": "Nancy, France",
+            "start_date": "2022",
+            "end_date": "2023",
+            "description": [
+                "Chief Administrative Officer"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "Python",
+        "Matlab",
+        "R",
+        "LaTeX",
+        "SQL",
+        "MongoDB",
+        "Microsoft 365"
+    ],
+    "languages": [
+        {
+            "name": "French",
+            "proficiency": "Native"
+        },
+        {
+            "name": "English",
+            "proficiency": "Fluent"
+        }
+    ],
+    "certifications": null,
+    "achievements": null
+}

@@ -1,0 +1,46 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "gaukhar.kurmanova2000@gmail.com"
+        ],
+        "phones": [
+            "+7 (775) 259-22-99"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Yenbekshikazakh Multidisciplinary Hospital",
+            "location": "Almaty, Kazakhstan",
+            "start_date": "September 2022",
+            "end_date": null,
+            "description": [
+                "Project Manager in the healthcare system"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Kazakh National Medical University named after S.D. Asfendiyarov",
+            "location": "Almaty, Kazakhstan",
+            "start_date": "2010",
+            "end_date": null,
+            "description": [
+                "Volunteered and organized a doctor's trip to help the flood victims in Kyzylagash"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": [],
+    "skills": [],
+    "languages": null,
+    "certifications": [],
+    "achievements": null
+}

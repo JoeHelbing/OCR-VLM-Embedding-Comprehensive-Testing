@@ -1,0 +1,39 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Bachelor's degree",
+            "field_of_study": "Media and Mass Communication",
+            "location": null,
+            "start_date": "Oct 2013",
+            "end_date": "Jul 2018"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Mansoura University",
+            "location": "Egypt",
+            "start_date": "Oct 2013",
+            "end_date": "Jul 2018",
+            "description": "Bachelor's degree in Media and Mass Communication. Coursework included Digital Media And Mass Communication, Journalist, Presentation, TV Program, Voice Over, Media App, Mass Communication, Public Relations"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Digital Media And Mass Communication",
+        "Journalist",
+        "Presentation",
+        "TV Program",
+        "Voice Over",
+        "Media App",
+        "Mass Communication",
+        "Public Relations"
+    ],
+    "achievements": null,
+    "summary": null,
+    "objective": null
+}

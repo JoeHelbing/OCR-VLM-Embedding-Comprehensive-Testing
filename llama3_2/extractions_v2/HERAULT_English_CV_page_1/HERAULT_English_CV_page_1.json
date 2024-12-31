@@ -1,0 +1,158 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Florian Hérault",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "herault.florian79@gmail.com",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33637162492",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {
+        "education": [
+            {
+                "value": "Ecole Nationale Supérieure des Mines de Nancy, France",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "2021-Present Ecole Nationale Supérieure des Mines de Nancy, (France)"
+            },
+            {
+                "value": "Major in Energy and Fluids: fluid mechanics, radiation and boundary layers, numerical methods, thermodynamics, statistical physics, quantum physics, continuum mechanics",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Major in Energy and Fluids: fluid mechanics, radiation and boundary layers, numerical methods, thermodynamics, statistical physics, quantum physics, continuum mechanics"
+            },
+            {
+                "value": "Electives: advanced quantum mechanics, environment, biodiversity and sustainability, environmental economics",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Electives: advanced quantum mechanics, environment, biodiversity and sustainability, environmental economics"
+            },
+            {
+                "value": "Others: probabilities, data analysis, machine learning, IT, management...",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Others: probabilities, data analysis, machine learning, IT, management..."
+            }
+        ],
+        "projects": [
+            {
+                "value": "Major project - Design and manufacture of a piezoelectric slab and adaptation of the recovered energy to power a screen at Institut Jean Lamour laboratory (Nancy, France)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Major project - Design and manufacture of a piezoelectric slab and adaptation of the recovered energy to power a screen at Institut Jean Lamour laboratory (Nancy, France)"
+            },
+            {
+                "value": "Jig project at Georesources Laboratory (Nancy, France): experimentation project on a jigging machine to separate two types of minerals according to their features thanks to fluid dynamics",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Jig project at Georesources Laboratory (Nancy, France): experimentation project on a jigging machine to separate two types of minerals according to their features thanks to fluid dynamics"
+            },
+            {
+                "value": "Environment and sustainable development project - life cycle analysis, environmental courses",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Environment and sustainable development project - life cycle analysis, environmental courses"
+            }
+        ],
+        "classes preparatoires aux grandes écoles": [
+            {
+                "value": "Lycée Georges Clemenceau, Nantes, France",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Lycée Georges Clemenceau, Nantes, (France)"
+            },
+            {
+                "value": "A 2-year undergraduate program for preparation to national competitive exams for admission to the most prestigious French graduate schools of engineering",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "A 2-year undergraduate program for preparation to national competitive exams for admission to the most prestigious French graduate schools of engineering"
+            },
+            {
+                "value": "Major in Advanced and Applied Mathematics, Computer Science & Physics, Engineering Science",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Major in Advanced and Applied Mathematics, Computer Science & Physics, Engineering Science"
+            }
+        ],
+        "baccalaureate": [
+            {
+                "value": "French Baccalaureate in Sciences/Mathematics",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "French Baccalaureat in Sciences/Mathematics"
+            },
+            {
+                "value": "Lycée Notre Dame de la Tourtelière, Pouzauges, Vendée (France)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Lycée Notre Dame de la Tourtelière, Pouzauges, Vendée (France)"
+            }
+        ],
+        "experience": [
+            {
+                "value": "Summer job at Batistyl, Maulévrier, France",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Summer job at Batistyl, Maulévrier, France"
+            },
+            {
+                "value": "Reception, sorting and storage of aluminum bars for window production",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Reception, sorting and storage of aluminum bars for window production"
+            }
+        ]
+    },
+    "extracted_text": null
+}

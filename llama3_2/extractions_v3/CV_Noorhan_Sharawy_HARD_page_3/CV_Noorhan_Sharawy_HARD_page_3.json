@@ -1,0 +1,90 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "ahmed@alsharif.com"
+        ],
+        "phones": [
+            "+966-55-1234567"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Bachelor of Science",
+            "field_of_study": "Computer Science",
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "gpa": null
+        },
+        {
+            "institution": null,
+            "degree": "Master of Science",
+            "field_of_study": "Artificial Intelligence",
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Alsharif Group",
+            "location": "Riyadh, Saudi Arabia",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "description": [
+                "Developed and implemented AI-powered solutions for various industries.",
+                "Collaborated with cross-functional teams to design and launch new products."
+            ],
+            "technologies": [
+                "Python",
+                "TensorFlow"
+            ]
+        },
+        {
+            "job_title": null,
+            "company": "Saudi Aramco",
+            "location": "Dhahran, Saudi Arabia",
+            "start_date": "2020-01-01",
+            "end_date": null,
+            "description": [
+                "Led a team of data scientists to develop predictive models for oil production.",
+                "Worked closely with business stakeholders to identify areas for improvement."
+            ],
+            "technologies": [
+                "R",
+                "Keras"
+            ]
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Computer Vision"
+    ],
+    "languages": [
+        {
+            "name": "Arabic",
+            "proficiency": "Native"
+        },
+        {
+            "name": "English",
+            "proficiency": "Fluent"
+        }
+    ],
+    "certifications": [
+        "Certified Data Scientist (CDS)",
+        "Certified Analytics Professional (CAP)"
+    ],
+    "achievements": null
+}

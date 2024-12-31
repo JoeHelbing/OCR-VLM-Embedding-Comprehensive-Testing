@@ -1,0 +1,116 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": null,
+        "phones": [
+            "+33 7 55 64 65 48"
+        ],
+        "locations": null,
+        "linkedin": "https://www.linkedin.com/in/valentin-gerard/",
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master's degree in Mathematics, Vision, Learning (MVA)",
+            "field_of_study": "Mathematics",
+            "location": null,
+            "start_date": "2023-06-01",
+            "end_date": "2024-09-30",
+            "gpa": null
+        },
+        {
+            "institution": null,
+            "degree": "Ingénieur Civil des Mines, Master of Science",
+            "field_of_study": "Civil Engineering",
+            "location": null,
+            "start_date": "2019-10-01",
+            "end_date": "2021-06-30",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Institut FEMTO-ST, Computer Science Department",
+            "location": "Belfort, France",
+            "start_date": "June 2023 - September 2023",
+            "end_date": null,
+            "description": [
+                "Deep Learning Research Intern. Designed and trained a model for the automated detection of R-waves in highly noisy electrocardiograms (ECGs). Evaluated the performance of our model using high-noisy ECG data provided by Dijon Hospital."
+            ],
+            "technologies": [
+                "Python",
+                "SQL",
+                "R",
+                "MATLAB"
+            ]
+        },
+        {
+            "job_title": null,
+            "company": "National Institute for Research in Digital Science and Technology (INRIA)",
+            "location": "Nancy, France",
+            "start_date": "September 2022 - June 2023",
+            "end_date": null,
+            "description": [
+                "Deep Learning Research Intern. Designed and trained more efficient neural network architectures for audiovisual speech generative modeling using variational autoencoders. Focused on encoding the input signal using both speech modalities into a latent representation."
+            ],
+            "technologies": [
+                "Python",
+                "SQL",
+                "R",
+                "MATLAB"
+            ]
+        },
+        {
+            "job_title": null,
+            "company": "LISI Automotive",
+            "location": "Delle, France",
+            "start_date": "January 2022 - February 2022",
+            "end_date": null,
+            "description": [
+                "Factory Operator Intern. Worked on automatic sorting machines for the automotive industry."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "Ecole Normale Supérieure Paris-Saclay (University Paris-Saclay)",
+            "location": "Paris, France",
+            "start_date": "2023-09-01",
+            "end_date": null,
+            "description": [
+                "Master's degree in Mathematics, Vision, Learning (MVA). Advanced learning for text and graph. Algorithms for speech and NLP. Object recognition. Image denoising. Generative models for image. Digital imaging. Deformable models and geometric methods for image analysis."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "Ecole des Mines de Nancy",
+            "location": "Nancy, France",
+            "start_date": "2019-10-01",
+            "end_date": "2021-06-30",
+            "description": [
+                "Ingénieur Civil des Mines, Master of Science. Machine learning. Deep learning. Image processing. Data analysis."
+            ],
+            "technologies": []
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "Python",
+        "SQL",
+        "R",
+        "MATLAB",
+        "PyTorch",
+        "TensorFlow",
+        "Pandas",
+        "NumPy",
+        "Matplotlib"
+    ],
+    "languages": null,
+    "certifications": [],
+    "achievements": []
+}

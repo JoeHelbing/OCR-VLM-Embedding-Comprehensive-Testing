@@ -1,0 +1,21 @@
+{
+    "contacts": null,
+    "education": null,
+    "experience": null,
+    "projects": null,
+    "certifications": null,
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "read, speak, write"
+        },
+        {
+            "name": "French",
+            "proficiency": "read, speak, write"
+        }
+    ],
+    "skills": [],
+    "achievements": null,
+    "summary": "QC Welding, Piping, Coating and NDT",
+    "objective": null
+}

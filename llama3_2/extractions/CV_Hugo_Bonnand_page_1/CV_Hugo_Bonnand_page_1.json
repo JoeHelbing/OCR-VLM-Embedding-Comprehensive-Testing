@@ -1,0 +1,41 @@
+{
+    "contacts": [
+        {
+            "full_name": null,
+            "emails": [
+                "hugo.bonnand@neuf.fr"
+            ],
+            "phones": [
+                "+33 6 17 88 18 38"
+            ],
+            "locations": null,
+            "linkedins": null,
+            "githubs": null,
+            "websites": null
+        }
+    ],
+    "education": null,
+    "experience": null,
+    "projects": null,
+    "certifications": null,
+    "languages": [
+        {
+            "name": "French",
+            "proficiency": "Mother tongue"
+        },
+        {
+            "name": "English",
+            "proficiency": "Fairly fluent. Many trips to English-speaking countries."
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "Beginner. Conversational. B1 SIELE, June 2023 (International Spanish Language Evaluation Service)"
+        }
+    ],
+    "skills": [
+        "Computer Languages: Python, Matlab, Rstudio, SQL"
+    ],
+    "achievements": null,
+    "summary": "Student engineer seeking an engineering internship for March - July 2024",
+    "objective": null
+}

@@ -1,0 +1,35 @@
+{
+    "contacts": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Yenbekshikazakh Multidisciplinary Hospital",
+            "location": "Almaty, Kazakhstan",
+            "start_date": "2022-09-01",
+            "end_date": null,
+            "description": "Project Manager in the healthcare system"
+        },
+        {
+            "job_title": null,
+            "company": "Kazakh National Medical University",
+            "location": "Almaty, Kazakhstan",
+            "start_date": "2010-09-01",
+            "end_date": "2015-06-30",
+            "description": "Doctor of Medicine"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Project Management",
+        "Healthcare",
+        "Medical Education"
+    ],
+    "achievements": [
+        "Volunteered and organized a charity concert at the KazNMU named after S.D. Asfendiyarov to help treat children with disabilities and cerebral palsy in 2009"
+    ],
+    "summary": null,
+    "objective": null
+}

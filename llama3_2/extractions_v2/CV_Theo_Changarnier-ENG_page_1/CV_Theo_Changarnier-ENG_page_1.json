@@ -1,0 +1,44 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Theo Changarnier",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "t.changarnier@gmail.com",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33645447902",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {
+            "value": {
+                "value": "85 rue Georges Ducrocq, 57070 Metz, France",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        }
+    },
+    "sections": {},
+    "extracted_text": "85 rue Georges Ducrocq, 57070 Metz, France"
+}

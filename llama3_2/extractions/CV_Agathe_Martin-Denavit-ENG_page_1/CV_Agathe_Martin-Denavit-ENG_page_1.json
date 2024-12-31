@@ -1,0 +1,31 @@
+{
+    "contacts": null,
+    "education": null,
+    "experience": [
+        {
+            "job_title": null,
+            "company": "DSD Organisation",
+            "location": null,
+            "start_date": "April 2023",
+            "end_date": "June 2023",
+            "description": "Event receptionist"
+        },
+        {
+            "job_title": null,
+            "company": "Nice things",
+            "location": null,
+            "start_date": "May 2022",
+            "end_date": "August 2022",
+            "description": "Apparel retail sales associate"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Softwares: Pack Office 365, Klear, VistaCreate, Canva & Social Medias"
+    ],
+    "achievements": null,
+    "summary": null,
+    "objective": null
+}

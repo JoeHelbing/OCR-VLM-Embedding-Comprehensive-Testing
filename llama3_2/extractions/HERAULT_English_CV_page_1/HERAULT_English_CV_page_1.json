@@ -1,0 +1,49 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Major in Energy and Fluids",
+            "field_of_study": "Fluid mechanics, radiation and boundary layers, numerical methods, thermodynamics, statistical physics, quantum physics, continuum mechanics",
+            "location": null,
+            "start_date": "2021-Present",
+            "end_date": null
+        },
+        {
+            "institution": null,
+            "degree": "Classes Préparatoires aux Grandes Écoles",
+            "field_of_study": "Computer Science & Physics, Engineering Science",
+            "location": null,
+            "start_date": "2019-2021",
+            "end_date": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "French Baccalaureate in Sciences/Mathematics",
+            "location": "Lycée Notre Dame de la Tourtelière, Pouzauges, Vendée (France)",
+            "start_date": "July 2019",
+            "end_date": null,
+            "description": null
+        },
+        {
+            "job_title": null,
+            "company": "Summer job at Batistyl",
+            "location": "Maulévrier, France",
+            "start_date": "2021-2022",
+            "end_date": null,
+            "description": null
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Reception",
+        "Sorting and storage of aluminum bars for window production"
+    ],
+    "achievements": null,
+    "summary": "I am a highly motivated and detail-oriented individual with a strong passion for learning and self-improvement. I have a solid foundation in mathematics, physics, and computer science, which has enabled me to excel in various academic and professional settings.",
+    "objective": null
+}

@@ -1,0 +1,45 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master in Engineering",
+            "field_of_study": "Computer Science",
+            "location": null,
+            "start_date": "2021-09-01",
+            "end_date": "2025-06-30"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "ABC Corporation",
+            "location": "New York, NY",
+            "start_date": "2018-01-01",
+            "end_date": "2020-12-31",
+            "description": "Worked as a software engineer on various projects."
+        },
+        {
+            "job_title": null,
+            "company": "XYZ Inc.",
+            "location": "San Francisco, CA",
+            "start_date": "2021-07-01",
+            "end_date": "Present",
+            "description": "Currently working as a data scientist on machine learning models."
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Python",
+        "Java",
+        "C++"
+    ],
+    "achievements": [
+        "Published 5 research papers in top-tier conferences.",
+        "Won the Best Paper Award at ICML 2020."
+    ],
+    "summary": null,
+    "objective": null
+}

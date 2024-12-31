@@ -1,0 +1,42 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master in Marketing",
+            "field_of_study": "Marketing",
+            "location": null,
+            "start_date": "Sep 2023",
+            "end_date": "May 2024"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "HEC Paris, France",
+            "location": "Paris, France",
+            "start_date": "Sep 2019",
+            "end_date": "May 2023",
+            "description": "Bachelor of Business Administration, double major: Marketing and Accounting"
+        },
+        {
+            "job_title": null,
+            "company": "HEC Montreal, Canada",
+            "location": "Montreal, Canada",
+            "start_date": "Sep 2023",
+            "end_date": "May 2024",
+            "description": "Master in Marketing"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Bilingual | French (native), English (fluent)"
+    ],
+    "achievements": [
+        "Awarded two Entrepreneurship Scholarships for the creation and testing of Business Models, and for generating revenue"
+    ],
+    "summary": null,
+    "objective": null
+}

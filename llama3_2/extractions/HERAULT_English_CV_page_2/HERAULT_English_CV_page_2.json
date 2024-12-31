@@ -1,0 +1,33 @@
+{
+    "contacts": null,
+    "education": null,
+    "experience": null,
+    "projects": null,
+    "certifications": null,
+    "languages": [
+        {
+            "name": "French",
+            "proficiency": "Mother tongue"
+        },
+        {
+            "name": "English",
+            "proficiency": "Fluent/C1 (Cambridge Certification in Advanced English, Grade C, 06/2022)"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "Intermediary/B2 (SIELE Certification: score 741/1000, 02/2023)"
+        },
+        {
+            "name": "Portuguese",
+            "proficiency": "Beginner A2/B1"
+        }
+    ],
+    "skills": [
+        "Manufacture of aluminum parts, PVC, etc. by turning and milling",
+        "Deburring and quality control of parts",
+        "Gained rigour and efficiency while being introduced to the industry world and its organization"
+    ],
+    "achievements": null,
+    "summary": "Internship as a factory operator at Tell Systems, Maulévrier, France",
+    "objective": null
+}

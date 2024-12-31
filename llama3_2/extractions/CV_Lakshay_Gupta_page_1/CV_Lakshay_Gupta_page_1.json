@@ -1,0 +1,47 @@
+{
+    "contacts": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Software Incubator - Software Development Center",
+            "location": "India",
+            "start_date": "Nov 2023",
+            "end_date": "Present",
+            "description": "Developer"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Justice Link",
+            "description": "Made the award winning project for SIH - 2023.",
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": [
+                "Flutter",
+                "NodeJS",
+                "MongoDB",
+                "ExpressJS"
+            ]
+        },
+        {
+            "name": "Soundly",
+            "description": "Made the REST APIs and complete backend from scratch of music listening application using Django Rest Framework.",
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": [
+                "Django",
+                "React Js",
+                "Figma"
+            ]
+        }
+    ],
+    "certifications": null,
+    "languages": null,
+    "skills": [],
+    "achievements": [],
+    "summary": null,
+    "objective": null
+}

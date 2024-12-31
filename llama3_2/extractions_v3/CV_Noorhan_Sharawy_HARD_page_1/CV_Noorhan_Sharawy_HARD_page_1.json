@@ -1,0 +1,56 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": null,
+        "phones": [
+            "+201015734776"
+        ],
+        "locations": [
+            "Cairo, Egypt"
+        ],
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Bachelor's degree",
+            "field_of_study": "Media and Mass Communication",
+            "location": null,
+            "start_date": "Oct 2013",
+            "end_date": "Jul 2018",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Vodafone Egypt",
+            "location": "Egypt",
+            "start_date": "Aug 2019",
+            "end_date": "Oct 2020",
+            "description": [
+                "Streamlined call center operations, optimized staff scheduling, and reduced average wait times. Improved caller satisfaction by implementing effective coaching techniques for call center staff."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "AI AML Company",
+            "location": "Egypt",
+            "start_date": "Aug 2020",
+            "end_date": "Mar 2021",
+            "description": [
+                "Enhanced financial decision-making capabilities through timely, accurate information management. Trained new employees on accounting principles and company procedures. Reviewed accounts, resolved coding areas, and tracked recurring expenses for accrual entry."
+            ],
+            "technologies": []
+        }
+    ],
+    "projects": null,
+    "skills": [],
+    "languages": null,
+    "certifications": [],
+    "achievements": null
+}

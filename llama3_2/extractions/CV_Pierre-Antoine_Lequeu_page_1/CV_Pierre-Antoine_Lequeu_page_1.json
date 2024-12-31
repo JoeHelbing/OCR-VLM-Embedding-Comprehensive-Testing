@@ -1,0 +1,23 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Seoul National University",
+            "field_of_study": "Exchange Semester - Seoul, South Korea",
+            "location": null,
+            "start_date": "2023",
+            "end_date": null
+        }
+    ],
+    "experience": null,
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Python (Sklearn, tensorflow, pytorch), R, matplotlib, SQL & NoSQL, javascript, React & React Native"
+    ],
+    "achievements": null,
+    "summary": null,
+    "objective": null
+}

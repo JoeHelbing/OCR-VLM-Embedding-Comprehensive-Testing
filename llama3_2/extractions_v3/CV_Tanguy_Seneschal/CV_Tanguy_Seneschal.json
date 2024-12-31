@@ -1,0 +1,58 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "tanguy.seneschal@mines-nancy.org"
+        ],
+        "phones": [],
+        "locations": [],
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "A-BIME - Bouray-sur-Juine, France",
+            "location": "Structural design office",
+            "start_date": "June 2023",
+            "end_date": "September 2023",
+            "description": [
+                "Structural calculations on wooden, metal and reinforced concrete structures",
+                "Modelling of BIM 3D projects",
+                "Diagnosis of structures in ancient buildings",
+                "Mastery of Autodesk Revit and Robot Structural Analysis"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Gobrecht - Lille, France",
+            "location": "Craft brewery",
+            "start_date": "February 2023",
+            "end_date": null,
+            "description": [
+                "Craft beer brewing",
+                "Inventory management and deliveries",
+                "Sales and marketing canvassing"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": [],
+    "skills": [],
+    "languages": [
+        {
+            "name": "French",
+            "proficiency": null
+        },
+        {
+            "name": "English",
+            "proficiency": null
+        }
+    ],
+    "certifications": [],
+    "achievements": null
+}

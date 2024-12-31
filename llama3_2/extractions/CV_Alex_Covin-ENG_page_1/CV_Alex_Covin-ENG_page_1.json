@@ -1,0 +1,26 @@
+{
+    "contacts": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Mines Nancy",
+            "location": "France",
+            "start_date": "2022-09-01",
+            "end_date": null,
+            "description": "Civil Engineer Formation"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Independent work",
+        "Teamwork",
+        "Curiosity",
+        "Adaptability"
+    ],
+    "achievements": null,
+    "summary": "Currently in second year at the Ecole Nationale Superieure des Mines de Nancy (ENSMN), I am a French engineering student in Geoscience and Civil Engineering department. I am looking for a 6-month gap internship, in France or abroad, for the academic year 2024/2025. I am particularly interested in civil engineering, construction but also energy and environmental issues.",
+    "objective": null
+}

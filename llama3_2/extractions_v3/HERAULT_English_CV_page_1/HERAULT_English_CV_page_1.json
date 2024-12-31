@@ -1,0 +1,94 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "herault.florian79@gmail.com"
+        ],
+        "phones": [
+            "+33 6 37 16 24 92"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Major in Energy and Fluids",
+            "field_of_study": "Fluid mechanics, radiation and boundary layers, numerical methods, thermodynamics, statistical physics, quantum physics, continuum mechanics",
+            "location": null,
+            "start_date": "2021-Present",
+            "end_date": null,
+            "gpa": null
+        },
+        {
+            "institution": null,
+            "degree": "Classes Préparatoires aux Grandes Écoles",
+            "field_of_study": "Computer Science & Physics, Engineering Science",
+            "location": null,
+            "start_date": "2019-2021",
+            "end_date": null,
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "French Baccalaureate in Sciences/Mathematics",
+            "location": "Lycée Notre Dame de la Tourtelière, Pouzauges, Vendée (France)",
+            "start_date": "July 2019",
+            "end_date": null,
+            "description": [
+                "French Baccalaureate in Science: Mathematics, Physics, Biology (high school leaving diploma), passed with Distinction"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Summer job at Batistyl",
+            "location": "Maulévrier, France",
+            "start_date": "2021-2022",
+            "end_date": null,
+            "description": [
+                "Reception, sorting and storage of aluminum bars for window production. Developed technical skills and ability to adapt, trained and managed the company's newcomers."
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": [
+        {
+            "name": "Major project - Design and manufacture of a piezoelectric slab and adaptation of the recovered energy to power a screen at Institut Jean Lamour laboratory (Nancy, France)",
+            "description": null,
+            "link": null,
+            "start_date": "2021-Present",
+            "end_date": null,
+            "technologies": null
+        },
+        {
+            "name": "Jig project at Georesources Laboratory (Nancy, France): Experimentation project on a jigging machine to separate two types of minerals according to their features thanks to fluid dynamics.",
+            "description": null,
+            "link": null,
+            "start_date": "2021-Present",
+            "end_date": null,
+            "technologies": null
+        },
+        {
+            "name": "Environment and sustainable development project - Life cycle analysis, environmental courses",
+            "description": null,
+            "link": null,
+            "start_date": "2021-Present",
+            "end_date": null,
+            "technologies": null
+        }
+    ],
+    "skills": [
+        "Mathematics",
+        "Physics",
+        "Biology"
+    ],
+    "languages": null,
+    "certifications": null,
+    "achievements": null
+}

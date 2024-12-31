@@ -1,0 +1,45 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "MSc",
+            "field_of_study": "Civil Engineering",
+            "location": null,
+            "start_date": "2021",
+            "end_date": "Current"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "EY France - First Tower Paris",
+            "location": "Paris, France",
+            "start_date": "September 2023",
+            "end_date": "March 2024",
+            "description": "Financial Audit Intern"
+        },
+        {
+            "job_title": null,
+            "company": "Mines Services",
+            "location": "Junior Enterprise of Mines Nancy",
+            "start_date": "2022-2023",
+            "end_date": null,
+            "description": "Chief Administrative Officer"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Python",
+        "Matlab",
+        "R",
+        "LaTeX",
+        "SQL & MongoDB",
+        "Microsoft 365"
+    ],
+    "achievements": [],
+    "summary": "Student in a top 10 French Engineering School in applied mathematics and industrial engineering. Seeking an internship to apply and deepen skills in Finance, Data or Consulting.",
+    "objective": null
+}

@@ -1,0 +1,48 @@
+{
+    "contacts": null,
+    "education": null,
+    "experience": null,
+    "projects": [
+        {
+            "name": "Personal Projects",
+            "description": "Real-Time Depth Estimation with Monocular Camera. Applied MiDaS to the depth estimation of a room.",
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": null
+        },
+        {
+            "name": "Data Challenges & AI Hackathons",
+            "description": "Hitcathon 4th edition, Hi Paris: Won Capgemini's Best Scientific Approach Award.",
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Online Course in Project Management",
+            "issuing_organization": null,
+            "issue_date": null,
+            "expiration_date": null,
+            "credential_id": null,
+            "credential_url": null
+        },
+        {
+            "name": "Introductory Aeronautics Certificate",
+            "issuing_organization": null,
+            "issue_date": null,
+            "expiration_date": null,
+            "credential_id": null,
+            "credential_url": null
+        }
+    ],
+    "languages": null,
+    "skills": [
+        "Music"
+    ],
+    "achievements": [],
+    "summary": null,
+    "objective": null
+}

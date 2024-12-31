@@ -1,0 +1,240 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Anis-Samy Laamri",
+            "confidence": {
+                "value": 0.9,
+                "reason": "Name is clearly visible"
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "a.laamri@outlook.fr",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": "Email address is clearly visible"
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33609862103",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "Phone number is clearly visible"
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {
+        "summary": [
+            {
+                "value": "Student-engineer currently in a gap year before my final year of studies, looking for an internship abroad in a professional context to deepen my knowledge of Data Analytics.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Summary is clearly visible"
+                },
+                "raw_text": null
+            }
+        ],
+        "education": [
+            {
+                "value": "Research Project, Sophomore Year (Nancy, France)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Project title is clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Institut Elie Cartan de Lorraine, September 2022 - June 2023",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Project dates are clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Study on a particular field of algebra, representations theory with a focus on a specific group, the Pauli group, used in quantum computing.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Project description is clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Reduction of a scientific paper, thesis defense and realization of a vulgarization film on the subject.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Project description is clearly visible"
+                },
+                "raw_text": null
+            }
+        ],
+        "experience": [
+            {
+                "value": "Warehouse Engineer, Givenchy (Montbazon, France)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Job title is clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "September 2023 - February 2024",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Work dates are clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Intern in charge of all outbound parcels leaving the warehouse and various environmental projects surrounding it.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Job description is clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Establishment of various KPI built on PowerBI from data extraction from the WMS used in the warehouse.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Job responsibilities are clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Economic and environmental studies (vacuum rate, wedging...)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Job responsibilities are clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Optimization of the warehouse's WMS database to improve the workflow of operations in tune with Givenchy's own ERP system.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Job responsibilities are clearly visible"
+                },
+                "raw_text": null
+            }
+        ],
+        "skills": [
+            {
+                "value": "Technical Skills: Python, C, R, CamL, VBA, LaTeX, SQL, Pandas, Tensorflow, Keras, PyTorch, Scikit-Learn, PowerBI, SAP, Jupyter",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Skills are clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Hard Skills: Data science research methods, data modeling.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Skills are clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Soft Skills: Communication and public speaking, Teamwork & collaboration, Decision-making, Time management",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Skills are clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Languages: French, Native.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Language proficiency is clearly visible"
+                },
+                "raw_text": null
+            }
+        ],
+        "activities_and_interests": [
+            {
+                "value": "Basketball: 12 years in club at regional level (2006-2018). Captain of Mines Nancy's team (2021-2023). Played at a regional scale in Tours' senior team.",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "Activity is clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Literature/Reading: Essays of philosophy: Sociology, keen on French theory.",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": "Unclear text: 'Literature/Reading' could be a typo or unclear term"
+                },
+                "raw_text": "Literature / Reading : Essays of philosophy : Sociology, keen on French theory."
+            },
+            {
+                "value": "Cinema: Member of the School's Association. Attended to various movies festivals (Villerupt, IRTS).",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "Activity is clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Scientific lectures: Attendance, human and technical assistance to the Sciences et Societe conferences cycle.",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": "Unclear text: 'Scientific lectures' could be a typo or unclear term"
+                },
+                "raw_text": "Scientific lectures : Attendance, human and technical assistance to the Sciences et Societe conferences cycle."
+            }
+        ],
+        "logistics_operator_louis_vuitton": [
+            {
+                "value": "Logistics Operator, Louis Vuitton (Cergy, France)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Job title is clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "January 2022 - February 2022",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Work dates are clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Operator in charge of reception of new products at the central warehouse of Louis Vuitton in France.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Job description is clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Handling of the stocking of new products and delivery for order preparation.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Job responsibilities are clearly visible"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Worked as an order preparer for e-commerce and retail stores, in charge of personalized orders.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Job responsibilities are clearly visible"
+                },
+                "raw_text": null
+            }
+        ]
+    },
+    "extracted_text": null
+}

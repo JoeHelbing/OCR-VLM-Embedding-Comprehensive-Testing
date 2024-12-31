@@ -1,0 +1,82 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "janzakova.akerke01@gmail.com"
+        ],
+        "phones": [
+            "+77025399377"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Masters, Medicine",
+            "field_of_study": "Medicine",
+            "location": null,
+            "start_date": "2023-09-01",
+            "end_date": "2025-08-31",
+            "gpa": null
+        },
+        {
+            "institution": null,
+            "degree": "Bachelor's degree, General Medicine / Doctor of Medicine (MD)",
+            "field_of_study": "General Medicine",
+            "location": null,
+            "start_date": "2008-09-01",
+            "end_date": "2013-08-31",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Assistant Professor of Infectious Diseases Department",
+            "company": "Kazakh-Russian Medical University",
+            "location": "Almaty, Kazakhstan",
+            "start_date": "Oct 2021",
+            "end_date": null,
+            "description": null,
+            "technologies": null
+        },
+        {
+            "job_title": "Infectious Diseases Specialist",
+            "company": "City Clinical Hospital No.7",
+            "location": "Almaty, Kazakhstan",
+            "start_date": "Sep 2017",
+            "end_date": null,
+            "description": null,
+            "technologies": null
+        }
+    ],
+    "projects": [
+        {
+            "name": "Reactivation of herpes family viruses (Cytomegalovirus, Epstein-Barr and Herpes Simplex) after COVID-19 infection.",
+            "description": [
+                "Scientific project: Reactivation of herpes family viruses (Cytomegalovirus, Epstein-Barr and Herpes Simplex) after COVID-19 infection."
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": null
+        },
+        {
+            "name": "Clinical and laboratory features of pertussis infection in children.",
+            "description": [
+                "Diploma project: Clinical and laboratory features of pertussis infection in children."
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": null
+        }
+    ],
+    "skills": null,
+    "languages": null,
+    "certifications": null,
+    "achievements": null
+}

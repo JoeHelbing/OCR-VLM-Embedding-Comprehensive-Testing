@@ -1,0 +1,118 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Élise Suspène",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "elise.suspene@depinfonancy.net",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33780033360",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {
+        "education": [
+            {
+                "value": "Second year postgraduate student engineer at the Mines Nancy Grande Ecole, Specialization in Computer Science",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "languages": [
+            {
+                "value": "French (mother tongue)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "English (C2 Cambridge certification)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "German (B2)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "additional training": [
+            {
+                "value": "Project management MOOC",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Serious Game on Health and Safety in the Workplace",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "personal and extra-curricular activities": [
+            {
+                "value": "In charge of publicity for the Perno charity student organization",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "High-level practice of classical music, both solo and within an orchestra",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "internship": [
+            {
+                "value": "Saint-Laurent-des-Eaux nuclear power plant, February 2023 (1 month)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ]
+    },
+    "extracted_text": "Élise Suspène, Second year postgraduate student engineer at the Mines Nancy Grande Ecole, Specialization in Computer Science. French (mother tongue), English (C2 Cambridge certification), German (B2). Project management MOOC, Serious Game on Health and Safety in the Workplace. In charge of publicity for the Perno charity student organization, High-level practice of classical music, both solo and within an orchestra. Saint-Laurent-des-Eaux nuclear power plant, February 2023 (1 month)"
+}

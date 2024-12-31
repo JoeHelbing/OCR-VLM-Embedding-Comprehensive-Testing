@@ -1,0 +1,52 @@
+{
+    "contacts": [
+        {
+            "full_name": null,
+            "emails": [
+                "Nizar.tazi@hotmail.fr"
+            ],
+            "phones": [
+                "+32 4 77 65 35 71"
+            ],
+            "locations": [
+                "Brussels 1030, Belgium"
+            ],
+            "linkedins": null,
+            "githubs": null,
+            "websites": null
+        }
+    ],
+    "education": null,
+    "experience": [
+        {
+            "job_title": "Data Scientist",
+            "company": "ARHS Developments",
+            "location": "Zaventem, Belgium",
+            "start_date": "June 2023 - 2024",
+            "end_date": null,
+            "description": null
+        },
+        {
+            "job_title": "Intern Data Scientist",
+            "company": "Sanofi",
+            "location": "Gentilly, Ile-de-France, France",
+            "start_date": "April 2020 - June 2020",
+            "end_date": null,
+            "description": null
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Database Structure",
+        "Data Scraping",
+        "Data Preparation",
+        "Agile Methodologies"
+    ],
+    "achievements": null,
+    "summary": "Junior Data Scientist with 1.5 years of hands-on experience in Python, SQL, and machine learning. Passionate about unraveling data mysteries to uncover insights and optimize processes.",
+    "objective": null
+}

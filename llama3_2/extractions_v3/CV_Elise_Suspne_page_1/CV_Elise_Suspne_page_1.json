@@ -1,0 +1,68 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "elise.suspene@depinfonancy.net"
+        ],
+        "phones": [
+            "+33 7 80 03 33 60"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Saint-Laurent-des-Eaux nuclear power plant",
+            "location": "February 2023 (1 month)",
+            "start_date": null,
+            "end_date": null,
+            "description": [
+                "Assisting the heads of the Assays-Chemistry-Environment service of the power plant in implementing new management methods"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Analytics.nc",
+            "location": "Volunteer Engineering Student",
+            "start_date": null,
+            "end_date": null,
+            "description": [
+                "Artificial intelligence consulting firm"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": [],
+    "skills": [
+        "Python",
+        "C",
+        "Java",
+        "HTML",
+        "Matlab",
+        "R",
+        "Go",
+        "Rust"
+    ],
+    "languages": [
+        {
+            "name": "French (mother tongue)",
+            "proficiency": "Native"
+        },
+        {
+            "name": "English (C2 Cambridge certification)",
+            "proficiency": "Fluent"
+        },
+        {
+            "name": "German (B2)",
+            "proficiency": "Intermediate"
+        }
+    ],
+    "certifications": null,
+    "achievements": null
+}

@@ -1,0 +1,96 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "t.changarnier@gmail.com"
+        ],
+        "phones": [
+            "+33.6.45.44.79.02"
+        ],
+        "locations": [
+            "85 rue Georges Ducrocq, 57070 Metz, France"
+        ],
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master of Engineering - Computer Science Specialisation",
+            "field_of_study": "Computer Science",
+            "location": null,
+            "start_date": "2020-09-01",
+            "end_date": "2025-08-31",
+            "gpa": null
+        },
+        {
+            "institution": null,
+            "degree": "French secondary school diploma in sciences",
+            "field_of_study": "Sciences",
+            "location": null,
+            "start_date": "2016-09-01",
+            "end_date": "2019-06-30",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Fabert College, Metz, FR",
+            "location": "Metz, France",
+            "start_date": "2019-09-01",
+            "end_date": "2020-08-31",
+            "description": [
+                "Preparatory classes oriented towards Physics, Chemistry and Engineering Science"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Louis Vincent High School, Metz, FR",
+            "location": "Metz, France",
+            "start_date": "2016-09-01",
+            "end_date": "2019-06-30",
+            "description": [
+                "French secondary school diploma in sciences"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": [
+        {
+            "name": "Manage association projects within the school",
+            "description": [
+                "Website creation with HTML5, CSS, PHP and JavaScript"
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": null
+        },
+        {
+            "name": "Set up a company network with CISCO tools",
+            "description": [
+                "Participation in the Climate Fresco"
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": null
+        }
+    ],
+    "skills": [
+        "Network Administration: CISCO Certification - CCNA1",
+        "Web Development: HTML5",
+        "CSS",
+        "MySQL",
+        "Advanced Algorithms Database and Big Data"
+    ],
+    "languages": null,
+    "certifications": [
+        "CISCO Certification - CCNA1"
+    ],
+    "achievements": null
+}

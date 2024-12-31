@@ -1,0 +1,83 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "romain18trapp@gmail.com"
+        ],
+        "phones": [
+            "+33.6.74.11.40.92"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master's Degree",
+            "field_of_study": "Engineering",
+            "location": null,
+            "start_date": "2022",
+            "end_date": "present",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Mines Nancy",
+            "location": "Nancy, France",
+            "start_date": "June 17th, 2024",
+            "end_date": "August 31st, 2024",
+            "description": null,
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Salzgitter AG",
+            "location": "Germany",
+            "start_date": "February 2023",
+            "end_date": "present",
+            "description": null,
+            "technologies": null
+        }
+    ],
+    "projects": [
+        {
+            "name": "Teaching Science (solar system topic) to young children at a Franco-German primary school in Nancy, France",
+            "description": [
+                "A 4-person team with Fives Cryo (Cryogenics energy company, Vosges, France) \"Controlling radiative transfer\""
+            ],
+            "link": null,
+            "start_date": "present",
+            "end_date": "present",
+            "technologies": null
+        }
+    ],
+    "skills": [
+        "Native speaker",
+        "English: Level C1 - British Council IELTS 2024 Score 7.0/9.0 (Advanced User)",
+        "German: Level C1 - Sprachdiplom Goethe Institut 2023 (Advanced User)"
+    ],
+    "languages": [
+        {
+            "name": "French",
+            "proficiency": "Native"
+        },
+        {
+            "name": "English",
+            "proficiency": "Advanced"
+        },
+        {
+            "name": "German",
+            "proficiency": "Advanced"
+        }
+    ],
+    "certifications": [
+        "British Council IELTS 2024 Score 7.0/9.0 (Advanced User)",
+        "Sprachdiplom Goethe Institut 2023 (Advanced User)"
+    ],
+    "achievements": null
+}

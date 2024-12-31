@@ -1,0 +1,35 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master of Complex Systems Engineering",
+            "field_of_study": null,
+            "location": null,
+            "start_date": "Sept. 2021 - June 2024",
+            "end_date": null
+        },
+        {
+            "institution": null,
+            "degree": "Bachelor's Degree in Electronics/Optics",
+            "field_of_study": null,
+            "location": null,
+            "start_date": "Sept. 2020 - June 2021",
+            "end_date": null
+        }
+    ],
+    "experience": null,
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "C/C++",
+        "Phyton",
+        "VHDL",
+        "Matlab",
+        "Assembly"
+    ],
+    "achievements": null,
+    "summary": "Embedded Systems Engineer with 1 year of experience at Continental Engineering Services, passionate about embedded systems and skilled in driver development, SoC architectures, low-level programming for embedded systems, and technical problem-solving. Seeking a position starting from September 2024.",
+    "objective": null
+}

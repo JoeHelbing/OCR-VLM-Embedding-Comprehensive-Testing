@@ -1,0 +1,358 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Axel Covin",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "axel.covin.pro@gmail.com",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33770371927",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {
+        "presentation": [
+            {
+                "value": "Currently in second year at the Ecole Nationale Superieure des Mines de Nancy (ENSMN). I am a French engineering student in the Geoscience and Civil Engineering department. I am looking for a 6-month gap internship, in France or abroad, for the academic year 2024/2025. I am particularly interested in civil engineering, construction but also energy and environmental issues.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "skills": [
+            {
+                "value": "Office Pack",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Python, Matlab and RStudio Code",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "PSCI (first aid training)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "languages": [
+            {
+                "value": "English C1",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Chinese (Mandarin) HSK2",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "German A2",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "associative_commitment": [
+            {
+                "value": "Member of Students' Office Corporate Relations Manager June 2023 - June 2024",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Partnership negotiation",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Event organization",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Contribution to strategic decision-making concerning the school's associative life",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "school's football team manager": [
+            {
+                "value": "School's Football Team Manager September 2023 - June 2024",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Training organization",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Equipment management",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Administrative management",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Academic refereeing formation",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "formation": [
+            {
+                "value": "Mines Nancy's Civil Engineer Formation - Ecole Nationale Supérieure des Mines de Nancy (ENSMN) - Geoscience and Civil Engineering Department 2022-2026",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Mechanics of soils and rocks",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Civil engineering",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Mechanics of structures and resistance of materials",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Land-use planning project: quarry design with study of different aspects",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Cindynic project 'ScenarCrise': science of the danger, study of risks of all types on the sites of the University of Lorraine and implementation of a crisis simulation software.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Accounting, General Economics and Project Management (Massive Open Online Courses)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "intensive two-year science courses to prepare a competitive examination for selective schools": [
+            {
+                "value": "Intensive Two-Year Science Courses to Prepare a Competitive Examination for Selective Schools September 2020 - July 2022",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Solid scientific foundation (Mathematics, Physics, Chemistry, Engineering Sciences)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Supervised Personal Initiative Work (Weekly research work on a chosen subject): identification and differentiation of individuals using their biometric data",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Preparation for oral and written competitive examination",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "experience": [
+            {
+                "value": "Technical Train Maintenance Operator Course (Paris EST) SNCF (French National Railway Company)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "January 2023 - February 2024",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Sorting and inventory of personal protective equipment",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Database and stock management",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Office moves",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Display of plans in French trains (French Express Regional Network)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "temporary worker in the Prime Minister's Services DSAF (Administrative and Financial Services Direction)": [
+            {
+                "value": "Temporary Worker in the Prime Minister's Services DSAF (Administrative and Financial Services Direction) July 2021 (1 month)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Office moves and layouts",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Logistics",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Room preparation",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Minor repairs",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ]
+    },
+    "extracted_text": null
+}

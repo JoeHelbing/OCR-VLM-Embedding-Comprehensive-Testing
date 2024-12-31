@@ -1,0 +1,100 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Carl Boillot",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "carlboillot@orange.fr",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33658690463",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {
+        "education": [
+            {
+                "value": "Mines Nancy, France 2021 - Engineer Mines de Nancy Curriculum - MSc Equivalent",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "MINES NANCY\nNancy, France\n2021 - ENGINEER MINES DE NANCY CURRICULUM - MSC EQUIVALENT"
+            },
+            {
+                "value": "Lycee Henri Poincare, Nancy, France 2019-2021",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": "LYCEE HENRI POINCARÉ\nNancy, France\n2019 - 2021"
+            }
+        ],
+        "experience": [
+            {
+                "value": "SpringFive, Issy les Moulineaux, France July-December 2023",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "SPRINGFIVE\nIssy les Moulineaux, France\nJuly - December 2023"
+            },
+            {
+                "value": "Sopil SA, Pirey, France July 2022",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "SOPIL SA\nPirey, France\nJuly 2022"
+            }
+        ],
+        "skills": [
+            {
+                "value": "Programming Languages: Python, Matlab, R, SQL, VBA",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Machine Learning & Deep Learning: Keras, TensorFlow, Scikit-Learn, Pandas, Matplotlib",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "personal_interests": [
+            {
+                "value": "Hobbies: Competitive table tennis, rugby and running - Piano during 7 years.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "HOBBIES:\nCompetitive table tennis, rugby and running - Piano during 7 years."
+            }
+        ]
+    },
+    "extracted_text": null
+}

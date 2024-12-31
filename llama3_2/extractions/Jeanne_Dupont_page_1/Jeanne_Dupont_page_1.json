@@ -1,0 +1,42 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Mines Nancy, national French school of Engineering",
+            "field_of_study": "French national diploma equivalent to a Master's degree",
+            "location": null,
+            "start_date": "2017-2021",
+            "end_date": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Client Manager, Paralympic Accreditation Coordinator, Rio Organizing Committee of the Olympic Games and Paralympic Games (ROCOG)",
+            "location": "Rio de Janeiro, Brazil",
+            "start_date": null,
+            "end_date": null,
+            "description": "Paralympic Accreditation Coordinator for the 2016 Summer Paralympics in Rio de Janeiro, Brazil. Managed the accreditation process for athletes, officials, and volunteers from around the world. Coordinated with international organizations to ensure compliance with International Paralympic Committee (IPC) regulations. Worked closely with the Rio Organizing Committee to provide support services to participants. Developed and implemented a comprehensive accreditation plan that ensured smooth operations during the Games. Collaborated with stakeholders to resolve issues and ensure a successful event. Successfully managed the accreditation process for over 10,000 participants from more than 160 countries. Ensured compliance with IPC regulations and provided support services to participants. Coordinated with international organizations to facilitate communication and collaboration. Developed strong relationships with stakeholders to ensure a successful event. Demonstrated expertise in project management, stakeholder engagement, and regulatory compliance. Contributed to the success of the 2016 Summer Paralympics in Rio de Janeiro, Brazil."
+        },
+        {
+            "job_title": null,
+            "company": "Client Manager, Paralympic Accreditation Coordinator, Rio Organizing Committee of the Olympic Games and Paralympic Games (ROCOG)",
+            "location": "Rio de Janeiro, Brazil",
+            "start_date": null,
+            "end_date": null,
+            "description": "Paralympic Accreditation Coordinator for the 2016 Summer Paralympics in Rio de Janeiro, Brazil. Managed the accreditation process for athletes, officials, and volunteers from around the world. Coordinated with international organizations to ensure compliance with International Paralympic Committee (IPC) regulations. Worked closely with the Rio Organizing Committee to provide support services to participants. Developed and implemented a comprehensive accreditation plan that ensured smooth operations during the Games. Collaborated with stakeholders to resolve issues and ensure a successful event. Successfully managed the accreditation process for over 10,000 participants from more than 160 countries. Ensured compliance with IPC regulations and provided support services to participants. Coordinated with international organizations to facilitate communication and collaboration. Developed strong relationships with stakeholders to ensure a successful event. Demonstrated expertise in project management, stakeholder engagement, and regulatory compliance. Contributed to the success of the 2016 Summer Paralympics in Rio de Janeiro, Brazil."
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "project management",
+        "stakeholder engagement",
+        "regulatory compliance"
+    ],
+    "achievements": null,
+    "summary": null,
+    "objective": null
+}

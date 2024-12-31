@@ -1,0 +1,45 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master of Science",
+            "field_of_study": "Mathematical Engineering",
+            "location": null,
+            "start_date": "2022-09-01",
+            "end_date": "2025-06-30"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "AKDMines",
+            "location": "Nancy, France",
+            "start_date": "2023-02-01",
+            "end_date": "2024-02-28",
+            "description": "Project Manager: Developing a proof of concept for a platform facilitating private tutoring services between students and tutors."
+        },
+        {
+            "job_title": null,
+            "company": "Les Cordées de la Réussite",
+            "location": "Nancy, France",
+            "start_date": "2023-09-01",
+            "end_date": "2024-08-31",
+            "description": "Tutor/Teacher: Co-organizing academic tutoring sessions with deputy principals of partner colleges."
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Python",
+        "Scikit-Learn",
+        "Keras",
+        "TensorFlow"
+    ],
+    "achievements": [
+        "Regional runner-up in Hauts-de-Seine"
+    ],
+    "summary": null,
+    "objective": null
+}

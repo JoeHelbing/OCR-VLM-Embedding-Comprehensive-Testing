@@ -1,0 +1,74 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "julie@potentialife.com"
+        ],
+        "phones": [],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "M1 Double Degree with Ecole W - BBA, majoring in International Marketing Strategy",
+            "field_of_study": "International Marketing Strategy",
+            "location": null,
+            "start_date": "2021-09-01",
+            "end_date": "2022-06-30",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "EDHEC & Potentialife",
+            "location": "Paris, France",
+            "start_date": "2021-09-01",
+            "end_date": "2022-06-30",
+            "description": [
+                "Leadership Certification with EDHEC & Potentialife (90h): The art of listening, the art of questioning, the art of dialogue, reflexive leadership as a manager coach, the art of reflexivity"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Ecole W",
+            "location": "Paris, France",
+            "start_date": "2019-09-01",
+            "end_date": "2021-06-30",
+            "description": [
+                "Bachelor's degree in Marketing and Communication, minor Luxury. 100% project-based pedagogy - Graduated with jury congratulations - Head of the year"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "HEC",
+            "location": "Jouy-en-Josas, France",
+            "start_date": "2020-09-01",
+            "end_date": "2021-06-30",
+            "description": [
+                "Academy - Becoming a creative and innovative entrepreneur"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "Leadership Certification with EDHEC & Potentialife (90h): The art of listening, the art of questioning, the art of dialogue, reflexive leadership as a manager coach, the art of reflexivity",
+        "Bachelor's degree in Marketing and Communication, minor Luxury. 100% project-based pedagogy - Graduated with jury congratulations - Head of the year"
+    ],
+    "languages": null,
+    "certifications": [
+        "Leadership Certification with EDHEC & Potentialife (90h): The art of listening, the art of questioning, the art of dialogue, reflexive leadership as a manager coach, the art of reflexivity",
+        "Bachelor's degree in Marketing and Communication, minor Luxury. 100% project-based pedagogy - Graduated with jury congratulations - Head of the year"
+    ],
+    "achievements": [
+        "Leadership Certification with EDHEC & Potentialife (90h): The art of listening, the art of questioning, the art of dialogue, reflexive leadership as a manager coach, the art of reflexivity",
+        "Bachelor's degree in Marketing and Communication, minor Luxury. 100% project-based pedagogy - Graduated with jury congratulations - Head of the year"
+    ]
+}

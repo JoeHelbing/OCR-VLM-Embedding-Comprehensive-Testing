@@ -1,0 +1,64 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "charles.m.sutty@gmail.com"
+        ],
+        "phones": [
+            "06 80 77 63 36"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Ecole des mines de Nancy",
+            "field_of_study": null,
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "gpa": "3.66 (GPA MI: 3.66)"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Mines Services, Junior Mining Company Nancy",
+            "location": null,
+            "start_date": "2023-2024",
+            "end_date": null,
+            "description": null,
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Atelier Mknix de Lille (Decathlon)",
+            "location": null,
+            "start_date": "February 2023",
+            "end_date": null,
+            "description": null,
+            "technologies": null
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "English Level C1",
+        "French mother language"
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "Basic"
+        },
+        {
+            "name": "French",
+            "proficiency": "Native"
+        }
+    ],
+    "certifications": null,
+    "achievements": null
+}

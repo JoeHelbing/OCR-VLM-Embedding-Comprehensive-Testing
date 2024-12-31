@@ -1,0 +1,32 @@
+{
+    "contacts": null,
+    "education": null,
+    "experience": [
+        {
+            "job_title": null,
+            "company": "SONY EUROPE",
+            "location": null,
+            "start_date": "April 2021 - Present",
+            "end_date": null,
+            "description": "Computer Vision Research Intern"
+        },
+        {
+            "job_title": null,
+            "company": "LORIA (Computer Science Research Laboratory)",
+            "location": null,
+            "start_date": "June 2023 - August 2023",
+            "end_date": null,
+            "description": "Deep Learning Research Intern"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Programming Languages: Python, C/C++, SQL, R, MATLAB, VBA",
+        "Python Libraries: PyTorch, TensorFlow, NumPy, Scikit-Learn, OpenCV, SciPy, Matplotlib, River"
+    ],
+    "achievements": null,
+    "summary": null,
+    "objective": null
+}

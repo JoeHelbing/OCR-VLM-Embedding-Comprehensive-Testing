@@ -1,0 +1,42 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [],
+        "phones": [],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Central Clinical Hospital, Almaty, Kazakhstan",
+            "location": "Almaty, Kazakhstan",
+            "start_date": "Sep 2019 - Apr 2022",
+            "end_date": null,
+            "description": [
+                "Emergency Room Physician"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Central Clinical Hospital, Almaty, Kazakhstan",
+            "location": "Almaty, Kazakhstan",
+            "start_date": "Sep 2019 - Apr 2022",
+            "end_date": null,
+            "description": [
+                "Research and Development"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": null,
+    "skills": [],
+    "languages": null,
+    "certifications": [],
+    "achievements": null
+}

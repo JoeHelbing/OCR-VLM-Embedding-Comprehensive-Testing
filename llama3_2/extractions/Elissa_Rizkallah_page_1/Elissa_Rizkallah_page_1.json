@@ -1,0 +1,43 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master of Science in Marketing",
+            "field_of_study": "Marketing",
+            "location": null,
+            "start_date": "2023-09-01",
+            "end_date": "2024-06-30"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "800 Storage",
+            "location": "Dubai, UAE",
+            "start_date": "May 2023",
+            "end_date": null,
+            "description": "Sales Supervisor"
+        },
+        {
+            "job_title": null,
+            "company": "Chamber of Commerce, Industry and Agriculture",
+            "location": "Beirut, Lebanon",
+            "start_date": "May 2022",
+            "end_date": null,
+            "description": "Economic Researcher"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "English (native), Arabic (native), French (fluent)"
+    ],
+    "achievements": [
+        "Achieved monthly sales targets of $40,000+ by implementing effective sales strategies and conducting regular sales performance evaluations",
+        "Collaborated with high-end consumers across the UAE, resulting in 50+ successful deals by tailoring storage solutions to meet unique needs and ensuring customer satisfaction"
+    ],
+    "summary": null,
+    "objective": null
+}

@@ -1,0 +1,44 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master's degree",
+            "field_of_study": "Business Administration and Management",
+            "location": null,
+            "start_date": "2023-09-01",
+            "end_date": "2024-06-30"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "IAE Nancy - Management School",
+            "location": "Nancy, France",
+            "start_date": "2023-09-01",
+            "end_date": "2024-06-30",
+            "description": "Master's degree in Business Administration and Management"
+        },
+        {
+            "job_title": null,
+            "company": "Mines de Nancy Engineering School",
+            "location": "Nancy, France",
+            "start_date": "2021-09-01",
+            "end_date": "2023-08-31",
+            "description": "Master's degree in Mathematical Engineering and Decision Engineering"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Python",
+        "Excel",
+        "Deep learning with Optical Character Recognition Python library"
+    ],
+    "achievements": [
+        "Developed a program to find the cheapest gas stations through photo geolocation of price displays"
+    ],
+    "summary": null,
+    "objective": null
+}

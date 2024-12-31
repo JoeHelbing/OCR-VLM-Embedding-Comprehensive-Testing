@@ -1,0 +1,35 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Bachelor in Business Administration",
+            "field_of_study": null,
+            "location": null,
+            "start_date": "2022-2026",
+            "end_date": null
+        },
+        {
+            "institution": null,
+            "degree": "Scientific French A-Level",
+            "field_of_study": null,
+            "location": null,
+            "start_date": "2021",
+            "end_date": null
+        }
+    ],
+    "experience": null,
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Adaptable and multitasked",
+        "Excellent customer relationship skills",
+        "Problem-solving abilities",
+        "Attention to detail",
+        "Proven ability to handle stress"
+    ],
+    "achievements": null,
+    "summary": "With a diverse background in telecommunications, sales, catering, and bartending, I have cultivated a versatile skill set that enables me to leverage my experiences in accounting and finance. I am enthusiastic about applying my varied experiences, supplemented by relevant coursework, to an internship focused on refining my skills in accounting practices.",
+    "objective": null
+}

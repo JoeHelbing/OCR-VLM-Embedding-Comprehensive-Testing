@@ -1,0 +1,49 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "MSc EQUIVALENT",
+            "field_of_study": "Applied Mathematics department course work : Deep Learning - Data Analysis - Stochastic calculus - Time series analysis - Monte-Carlo Method and Application to Random Processes - Partial Differential Equations - Quantitative Finance - Game Theory",
+            "location": null,
+            "start_date": null,
+            "end_date": null
+        },
+        {
+            "institution": null,
+            "degree": "Preparatory Coursework for Engineering Schools - BSc EQUIVALENT",
+            "field_of_study": "Two years of intensive and advanced courses in mathematics, physics, and chemistry dedicated to the preparation for highly competitive entrance examinations to French engineering schools.",
+            "location": null,
+            "start_date": null,
+            "end_date": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "SpringFive",
+            "location": "Issy les Moulineaux, France",
+            "start_date": "July - December 2023",
+            "end_date": null,
+            "description": null
+        },
+        {
+            "job_title": null,
+            "company": "Sopil SA",
+            "location": "Pirey, France",
+            "start_date": "July 2022",
+            "end_date": null,
+            "description": null
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Programming Languages: Python, Matlab, R, SQL, VBA",
+        "Machine Learning & Deep Learning: Keras, TensorFlow, Scikit-Learn, Pandas, Matplotlib"
+    ],
+    "achievements": null,
+    "summary": "I am looking for a gap year internship as a Data Scientist, lasting between 4 and 6 months starting in February 2024. I am curious and fast learner involved in many different clubs and societies which makes me flexible and comfortable working both as part of a team or independently.",
+    "objective": null
+}

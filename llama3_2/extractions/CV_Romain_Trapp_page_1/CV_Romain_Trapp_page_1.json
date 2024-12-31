@@ -1,0 +1,46 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master's Degree",
+            "field_of_study": "Engineering",
+            "location": null,
+            "start_date": "2022",
+            "end_date": "2024"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Mines Nancy",
+            "location": "Nancy, France",
+            "start_date": "2022",
+            "end_date": null,
+            "description": "Engineering student at Mines Nancy - French equivalent Master's Degree - Major in Energy (3.71 / 4 GPA) From 2022 - after a two-year undergraduate programme at Lycée Kléber in Strasbourg (France) prior to the highly selective entrance examination to prestigious French engineering schools - Nancy (France)"
+        },
+        {
+            "job_title": null,
+            "company": "Karl Schöngen KG Kunststoff-Rohrsysteme",
+            "location": "Salzgitter, Germany",
+            "start_date": "2023",
+            "end_date": null,
+            "description": "Producer worker (training period) - Karl Schöngen KG Kunststoff-Rohrsysteme February 2023 - Salzgitter (Germany)"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Fluid Mechanics",
+        "Thermodynamics",
+        "Economics",
+        "Data Analysis",
+        "Deep Learning"
+    ],
+    "achievements": [
+        "Key courses: Fluid Mechanics, Thermodynamics, Economics, Data Analysis, Deep Learning German-speaking section (History classes in German at SciencesPo Nancy, France)"
+    ],
+    "summary": "As a student engineer on a Master's degree at Mines Nancy, majoring in energy, I'm keen to join your company for an 8-12 week training period requiring skilful teamwork on a complex project. Furthermore, I am capable of adapting to work in any appropriate team as I possess the tools to learn fast and improve.",
+    "objective": null
+}

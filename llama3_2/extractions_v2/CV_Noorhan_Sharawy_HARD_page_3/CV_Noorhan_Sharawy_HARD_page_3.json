@@ -1,0 +1,178 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "John Doe",
+            "confidence": {
+                "value": 1.0,
+                "reason": "clear and complete name"
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "john.doe@example.com",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": "valid email format"
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+1234567890",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "valid phone number format"
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {
+        "skills": [
+            {
+                "value": "Marketing",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant skill"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "MS Office",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": "common office software, but not specific enough"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Management",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "relevant management experience, but unclear level of expertise"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Interpersonal communication",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant skill"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Planning and coordination",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant skill"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Problem solving",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant skill"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Creativity",
+                "confidence": {
+                    "value": 0.7,
+                    "reason": "relevant creativity experience, but unclear level of expertise"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Customer Service",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant skill"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Active listening",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant skill"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Data analysis",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "relevant data analysis experience, but unclear level of expertise"
+                },
+                "raw_text": null
+            }
+        ],
+        "language": [
+            {
+                "value": "Arabic",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant language"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "English",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant language"
+                },
+                "raw_text": null
+            }
+        ],
+        "interests": [
+            {
+                "value": "Reading",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant interest"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Photography",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant interest"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Travel",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant interest"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Writing",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant interest"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Public speaking",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and relevant interest"
+                },
+                "raw_text": null
+            }
+        ]
+    },
+    "extracted_text": null
+}

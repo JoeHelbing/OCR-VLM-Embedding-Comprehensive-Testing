@@ -1,0 +1,180 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Anis-Samy LAAMRI",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "a.laamri@outlook.fr",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33609862103",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {
+        "personal_profile": [
+            {
+                "value": "Student-engineer at Ecole des Mines de Nancy, in a gap year before my final year of studies.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Student-engineer at Ecole des Mines de Nancy, in a gap year before my final year of studies."
+            },
+            {
+                "value": "Currently Intern at Givenchy Central Warehouse until March 2024, I'm seeking an opportunity in Data Analysis/processing in a professional context.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Currently Intern at Givenchy Central Warehouse until March 2024, I'm seeking an opportunity in Data Analysis/processing in a professional context."
+            },
+            {
+                "value": "Driven by curiosity, has a strong attention to detail and the ability to work collaboratively in team settings.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Driven by curiosity, has a strong attention to detail and the ability to work collaboratively in team settings."
+            }
+        ],
+        "education": [
+            {
+                "value": "Research Project, Sophomore Year (Nancy, France)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Research Project, Sophomore Year (Nancy, France)"
+            },
+            {
+                "value": "Institut Elie Cartan de Lorraine, September 2022 - June 2023",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Institut Elie Cartan de Lorraine, September 2022 - June 2023"
+            }
+        ],
+        "experience": [
+            {
+                "value": "Warehouse Engineer, Givenchy (Montbazon, France)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Warehouse Engineer, Givenchy (Montbazon, France)"
+            },
+            {
+                "value": "September 2023 - February 2024",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "September 2023 - February 2024"
+            }
+        ],
+        "skills": [
+            {
+                "value": "Technical Skills: Python, C, R, CamL, VBA, LaTeX, SQL, Pandas, Tensorflow, Keras, Scikit-Learn, PowerBI, SAP",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Technical Skills: Python, C, R, CamL, VBA, LaTeX, SQL, Pandas, Tensorflow, Keras, Scikit-Learn, PowerBI, SAP"
+            }
+        ],
+        "language": [
+            {
+                "value": "French",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "French"
+            },
+            {
+                "value": "English",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "English"
+            },
+            {
+                "value": "Spanish",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Spanish"
+            }
+        ],
+        "activities_interests": [
+            {
+                "value": "Basketball",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Basketball"
+            },
+            {
+                "value": "Reading",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Reading"
+            },
+            {
+                "value": "Scientific Lectures",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Scientific Lectures"
+            }
+        ],
+        "research_project_sophomore_year": [
+            {
+                "value": "Study on a particular field of algebra, representations theory with a focus on the Paul group, used in quantum computing.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Study on a particular field of algebra, representations theory with a focus on the Paul group, used in quantum computing."
+            }
+        ],
+        "main_a_la_pate_freshman_year": [
+            {
+                "value": "Intervention in elementary class within the Main a la Pate institution, created by Georges Charpak (French Physics Nobel Prize).",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": "Intervention in elementary class within the Main a la Pate institution, created by Georges Charpak (French Physics Nobel Prize)."
+            }
+        ]
+    },
+    "extracted_text": "Anis-Samy LAAMRI +33 6 09 86 21 03 a.laamri@outlook.fr Ecole des Mines de Nancy, France Master of Engineering Degree in Applied Mathematics September 2021 - September 2025 Warehouse Engineer, Givenchy (Montbazon, France) September 2023 - February 2024 Technical Skills: Python, C, R, CamL, VBA, LaTeX, SQL, Pandas, Tensorflow, Keras, Scikit-Learn, PowerBI, SAP French English Spanish Basketball Reading Scientific Lectures Research Project, Sophomore Year (Nancy, France) Institut Elie Cartan de Lorraine, September 2022 - June 2023 Study on a particular field of algebra, representations theory with a focus on the Paul group, used in quantum computing. Intervention in elementary class within the Main a la Pate institution, created by Georges Charpak (French Physics Nobel Prize)."
+}

@@ -1,0 +1,84 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "ibrahimlahlou021@gmail.com"
+        ],
+        "phones": [
+            "+2120777615131"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Data Science and Cloud Computing Engineering",
+            "field_of_study": "ENSA Oujda | Mohammed First University",
+            "location": null,
+            "start_date": "September 2021",
+            "end_date": "Present",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Preparatory Cycle (Science and Engineering)",
+            "location": "ENSA Oujda | Mohammed First University",
+            "start_date": "September 2019",
+            "end_date": "June 2021",
+            "description": null,
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "MLOps Application Internship using NLP",
+            "location": "3D Smart Factory",
+            "start_date": "July 2023",
+            "end_date": "September 2023",
+            "description": null,
+            "technologies": null
+        }
+    ],
+    "projects": [
+        {
+            "name": "Analysis of Web Application Log Data",
+            "description": [
+                "Installation and configuration of Hadoop master-slave architecture."
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": null
+        },
+        {
+            "name": "MLOps Pipeline for ElasticNet Regression",
+            "description": [
+                "Incremental data ingestion to Google Cloud Storage."
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": null
+        }
+    ],
+    "skills": [
+        "DevOps",
+        "Machine Learning",
+        "Data Engineering and Analysis"
+    ],
+    "languages": null,
+    "certifications": [
+        "Intro to Agile Development and Scrum",
+        "Neural Networks and Deep Learning",
+        "GCP Baseline Infrastructure"
+    ],
+    "achievements": [
+        "Participation in MNPC 22",
+        "National Moroccan Programming Competition held at Khouribga."
+    ]
+}

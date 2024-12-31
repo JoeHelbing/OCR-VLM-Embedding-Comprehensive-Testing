@@ -1,0 +1,194 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Hugo Bonnard",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "hugo.bonnard@neuf.fr",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33617881838",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {
+        "Languages": [
+            {
+                "value": "French - Mother tongue",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "English - Fairly fluent. Many trips to English-speaking countries. B2 IELTS certification awarded by the British Council, January 2023",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Spanish - Beginner. Conversational. B1 SIELE, June 2023 (International Spanish Language Evaluation Service)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Italian - Independent user. Italian origins",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "skills": [
+            {
+                "value": "Computer Languages: Python, Matlab, Rstudio, SQL",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Software: Fluent, EazyBI, Adobe Illustrator, SolidWorks (bases), Fortran",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "MOOC Project Management (Gestion de Projet) - 2021",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "experience": [
+            {
+                "value": "Internship in Industrialization Methods - Dassault Aviation - Mérignac, FR",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Hospital Cleaner & Host - Hospital of Fourvière - Lyon, FR",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "education": [
+            {
+                "value": "Engineering Diploma at Master's Degree Level - Mines Nancy, FR - Since 2021",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "General Engineer of the Mines | Energy Department",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "projects": [
+            {
+                "value": "Project Disobeying, Resisting: a special citizen's story",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Project of a demonstration model of hydrogen and steel production on Mars",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "Personal Interests": [
+            {
+                "value": "Aeronautical and Aerospace",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Table Tennis Competition for 6 years - Regional level",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Football Competition for 6 years - Regional level",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "Clubs and Societies": [
+            {
+                "value": "Trip Manager of the Surfing Club at Mines Nancy",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Treasurer of the Sailing Club at Mines Nancy",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ]
+    },
+    "extracted_text": null
+}

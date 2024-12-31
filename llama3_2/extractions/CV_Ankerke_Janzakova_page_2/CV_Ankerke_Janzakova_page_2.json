@@ -1,0 +1,49 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Bachelor of Medicine",
+            "field_of_study": "Medicine",
+            "location": null,
+            "start_date": "2015-09-01",
+            "end_date": "2020-06-30"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Central Clinical Hospital, Almaty, Kazakhstan",
+            "location": "Almaty, Kazakhstan",
+            "start_date": "Sep 2019 - Apr 2022",
+            "end_date": null,
+            "description": "Emergency Room Physician\nConducted pre-admission activities such as receiving bookings from physicians and interviewing patients to obtain required information and explain hospital policies, as well as assembling admission folders for scheduled patients.\nProvided emergency care for patients in the emergency department.\nDiagnosed and admitted patients with therapeutic, nephrological, endocrinological, and hematological conditions, including those with comorbidities.\nAnalyzed lab tests, instrumental results, and examination data to ensure accurate diagnoses and appropriate treatment plans."
+        },
+        {
+            "job_title": null,
+            "company": "Central Clinical Hospital, Almaty, Kazakhstan",
+            "location": "Almaty, Kazakhstan",
+            "start_date": "Sep 2019 - Apr 2022",
+            "end_date": null,
+            "description": "Emergency Room Physician\nConducted pre-admission activities such as receiving bookings from physicians and interviewing patients to obtain required information and explain hospital policies, as well as assembling admission folders for scheduled patients.\nProvided emergency care for patients in the emergency department.\nDiagnosed and admitted patients with therapeutic, nephrological, endocrinological, and hematological conditions, including those with comorbidities.\nAnalyzed lab tests, instrumental results, and examination data to ensure accurate diagnoses and appropriate treatment plans."
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Upper-intermediate in English, and native Kazakh and Russian",
+        "Proficiency in MS Office Word, Excel, Outlook, PowerPoint, OneNote, Access, and health management information systems (HMIS)",
+        "Experience in laboratory tests including CBC, biochemical blood tests, ELISA, cell culturing, cerebrospinal fluid, polymerase chain reaction, IFA, CT scans, ECG, and ultrasound diagnostics",
+        "Cross-cultural communication skills",
+        "Expertise in curriculum development, especially on tropical, parasitic, and childhood diseases",
+        "Strong skills in classroom management, student assessment, and feedback, and creating collaborative learning environments",
+        "Knowledge of public health, emergency medicine, patient assessment, diagnosis, and comorbid condition management",
+        "Proficiency in analyzing lab tests, instrumental results, and developing appropriate treatment plans",
+        "Strong multidisciplinary collaboration skills",
+        "Expertise in infectious disease management, clinical decision-making, and comprehensive patient care"
+    ],
+    "achievements": [],
+    "summary": null,
+    "objective": null
+}

@@ -1,0 +1,59 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "axel.covin.pro@gmail.com"
+        ],
+        "phones": [
+            "+33 (0)7.70.37.19.27"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Mines Nancy's Civil Engineer Formation",
+            "location": "École Nationale Supérieure des Mines de Nancy",
+            "start_date": "2022-09-01",
+            "end_date": null,
+            "description": [
+                "Mechanics of soils and rocks"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "DSAF (Administrative and Financial Services Direction)",
+            "location": "Paris",
+            "start_date": "2021-07-01",
+            "end_date": null,
+            "description": [
+                "Office moves and layouts"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": null,
+    "skills": [],
+    "languages": [
+        {
+            "name": "English C1",
+            "proficiency": "Native"
+        },
+        {
+            "name": "Chinese (Mandarin) HSK 2",
+            "proficiency": "Intermediate"
+        },
+        {
+            "name": "German A2",
+            "proficiency": "Basic"
+        }
+    ],
+    "certifications": [],
+    "achievements": []
+}

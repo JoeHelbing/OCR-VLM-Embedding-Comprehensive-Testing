@@ -1,0 +1,44 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Ecole des mines de Nancy (GPA MI: 3.66)",
+            "field_of_study": "Decision Engineering",
+            "location": null,
+            "start_date": "2022-2022",
+            "end_date": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Mines Services, Junior Mining Company Nancy",
+            "location": "Nancy",
+            "start_date": null,
+            "end_date": null,
+            "description": "Communication Manager, using software like Premiere Pro, Canvas, Illustrator. Professional experience, learned legal framework. Planning and social media management."
+        },
+        {
+            "job_title": null,
+            "company": "Atelier Mknix de Lille (Decathlon)",
+            "location": "Lille",
+            "start_date": null,
+            "end_date": null,
+            "description": "Operator Internship, assembly of bicycles on the chain"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Python",
+        "VBA",
+        "R",
+        "C/C++",
+        "Matlab"
+    ],
+    "achievements": null,
+    "summary": "I am looking for an engineering internship over the period July/August 2024 in data science or AI.",
+    "objective": null
+}

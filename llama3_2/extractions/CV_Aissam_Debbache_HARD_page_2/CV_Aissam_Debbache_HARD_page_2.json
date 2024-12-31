@@ -1,0 +1,61 @@
+{
+    "contacts": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "SARPI Spa",
+            "location": "NDT Level II controller",
+            "start_date": "July 2011",
+            "end_date": "September 2014",
+            "description": null
+        },
+        {
+            "job_title": null,
+            "company": "Architectural design office",
+            "location": "IT and network installation",
+            "start_date": "June 2007",
+            "end_date": "September 2009",
+            "description": null
+        },
+        {
+            "job_title": null,
+            "company": "Cyber cafe manager",
+            "location": "IT and network installation and PC repair",
+            "start_date": "June 2005",
+            "end_date": "May 2007",
+            "description": null
+        },
+        {
+            "job_title": null,
+            "company": "Agricultural subdivisional",
+            "location": "Computer scientist (IT)",
+            "start_date": "February 2004",
+            "end_date": "September 2004",
+            "description": null
+        },
+        {
+            "job_title": null,
+            "company": "Military service",
+            "location": "Computer scientist (IT)",
+            "start_date": "March 2001",
+            "end_date": "September 2002",
+            "description": null
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Management",
+        "Project management",
+        "Spss",
+        "Primavera P6",
+        "Internet",
+        "Team spirit",
+        "Able to travel around the world"
+    ],
+    "achievements": null,
+    "summary": null,
+    "objective": null
+}

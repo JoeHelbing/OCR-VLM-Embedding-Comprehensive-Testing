@@ -1,0 +1,35 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Emmanuel Le Hir",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "manulehir@gmail.com",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33628917628",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {},
+    "extracted_text": "Internship for March 2024 Finance, Data, Consulting"
+}

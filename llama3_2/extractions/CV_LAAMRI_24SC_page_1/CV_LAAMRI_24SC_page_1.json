@@ -1,0 +1,45 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master of Engineering Degree in Applied Mathematics",
+            "field_of_study": null,
+            "location": null,
+            "start_date": "September 2021",
+            "end_date": "September 2025"
+        },
+        {
+            "institution": null,
+            "degree": "Bachelor of Sciences - Mathematics",
+            "field_of_study": null,
+            "location": null,
+            "start_date": "September 2019",
+            "end_date": "June 2021"
+        }
+    ],
+    "experience": null,
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Python",
+        "C",
+        "R",
+        "CamL",
+        "VBA",
+        "Latex",
+        "SQL",
+        "Pandas",
+        "Tensorflow",
+        "Keras",
+        "Pytorch",
+        "Scikit-Learn",
+        "PowerBI",
+        "SAP",
+        "Excel"
+    ],
+    "achievements": null,
+    "summary": "Student-engineer currently in a gap year before my final year of studies, looking for an internship abroad in a professional context to deepen my knowledge of Supply Chain. Driven by curiosity and the will to learn about state-of-the-art technologies, I have a strong attention to detail and the ability to work collaboratively in team settings.",
+    "objective": null
+}

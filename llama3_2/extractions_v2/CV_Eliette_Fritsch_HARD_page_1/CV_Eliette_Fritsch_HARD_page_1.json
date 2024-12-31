@@ -1,0 +1,256 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "ELIETTE FRITSCH",
+            "confidence": {
+                "value": 0.9,
+                "reason": "typographical error in name"
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "eliette.fritsch@gmail.com",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33668717498",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "typographical error in phone number"
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {
+        "skills": [
+            {
+                "value": "Financial Analysis",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "typographical error in skill"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Market and Industry Knowledge in Oil & Gas",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Customer Relationship Management",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Sustainable Development",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Excel Macro Programming",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Power BI Usage",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Contract Management",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Budget Planning and Monitoring",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Digital Marketing",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "languages": [
+            {
+                "value": "French: Native",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "English: C1 TOIEC",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "typographical error in language level"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Spanish: B1-2",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Portuguese: A2",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "education": [
+            {
+                "value": "Certification Oil & Gas Industry Operations and Markets",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "typographical error in certification name"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "University of Duke",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Master's Degree in Project Engineering and Management",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "ENSMN/ENSGSI",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "typographical error in school name"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "2022-2024",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "experience": [
+            {
+                "value": "Middle and High School Tutor",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Academia",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "typographical error in company name"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "18 months | 2022-2024",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "internships": [
+            {
+                "value": "AMOA Project Manager",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "CGI Business Consulting",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "typographical error in company name"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "6 months | 2024",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "event_manager": [
+            {
+                "value": "ICN Dakar",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "17 months | 2021",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ]
+    },
+    "extracted_text": null
+}

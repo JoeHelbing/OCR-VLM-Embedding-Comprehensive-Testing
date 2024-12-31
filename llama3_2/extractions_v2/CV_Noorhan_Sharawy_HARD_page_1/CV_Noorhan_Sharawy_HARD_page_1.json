@@ -1,0 +1,35 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Nourhan Sharawy",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "noorhan756@gmail.com",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+201015734776",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {},
+    "extracted_text": "I aspire to join a collaborative work environment where my strong communication skills and team-oriented mindset can help drive collective achievements. Passionate about driving success in the enterprise industry and professional marketing of fast-moving goods. Having worked for more than three years in national companies, I have also been able to skillfully deal with clients and sell banking products for more than four years. I have gained experience in different fields, including digital marketing and communications services. Social and sales. A goal-oriented sales manager with years of sales experience. I have excellent sales, negotiation, and closing skills. Known for great presentations and skill in growing audiences to improve sales. Self-motivated outside sales professional with experience in both technical, non-technical, and fast-paced team environments. An expert in building relationships and dealing with audiences at all levels and different communities."
+}

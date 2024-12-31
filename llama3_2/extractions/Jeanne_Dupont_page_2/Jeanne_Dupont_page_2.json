@@ -1,0 +1,29 @@
+{
+    "contacts": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Intern at the Delegation of the European Union to Ukraine",
+            "location": "Kyiv, Ukraine",
+            "start_date": "June - September 2018",
+            "end_date": null,
+            "description": "Part of Operations Section dealing with EU-funded projects in Good Governance and Democracy Building, working in the sphere of border management. Assisted in project management, tendering, implementation, and evaluation phases, meeting and communicating with appropriate Ukrainian authorities as needed. Worked alongside local staff and personnel from various EU Member States to assist the authorities of Ukraine in improving its institutions. Spoke working languages Russian and English."
+        },
+        {
+            "job_title": null,
+            "company": "AA European Call Centre",
+            "location": "ACTA, Lyon, France",
+            "start_date": "Summer 2017 - 2016 - 2015 - 9 months in total",
+            "end_date": null,
+            "description": "Assisted customers experiencing trouble with their vehicles while traveling abroad by organizing roadside assistance and making alternative travel arrangements and liaising with counterparts across Europe and mechanics on behalf of customers. Combined multi-lingual communication and customer management skills, applying protocols and using modern communication technologies. Part of the 'Prestige Team' in 2017 for Aston Martin, Bentley, and Jaguar assistance, dealing with customers throughout Europe."
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [],
+    "achievements": [],
+    "summary": null,
+    "objective": null
+}

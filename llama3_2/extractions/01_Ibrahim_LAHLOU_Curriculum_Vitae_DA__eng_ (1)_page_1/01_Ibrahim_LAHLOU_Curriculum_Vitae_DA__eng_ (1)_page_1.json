@@ -1,0 +1,34 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Data Science and Cloud Computing Engineering",
+            "field_of_study": "ENSA Oujda | Mohammed First University",
+            "location": null,
+            "start_date": "September 2021",
+            "end_date": "Present"
+        },
+        {
+            "institution": null,
+            "degree": "Preparatory Cycle (Science and Engineering)",
+            "field_of_study": "ENSA Oujda | Mohammed First University",
+            "location": null,
+            "start_date": "September 2019",
+            "end_date": "June 2021"
+        }
+    ],
+    "experience": null,
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": null,
+    "achievements": [
+        "Participation in MNPC 22",
+        "National Moroccan Programming Competition held at Khouribga.",
+        "Problem Solving",
+        "Code Optimization"
+    ],
+    "summary": null,
+    "objective": null
+}

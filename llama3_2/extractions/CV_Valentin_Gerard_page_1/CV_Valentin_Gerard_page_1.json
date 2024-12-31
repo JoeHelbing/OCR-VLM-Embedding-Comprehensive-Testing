@@ -1,0 +1,61 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master's degree",
+            "field_of_study": "Mathematics, Vision, Learning (MVA)",
+            "location": null,
+            "start_date": "2023-09-01",
+            "end_date": "2024-06-30"
+        },
+        {
+            "institution": null,
+            "degree": "Master of Science",
+            "field_of_study": "Civil Engineering",
+            "location": null,
+            "start_date": "2019-09-01",
+            "end_date": "2021-06-30"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Institut FEMTO-ST, Computer Science Department",
+            "location": "Belfort, France",
+            "start_date": "June 2023 - September 2023",
+            "end_date": null,
+            "description": "Deep Learning Research Intern. Designed and trained a model for the automated detection of R-waves in highly noisy electrocardiograms (ECGs). Introduced artificial noise into our training dataset to address this challenge."
+        },
+        {
+            "job_title": null,
+            "company": "National Institute for Research in Digital Science and Technology (INRIA)",
+            "location": "Nancy, France",
+            "start_date": "September 2022 - June 2023",
+            "end_date": null,
+            "description": "Deep Learning Research Intern. Worked on efficient neural network architectures for audiovisual speech generative modeling using variational autoencoders."
+        },
+        {
+            "job_title": null,
+            "company": "LISI Automotive",
+            "location": "Delle, France",
+            "start_date": "January 2022 - February 2022",
+            "end_date": null,
+            "description": "Factory Operator Intern. Worked on automatic sorting machines for the automotive industry."
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Python",
+        "SQL",
+        "R",
+        "MATLAB"
+    ],
+    "achievements": [
+        "Academic excellence scholarship for MVA given by Paris Artificial Intelligence Research Institute (2023-2024)"
+    ],
+    "summary": null,
+    "objective": null
+}

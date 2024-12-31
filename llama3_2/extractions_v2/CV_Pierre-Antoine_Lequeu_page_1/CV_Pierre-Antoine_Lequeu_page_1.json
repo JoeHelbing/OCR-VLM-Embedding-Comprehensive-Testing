@@ -1,0 +1,35 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Pierre-Antoine Lequeu",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "pierreantoinelequeu@gmail.com",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33695049331",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {},
+    "extracted_text": "28 rue Hippolyte Mallet, 63130 Royat, France"
+}

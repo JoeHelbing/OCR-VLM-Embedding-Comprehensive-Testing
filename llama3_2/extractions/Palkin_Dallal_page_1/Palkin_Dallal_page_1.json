@@ -1,0 +1,43 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "HEC Paris",
+            "field_of_study": "Masters in Marketing",
+            "location": null,
+            "start_date": "2023-2024",
+            "end_date": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Aesthetics with Palkin, Innovative & Sustainable Gifting",
+            "location": "Delhi, India",
+            "start_date": "May 2020 - April 2023",
+            "end_date": null,
+            "description": "Founder & Content Creator"
+        },
+        {
+            "job_title": null,
+            "company": "Naarica, Sustainable Solutions for Mensuration",
+            "location": "Station F, Paris",
+            "start_date": "May 2023 - July 2023",
+            "end_date": null,
+            "description": "Content Marketing Intern"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "English (Proficient), French (Beginner)"
+    ],
+    "achievements": [
+        "180 Degrees Consulting, HEC Paris",
+        "HEC Start Up Circle"
+    ],
+    "summary": null,
+    "objective": null
+}

@@ -1,0 +1,50 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master thesis (Qualitative research)",
+            "field_of_study": null,
+            "location": null,
+            "start_date": "2022-2023",
+            "end_date": null
+        },
+        {
+            "institution": null,
+            "degree": "EDHEC Business School",
+            "field_of_study": null,
+            "location": null,
+            "start_date": "2021-2023",
+            "end_date": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "M2 Marketing Management - Concentration in Services & Entertainment",
+            "location": "Lille, France",
+            "start_date": "2022-2023",
+            "end_date": null,
+            "description": null
+        },
+        {
+            "job_title": null,
+            "company": "EDHEC Business School",
+            "location": "Lille, France",
+            "start_date": "2021-2023",
+            "end_date": null,
+            "description": null
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Qualitative research",
+        "Marketing Management",
+        "Concentration in Services & Entertainment"
+    ],
+    "achievements": null,
+    "summary": null,
+    "objective": null
+}

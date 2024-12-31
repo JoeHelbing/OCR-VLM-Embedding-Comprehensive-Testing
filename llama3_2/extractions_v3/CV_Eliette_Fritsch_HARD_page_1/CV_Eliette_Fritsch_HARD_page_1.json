@@ -1,0 +1,94 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "elieftch@gmail.com"
+        ],
+        "phones": [
+            "+3368.71.74.98"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master's Degree",
+            "field_of_study": "Project Engineering and Management",
+            "location": null,
+            "start_date": "2022-09-01",
+            "end_date": "2024-06-30",
+            "gpa": null
+        },
+        {
+            "institution": null,
+            "degree": "Bachelor in Management",
+            "field_of_study": "Business Administration",
+            "location": null,
+            "start_date": "2019-09-01",
+            "end_date": "2022-06-30",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "AMOA Project Manager",
+            "location": "CGI Business Consulting",
+            "start_date": "6 months ago",
+            "end_date": null,
+            "description": [
+                "Project Management",
+                "Client Needs Analysis",
+                "Resource Planning",
+                "Communication",
+                "Problem Solving",
+                "Negotiation"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Marketing Assistant",
+            "location": "M surf school",
+            "start_date": "3 months ago",
+            "end_date": null,
+            "description": [
+                "Design and Development of Merchandise",
+                "Planning and Setting Up a Pop-Up Shop",
+                "Launch of New Clothing Line"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "Project Management",
+        "Client Needs Analysis",
+        "Resource Planning",
+        "Communication",
+        "Problem Solving",
+        "Negotiation",
+        "Time Management",
+        "Leadership",
+        "Adaptability",
+        "Teamwork",
+        "Active Listening",
+        "Empathy"
+    ],
+    "languages": [
+        {
+            "name": "French",
+            "proficiency": "Native"
+        },
+        {
+            "name": "English",
+            "proficiency": "Basic"
+        }
+    ],
+    "certifications": null,
+    "achievements": null
+}

@@ -1,0 +1,26 @@
+{
+    "contacts": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Bouygues Batiment",
+            "location": null,
+            "start_date": "2022-01-01",
+            "end_date": null,
+            "description": "1 month placement as a worker on a construction site"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Python",
+        "Microsoft Office",
+        "VBA",
+        "Matlab"
+    ],
+    "achievements": null,
+    "summary": "I am a last year student at Mines de Nancy in the Energy department. I am interested in everything related to energy, life cycle assessment or electricity.",
+    "objective": null
+}

@@ -1,0 +1,79 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "mohammed.alsharif@outlook.com"
+        ],
+        "phones": [
+            "+966-500-000-000"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Bachelor of Science in Computer Science",
+            "field_of_study": "Computer Science",
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "gpa": null
+        },
+        {
+            "institution": null,
+            "degree": "Diploma in Information Technology",
+            "field_of_study": "Information Technology",
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Alsharif IT Solutions",
+            "location": "Riyadh, Saudi Arabia",
+            "start_date": "2010-01-01",
+            "end_date": "2015-12-31",
+            "description": [
+                "IT Support Specialist"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Saudi Aramco",
+            "location": "Dhahran, Saudi Arabia",
+            "start_date": "2016-01-01",
+            "end_date": "2020-12-31",
+            "description": [
+                "IT Support Specialist"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "Troubleshooting (Advanced)",
+        "Technical Support (Experienced)",
+        "Virus Removal",
+        "Hardware Setup"
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "Fluent"
+        },
+        {
+            "name": "Arabic",
+            "proficiency": "Native"
+        }
+    ],
+    "certifications": null,
+    "achievements": null
+}

@@ -1,0 +1,102 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Valentin Michel",
+            "confidence": {
+                "value": 1.0,
+                "reason": null
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "va.michel@edu.hybria.fr",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33781921909",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {}
+    },
+    "sections": {
+        "summary": [
+            {
+                "value": "Student in 3rd year of Business Engineering, available for an internship from August 1st.",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "education": [
+            {
+                "value": "Baccalaureate in Engineering Sciences, Physics-Chemistry Option",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "experience": [
+            {
+                "value": "Internship at Leclerc Drive",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "skills": [
+            {
+                "value": "English: Level B1",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "German: Level B1",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ],
+        "interests": [
+            {
+                "value": "Aeromodelling (9 years in a club with aeroplane competition), racing drone (FPV)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Paragliding (27 flights)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": null
+                },
+                "raw_text": null
+            }
+        ]
+    },
+    "extracted_text": "Valentin Michel, va.michel@edu.hybria.fr, +33 7 81 92 19 09"
+}

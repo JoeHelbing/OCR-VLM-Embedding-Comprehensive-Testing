@@ -1,0 +1,68 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "julien.perrin@etu.univ-lille.fr"
+        ],
+        "phones": [],
+        "locations": [],
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master of Science in Computer Science",
+            "field_of_study": "Computer Science",
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Ecole Centrale de Lille, France",
+            "location": "Lille, France",
+            "start_date": "2021-09-01",
+            "end_date": "2022-06-30",
+            "description": [
+                "Online Course in Project Management"
+            ],
+            "technologies": []
+        }
+    ],
+    "projects": [
+        {
+            "name": "Personal Projects",
+            "description": [
+                "Real-Time Depth Estimation with Monocular Camera. Applied MiDaS to the depth estimation of a room.",
+                "Vehicle Recognition for Smart Cities. Employed YOLOv8 and ByteTrack models to enhance traffic management."
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": []
+        },
+        {
+            "name": "Data Challenges & AI Hackathons",
+            "description": [
+                "Hitcathon 4th edition, Hi Paris: Won Capgemini's Best Scientific Approach Award.",
+                "Real Estate Price Prediction (Multi-Modal: Images + Tables), ENS Data Challenge, 2022. Ranked 9th out of 172 participants."
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": []
+        }
+    ],
+    "skills": [],
+    "languages": null,
+    "certifications": [
+        "Introductory Aeronautics Certificate, Lycée Kléber, Strasbourg"
+    ],
+    "achievements": null
+}

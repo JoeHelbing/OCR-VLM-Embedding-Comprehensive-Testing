@@ -1,0 +1,291 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Amaury Cyffers",
+            "confidence": {
+                "value": 0.9,
+                "reason": "Name is clearly visible"
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "amaury.cyffers@ece-france.com",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": "Email address is clearly visible and in a standard format"
+                },
+                "raw_text": null
+            }
+        ],
+        "phones": [
+            {
+                "value": "+3373859746",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "Phone number is clearly visible and in a standard format"
+                },
+                "raw_text": null
+            },
+            {
+                "value": "Lyon 69000, France",
+                "confidence": {
+                    "value": 0.4,
+                    "reason": "Address is clearly visible and in a standard format"
+                },
+                "raw_text": null
+            }
+        ],
+        "location": {
+            "city": {
+                "value": "Lyon",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "City name is clearly visible"
+                },
+                "raw_text": null
+            },
+            "country": {
+                "value": "France",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Country name is clearly visible"
+                },
+                "raw_text": null
+            }
+        }
+    },
+    "sections": {
+        "education": [
+            {
+                "value": "Bachelor in Business Administration",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Degree title is clearly visible and in a standard format"
+                },
+                "raw_text": "2022-2026 Bachelor in Business Administration, year 2 out of 4 INSEEC BBA - Lyon, France"
+            },
+            {
+                "value": "INSEEC BBA",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "School name is clearly visible and in a standard format"
+                },
+                "raw_text": "2022-2026 Bachelor in Business Administration, year 2 out of 4 INSEEC BBA - Lyon, France"
+            },
+            {
+                "value": "Lyon",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "City name is clearly visible and in a standard format"
+                },
+                "raw_text": "2022-2026 Bachelor in Business Administration, year 2 out of 4 INSEEC BBA - Lyon, France"
+            },
+            {
+                "value": "France",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Country name is clearly visible and in a standard format"
+                },
+                "raw_text": "2022-2026 Bachelor in Business Administration, year 2 out of 4 INSEEC BBA - Lyon, France"
+            }
+        ],
+        "experience": [
+            {
+                "value": "Multi-skilled cook, Waiter, Part-time permanent contract",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Job title is clearly visible and in a standard format"
+                },
+                "raw_text": "Sep 2022 - Present Multi-skilled cook, Waiter, Part-time permanent contract Restaurant Rachid Dupont - Lyon 69006, France"
+            },
+            {
+                "value": "Restaurant Rachid Dupont",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Company name is clearly visible and in a standard format"
+                },
+                "raw_text": "Sep 2022 - Present Multi-skilled cook, Waiter, Part-time permanent contract Restaurant Rachid Dupont - Lyon 69006, France"
+            },
+            {
+                "value": "Lyon",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "City name is clearly visible and in a standard format"
+                },
+                "raw_text": "Sep 2022 - Present Multi-skilled cook, Waiter, Part-time permanent contract Restaurant Rachid Dupont - Lyon 69006, France"
+            },
+            {
+                "value": "France",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Country name is clearly visible and in a standard format"
+                },
+                "raw_text": "Sep 2022 - Present Multi-skilled cook, Waiter, Part-time permanent contract Restaurant Rachid Dupont - Lyon 69006, France"
+            }
+        ],
+        "skills": [
+            {
+                "value": "TOEFL - 80",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Skill is clearly visible and in a standard format"
+                },
+                "raw_text": "Office 365 - Intermediate level, with an affinity for Excel IT-B24 grade on PIX platform"
+            },
+            {
+                "value": "Office 365",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Skill is clearly visible and in a standard format"
+                },
+                "raw_text": "Office 365 - Intermediate level, with an affinity for Excel IT-B24 grade on PIX platform"
+            },
+            {
+                "value": "Intermediate level",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Skill is clearly visible and in a standard format"
+                },
+                "raw_text": "Office 365 - Intermediate level, with an affinity for Excel IT-B24 grade on PIX platform"
+            },
+            {
+                "value": "with an affinity for Excel",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Skill is clearly visible and in a standard format"
+                },
+                "raw_text": "Office 365 - Intermediate level, with an affinity for Excel IT-B24 grade on PIX platform"
+            },
+            {
+                "value": "IT-B24 grade on PIX platform",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Skill is clearly visible and in a standard format"
+                },
+                "raw_text": "Office 365 - Intermediate level, with an affinity for Excel IT-B24 grade on PIX platform"
+            }
+        ],
+        "languages": [
+            {
+                "value": "French, native language",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Language is clearly visible and in a standard format"
+                },
+                "raw_text": "French, native language English, intermediate level (C1) Spanish, in progress (B2) Mandarin, basic knowledge"
+            },
+            {
+                "value": "English, intermediate level (C1)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Language is clearly visible and in a standard format"
+                },
+                "raw_text": "French, native language English, intermediate level (C1) Spanish, in progress (B2) Mandarin, basic knowledge"
+            },
+            {
+                "value": "Spanish, in progress (B2)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Language is clearly visible and in a standard format"
+                },
+                "raw_text": "French, native language English, intermediate level (C1) Spanish, in progress (B2) Mandarin, basic knowledge"
+            },
+            {
+                "value": "Mandarin, basic knowledge",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Language is clearly visible and in a standard format"
+                },
+                "raw_text": "French, native language English, intermediate level (C1) Spanish, in progress (B2) Mandarin, basic knowledge"
+            }
+        ],
+        "hobbies": [
+            {
+                "value": "Competitive handball at the regional level",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Hobby is clearly visible and in a standard format"
+                },
+                "raw_text": "Competitive handball at the regional level Water polo (1 year) Running (participation in the X-Terra Tahiti Trail 2022)"
+            },
+            {
+                "value": "Water polo",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Hobby is clearly visible and in a standard format"
+                },
+                "raw_text": "Competitive handball at the regional level Water polo (1 year) Running (participation in the X-Terra Tahiti Trail 2022)"
+            },
+            {
+                "value": "Running",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Hobby is clearly visible and in a standard format"
+                },
+                "raw_text": "Competitive handball at the regional level Water polo (1 year) Running (participation in the X-Terra Tahiti Trail 2022)"
+            }
+        ],
+        "charity": [
+            {
+                "value": "President of the UNICEF chapter",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Charity is clearly visible and in a standard format"
+                },
+                "raw_text": "Organized the INSEEC Race for Children of Madagascar Morocco and in 2022 and 2023, and junior Olympians in 2024 Effective budget management to orchestrate these events while adhering to financial constraints set by the school"
+            },
+            {
+                "value": "Organized the INSEEC Race for Children of Madagascar Morocco and in 2022 and 2023, and junior Olympians in 2024",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Charity is clearly visible and in a standard format"
+                },
+                "raw_text": "Organized the INSEEC Race for Children of Madagascar Morocco and in 2022 and 2023, and junior Olympians in 2024 Effective budget management to orchestrate these events while adhering to financial constraints set by the school"
+            },
+            {
+                "value": "Effective budget management",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Charity is clearly visible and in a standard format"
+                },
+                "raw_text": "Organized the INSEEC Race for Children of Madagascar Morocco and in 2022 and 2023, and junior Olympians in 2024 Effective budget management to orchestrate these events while adhering to financial constraints set by the school"
+            },
+            {
+                "value": "to orchestrate these events while adhering to financial constraints set by the school",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Charity is clearly visible and in a standard format"
+                },
+                "raw_text": "Organized the INSEEC Race for Children of Madagascar Morocco and in 2022 and 2023, and junior Olympians in 2024 Effective budget management to orchestrate these events while adhering to financial constraints set by the school"
+            }
+        ],
+        "sports": [
+            {
+                "value": "Competitive handball at the regional level",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Sport is clearly visible and in a standard format"
+                },
+                "raw_text": "Competitive handball at the regional level Water polo (1 year) Running (participation in the X-Terra Tahiti Trail 2022)"
+            },
+            {
+                "value": "Water polo",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Sport is clearly visible and in a standard format"
+                },
+                "raw_text": "Competitive handball at the regional level Water polo (1 year) Running (participation in the X-Terra Tahiti Trail 2022)"
+            },
+            {
+                "value": "Running",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Sport is clearly visible and in a standard format"
+                },
+                "raw_text": "Competitive handball at the regional level Water polo (1 year) Running (participation in the X-Terra Tahiti Trail 2022)"
+            }
+        ]
+    },
+    "extracted_text": null
+}

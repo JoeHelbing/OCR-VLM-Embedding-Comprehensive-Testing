@@ -1,0 +1,127 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "Aissam.debbache@gmail.com"
+        ],
+        "phones": [
+            "+213663083377",
+            "+213542050451"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master HR",
+            "field_of_study": "Mohamed Boudiaf University, M'sila",
+            "location": null,
+            "start_date": "2023",
+            "end_date": null,
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "SIDEM Spa",
+            "location": "Welding and NDT Inspector",
+            "start_date": "May 2023 - today",
+            "end_date": null,
+            "description": [
+                "Sonatrach representative, Supervisor of welding and CND works."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "SARPI SPA",
+            "location": "NDT and Welding Inspector",
+            "start_date": "October 2021 - May 2023",
+            "end_date": null,
+            "description": [
+                "Monitored welding and NDT activities and managed the NDT department and radiography team."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "MULTITRADE SPA",
+            "location": "Expert Engineer",
+            "start_date": "November 2021 - March 2022",
+            "end_date": null,
+            "description": [
+                "Supervised the manufacturing of boiler elements with a Chinese manufacturer."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "INSPECTION POWER SPA",
+            "location": "QAQC Engineer in Welding and NDT",
+            "start_date": "October 2019 - December 2020",
+            "end_date": null,
+            "description": [
+                "Monitored and supervised welding, piping, and NDT activities."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "IDOM SPA",
+            "location": "DRI Process Piping and Welding Inspector",
+            "start_date": "December 2017 - September 2019",
+            "end_date": null,
+            "description": [
+                "Monitored and supervised welding, piping, and NDT activities."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "VINGOTTE INTERNATIONAL SPA",
+            "location": "NDT Inspector, Welding and Coating",
+            "start_date": "October 2016 - November 2017",
+            "end_date": null,
+            "description": [
+                "Monitored and supervised welding, coating, and NDT activities."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "SAFIR SPA",
+            "location": "Controller Receiving Pipe 22 and 24 inches",
+            "start_date": "December 2015 - September 2016",
+            "end_date": null,
+            "description": [
+                "Monitored and received the production of pipe 22 and 24 inches."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "TARSI SPA GROUP ENCC",
+            "location": "Head of Technical Welding Department",
+            "start_date": "October 2014 - November 2015",
+            "end_date": null,
+            "description": [
+                "Managed the NDT and welding service."
+            ],
+            "technologies": []
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "Welding",
+        "NDT",
+        "Coating"
+    ],
+    "languages": null,
+    "certifications": null,
+    "achievements": null
+}

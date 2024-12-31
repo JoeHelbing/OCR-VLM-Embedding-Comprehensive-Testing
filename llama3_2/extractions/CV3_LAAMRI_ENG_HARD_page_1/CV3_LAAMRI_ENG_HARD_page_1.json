@@ -1,0 +1,44 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master of Engineering Degree",
+            "field_of_study": "Applied Mathematics",
+            "location": null,
+            "start_date": "September 2021",
+            "end_date": "September 2025"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Ecole des Mines de Nancy, France",
+            "location": "Nancy, France",
+            "start_date": "September 2021",
+            "end_date": "September 2025",
+            "description": "Master of Engineering Degree in Applied Mathematics"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Python",
+        "C",
+        "R",
+        "CamL",
+        "VBA",
+        "Latex",
+        "SQL",
+        "Pandas",
+        "Tensorflow",
+        "Keras",
+        "Scikit-Learn",
+        "PowerBI",
+        "SAP"
+    ],
+    "achievements": [],
+    "summary": null,
+    "objective": null
+}

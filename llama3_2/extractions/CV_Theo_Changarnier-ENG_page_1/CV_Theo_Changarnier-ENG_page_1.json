@@ -1,0 +1,25 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master of Engineering - Computer Science Specialisation",
+            "field_of_study": "Computer Science",
+            "location": null,
+            "start_date": "2020-09-01",
+            "end_date": "2025-08-31"
+        }
+    ],
+    "experience": null,
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Network Administration: CISCO Certification - CCNA1",
+        "Web Development: HTML5, CSS, MySQL",
+        "Advanced Algorithms Database and Big Data"
+    ],
+    "achievements": null,
+    "summary": null,
+    "objective": null
+}

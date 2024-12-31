@@ -1,0 +1,58 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "va.michel@edu.hybria.fr"
+        ],
+        "phones": [
+            "07.81.92.19.09"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Baccalaureate",
+            "field_of_study": "Engineering Sciences",
+            "location": null,
+            "start_date": "June 2020",
+            "end_date": "June 2020",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Lycée La Martinière Duchère, Lyon",
+            "location": "Lyon, France",
+            "start_date": "June 2017",
+            "end_date": "June 2020",
+            "description": null,
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Burger King",
+            "location": "Limonest, France",
+            "start_date": "July 2020",
+            "end_date": "August 2020",
+            "description": null,
+            "technologies": null
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "Aeromodelling (9 years in club with aerobatic plane competition), racing drone (FPV)",
+        "Paragliding (27 flights)",
+        "Tennis (competition level)",
+        "Football",
+        "Bodybuilding"
+    ],
+    "languages": null,
+    "certifications": [],
+    "achievements": []
+}

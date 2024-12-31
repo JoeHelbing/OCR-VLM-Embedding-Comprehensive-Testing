@@ -1,0 +1,66 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [],
+        "phones": [],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Internship as a factory operator at Tell Systems, Maulévrier, France",
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "description": [
+                "Manufacture of aluminum parts, PVC, etc. by turning and milling",
+                "Deburring and quality control of parts",
+                "Gained rigour and efficiency while being introduced to the industry world and its organization"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "Summer job as a farm labourer Saint Mars La Reorthe, France",
+            "location": null,
+            "start_date": null,
+            "end_date": null,
+            "description": [
+                "Picking up duck eggs and inseminating female ducks",
+                "Introduction to the world of work and its requirements"
+            ],
+            "technologies": []
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "Knowledge of first aid procedures",
+        "SST in 2022 (Health and safety at work certification)",
+        "PSC1 in 2019 (First aid, Basic Life Supports, CardioPulmonary Resuscitation, Automated External Defibrillator certification)"
+    ],
+    "languages": [
+        {
+            "name": "French",
+            "proficiency": "Native"
+        },
+        {
+            "name": "English",
+            "proficiency": "Fluent"
+        },
+        {
+            "name": "Spanish",
+            "proficiency": "Intermediate"
+        },
+        {
+            "name": "Portuguese",
+            "proficiency": "Basic"
+        }
+    ],
+    "certifications": [],
+    "achievements": null
+}

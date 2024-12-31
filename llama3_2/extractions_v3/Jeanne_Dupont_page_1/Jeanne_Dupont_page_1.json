@@ -1,0 +1,67 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "jeanne.dupont@etu.univ-lorraine.fr"
+        ],
+        "phones": [
+            "+33 654453322"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Mines Nancy, national French school of Engineering",
+            "field_of_study": "French national diploma equivalent to a Master's degree",
+            "location": null,
+            "start_date": "2017-2021",
+            "end_date": null,
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Client Manager, Paralympic Accreditation Coordinator, Rio Organizing Committee of the Olympic Games and Paralympic Games (ROCOG)",
+            "location": "Rio de Janeiro, Brazil",
+            "start_date": "June 2019 - September 2019",
+            "end_date": null,
+            "description": [
+                "Client Manager, Paralympic Accreditation Coordinator, Rio Organizing Committee of the Olympic Games and Paralympic Games (ROCOG), Rio de Janeiro, Brazil. June - September 2019."
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Client Manager, Paralympic Accreditation Coordinator, Rio Organizing Committee of the Olympic Games and Paralympic Games (ROCOG)",
+            "location": "Rio de Janeiro, Brazil",
+            "start_date": "June 2019 - September 2019",
+            "end_date": null,
+            "description": [
+                "Client Manager, Paralympic Accreditation Coordinator, Rio Organizing Committee of the Olympic Games and Paralympic Games (ROCOG), Rio de Janeiro, Brazil. June - September 2019."
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": [
+        {
+            "name": "Baccalaureat Scientifique et Europeen",
+            "description": [
+                "French equivalent of Advanced Levels/High School Leaving Diploma specialized in Maths, Physics, Chemistry and European Languages, certain subjects studied in Spanish."
+            ],
+            "link": null,
+            "start_date": "2015",
+            "end_date": null,
+            "technologies": null
+        }
+    ],
+    "skills": null,
+    "languages": null,
+    "certifications": null,
+    "achievements": null
+}

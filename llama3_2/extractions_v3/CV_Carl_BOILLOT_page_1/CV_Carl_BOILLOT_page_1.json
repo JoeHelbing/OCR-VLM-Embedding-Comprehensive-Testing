@@ -1,0 +1,71 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "carlboillot@orange.fr"
+        ],
+        "phones": [
+            "+33 6 58 69 04 63"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "ENGINEER MINES DE NANCY CURRICULUM - MSc EQUIVALENT",
+            "field_of_study": "Applied Mathematics department course work",
+            "location": null,
+            "start_date": "2021-01-01",
+            "end_date": null,
+            "gpa": null
+        },
+        {
+            "institution": null,
+            "degree": "LYCEE HENRI POINCARE",
+            "field_of_study": "Preparatory Coursework for Engineering Schools - BSc Equivalent",
+            "location": null,
+            "start_date": "2019-09-01",
+            "end_date": "2021-06-30",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "SpringFive",
+            "location": "Issy les Moulineaux, France",
+            "start_date": "July 2023 - December 2023",
+            "end_date": null,
+            "description": [
+                "Implementation of a Salesforce #1 CRM worldwide solution for a leading technology communication company in Europe"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "Sopil SA",
+            "location": "Pirey, France",
+            "start_date": "July 2022 - February 2023",
+            "end_date": null,
+            "description": [
+                "Assistance with handling, packaging, and quality control"
+            ],
+            "technologies": []
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "Programming Languages: Python, Matlab, R, SQL, VBA",
+        "Machine Learning & Deep Learning: Keras, TensorFlow, Scikit-Learn, Pandas, Matplotlib",
+        "Salesforce: Configuration, Development, Process Automation, Project Management",
+        "Tools: Office Pack, Adobe Suite (Premiere Pro, Photoshop, After Effects)",
+        "Linguistic Skills: French (native), English (confirmed), Spanish (intermediate)"
+    ],
+    "languages": null,
+    "certifications": [],
+    "achievements": null
+}

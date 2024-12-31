@@ -1,0 +1,178 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Anis-Samy LAAMRI",
+            "confidence": {
+                "value": 0.9,
+                "reason": "Name is clear and well-formatted"
+            },
+            "raw_text": "Anis-Samy LAAMRI"
+        },
+        "emails": [
+            {
+                "value": "a.laamri@outlook.fr",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": "Email address is clearly visible"
+                },
+                "raw_text": "a.laamri@outlook.fr"
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33609862103",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "Phone number is clearly visible"
+                },
+                "raw_text": "+33 6 09 86 21 03"
+            }
+        ],
+        "location": {}
+    },
+    "sections": {
+        "education": [
+            {
+                "value": "Ecole des Mines de Nancy",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "University name is clear and well-formatted"
+                },
+                "raw_text": "Ecole des Mines de Nancy"
+            },
+            {
+                "value": "M.S in Applied Mathematics and Industrial Engineering",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Degree title is clear and well-formatted"
+                },
+                "raw_text": "M.S in Applied Mathematics and Industrial Engineering"
+            }
+        ],
+        "COURSEWORK": [
+            {
+                "value": "Data Analysis,Databases ,Data Structures & Algorithms, Deep Learning, Machine Learning, Modelization & Times Series, Operational Research, Statistics",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Coursework list is clear and well-formatted"
+                },
+                "raw_text": "Data Analysis,Databases ,Data Structures & Algorithms, Deep Learning, Machine Learning, Modelization & Times Series, Operational Research, Statistics"
+            }
+        ],
+        "UNIVERSITE DE LORRAINE": [
+            {
+                "value": "B.S in Mathematics",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Degree title is clear and well-formatted"
+                },
+                "raw_text": "B.S in Mathematics"
+            },
+            {
+                "value": "September 2019 - June 2021",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Date range is clear and well-formatted"
+                },
+                "raw_text": "September 2019 - June 2021"
+            }
+        ],
+        "skills": [
+            {
+                "value": "Calculus, Complex & Real Analysis, Computer Science, Linear & Bilinear Algebra, Probabilities",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Skill list is clear and well-formatted"
+                },
+                "raw_text": "Calculus, Complex & Real Analysis, Computer Science, Linear & Bilinear Algebra, Probabilities"
+            }
+        ],
+        "LANGUAGES": [
+            {
+                "value": "Python, C, R, VBA, CamL, SQL, Matlab, LaTeX",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Language list is clear and well-formatted"
+                },
+                "raw_text": "Python, C, R, VBA, CamL, SQL, Matlab, LaTeX"
+            }
+        ],
+        "TOOLS": [
+            {
+                "value": "Excel, Power BI, Jupyter, Keras, Pytorch, Scikit-Learn, SAP",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Tool list is clear and well-formatted"
+                },
+                "raw_text": "Excel, Power BI, Jupyter, Keras, Pytorch, Scikit-Learn, SAP"
+            }
+        ],
+        "SPOKEN LANGUAGES": [
+            {
+                "value": "French (Native) | English (Fluent : C1 Cambridge Advanced Certification)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Language proficiency list is clear and well-formatted"
+                },
+                "raw_text": "French (Native) | English (Fluent : C1 Cambridge Advanced Certification)"
+            }
+        ],
+        "experience": [
+            {
+                "value": "Givenchy | Warehouse Engineer",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": "Company name is clear but not well-formatted"
+                },
+                "raw_text": "Givenchy | Warehouse Engineer"
+            },
+            {
+                "value": "September 2023 - February 2024",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Date range is clear and well-formatted"
+                },
+                "raw_text": "September 2023 - February 2024"
+            }
+        ],
+        "LOUIS VUITTON | Logistics Operator": [
+            {
+                "value": "January 2022 - February 2022",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Date range is clear and well-formatted"
+                },
+                "raw_text": "January 2022 - February 2022"
+            }
+        ],
+        "RESEARCH PROJECT": [
+            {
+                "value": "Institut Elie Cartan de Lorraine",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "Research institution name is clear but not well-formatted"
+                },
+                "raw_text": "Institut Elie Cartan de Lorraine"
+            },
+            {
+                "value": "September 2022 - June 2023",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Date range is clear and well-formatted"
+                },
+                "raw_text": "September 2022 - June 2023"
+            }
+        ],
+        "STUDENT-SCIENTIST | Fondation Main à la Pate": [
+            {
+                "value": "September 2021 - June 2022",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "Date range is clear and well-formatted"
+                },
+                "raw_text": "September 2021 - June 2022"
+            }
+        ]
+    },
+    "extracted_text": "Anis-Samy LAAMRI +33 6 09 86 21 03 a.laamri@outlook.fr"
+}

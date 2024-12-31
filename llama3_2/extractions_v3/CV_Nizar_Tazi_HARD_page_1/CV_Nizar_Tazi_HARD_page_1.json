@@ -1,0 +1,125 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "Nizar.tazi@hotmail.fr"
+        ],
+        "phones": [
+            "+32 4 77 65 35 71"
+        ],
+        "locations": [
+            "Brussels 1030, Belgium"
+        ],
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master",
+            "field_of_study": "Machine Learning for Data Science",
+            "location": null,
+            "start_date": "2021-09",
+            "end_date": "2022-06",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "ARHS Developments",
+            "location": "Zaventem, Belgium",
+            "start_date": "June 2023 - 2024",
+            "end_date": null,
+            "description": [
+                "Collaborated with cross-functional teams to develop data-driven solutions for business problems in the financial and legal sectors.",
+                "Analyzed extensive datasets to create predictive models and extract actionable insights, revealing valuable trends and patterns within the data.",
+                "Conducted Dataiku training sessions for member states, focusing on data preprocessing, modeling, and deployment techniques.",
+                "Developed automation scripts and scenario analyses using Python and SQL to optimize workflow performance.",
+                "Implemented MLops techniques, including model monitoring and version control, utilizing tools like MLflow."
+            ],
+            "technologies": [
+                "Python",
+                "SQL"
+            ]
+        },
+        {
+            "job_title": null,
+            "company": "Sanofi",
+            "location": "Gentilly, Ile-de-France, France",
+            "start_date": "April 2022 - November 2022",
+            "end_date": null,
+            "description": [
+                "Produced market performance reports and ad-hoc analysis using CRM and market data.",
+                "Performed industrialization and updated data related to oncology and duplent product insights.",
+                "Assisted in harmonizing workflows and algorithms to develop predictive models for business needs."
+            ],
+            "technologies": [
+                "CRM",
+                "Market Data"
+            ]
+        },
+        {
+            "job_title": null,
+            "company": "Khamssat.com",
+            "location": "France",
+            "start_date": "April 2020 - June 2020",
+            "end_date": null,
+            "description": [
+                "Created a tool to extract information from shopping websites using Data Scraping libraries.",
+                "Developed a web interface with Django, including disease prediction by symptoms, based on real data trained with Machine Learning algorithms."
+            ],
+            "technologies": [
+                "Django",
+                "Data Scraping Libraries"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Optimization of the MABED application using real-time streams from Twitter social network.",
+            "description": [
+                "Graduation project: Optimization of the MABED application using real-time streams from Twitter social network."
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": [
+                "Twitter Social Network",
+                "Real-Time Streams"
+            ]
+        },
+        {
+            "name": "Development of an e-commerce website using Laravel as the main back-end technology.",
+            "description": [
+                "Graduation project: Development of an e-commerce website using Laravel as the main back-end technology."
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": [
+                "Laravel",
+                "Back-End Technology"
+            ]
+        }
+    ],
+    "skills": [
+        "Machine Learning / Deep Learning",
+        "Data Processing",
+        "Programming Languages / Web Development"
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "Basic"
+        },
+        {
+            "name": "French",
+            "proficiency": "Basic"
+        }
+    ],
+    "certifications": null,
+    "achievements": null
+}

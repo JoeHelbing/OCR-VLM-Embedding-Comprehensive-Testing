@@ -1,0 +1,59 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Bachelor of Computer and Information Systems",
+            "field_of_study": "Computer Science",
+            "location": null,
+            "start_date": "2015-01-01",
+            "end_date": "2019-06-30"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "WE Company",
+            "location": "Assiut, Egypt",
+            "start_date": "May 19 - Feb 22",
+            "end_date": null,
+            "description": "Provided technical assistance to customers over the phone and email. Efficiently resolved customer inquiries and troubleshooted technical issues."
+        },
+        {
+            "job_title": null,
+            "company": "International Company for Medical Supplies",
+            "location": "Assiut, Egypt",
+            "start_date": "Feb 22 - Dec 23",
+            "end_date": null,
+            "description": "Designed, implemented, and maintained hardware, software, and network configurations. Troubleshooted system and network problems quickly and accurately."
+        }
+    ],
+    "projects": [
+        {
+            "name": "An Electronic Election Website",
+            "description": "Developed an electronic election website with voice authentication and secure user authentication. Met federal and state security standards.",
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": null
+        },
+        {
+            "name": "2D Graphic Design",
+            "description": "Created 2D graphic designs for various clients. Utilized Adobe Creative Suite to create visually appealing designs.",
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": null
+        }
+    ],
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Python",
+        "Java",
+        "C++"
+    ],
+    "achievements": null,
+    "summary": null,
+    "objective": "To obtain a challenging position in the field of computer science where I can utilize my skills and experience to contribute to the growth and success of the organization."
+}

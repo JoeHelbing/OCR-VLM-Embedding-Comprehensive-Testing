@@ -1,0 +1,59 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "palkin.dalal@hec.edu"
+        ],
+        "phones": [
+            "+33 0745119702"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Masters in Marketing",
+            "field_of_study": "Marketing",
+            "location": null,
+            "start_date": "2023-09-01",
+            "end_date": "2024-06-30",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "HEC Paris",
+            "location": "Paris, France",
+            "start_date": "2023-09-01",
+            "end_date": "2024-06-30",
+            "description": [
+                "Relevant coursework: Strategic Marketing Management, Short Content Marketing, Design Thinking"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "University of Delhi",
+            "location": "Delhi, India",
+            "start_date": "2019-08-01",
+            "end_date": "2022-07-31",
+            "description": [
+                "BSc Mathematics Honors (CGPA 9.13/10 - Graduated with Distinction)"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "English (Proficient)",
+        "French (Beginner)"
+    ],
+    "languages": null,
+    "certifications": [],
+    "achievements": []
+}

@@ -1,0 +1,76 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [],
+        "phones": [],
+        "locations": [],
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Intern at the Delegation of the European Union to Ukraine",
+            "location": "Kyiv, Ukraine",
+            "start_date": "June - September 2018",
+            "end_date": "",
+            "description": [
+                "Part of Operations Section dealing with EU-funded projects in Good Governance and Democracy Building, working in the sphere of border management.",
+                "Assisted in project management, tendering, implementation, and evaluation phases, meeting and communicating with appropriate Ukrainian authorities (as needed).",
+                "Worked alongside local staff and personnel from various EU Member States to assist the authorities of Ukraine in improving its institutions.",
+                "Spoke Russian and English languages."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "AA European Call Centre",
+            "location": "ACTA, Lyon, France",
+            "start_date": "Summer 2017 - 2016-2015",
+            "end_date": "",
+            "description": [
+                "Assisted customers experiencing trouble with their vehicles while traveling abroad by organizing roadside assistance and making alternative travel arrangements and liaising with counterparts across Europe and mechanics on behalf of customers.",
+                "Combined multi-lingual communication and customer management skills, applying protocols and using modern communication technologies.",
+                "Part of the \"Prestige Team\" in 2017 for Aston Martin, Bentley, and Jaguar assistance, dealing with customers throughout Europe.",
+                "Spoke English as an official office language."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "Imperial College London",
+            "location": "London, UK",
+            "start_date": "",
+            "end_date": "",
+            "description": [
+                "Fluent in one academic year spent at Imperial College London, studying risk management.",
+                "Awarded IELTS CI (7.5 average/9) by the British Council in June 2018.",
+                "Spoke Spanish fluently.",
+                "Superior in Linguistic trips to Santa Maria, Seville, and Barcelona.",
+                "Awards: University of Cervantes, Salamanca, November 2018."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": null,
+            "company": "University of Cervantes",
+            "location": "Salamanca, Spain",
+            "start_date": "",
+            "end_date": "",
+            "description": [
+                "Awarded Superior in Linguistic trips to Santa Maria, Seville, and Barcelona.",
+                "Spoke German fluently.",
+                "Good working knowledge of linguistic trips to Mainz, Hof, and Stuttgart."
+            ],
+            "technologies": []
+        }
+    ],
+    "projects": null,
+    "skills": null,
+    "languages": null,
+    "certifications": null,
+    "achievements": null
+}

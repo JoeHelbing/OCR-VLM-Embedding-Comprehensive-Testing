@@ -1,0 +1,70 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "hugo.bonnand@neuf.fr"
+        ],
+        "phones": [
+            "+33 6 17 88 18 38"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Engineering Diploma at Master's degree level",
+            "field_of_study": "Energy Engineering",
+            "location": null,
+            "start_date": "2019/2021",
+            "end_date": null,
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "High School La Favorite Sainte-Thérèse - Lyon, FR",
+            "location": "Lyon, France",
+            "start_date": "2016/2019",
+            "end_date": null,
+            "description": [
+                "Project on the study of the operation of a hydroelectric power station"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Baccalaureate Scientific passed with distinction | 2019",
+            "location": "Lyon, France",
+            "start_date": "2016/2019",
+            "end_date": null,
+            "description": [
+                "French equivalent of Advanced levels / High School Leaving diploma specialized in Maths, Physics, Chemistry"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "Computer Languages: Python, Matlab, Rstudio, SQL",
+        "Software: Fluent, EazyBI, Adobe Illustrator, SolidWorks (bases), Fortran",
+        "MOOC Project Management (Gestion de Projet) - 2021",
+        "Aisance pour le travail en équipe (project, stages)"
+    ],
+    "languages": [
+        {
+            "name": "French",
+            "proficiency": "Native"
+        },
+        {
+            "name": "English",
+            "proficiency": "Fluent"
+        }
+    ],
+    "certifications": null,
+    "achievements": null
+}

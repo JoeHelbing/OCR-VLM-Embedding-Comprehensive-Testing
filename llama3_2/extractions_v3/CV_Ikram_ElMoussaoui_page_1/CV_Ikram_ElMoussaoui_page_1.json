@@ -1,0 +1,75 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "ikram1999elmoussaoui@gmail.com"
+        ],
+        "phones": [
+            "+33683937850"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Master of Complex Systems Engineering",
+            "field_of_study": "Bretagne Sud University - France",
+            "location": null,
+            "start_date": "Sept. 2021",
+            "end_date": "June 2024",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Continental Engineering Services",
+            "location": "Toulouse, France",
+            "start_date": "Sept. 2023",
+            "end_date": "Sept. 2024",
+            "description": [
+                "Embedded Systems Developer"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "Continental Engineering Services",
+            "location": "Toulouse, France",
+            "start_date": "Sept. 2021",
+            "end_date": "June 2024",
+            "description": [
+                "Thesis focusing on the development and integration of drivers on Nvidia SoCs for the operation of cameras for ADAS (Advanced Driver Assistance Systems)."
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "C/C++",
+        "Phyton",
+        "VHDL",
+        "Matlab",
+        "Assembly"
+    ],
+    "languages": [
+        {
+            "name": "French",
+            "proficiency": "Fluent"
+        },
+        {
+            "name": "English",
+            "proficiency": "Fluent"
+        },
+        {
+            "name": "Arabic",
+            "proficiency": "Native"
+        }
+    ],
+    "certifications": null,
+    "achievements": null
+}

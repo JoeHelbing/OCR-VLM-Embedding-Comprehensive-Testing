@@ -1,0 +1,52 @@
+{
+    "contacts": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Masters, Medicine",
+            "field_of_study": null,
+            "location": null,
+            "start_date": "2023-2025",
+            "end_date": null
+        },
+        {
+            "institution": null,
+            "degree": "Residency, Infectious diseases, adult including children",
+            "field_of_study": null,
+            "location": null,
+            "start_date": "2017-2019",
+            "end_date": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "Kazakh National Medical University named after S.Zh. Asfendiyarov",
+            "location": "Kazakhstan",
+            "start_date": "Sep 2023",
+            "end_date": null,
+            "description": "Teacher of Childhood Infectious Diseases Department"
+        },
+        {
+            "job_title": null,
+            "company": "City Clinical Hospital No.7",
+            "location": "Almaty, Kazakhstan",
+            "start_date": "Sep 2017",
+            "end_date": null,
+            "description": "Infectious Diseases Specialist"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "Diagnosed patients by evaluating their symptoms and determining their physical ailment",
+        "Prescribed appropriate medications based on patient's health conditions and medical history",
+        "Advised patients on compliance with their therapeutic regimen and avoidance of risk factors",
+        "Educated medical students on infectious disease topics in lectures, seminars, clinics, and wards",
+        "Communicated with patients, families, and team members through newsletters, roundtables, and professional seminars"
+    ],
+    "achievements": null,
+    "summary": "A highly skilled physician with expertise in infectious diseases, vaccinology, and public health. Accomplished educator and curriculum developer passionate about promoting collaborative learning and evidence-based decision-making. Dedicated to improving patient outcomes and promoting healthy behaviors through multidisciplinary collaboration and patient-centered care.",
+    "objective": null
+}

@@ -1,0 +1,76 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "Dahib.oumaima33@gmail.com"
+        ],
+        "phones": [
+            "+33753407816"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Master's student in Consulting and Change with a strong focus on developing strategic consulting skills and change management capabilities.",
+    "education": [
+        {
+            "institution": null,
+            "degree": "MASTERS IN CONSULTING",
+            "field_of_study": null,
+            "location": null,
+            "start_date": "2024/2025",
+            "end_date": null,
+            "gpa": null
+        },
+        {
+            "institution": null,
+            "degree": "BACHELORS IN BUSINESS & MANAGEMENT",
+            "field_of_study": null,
+            "location": null,
+            "start_date": "2023/2024",
+            "end_date": null,
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "INDITEX - ZARA",
+            "location": "Sales Assistant",
+            "start_date": "April 2023",
+            "end_date": "March 2024",
+            "description": null,
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "DECATHLON FRANCE",
+            "location": "Leader Sports / Sales Assistant",
+            "start_date": "December 2022",
+            "end_date": "March 2023",
+            "description": null,
+            "technologies": null
+        }
+    ],
+    "projects": null,
+    "skills": [
+        "Market Research",
+        "Problem-Solving",
+        "Client Management",
+        "Adaptability",
+        "Leadership"
+    ],
+    "languages": [
+        {
+            "name": "French",
+            "proficiency": "Basic"
+        },
+        {
+            "name": "English",
+            "proficiency": "Advanced"
+        }
+    ],
+    "certifications": null,
+    "achievements": null
+}

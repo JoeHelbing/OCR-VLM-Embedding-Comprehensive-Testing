@@ -1,0 +1,198 @@
+{
+    "contact": {
+        "full_name": {
+            "value": "Romain Trapp",
+            "confidence": {
+                "value": 1.0,
+                "reason": "clear and unambiguous"
+            },
+            "raw_text": null
+        },
+        "emails": [
+            {
+                "value": "+33.6.74.11.40.92",
+                "confidence": {
+                    "value": 0.5,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "+33.6.74.11.40.92"
+            },
+            {
+                "value": "romainl8trapp@gmail.com",
+                "confidence": {
+                    "value": 0.8,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "romain18trapp@gmail.com"
+            }
+        ],
+        "phones": [
+            {
+                "value": "+33674114092",
+                "confidence": {
+                    "value": 0.9,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "+33.6.74.11.40.92"
+            }
+        ],
+        "location": {
+            "city": {
+                "value": "Hagondange",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Hagondange"
+            },
+            "country": {
+                "value": "France",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "France"
+            }
+        }
+    },
+    "sections": {
+        "studies": [
+            {
+                "value": "Engineering student at Mines Nancy - French equivalent Master's Degree - Major in Energy (3.71 / 4 GPA) From 2022 - after a two-year undergraduate programme at Lycee Kleber in Strasbourg (France) prior to the highly selective entrance examination to prestigious French engineering schools - Nancy (France)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Engineering student at Mines Nancy - French equivalent Master's Degree - Major in Energy (3.71 / 4 GPA) From 2022 - after a two-year undergraduate programme at Lycee Kleber in Strasbourg (France) prior to the highly selective entrance examination to prestigious French engineering schools - Nancy (France)"
+            },
+            {
+                "value": "Key courses: Fluid Mechanics, Thermodynamics, Economics, Data Analysis, Deep Learning",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Key courses: Fluid Mechanics, Thermodynamics, Economics, Data Analysis, Deep Learning"
+            },
+            {
+                "value": "German-speaking section (History classes in German at SciencesPo Nancy, France)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "German-speaking section (History classes in German at SciencesPo Nancy, France)"
+            },
+            {
+                "value": "Project: Teaching science (solar system topic) to young children at a Franco-German primary school in Nancy, France (1 class per week)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Project: Teaching science (solar system topic) to young children at a Franco-German primary school in Nancy, France (1 class per week)"
+            },
+            {
+                "value": "Industrial project: A 4-person team with Fives Cryo (Cryogenics energy company, Vosges, France) \"Controlling radiative transfer\" (Heat transfer and computational methods)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Industrial project: A 4-person team with Fives Cryo (Cryogenics energy company, Vosges, France) \"Controlling radiative transfer\" (Heat transfer and computational methods)"
+            },
+            {
+                "value": "Professional experience",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Professional experience"
+            }
+        ],
+        "experience": [
+            {
+                "value": "Producer worker (training period) - Karl Schongen KG Kunststoff-Rohrsysteme February 2023 - Salzgitter (Germany)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Producer worker (training period) - Karl Schongen KG Kunststoff-Rohrsysteme February 2023 - Salzgitter (Germany)"
+            },
+            {
+                "value": "Plastic pipe production (400 pipes per day) and maintenance - Creation of a Health & Safety survey",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Plastic pipe production (400 pipes per day) and maintenance - Creation of a Health & Safety survey"
+            }
+        ],
+        "interests_and_society_involvement": [
+            {
+                "value": "Student delegate Mines Nancy (N22) - Mines Nancy From 2022 - Nancy (France)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Student delegate Mines Nancy (N22) - Mines Nancy From 2022 - Nancy (France)"
+            },
+            {
+                "value": "Participation in college committees - Link between the 170 students and the administration staff",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Participation in college committees - Link between the 170 students and the administration staff"
+            }
+        ],
+        "skills": [
+            {
+                "value": "French: Native speaker",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "French: Native speaker"
+            },
+            {
+                "value": "English: Level C1 - British Council IELTS 2024 Score 7.0 / 9.0 (Advanced User)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "English: Level C1 - British Council IELTS 2024 Score 7.0 / 9.0 (Advanced User)"
+            },
+            {
+                "value": "German: Level C1 - Sprachdiplom Goethe Institut 2023 (Advanced User)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "German: Level C1 - Sprachdiplom Goethe Institut 2023 (Advanced User)"
+            },
+            {
+                "value": "Software: Microsoft Office (Word, Excel, VBA), IT (Python, Matlab, R, FlexPDE)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Software: Microsoft Office (Word, Excel, VBA), IT (Python, Matlab, R, FlexPDE)"
+            },
+            {
+                "value": "Sport: Handball from 2010 (player with a club, T3 referee and team captain / coach of the Mines Nancy team)",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Sport: Handball from 2010 (player with a club, T3 referee and team captain / coach of the Mines Nancy team)"
+            },
+            {
+                "value": "Construction: Flat renovation (projects over 6 months - 1 year) / Repairing objects or furniture",
+                "confidence": {
+                    "value": 1.0,
+                    "reason": "clear and unambiguous"
+                },
+                "raw_text": "Construction: Flat renovation (projects over 6 months - 1 year) / Repairing objects or furniture"
+            }
+        ],
+        "unclear_text": []
+    },
+    "extracted_text": null
+}

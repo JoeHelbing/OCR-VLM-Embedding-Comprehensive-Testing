@@ -1,0 +1,35 @@
+{
+    "contacts": null,
+    "education": [],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "RTE",
+            "location": "Marseille",
+            "start_date": "2022/2025",
+            "end_date": "2028",
+            "description": "Apprentice engineer within the Performance Control Department in Marseille at RTE"
+        },
+        {
+            "job_title": null,
+            "company": "RTE",
+            "location": "Marseille",
+            "start_date": "2020/2022",
+            "end_date": "2023",
+            "description": "Data Configurator Technician, RTE (Electricity Transport Network)"
+        }
+    ],
+    "projects": null,
+    "certifications": null,
+    "languages": null,
+    "skills": [
+        "pack office",
+        "arduino",
+        "python",
+        "putty",
+        "code blocks"
+    ],
+    "achievements": null,
+    "summary": "Passionate about electrical engineering and design, I am looking for an internship abroad for a minimum duration of 9 weeks to validate my engineering diploma in Industrial Engineering at the CNAM in Avignon.",
+    "objective": null
+}

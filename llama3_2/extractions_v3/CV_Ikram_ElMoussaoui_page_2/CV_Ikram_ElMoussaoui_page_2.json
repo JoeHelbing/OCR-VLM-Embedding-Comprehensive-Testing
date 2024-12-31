@@ -1,0 +1,90 @@
+{
+    "contact": {
+        "full_name": null,
+        "emails": [
+            "johndoe@example.com"
+        ],
+        "phones": [
+            "+1234567890"
+        ],
+        "locations": null,
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "education": [
+        {
+            "institution": null,
+            "degree": "Bachelor of Science",
+            "field_of_study": "Computer Science",
+            "location": null,
+            "start_date": "2015-01-01",
+            "end_date": "2019-05-31",
+            "gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": null,
+            "company": "ABC Corporation",
+            "location": "New York, NY",
+            "start_date": "2020-06-01",
+            "end_date": null,
+            "description": [
+                "Developed a web application using React and Node.js"
+            ],
+            "technologies": null
+        },
+        {
+            "job_title": null,
+            "company": "XYZ Inc.",
+            "location": "San Francisco, CA",
+            "start_date": "2019-06-01",
+            "end_date": "2020-05-31",
+            "description": [
+                "Worked on a team to develop a mobile app using Swift and Java"
+            ],
+            "technologies": null
+        }
+    ],
+    "projects": [
+        {
+            "name": "Personal Project",
+            "description": [
+                "Built a personal website using HTML, CSS, and JavaScript"
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Group Project",
+            "description": [
+                "Contributed to a group project that developed a machine learning model using Python and TensorFlow"
+            ],
+            "link": null,
+            "start_date": null,
+            "end_date": null,
+            "technologies": [
+                "Python",
+                "TensorFlow"
+            ]
+        }
+    ],
+    "skills": [
+        "Programming languages: Java, C++, Python"
+    ],
+    "languages": null,
+    "certifications": [
+        "Certified Scrum Master (CSM)"
+    ],
+    "achievements": [
+        "Recipient of the ABC Corporation Innovation Award"
+    ]
+}
